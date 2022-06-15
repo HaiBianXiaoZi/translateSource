@@ -1,0 +1,109 @@
+{
+	"fileName":"MISSION_EXPLAIN.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"f0",
+			"length":176,
+			"jpn":"冒険者として世界樹の迷宮を探索するには{换行}アルカディア評議会に認められる必要がある。{换行}そのためには、世界樹の迷宮に入り１階の地図を作成し、{换行}世界樹の根と土壌を持ち帰りたまえ！{换行}{END}",
+			"eng":"To explore Yggdrasil, you need the Arcania Council’s {换行}approval． For that, create a map of １F and bring back{换行}Yggdrasil root and soil samples．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1a0",
+			"length":194,
+			"jpn":"第一階層の先はゴーレムの群れが行く手を阻んでいる。{换行}どうやらルナリア族が張った結界が関係しているらしい。{换行}ゴーレムを退け先への道を切り開くために、ルナリア族の{换行}魔法結界を解除してもらいたい。{换行}{END}",
+			"eng":"A horde of golems blocks the way out of the{换行}Tutelary Forest． Clear the path to the ２nd{换行}Stratum by disabling their magical barriers．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"262",
+			"length":198,
+			"jpn":"第二階層で目撃されている強大な巨象、オリファント。{换行}オリファントとの戦闘を避けて樹海を進むことのできるルート{换行}を探してほしい。そのためにはまずオリファントの生息地域に{换行}ついて調査する必要がある。{换行}{END}",
+			"eng":"A hulking elephant known as the Primordiphant has{换行}been spotted on the ２nd Stratum． Investigate the{换行}area and find a safe route to the next floor．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"328",
+			"length":116,
+			"jpn":"評議会に達人としての認可を受けるためには、{换行}第二階層の最後に待ち受けている魔獣ヒポグリフを{换行}征伐する必要がある。{换行}{END}",
+			"eng":"Pass the Council’s Master Exam by slaying the{换行}Hippogryph nesting at the end of the ２nd Stratum．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"39c",
+			"length":134,
+			"jpn":"数百年前に大戦で活躍したアースランの騎士の武具が{换行}１２階にあるという。歴史に名を残した英雄の遺品…。{换行}なんとしても集めて頂きたい。{换行}{END}",
+			"eng":"Equipment belonging to a legendary Earthlain dragoon{换行}is rumored to be somewhere on １２F． Find his effects{换行}and bring them back to the Council at any cost．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"422",
+			"length":198,
+			"jpn":"二人組の冒険者ソロルとリリ。今、その片割れである{换行}リリが行方知れずとなってしまっている。幾度も街のために{换行}尽力してくれた彼女たちに報いるため、戦いにおいて{换行}無力な我々の代わりに力になってほしい。{换行}{END}",
+			"eng":"Solor’s adventuring partner, Lili, has gone missing．{换行}The city owes them both a great debt． Please help{换行}Solor find Lili and help the pair in any way you can．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"4e8",
+			"length":198,
+			"jpn":"君たちが樹海で遭遇した謎の少女の話によれば、{换行}第四階層には水晶竜と呼ばれる危険な魔物がいるらしい。{换行}少女の言葉が嘘か真か見極めるためにもその魔物の存在を{换行}明らかにし、真であるなら排除して欲しい。{换行}{END}",
+			"eng":"The mysterious girl you met in the labyrinth claims{换行}there’s a Crystal Dragon lurking within the ４th Stratum．{换行}Please verify its existence and, if there, eliminate it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"5ae",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"5b8",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"5c2",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"5cc",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"5d6",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"5e0",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		}
+	]
+}

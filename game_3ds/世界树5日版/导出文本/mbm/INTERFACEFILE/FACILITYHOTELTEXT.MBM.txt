@@ -1,0 +1,253 @@
+{
+	"fileName":"FACILITYHOTELTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"210",
+			"length":10,
+			"jpn":"ダミー{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"21a",
+			"length":46,
+			"jpn":"宿屋に泊ることで{换行}ＨＰ・ＴＰが全回復します{换行}{END}",
+			"eng":"Sleep at the inn to recover{换行}HP and TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"248",
+			"length":62,
+			"jpn":"傷付いたパーティメンバーの治療や{换行}状態異常の回復ができます{换行}{END}",
+			"eng":"Heal party members’ ailments{换行}or revive them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"286",
+			"length":26,
+			"jpn":"宿屋の店員と話をします{换行}{END}",
+			"eng":"Talk to the innkeeper．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"2a0",
+			"length":30,
+			"jpn":"これまでの冒険を記録します{换行}{END}",
+			"eng":"Save your game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"2be",
+			"length":18,
+			"jpn":"広場へ戻ります{换行}{END}",
+			"eng":"Return to the town square．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"2d0",
+			"length":50,
+			"jpn":"ＡＭ７時まで宿泊し、{换行}ＨＰ・ＴＰが全回復します{换行}{END}",
+			"eng":"Stay at the inn until ７AM{换行}to fully recover HP and TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"302",
+			"length":50,
+			"jpn":"ＰＭ７時まで宿泊し、{换行}ＨＰ・ＴＰが全回復します{换行}{END}",
+			"eng":"Stay at the inn until ７PM{换行}to fully recover HP and TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"334",
+			"length":42,
+			"jpn":"荷物を預けたり{换行}受け取ることができます{换行}{END}",
+			"eng":"Store or claim goods．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"35e",
+			"length":34,
+			"jpn":"受け取るアイテムがありません！{换行}{END}",
+			"eng":"There are no items stored！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"380",
+			"length":32,
+			"jpn":"預けるアイテムがありません！{换行}{END}",
+			"eng":"You have no items to store！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"3a0",
+			"length":30,
+			"jpn":"アイテムを{文本11:0000}個預けました{换行}{END}",
+			"eng":"Stored {文本11:0000} item(s)．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"3be",
+			"length":34,
+			"jpn":"アイテムを{文本11:0000}個引き出しました{换行}{END}",
+			"eng":"Claimed {文本11:0000} item(s)．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"3e0",
+			"length":48,
+			"jpn":"アイテムを{文本11:0000}個{换行}預けますがよろしいですか？{换行}{END}",
+			"eng":"Storing {文本11:0000} item(s)．{换行}Is that all right with you？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"410",
+			"length":50,
+			"jpn":"アイテムを{文本11:0000}個引き出します{换行}よろしいですか？{换行}{END}",
+			"eng":"Taking out {文本11:0000} item(s)．{换行}Is that all right with you？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"442",
+			"length":24,
+			"jpn":"預かり所が一杯です！{换行}{END}",
+			"eng":"The storage room is full！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"45a",
+			"length":34,
+			"jpn":"{文本11:0000}はこれ以上預けられません！{换行}{END}",
+			"eng":"You cannot store any more{换行}of {文本11:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"47c",
+			"length":32,
+			"jpn":"預ける荷物を選択してください{换行}{END}",
+			"eng":"Choose items to store．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"49c",
+			"length":34,
+			"jpn":"受け取る荷物を選択してください{换行}{END}",
+			"eng":"Choose items to claim．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"4be",
+			"length":42,
+			"jpn":"{文本11:0000}エンかかりますが{换行}よろしいですか？{换行}{END}",
+			"eng":"That will be {文本11:0000}en．{换行}Is that all right with you？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"4e8",
+			"length":26,
+			"jpn":"所持金がたりません！！{换行}{END}",
+			"eng":"You don’t have enough money！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"502",
+			"length":22,
+			"jpn":"誰を治療しますか？{换行}{END}",
+			"eng":"Who do you want to heal？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"518",
+			"length":26,
+			"jpn":"治療の必要がありません{换行}{END}",
+			"eng":"No healing is needed．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"532",
+			"length":22,
+			"jpn":"治療が終わりました{换行}{END}",
+			"eng":"Treatment complete．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"548",
+			"length":20,
+			"jpn":"セーブしますか？{换行}{END}",
+			"eng":"Would you like to save？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"55c",
+			"length":48,
+			"jpn":"アイテムを倉庫に預けますが{换行}よろしいですか？{换行}{END}",
+			"eng":"Store the selected item(s)？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"58c",
+			"length":34,
+			"jpn":"受け取りますがよろしいですか？{换行}{END}",
+			"eng":"Claim the selected item(s)？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"5ae",
+			"length":28,
+			"jpn":"所持アイテムが一杯です！{换行}{END}",
+			"eng":"Your inventory is full！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"5ca",
+			"length":20,
+			"jpn":"倉庫が一杯です！{换行}{END}",
+			"eng":"Your storage is full！{换行}{END}",
+			"zh":""
+		}
+	]
+}

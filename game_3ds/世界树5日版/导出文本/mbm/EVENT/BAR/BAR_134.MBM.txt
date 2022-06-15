@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_134.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":416,
+			"jpn":"{F812}童話集を読む男性\u0000第五階層が空の上だなんて{换行}誰が予想できただろうな。{换行}{换页}文献と言っていいのかは分からないが{换行}大昔のお伽噺に{颜色:0500}人が体の重さを操る術を覚え{换行}空を泳ぐ{颜色:0000}というものがあってな。{换行}{换页}最初は楽しく泳いでいたが、{颜色:0500}一直線にしか{换行}進めず、壁か何かに当たるまで止まれない{颜色:0000}。{换行}結局は地上が一番って話だったよ。{换行}{换页}俺も地上が一番だと思うぜ。{换行}そもそも樹海なんておっかない場所、{换行}行く気になんねえからなぁ…。{换行}{END}",
+			"eng":"{F812}Storytelling Dad\u0000Dang, the ５th Stratum sure is high in the sky．{换行}Reminds me of my daughter’s favorite nursery{换行}rhyme． Now how’d that go again？ Oh, right．．．{换行}{换页}{颜色:0500}A long time ago, and way up high,{换行}People swam all through the sky．{换行}Weightlessly, they learned to fly！{颜色:0000}{换行}{换页}{颜色:0500}Everyone felt happy to defy gravity,{换行}But stopping was a whole lot less easy．{换行}They had to bump into a wall or tree！{颜色:0000}{换行}{换页}The story ends with the people deciding that{换行}it’s better to stay on land． And I gotta agree．{换行}But now my daughter says SHE wants to fly．．．！{换行}{END}",
+			"zh":""
+		}
+	]
+}

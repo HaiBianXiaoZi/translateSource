@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_107.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":434,
+			"jpn":"{F812}筋骨隆々の男拳闘士\u0000よぉ、新米。{换行}お前ら魔物と戦う時に弱点を{换行}ちゃんと意識してっか？{换行}{换页}例えば、{敌人:0400}って魔物がいるだろ？{换行}奴らは、刀や鎌で{颜色:0500}斬る{颜色:0000}とか、{颜色:0500}炎系統の魔法{颜色:0000}を{换行}食らわしてやればより{颜色:0500}早くぶっ倒せる{颜色:0000}ぜ。{换行}{换页}弱点を突くのは卑怯だと抜かす{换行}クソッタレもいるが、そういう奴から{换行}魔物の腹ん中に行っちまうもんさ。{换行}{换页}これは試合じゃなくて戦いだ。{换行}お前らも魔物の栄養になりたくなきゃ{换行}そこんとこちゃんと意識しろよ？{换行}{END}",
+			"eng":"{F812}Muscular Pugilist\u0000’Sup, newbs？ You been keeping {换行}track of monster weaknesses？{换行}{换页}Like {敌人:0400}s． You know they {颜色:0500}go down faster{颜色:0000}{换行}if you {颜色:0500}slice ’em{颜色:0000}, like with a katana or sword,{换行}or {颜色:0500}blast ’em with fire spells{颜色:0000}, right？{换行}{换页}Some chumps say using weaknesses ain’t fair, {换行}but those windbags usually wind up taking a {换行}one-way trip to the Monster Belly Zone．{换行}{换页}The labyrinth is life or death, not a goddamn{换行}tournament． Remember that if you want to{换行}stay undigested, got it？{换行}{END}",
+			"zh":""
+		}
+	]
+}

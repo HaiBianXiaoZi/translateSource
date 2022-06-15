@@ -1,0 +1,37 @@
+{
+	"fileName":"BAR_19.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"60",
+			"length":76,
+			"jpn":"{F812}料理のメニューを見ている男\u0000おう、なんだ、あんたたち。{换行}なんか用かい？{换行}{END}",
+			"eng":"{F812}Indecisive Eater\u0000What’s up？ Need something？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"ac",
+			"length":80,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}ジェネッタと同年代の子を知らないか？{换行}なんでもない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”Know anyone the same age as Jenetta？”{换行}”It’s nothing．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"fc",
+			"length":396,
+			"jpn":"{F812}料理のメニューを見ている男\u0000ジェネッタ？　ジェネッタって宿屋の{换行}看板娘のジェネッタのことだよな。{换行}{换页}そうだなぁ…。{换行}{换页}ああ、そういえば最近、{换行}{颜色:0500}３階の鍵のかかっていた扉の先{颜色:0000}で{换行}女の子を見たって噂をよく聞くな。{换行}{换页}あの話が本当ならジェネッタの{换行}友達にちょうどいいんじゃないか？{换行}{换页}まあ、樹海に１人でいるって辺り{换行}相当なんかやばい空気を感じる話{换行}なんだけどな。{换行}{换页}行くんなら気を付けなよ？{换行}{END}",
+			"eng":"{F812}Indecisive Eater\u0000Jenetta？ You mean the Jenetta{换行}who helps run the inn？{换行}{换页}Hmm, lemme think．．．{换行}{换页}I overheard some adventurers talking about{换行}a girl {颜色:0500}beyond the locked door on ３F{颜色:0000} recently．{换行}{换页}If that’s true, maybe she’d {换行}be a good fit for Jenetta？{换行}{换页}Then again, it’s a little strange that she’s{换行}off wandering the labyrinth all alone．{换行}{换页}If you run into her, be careful, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"288",
+			"length":104,
+			"jpn":"{F812}料理のメニューを見ている男\u0000そうかい？　それならいいけどよ。{换行}さーて、今日は何を食おうかなーっと。{换行}{END}",
+			"eng":"{F812}Indecisive Eater\u0000Well, okay． Back to figuring out what to eat．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

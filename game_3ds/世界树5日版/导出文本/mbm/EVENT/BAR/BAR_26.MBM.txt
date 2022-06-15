@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_26.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":332,
+			"jpn":"{F812}狩人然としたセリアン\u0000あら、どうも、初めまして…よね？{换行}その風貌からすると冒険者の人かしら？{换行}{换页}私は樹海で狩人を生業としている{换行}ジェイミーっていうの。{换行}{换页}今は店内を間借りさせてもらって{换行}樹海でとってきた{颜色:0500}{道具:F206}{颜色:0000}を売っているの。{换行}{换页}あなたたちも冒険者なら、{换行}食料にどうかしら？{换行}{换页}買いたい時はまた私に{换行}声をかけてちょうだい。{换行}{END}",
+			"eng":"{F812}Therian Hunter\u0000Ahh, hello． This is our first time meeting, no？{换行}Judging by your gear, you must be explorers．{换行}{换页}My name is Jaimie． I’m a hunter by trade．{换行}{换页}I’m currently renting out space here to sell the{换行}{颜色:0500}{道具:F206}{颜色:0000} I’ve hunted in the forest．{换行}{换页}Adventurers need to eat too, don’t they？{换行}{换页}Stop by and stock up if you’re low on rations．{换行}{END}",
+			"zh":""
+		}
+	]
+}

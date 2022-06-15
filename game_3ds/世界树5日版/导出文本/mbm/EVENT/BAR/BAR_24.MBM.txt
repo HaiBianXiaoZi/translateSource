@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_24.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":374,
+			"jpn":"{F812}ベリーをカゴに入れたブラニー\u0000おや、こんにちは！{换行}君たちは冒険者さんかい？{换行}{换页}僕はアイオリスから少し離れた村にある{换行}ベリーの果樹園で働いているデール{换行}っていうんだ。{换行}{换页}ちょくちょくアイオリスに来ては{换行}収穫した{颜色:0500}{道具:FD06}{颜色:0000}を販売しているんだよ。{换行}{换页}君たちも冒険に持っていく食料として{换行}購入してくれるとうれしいな。{换行}{换页}そのつもりがあるのなら、{换行}また僕に声をかけておくれよ。{换行}{END}",
+			"eng":"{F812}Berry-carrying Brouni\u0000Why, hello there！ You must be adventurers！{换行}{换页}The name’s Dale． I work at the berry farm{换行}a little ways out from Iorys．{换行}{换页}I come by time to time to sell {换行}the {颜色:0500}{道具:FD06}{颜色:0000} I’ve gathered．{换行}{换页}It’d be great if the lot of you bought some{换行}as provisions for your travels．{换行}{换页}Come see me any time {换行}if you want some more．{换行}{END}",
+			"zh":""
+		}
+	]
+}

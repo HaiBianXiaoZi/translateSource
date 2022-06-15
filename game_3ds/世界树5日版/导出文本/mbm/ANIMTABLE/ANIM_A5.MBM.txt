@@ -1,0 +1,101 @@
+{
+	"fileName":"ANIM_A5.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"e0",
+			"length":10,
+			"jpn":"かつて{换行}{END}",
+			"eng":"In the beginning, there was nothing．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"ea",
+			"length":36,
+			"jpn":"赤く荒れ果てた大地に私が訪れた時{换行}{END}",
+			"eng":"But when I arrived, I planted a seed．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"10e",
+			"length":20,
+			"jpn":"この森は生まれた{换行}{END}",
+			"eng":"And then there was life．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"122",
+			"length":28,
+			"jpn":"世界を構成する全ての緑は{换行}{END}",
+			"eng":"What if I told you the world you know,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"13e",
+			"length":42,
+			"jpn":"この小さな原生林から生まれたといったら{换行}{END}",
+			"eng":"with its natural wildlife and greenery,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"168",
+			"length":38,
+			"jpn":"大地に住む者たちは信じるだろうか？{换行}{END}",
+			"eng":"was all born here, from one small grove？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"18e",
+			"length":26,
+			"jpn":"多くの者は笑うだろうが{换行}{END}",
+			"eng":"Would those on the ground believe me？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1a8",
+			"length":42,
+			"jpn":"どこかに信じる者もいると私は思っている{换行}{END}",
+			"eng":"Many would call it a fable, but I hope that you listen．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1d2",
+			"length":24,
+			"jpn":"幾多の困難を乗り越え{换行}{END}",
+			"eng":"After all, you are legends yourselves．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"1ea",
+			"length":44,
+			"jpn":"数多の想いを受け継いでここにきた彼らこそ{换行}{END}",
+			"eng":"You have seen and done the impossible．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"216",
+			"length":22,
+			"jpn":"そうであってほしい{换行}{END}",
+			"eng":"You alone shall learn the truth．{换行}{END}",
+			"zh":""
+		}
+	]
+}

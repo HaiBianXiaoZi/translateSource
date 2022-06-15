@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_138.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":354,
+			"jpn":"{F812}こわばった顔の男性\u0000おい、聞いたか？{换行}かなり実力のあるギルドが次々に{换行}{颜色:0500}２５階{颜色:0000}で消息を絶っているんだ。{换行}{换页}姿の見えない敵とやらにやられたって噂が{换行}出てはいるが、帰ってくるギルドの大半は{换行}そんな魔物はいなかったって言うんだよ。{换行}{换页}ただ、{颜色:0500}何か得体の知れない物{颜色:0000}を{换行}{颜色:0500}○○あたりで見た{颜色:0000}ってギルドもいたな。{换行}真実はどうあれ用心しねぇとな。{换行}{END}",
+			"eng":"{F812}Tense-looking Fella\u0000You hear？ Even the toughest guilds{换行}are going missing on {颜色:0500}２５F{颜色:0000}．{换行}{换页}Rumor has it there’s some kind of invisible{换行}monster up there, but no one who’s made{换行}it back has confirmed that．{换行}{换页}Some other guilds, though, they said they{换行}{颜色:0500}saw something indescribable in the ○○{颜色:0000}．{换行}Whatever’s going on, we best be careful．{换行}{END}",
+			"zh":""
+		}
+	]
+}

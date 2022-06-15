@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_136.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":424,
+			"jpn":"{F812}腕に包帯を巻いた男\u0000いってぇ…。{换行}なんなんだあの魔物…。{换行}{换页}動かないと思って{颜色:0500}横を通り抜けようと{换行}したら、おもっきし殴ってきやがって{颜色:0000}…。{换行}しかも{颜色:0500}敵味方区別なく{颜色:0000}だぜ？{换行}{换页}殴られた魔物なんか目を回すくらいの勢い{换行}だったみてぇだけど、どんだけ余所もんと{换行}関わるのが嫌いなんだあの魔物。{换行}{换页}{颜色:0500}身体が浮いた状態だと相手も踏ん張りが{换行}効かなくて殴れない{颜色:0000}ようだったけどさぁ、{换行}もうちょい穏便に生きようぜ、ったく。{换行}{END}",
+			"eng":"{F812}Bandaged Man\u0000Ow．．． What the hell was that thing？{换行}{换页}It wouldn’t move, so {颜色:0500}we tried to pass by it{颜色:0000}．{换行}Then out of no where, it just．．． {颜色:0500}punched us！ {颜色:0000}{换行}It punched {颜色:0500}anything that tried to pass by it{颜色:0000}．{换行}{换页}Even another monster got punched and{换行}knocked out． That thing hates everyone！{换行}{换页}It can’t seem to hit anything floating in mid-air,{换行}though． Still, that thing should really consider a {换行}more peaceful life．{换行}{END}",
+			"zh":""
+		}
+	]
+}

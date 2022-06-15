@@ -1,0 +1,149 @@
+{
+	"fileName":"BAR_03.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"140",
+			"length":918,
+			"jpn":"{F812}やせたルナリア族の女性\u0000まったくあの子は聞かん坊なんだから…。{换行}あら？{换行}{换页}あの、もしかして冒険者ですか？{换行}ああ！　依頼を受けてきてくれたんですね！{换行}ありがとうございます、待ってたんです！{换行}{换页}早速なんですが、聞いていただけますか？{换行}最近うちの子がですね、街でイタズラして{换行}回っていて、困っているんです。{换行}{换页}もちろんやめなさいと言って叱ったんですが{换行}その場で反省した顔をするだけで、{换行}次の日にはイタズラをしていて…。{换行}{换页}でも、うちの子、おばけが苦手なんです。{换行}特に骸骨が苦手でして。{换行}{换页}それこそ絵本に載ってる骸骨の絵を{换行}見ただけで布団に逃げ込むくらいに。{换行}{换页}それでですね、うちの古い文献を{换行}調べたところ、三階層の{颜色:0500}１１階{颜色:0000}には{换行}{颜色:0500}動く骸骨{颜色:0000}がいるってあったんです！{换行}{换页}きっとその骸骨の魔物の絵なんかを{换行}見せてしまえば、怖がって大人しくなると{换行}思うんです！{换行}{换页}ですから、みなさんには{颜色:0500}１１階にいる{换行}骸骨の魔物を図鑑に登録{颜色:0000}してきて{换行}欲しいんです！{换行}{换页}探索のついでで構いませんので、{换行}どうかお願いいたします。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000Great tree, that child just won’t listen．．． hm？{换行}{换页}Excuse me, are you adventurers？ Oh, so you’re{换行}the ones who accepted my request！ Thank you,{换行}I’ve been waiting ages for someone to take it！{换行}{换页}I know this is sudden, but please hear me out．{换行}I’ve been having trouble dealing with my son{换行}lately． He keeps playing pranks around town．{换行}{换页}Of course, I’ve done everything． Scolded him,{换行}grounded him．．． He’ll seem like he’s learned his{换行}lesson one day, then he’s back at it the next．{换行}{换页}There’s only one thing my boy takes seriously．{换行}He simply can’t stand the sight of skeletons．{换行}{换页}Even an illustration of some bones is enough{换行}to send my boy scurrying under the covers．{换行}{换页}Now, according to some old books back home,{换行}there are supposedly {颜色:0500}moving skeletons{颜色:0000} on {颜色:0500}１１F{颜色:0000}{换行}in the ３rd Stratum！{换行}{换页}One look at those skeleton monsters ought to{换行}scare him straight and put an end to his pranks！{换行}But I can’t send my boy into real danger．．．{换行}{换页}That’s why I wish for you to {颜色:0500}register a skeleton{颜色:0000}{换行}from １１F and add its image to your codex！{换行}{换页}If you happen to come across any during your{换行}explorations, please stop and take its picture．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"4d6",
+			"length":120,
+			"jpn":"{F812}やせたルナリア族の女性\u0000あ、みなさん。お疲れ様です。{换行}{颜色:0500}１１階の骸骨の魔物{颜色:0000}の方は{换行}登録できましたでしょうか？{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000Hello there． Were you able to register those{换行}{颜色:0500}skeleton monsters on １１F{颜色:0000} in the ３rd Stratum？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"54e",
+			"length":54,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}できた{换行}まだできていない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Tell her that you’re done{换行}Tell her you’re not done{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"584",
+			"length":170,
+			"jpn":"{F812}やせたルナリア族の女性\u0000まあ！　確かに骸骨の魔物が{换行}載っていますね！{换行}{换页}では、これをうちの子に見せて参ります！{换行}きっと縮みあがって大人しくなること{换行}間違いなしです！{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000My！ What a spooky, scary-looking skeleton！{换行}{换页}Well then, I’ll go show this to my son at once！{换行}I’m certain this will scare that boy straight．．．！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"62e",
+			"length":322,
+			"jpn":"{F812}やせたルナリア族の女性\u0000ただいま戻りました。{换行}ふふ、あの子ったら１つしか見てないのに{换行}真っ青になっていました。{换行}{换页}かわいそうですけど、これで少しは{换行}大人しくなってくれると思います。{换行}{换页}報酬はメリーナさんにお預けしてますので{换行}どうぞお受け取りください。{换行}{换页}今回は本当にありがとうございました。{换行}それでは失礼いたします。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000I’m back．．． Heh, my boy turned blue just{换行}looking at a single picture．{换行}{换页}I regret frightening him so, but I reckon he’ll{换行}tone down his spoofs and goofs for good．{换行}{换页}I’ve left your reward with Miss Mirina,{换行}so please speak to her to receive it．{换行}{换页}Thank you very much for your hard work．{换行}Well then, I shall be on my way．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"770",
+			"length":390,
+			"jpn":"{F812}やせたルナリア族の女性\u0000ただいま戻りました。{换行}ふふ、あの子ったら１つ見せただけで{换行}顔を真っ青にしちゃってました。{换行}{换页}その後、２つ目を見せたら、{换行}ぎゃー！　と悲鳴を上げていました。{换行}{换页}かわいそうですけど、これで少しは{换行}大人しくなってくれると思います。{换行}{换页}報酬はメリーナさんにお預けしてますので{换行}どうぞお受け取りください。{换行}{换页}今回は本当にありがとうございました。{换行}それでは失礼いたします。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000I’m back．．． Heh heh, my boy turned blue just{换行}looking at a single picture．{换行}{换页}Then, when I showed him the second one, he{换行}screamed so loud he could’ve woken the dead．{换行}{换页}I regret frightening him so, but I reckon he’ll{换行}tone down his spoofs and goofs for good．{换行}{换页}I’ve left your reward with Miss Mirina,{换行}so please speak to her to receive it．{换行}{换页}Thank you very much for your hard work．{换行}Well then, I shall be on my way．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"8f6",
+			"length":474,
+			"jpn":"{F812}やせたルナリア族の女性\u0000ただいま戻りました。{换行}ふふ、あの子ったら１つ見せただけで{换行}顔を真っ青にしちゃってました。{换行}{换页}その後、２つ目を見せたら、{换行}ぎゃー！　と悲鳴を上げていました。{换行}{换页}最後に３つ目を見せたら、{换行}すごい勢いでお布団の中に{换行}逃げ込んでいっちゃいました。{换行}{换页}かわいそうですけど、これで少しは{换行}大人しくなってくれると思います。{换行}{换页}報酬はメリーナさんにお預けしてますので{换行}どうぞお受け取りください。{换行}{换页}今回は本当にありがとうございました。{换行}それでは失礼いたします。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000I’m back．．． Heh heh heh, my boy turned blue{换行}just looking at a single picture．{换行}{换页}Then, when I showed him the second one, he{换行}screamed so loud he could’ve woken the dead．{换行}{换页}And when I showed him the last one, I told him{换行}there’s been a skeleton inside of him all along．{换行}He wet his pants when I told him that one, hah！{换行}{换页}I regret frightening him so, but I reckon he’ll{换行}tone down his spoofs and goofs for good．{换行}{换页}I’ve left your reward with Miss Mirina,{换行}so please speak to her to receive it．{换行}{换页}Thank you very much for your hard work．{换行}Well then, I shall be on my way．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"ad0",
+			"length":96,
+			"jpn":"{F812}やせたルナリア族の女性\u0000あら…？{换行}ですが、それらしいものは{换行}見当たらないようなのですが…。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000Oh？ But I don’t see anything of the sort here．．．{换行}I asked for a skeleton image, not a ghost story．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"b30",
+			"length":102,
+			"jpn":"{F812}やせたルナリア族の女性\u0000そうですか…。{换行}探索のついでで構いませんので、{换行}どうかお願いいたします。{换行}{END}",
+			"eng":"{F812}Celestrian Mother\u0000I see．．． It’s okay to be scared of skeletons． No{换行}need to hide it． Good luck on your adventures！{换行}{END}",
+			"zh":""
+		}
+	]
+}

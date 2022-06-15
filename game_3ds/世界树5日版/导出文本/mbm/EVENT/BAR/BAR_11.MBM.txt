@@ -1,0 +1,77 @@
+{
+	"fileName":"BAR_11.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"b0",
+			"length":250,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000なあ、君たちは{主角姓名}っていう{换行}冒険者ギルドを知っているかい？{换行}{换页}聞くところによると、彼らは世界樹の{换行}五階層に足を踏み入れたそうなんだ…。{换行}{换页}ぜひ彼らに聞いてみたいことがあるんだけど{换行}運よく会えたりはしないだろうか…。{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000I don’t suppose you’ve met {换行}any of the adventurers from the {换行}{主角姓名} Guild, have you？{换行}{换页}I hear they’ve managed to reach {换行}Yggdrasil’s ５th Stratum．．．{换行}{换页}If so, I have something to ask them．{换行}I wonder if there’s a way for us to meet．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1aa",
+			"length":62,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}自分たちが{主角姓名}だと告げる{换行}黙っておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Tell him you’re with the guild{换行}Remain silent{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"1e8",
+			"length":234,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000君たち、あの{主角姓名}なのかい！？{换行}ああ、なんて僕は運がいいのだろうか！{换行}天よ、感謝いたします…。{换行}{换页}それじゃあ聞きたいことがあるんだけど{换行}いいかな！？{换行}{换页}樹海の五階層には何か{换行}虫の魔物はいるのだろうか？{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000Wait, you’re WITH {主角姓名} Guild！？{换行}What a stroke of luck！ Heavens be praised．{换行}{换页}Do you mind if I ask you something？{换行}{换页}Have you noticed any insectoid monsters{换行}in the ５th Stratum？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"2d2",
+			"length":56,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}いると頷く{换行}いないと首を振る{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Nod in confirmation{换行}Shake your head ”no”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"30a",
+			"length":242,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000ふむふむ、白黒模様の蟻を筆頭に{换行}やはり色々な虫がいるわけだね…。{换行}{换页}よし！{换行}では、近いうちに君たちに対して{换行}依頼を出させてもらうよ！{换行}{换页}早速酒場の店主殿に話をしてくる！{换行}依頼を受けてくれた時、また会おう！{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000I see． So in addition to the monochrome ants,{换行}the labyrinth is home to a variety of insects．．．{换行}{换页}Alright, then！ I’ll put in an official request！{换行}{换页}I need to speak with Mirina． Come see me {换行}once you’ve accepted the official request．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"3fc",
+			"length":104,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000そうか…。いないのか…。{换行}じゃあ、考えるだけ無駄というものだね…。{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000I see．．． So there aren’t any．{换行}I suppose it’s useless, then．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"464",
+			"length":106,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000まあ、そう都合よくはいかないか…。{换行}根気よく店に通い詰めるのみだな。{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000I should’ve known it wouldn’t be easy．{换行}Well, I’ll just have to be persistent．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"4ce",
+			"length":128,
+			"jpn":"{F812}きょろきょろしているアースラン\u0000ああ、{主角姓名}じゃないか。{换行}どうだろう、あれ以降、五階層で{换行}虫の魔物は何か見つからなかったかい？{换行}{END}",
+			"eng":"{F812}Earthlain Looking Around\u0000Ah, {主角姓名} Guild． Any luck finding {换行}insectoid monsters in the ５th Stratum？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"54e",
+			"length":72,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}見つかったと伝える{换行}やっぱりいないと首を振る{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Tell him you found some{换行}Shake your head ”no”{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_131.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":336,
+			"jpn":"{F812}鍵を磨く長髪男性\u0000俺さ、樹海で時々みかける、紋様が浮かんだ{换行}開けられない扉を無理やり開けられないか{换行}ちょっと試して見たんだよ。{换行}{换页}結果は俺の秘密道具がパーになってお終いさ。{换行}俺が思うにあれは特殊な鍵が必要なんだぜ。{换行}{换页}でも、第三階層で活動してる冒険者たちに{换行}話を聞いても見たことがないらしいんだよ。{换行}やれやれ、どこにあるのやら…。{换行}{END}",
+			"eng":"{F812}Man Polishing Keys\u0000You know those doors in the forest that don’t{换行}open？ You know, the ones with the emblems{换行}on them？ I tried to force one open once．{换行}{换页}All I got out of it was a bunch of busted tools．{换行}I think you need a special key to open them．{换行}{换页}None of the adventurers I’ve talked to in the{换行}３rd Stratum have found anything like that,{换行}though． I wonder where it could be．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

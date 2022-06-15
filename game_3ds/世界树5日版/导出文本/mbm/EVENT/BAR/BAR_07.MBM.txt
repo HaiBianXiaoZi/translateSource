@@ -1,0 +1,173 @@
+{
+	"fileName":"BAR_07.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"170",
+			"length":798,
+			"jpn":"{F812}派手な服を着た男\u0000うん？　私に用？{换行}ああ！　依頼を受けてくれたのか！{换行}ありがとう、恩に着るよ！{换行}{换页}既に聞いたかもしれないが、{换行}私は街で建築家をしているんだ。{换行}{换页}そして最近、祖父の残した倉庫の中から{换行}ある文献を発見してね、その中に{换行}気になるものが載っていたんだ。{换行}{换页}水晶の森に眠る{道具:C004}…。{换行}そう書かれたページには美しく描かれた{换行}本当に輝くような木が載っていたのさ。{换行}{换页}それを見た瞬間、私はピンと来た。{换行}{道具:C004}、それを使って誰も見たことのない{换行}豪華絢爛な家を建てるのだ、と。{换行}{换页}そういう事情なので、冒険者諸君には{换行}水晶の森の中で伐採できる{颜色:0500}{道具:C004}{颜色:0000}を{换行}入手してきていただきたい。{换行}{换页}数は{颜色:0500}１つでもいい{颜色:0000}のだが、数に応じて報酬を{换行}上乗せしよう。こちらとしては{颜色:0500}５つまでなら{换行}引き取る{颜色:0000}準備ができているのでね。{换行}{换页}そこをどうするかの裁量は君たち本人に{换行}お任せするよ。では、よろしくお願いする。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Do you have business with me？ Oh, I see！{换行}You’re the guild that accepted my request．{换行}In that case, I am in your debt． Thank you！{换行}{换页}Allow me to explain．．． In case it{换行}wasn’t obvious, I’m an architect．{换行}{换页}Recently, I was digging through the warehouse{换行}my grandfather left behind when I found an old{换行}document． Within it was a rather curious entry．{换行}{换页}”Within the crystal forest grows {道具:C004}．”{换行}Beside it was a beautifully-illustrated tree of{换行}glimmering branches and shimmering leaves．．．{换行}{换页}The moment I saw it, inspiration struck．{换行}I swore I’d build a luxury house out of{换行}{道具:C004}． It’d be my magnum opus！{换行}{换页}Now that I know it’s real, I’d like you{换行}adventurers to gather the {颜色:0500}{道具:C004}{颜色:0000}{换行}that grows around the Lucent Hollows．{换行}{换页}{颜色:0500}One piece is fine{颜色:0000}, but I will raise your reward{换行}depending on how many you bring back． I am{换行}willing to {颜色:0500}collect up to five of them{颜色:0000}, for now．{换行}{换页}I’ll leave it to you to decide how many{换行}pieces to acquire． Good luck out there！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"48e",
+			"length":72,
+			"jpn":"{F812}派手な服を着た男\u0000やあ、依頼していた{道具:C004}は{换行}もう手に入ったのかい？{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Hello there． Have you already procured{换行}any of the {道具:C004} I’ve requested？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"4d6",
+			"length":66,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}手に入れてきた{换行}まだ見つかっていない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”We got it．”{换行}”Not yet．．．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"518",
+			"length":88,
+			"jpn":"{F812}派手な服を着た男\u0000おお！　そうか。それは助かるよ。{换行}で、いくつ譲ってくれるんだい？{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Is that so？ Now that’s what I call{换行}a speedy delivery． So, how many{换行}pieces are you willing to sell me？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"570",
+			"length":408,
+			"jpn":"{F812}派手な服を着た男\u0000おお、ありがとう。数は少ないけど、{换行}大丈夫だろう。これを外壁に散りばめれば{换行}きっと富豪には受けるはずさ。{换行}{换页}しかし、自分から依頼を出しておいて{换行}言うのもなんだが、本当にこんなものが{换行}採れるとは樹海とは不思議な場所だね…。{换行}{换页}そのおかげで食べていけているわけだから{换行}感謝しないとだね。{换行}{换页}もちろん君たちにも。今回はありがとう。{换行}報酬は預けてあるから、報告して{换行}ぜひ受け取ってくれたまえ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Thank you． It’s not much, but it should be{换行}enough． I need only to highlight the outer{换行}walls to appeal to my aristocratic clientele．{换行}{换页}When I first found that document, I assumed{换行}my grandfather had gone daft in his old age．{换行}I never believed there were crystal forests．．．{换行}{换页}But now, I not only have proof they’re real,{换行}I’m going to use it to put food on my table．{换行}I guess this material is my REAL inheritance！{换行}{换页}Of course, the real credit goes to you．{换行}Thank you． I’ve entrusted your reward{换行}with Mirina, so go collect it from her．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"708",
+			"length":404,
+			"jpn":"{F812}派手な服を着た男\u0000おお、結構な数を持ち帰ってくれたのだね。{换行}うんうん、これなら思い通りのものが{换行}できそうだ、助かるよ。{换行}{换页}しかし、自分から依頼を出しておいて{换行}言うのもなんだが、本当にこんなものが{换行}採れるとは樹海とは不思議な場所だね…。{换行}{换页}そのおかげで食べていけているわけだから{换行}感謝しないとだね。{换行}{换页}もちろん君たちにも。今回はありがとう。{换行}報酬は預けてあるから、報告して{换行}ぜひ受け取ってくれたまえ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Oh my, you brought back half a forest’s{换行}worth of crystal bark． I suppose I could{换行}build TWO houses with all this material！{换行}{换页}When I first found that document, I assumed{换行}my grandfather had gone daft in his old age．{换行}I never believed there were crystal forests．．．{换行}{换页}But now, I not only have proof they’re real,{换行}I’m going to use it to put food on my table．{换行}I guess this material is my REAL inheritance！{换行}{换页}Of course, the real credit goes to you．{换行}Thank you． I’ve entrusted your reward{换行}with Mirina, so go collect it from her．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"89c",
+			"length":428,
+			"jpn":"{F812}派手な服を着た男\u0000素晴らしい！　５個持ってくるとは！{换行}これならば想定していた以上のものが{换行}作れるに違いない…。{换行}{换页}いやはや、本当にありがとう。{换行}{换页}しかし、自分から依頼を出しておいて{换行}言うのもなんだが、本当にこんなものが{换行}採れるとは樹海とは不思議な場所だね…。{换行}{换页}そのおかげで食べていけているわけだから{换行}感謝しないとだね。{换行}{换页}もちろん君たちにも。今回はありがとう。{换行}報酬は預けてあるから、報告して{换行}ぜひ受け取ってくれたまえ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Incredible！ With five pieces of crystal bark,{换行}I could build an entire CITY of shimmering{换行}buildings, more beautiful than all of Iorys！{换行}{换页}I truly cannot thank you enough．{换行}{换页}When I first found that document, I assumed{换行}my grandfather had gone daft in his old age．{换行}I never believed there were crystal forests．．．{换行}{换页}But now, I not only have proof they’re real,{换行}I’m going to use it to put food on my table．{换行}I guess this material is my REAL inheritance！{换行}{换页}Of course, the real credit goes to you．{换行}Thank you． I’ve entrusted your reward{换行}with Mirina, so go collect it from her．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"a48",
+			"length":128,
+			"jpn":"{F812}派手な服を着た男\u0000なんだ、やっぱり渡さないのかい？{换行}まあ、私はここで待っているから、{换行}渡す気になったなら声をかけておくれ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000What’s that？ You don’t want to sell any？{换行}Well, I’ll be waiting here if that changes．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"ac8",
+			"length":102,
+			"jpn":"{F812}派手な服を着た男\u0000おや、それらしきものは見当たらないが…。{换行}見つかったら、また声をかけておくれ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Hmm？ I asked for shining bark,{换行}not invisible glass．．． If you do{换行}find any, please bring it to me．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"b2e",
+			"length":100,
+			"jpn":"{F812}派手な服を着た男\u0000ふむ、そうか。私はまだここにいるから、{换行}見つかったら、また声をかけておくれ。{换行}{END}",
+			"eng":"{F812}Fashionable Architect\u0000Hm, I see． I’ll still be waiting here,{换行}so come see me if you find some．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"b92",
+			"length":8,
+			"jpn":"{道具:C004}{换行}{END}",
+			"eng":"{道具:C004}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"b9a",
+			"length":22,
+			"jpn":"いくつ渡しますか？{换行}{END}",
+			"eng":"How many will you sell？{换行}{END}",
+			"zh":""
+		}
+	]
+}

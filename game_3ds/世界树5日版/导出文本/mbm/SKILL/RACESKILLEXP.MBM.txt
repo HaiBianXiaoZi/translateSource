@@ -1,0 +1,781 @@
+{
+	"fileName":"RACESKILLEXP.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"630",
+			"length":66,
+			"jpn":"戦闘中にベーシックスキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Base Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"672",
+			"length":38,
+			"jpn":"自身の斬・突・壊耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly increases cut／stab／bash{换行}resistance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"698",
+			"length":76,
+			"jpn":"周囲を探索し、異変や目ぼしいものを{换行}発見する　さらにＡＧＩが少し上昇する{换行}{END}",
+			"eng":"Grants a keen eye for your surroundings．{换行}Also slightly increases AGI．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"6e4",
+			"length":88,
+			"jpn":"アイテムの最大所有数がスキル所有者１名に{换行}つき＋５される　さらにＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Increases inventory space by ５． Can stack．{换行}Also slightly increases VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"73c",
+			"length":30,
+			"jpn":"樹海の釣り場で魚を釣る能力{换行}{END}",
+			"eng":"Allows catching fish at certain spots{换行}in the labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"75a",
+			"length":50,
+			"jpn":"イベントで入手する家畜を{换行}飼育することができる{换行}{END}",
+			"eng":"Allows tending to farm animals that{换行}you encounter during your journey．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"78c",
+			"length":52,
+			"jpn":"自身の頭封じ、腕封じ、脚封じ耐性が{换行}少し上昇する{换行}{END}",
+			"eng":"Slightly increases resistance{换行}to head／arm／leg binds．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"7c0",
+			"length":68,
+			"jpn":"自身の石化、呪い、睡眠、混乱、麻痺、{换行}毒、盲目耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly resists curse, petrify, sleep, {换行}panic, paralysis, poison, and blind．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"804",
+			"length":44,
+			"jpn":"採取、伐採、採掘時に追加で素材を入手可能{换行}{END}",
+			"eng":"Increases material yield from chopping,{换行}taking, and mining．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"830",
+			"length":32,
+			"jpn":"ＳＴＲとＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Slightly increases STR and VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"850",
+			"length":32,
+			"jpn":"ＡＧＩとＬＵＣが少し上昇する{换行}{END}",
+			"eng":"Slightly increases AGI and LUC．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"870",
+			"length":32,
+			"jpn":"ＩＮＴとＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Slightly increases INT and WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"890",
+			"length":64,
+			"jpn":"戦闘中にマスタースキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Master Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"8d0",
+			"length":86,
+			"jpn":"敵の素材ドロップ率がスキル所持者の人数に{换行}応じ上昇する　さらにＩＮＴが少し上昇する{换行}{END}",
+			"eng":"Increases enemy drop rate． Can stack．{换行}Also slightly increases INT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"926",
+			"length":50,
+			"jpn":"自身に対する食材の{换行}ＨＰＴＰ回復量が２倍になる{换行}{END}",
+			"eng":"Doubles the amount of HP／TP recovered{换行}from consuming food．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"958",
+			"length":52,
+			"jpn":"敵単体の情報を一時的に{换行}モンスター図鑑に登録する{换行}{END}",
+			"eng":"Registers one enemy’s details into{换行}the Monstrous Codex during battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"98c",
+			"length":54,
+			"jpn":"敵単体にスキル参加者が{换行}所持武器で合計２回攻撃する{换行}{END}",
+			"eng":"Two allies attack one enemy with{换行}their equipped weapons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"9c2",
+			"length":38,
+			"jpn":"戦闘から高確率で逃走し来た道を戻る{换行}{END}",
+			"eng":"High chance to escape from battle{换行}and return to the floor’s entrance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"9e8",
+			"length":32,
+			"jpn":"味方全体のＴＰが少し回復する{换行}{END}",
+			"eng":"Slightly restores TP to the party．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"a08",
+			"length":50,
+			"jpn":"このターン終了時{换行}味方全体のＨＰを少し回復する{换行}{END}",
+			"eng":"Slightly restores HP to the party{换行}at the end of the turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"a3a",
+			"length":32,
+			"jpn":"味方一人の戦闘不能を回復する{换行}{END}",
+			"eng":"Revives one fallen ally．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"a5a",
+			"length":44,
+			"jpn":"このターン、敵の攻撃を３回まで無効化する{换行}{END}",
+			"eng":"Negates up to three enemy attacks{换行}for one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"a86",
+			"length":46,
+			"jpn":"このターン、敵の封じ・状態異常耐性を下げる{换行}{END}",
+			"eng":"Decreases enemy resistance to binds{换行}and status ailments for one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"ab4",
+			"length":74,
+			"jpn":"このターン、封じ・状態異常を無効化し{换行}致死ダメージ時一定の確率で耐える{换行}{END}",
+			"eng":"For one turn, may endure a lethal blow．{换行}Also blocks binds and status ailments．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"afe",
+			"length":66,
+			"jpn":"戦闘中にベーシックスキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Base Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"b40",
+			"length":32,
+			"jpn":"伐採時に追加で素材を入手可能{换行}{END}",
+			"eng":"Increases material yield from chopping．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"b60",
+			"length":74,
+			"jpn":"周囲に魔法がかかったものがあれば{换行}発見する　さらにＩＮＴが少し上昇する{换行}{END}",
+			"eng":"Finds anything magical nearby．{换行}Also slightly increases INT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"baa",
+			"length":86,
+			"jpn":"敵の素材ドロップ率がスキル所持者の人数に{换行}応じ上昇する　さらにＩＮＴが少し上昇する{换行}{END}",
+			"eng":"Increases enemy drop rate． Can stack．{换行}Also slightly increases INT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"c00",
+			"length":60,
+			"jpn":"暗闇を見通せるようになる{换行}さらに攻撃命中率が少し上昇する{换行}{END}",
+			"eng":"Lets you see clearly in the dark．{换行}Also slightly increases accuracy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"c3c",
+			"length":50,
+			"jpn":"自身に対する食材の{换行}ＨＰＴＰ回復量が２倍になる{换行}{END}",
+			"eng":"Doubles the amount of HP／TP recovered{换行}from consuming food．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"c6e",
+			"length":72,
+			"jpn":"戦闘用の攻撃アイテムのダメージが上昇する{换行}さらにＬＵＣが少し上昇する{换行}{END}",
+			"eng":"Boosts damage dealt by attack items．{换行}Also slightly increases LUC．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"cb6",
+			"length":68,
+			"jpn":"自身の石化、呪い、睡眠、混乱、麻痺、{换行}毒、盲目耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly resists curse, petrify, sleep, {换行}panic, paralysis, poison, and blind．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"cfa",
+			"length":38,
+			"jpn":"自身の炎・氷・雷耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly increases resistance to fire,{换行}ice, and volt．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"d20",
+			"length":32,
+			"jpn":"ＳＴＲとＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Slightly increases STR and VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"d40",
+			"length":32,
+			"jpn":"ＡＧＩとＬＵＣが少し上昇する{换行}{END}",
+			"eng":"Slightly increases AGI and LUC．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"d60",
+			"length":32,
+			"jpn":"ＩＮＴとＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Slightly increases INT and WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"d80",
+			"length":64,
+			"jpn":"戦闘中にマスタースキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Master Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"dc0",
+			"length":50,
+			"jpn":"イベントで入手する家畜を{换行}飼育することができる{换行}{END}",
+			"eng":"Allows tending to farm animals that{换行}you encounter during your journey．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"df2",
+			"length":44,
+			"jpn":"自身への睡眠の付着を一定確率で無効化する{换行}{END}",
+			"eng":"May prevent being put to sleep．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"e1e",
+			"length":52,
+			"jpn":"敵単体の情報を一時的に{换行}モンスター図鑑に登録する{换行}{END}",
+			"eng":"Registers one enemy’s details into{换行}the Monstrous Codex during battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"e52",
+			"length":54,
+			"jpn":"敵単体にスキル参加者が{换行}所持武器で合計２回攻撃する{换行}{END}",
+			"eng":"Two allies attack one enemy with their{换行}equipped weapons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"e88",
+			"length":38,
+			"jpn":"戦闘から高確率で逃走し来た道を戻る{换行}{END}",
+			"eng":"High chance to escape from battle{换行}and return to the floor’s entrance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"eae",
+			"length":32,
+			"jpn":"味方全体のＴＰが少し回復する{换行}{END}",
+			"eng":"Slightly restores TP to the party．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"ece",
+			"length":62,
+			"jpn":"このターン、味方全体の{换行}武器属性に炎・氷・雷属性を追加する{换行}{END}",
+			"eng":"Imbues fire／ice／volt to the party’s{换行}weapons for one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"f0c",
+			"length":44,
+			"jpn":"味方一人の状態異常・封じを{换行}敵全体へ移す{换行}{END}",
+			"eng":"Transfers status ailments／binds{换行}from one ally onto all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"f38",
+			"length":80,
+			"jpn":"このターン、炎・氷・雷属性のダメージ時{换行}一定の確率でいずれかの状態異常にする{换行}{END}",
+			"eng":"For one turn, fire／ice／volt attacks{换行}may inflict a status ailment．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"f88",
+			"length":34,
+			"jpn":"敵全体に遠隔炎と氷と雷属性攻撃{换行}{END}",
+			"eng":"Casts long-ranged fire, ice, and volt{换行}attacks on all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"faa",
+			"length":34,
+			"jpn":"敵全体に遠隔無属性攻撃＋全封じ{换行}{END}",
+			"eng":"Attacks and binds all enemies with{换行}a long-ranged, non-elemental blast．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"fcc",
+			"length":66,
+			"jpn":"戦闘中にベーシックスキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Base Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"100e",
+			"length":72,
+			"jpn":"樹海で食用となる獣を入手することができる{换行}さらにＳＴＲが少し上昇する{换行}{END}",
+			"eng":"Allows hunting of beasts for provisions{换行}in the labyrinth． Slightly increases STR．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"1056",
+			"length":32,
+			"jpn":"採掘時に追加で素材を入手可能{换行}{END}",
+			"eng":"Increases material yield from mining．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"1076",
+			"length":72,
+			"jpn":"身のこなしで対応可能な危機に対処できる{换行}また攻撃回避率が少し上昇する{换行}{END}",
+			"eng":"Avoid tough spots with quick reflexes．{换行}Also slightly increases evasion．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"10be",
+			"length":84,
+			"jpn":"先制攻撃の発生率がスキル所有者の数に応じて{换行}上昇する　さらにＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Increases chance of preemptive strike．{换行}Can stack． Also slightly increases WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"1112",
+			"length":70,
+			"jpn":"樹海で何かを動かしたり運ぶことができる{换行}さらにＳＴＲが少し上昇する{换行}{END}",
+			"eng":"Moves heavy objects with beastly might．{换行}Also slightly increases STR．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"1158",
+			"length":76,
+			"jpn":"周囲を探索し、異変や目ぼしいものを{换行}発見する　さらにＡＧＩが少し上昇する{换行}{END}",
+			"eng":"Grants a keen eye for your surroundings．{换行}Also slightly increases AGI．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"11a4",
+			"length":30,
+			"jpn":"樹海の釣り場で魚を釣る能力{换行}{END}",
+			"eng":"Allows catching fish at certain spots{换行}in the labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"11c2",
+			"length":72,
+			"jpn":"自身への盲目の付着を一定確率で無効化する{换行}さらにＡＧＩが少し上昇する{换行}{END}",
+			"eng":"May prevent being blinded．{换行}Also slightly increases AGI．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"120a",
+			"length":32,
+			"jpn":"ＳＴＲとＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Slightly increases STR and VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":59,
+			"offset":"122a",
+			"length":32,
+			"jpn":"ＡＧＩとＬＵＣが少し上昇する{换行}{END}",
+			"eng":"Slightly increases AGI and LUC．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"124a",
+			"length":32,
+			"jpn":"ＩＮＴとＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Slightly increases INT and WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"126a",
+			"length":64,
+			"jpn":"戦闘中にマスタースキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Master Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"12aa",
+			"length":38,
+			"jpn":"自身の斬・突・壊耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly increases cut／stab／bash{换行}resistance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"12d0",
+			"length":88,
+			"jpn":"アイテムの最大所有数がスキル所有者１名に{换行}つき＋５される　さらにＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Increases inventory space by ５． Can stack．{换行}Also slightly increases VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"1328",
+			"length":52,
+			"jpn":"敵単体の情報を一時的に{换行}モンスター図鑑に登録する{换行}{END}",
+			"eng":"Registers one enemy’s details into{换行}the Monstrous Codex during battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"135c",
+			"length":54,
+			"jpn":"敵単体にスキル参加者が{换行}所持武器で合計２回攻撃する{换行}{END}",
+			"eng":"Two allies attack one enemy with{换行}their equipped weapons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"1392",
+			"length":38,
+			"jpn":"戦闘から高確率で逃走し来た道を戻る{换行}{END}",
+			"eng":"High chance to escape from battle{换行}and return to the floor’s entrance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"13b8",
+			"length":32,
+			"jpn":"味方全体のＴＰが少し回復する{换行}{END}",
+			"eng":"Slightly restores TP to the party．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":68,
+			"offset":"13d8",
+			"length":38,
+			"jpn":"敵全体に使用者が所持武器で攻撃する{换行}{END}",
+			"eng":"Strikes all enemies with equipped weapon．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":69,
+			"offset":"13fe",
+			"length":72,
+			"jpn":"このターン、斬・突・壊属性のダメージ時{换行}一定の確率でいずれかを封じる{换行}{END}",
+			"eng":"For one turn, cut／stab／bash attacks{换行}may bind the enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":70,
+			"offset":"1446",
+			"length":60,
+			"jpn":"このターン、ダメージを与えると{换行}味方全体のＨＰを回復する{换行}{END}",
+			"eng":"For one turn, the whole party recovers{换行}HP each time damage is dealt to an enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":71,
+			"offset":"1482",
+			"length":34,
+			"jpn":"敵単体に遠隔斬と壊と突属性攻撃{换行}{END}",
+			"eng":"Long-ranged cut, bash, and stab attack{换行}to one enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":72,
+			"offset":"14a4",
+			"length":52,
+			"jpn":"敵単体に参加者が所持武器で{换行}合計５回攻撃＋スタン{换行}{END}",
+			"eng":"All five allies attack one enemy with{换行}equipped weapons． Also inflicts stun．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":73,
+			"offset":"14d8",
+			"length":66,
+			"jpn":"戦闘中にベーシックスキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Base Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":74,
+			"offset":"151a",
+			"length":32,
+			"jpn":"採取時に追加で素材を入手可能{换行}{END}",
+			"eng":"Increases material yield from taking．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":75,
+			"offset":"153a",
+			"length":68,
+			"jpn":"自身の石化、呪い、睡眠、混乱、麻痺、{换行}毒、盲目耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly resists curse, petrify, sleep, {换行}panic, paralysis, poison, and blind．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":76,
+			"offset":"157e",
+			"length":40,
+			"jpn":"イベントで入手する家畜を飼育する能力{换行}{END}",
+			"eng":"Allows tending to farm animals that{换行}you encounter during your journey．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":77,
+			"offset":"15a6",
+			"length":30,
+			"jpn":"樹海の釣り場で魚を釣る能力{换行}{END}",
+			"eng":"Allows catching fish at certain spots{换行}in the labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":78,
+			"offset":"15c4",
+			"length":64,
+			"jpn":"戦闘中、自身が使用した回復アイテムの{换行}ＨＰ回復効果が上昇する{换行}{END}",
+			"eng":"Increases the potency of HP recovery{换行}items used by this adventurer in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":79,
+			"offset":"1604",
+			"length":88,
+			"jpn":"アイテムの最大所有数がスキル所有者１名に{换行}つき＋５される　さらにＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Increases inventory space by ５． Can stack．{换行}Also slightly increases VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":80,
+			"offset":"165c",
+			"length":38,
+			"jpn":"自身の炎・氷・雷耐性が少し上昇する{换行}{END}",
+			"eng":"Slightly increases resistance to{换行}fire, ice, and volt．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":81,
+			"offset":"1682",
+			"length":72,
+			"jpn":"身のこなしで対応可能な危機に対処できる{换行}また攻撃回避率が少し上昇する{换行}{END}",
+			"eng":"Avoid tough spots with quick reflexes．{换行}Also slightly increases evasion．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":82,
+			"offset":"16ca",
+			"length":32,
+			"jpn":"ＳＴＲとＶＩＴが少し上昇する{换行}{END}",
+			"eng":"Slightly increases STR and VIT．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":83,
+			"offset":"16ea",
+			"length":32,
+			"jpn":"ＡＧＩとＬＵＣが少し上昇する{换行}{END}",
+			"eng":"Slightly increases AGI and LUC．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":84,
+			"offset":"170a",
+			"length":32,
+			"jpn":"ＩＮＴとＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Slightly increases INT and WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":85,
+			"offset":"172a",
+			"length":64,
+			"jpn":"戦闘中にマスタースキル使用時、{换行}一定確率でＴＰが少量回復する{换行}{END}",
+			"eng":"May restore a small amount of TP{换行}when using a Master Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":86,
+			"offset":"176a",
+			"length":86,
+			"jpn":"販売アイテムの売値を５％減少させる　効果は{换行}重複しない　さらにＷＩＳが少し上昇する{换行}{END}",
+			"eng":"Reduces cost of shop items by ５％． Does{换行}not stack． Also slightly increases WIS．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":87,
+			"offset":"17c0",
+			"length":50,
+			"jpn":"自身に対する食材の{换行}ＨＰＴＰ回復量が２倍になる{换行}{END}",
+			"eng":"Doubles the amount of HP／TP recovered{换行}from consuming food．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":88,
+			"offset":"17f2",
+			"length":52,
+			"jpn":"敵単体の情報を一時的に{换行}モンスター図鑑に登録する{换行}{END}",
+			"eng":"Registers one enemy’s details into{换行}the Monstrous Codex during battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":89,
+			"offset":"1826",
+			"length":54,
+			"jpn":"敵単体にスキル参加者が{换行}所持武器で合計２回攻撃する{换行}{END}",
+			"eng":"Two allies attack one enemy with{换行}their equipped weapons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":90,
+			"offset":"185c",
+			"length":38,
+			"jpn":"戦闘から高確率で逃走し来た道を戻る{换行}{END}",
+			"eng":"High chance to escape from battle{换行}and return to the floor’s entrance．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":91,
+			"offset":"1882",
+			"length":32,
+			"jpn":"味方全体のＴＰが少し回復する{换行}{END}",
+			"eng":"Slightly restores TP to the party．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":92,
+			"offset":"18a2",
+			"length":50,
+			"jpn":"このターン、味方全体への{换行}全ての攻撃を軽減する{换行}{END}",
+			"eng":"Decreases damage to the party for one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":93,
+			"offset":"18d4",
+			"length":48,
+			"jpn":"このターン、味方全体の{换行}行動速度を上昇させる{换行}{END}",
+			"eng":"Increases act speed of the party{换行}for one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":94,
+			"offset":"1904",
+			"length":48,
+			"jpn":"敵味方全体の全ての{换行}強化弱体を１ターン伸ばす{换行}{END}",
+			"eng":"Extends the duration of all active buffs{换行}and debuffs by one turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":95,
+			"offset":"1934",
+			"length":56,
+			"jpn":"味方全体のＨＰと戦闘不能・{换行}封じ・状態異常を回復する{换行}{END}",
+			"eng":"Fully restores the party’s HP, even from{换行}death． Also removes binds／status ailments．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":96,
+			"offset":"196c",
+			"length":52,
+			"jpn":"このターン、味方全体への{换行}全ての攻撃を無効化する{换行}{END}",
+			"eng":"Nullifies all attacks to the party{换行}for one turn．{换行}{END}",
+			"zh":""
+		}
+	]
+}

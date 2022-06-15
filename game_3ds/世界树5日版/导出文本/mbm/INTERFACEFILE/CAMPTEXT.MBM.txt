@@ -1,0 +1,549 @@
+{
+	"fileName":"CAMPTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"460",
+			"length":32,
+			"jpn":"このメンバーに決定しますか？{换行}{END}",
+			"eng":"Is this the party you wish？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"480",
+			"length":24,
+			"jpn":"中断セーブしますか？{换行}{END}",
+			"eng":"Create a suspend save？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"498",
+			"length":40,
+			"jpn":"お疲れ様でした{换行}電源をお切りください{换行}{END}",
+			"eng":"Thank you for playing．{换行}Please turn the power OFF．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"4c0",
+			"length":24,
+			"jpn":"習得条件はありません{换行}{END}",
+			"eng":"No condition{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"4d8",
+			"length":38,
+			"jpn":"{文本11:0000}を習得します{换行}よろしいですか？{换行}{END}",
+			"eng":"You will learn {文本11:0000}．{换行}Continue？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"4fe",
+			"length":60,
+			"jpn":"{文本11:0000}をＬＶ：{文本11:0100}から{换行}ＬＶ：{文本11:0200}へレベルアップしますか？{换行}{END}",
+			"eng":"Raise the Lv{文本11:0100} {文本11:0000}{换行}to Lv{文本11:0200}？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"53a",
+			"length":40,
+			"jpn":"{文本11:0000}が{换行}習得できるようになりました！{换行}{END}",
+			"eng":"{文本11:0000}{换行}is now available！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"562",
+			"length":32,
+			"jpn":"スキルポイントが足りません！{换行}{END}",
+			"eng":"You don’t have enough skill points！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"582",
+			"length":62,
+			"jpn":"マスタリースキルのレベルアップにより{换行}{文本11:0000}を習得しました！{换行}{END}",
+			"eng":"You learned {文本11:0000} by leveling{换行}up your Mastery Skill．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"5c0",
+			"length":30,
+			"jpn":"この職業についていません！{换行}{END}",
+			"eng":"This class does not have that！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"5de",
+			"length":16,
+			"jpn":"{文本11:0000}を使った{换行}{END}",
+			"eng":"Used {文本11:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"5ee",
+			"length":30,
+			"jpn":"このアイテムを捨てますか？{换行}{END}",
+			"eng":"Will you discard this item？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"60c",
+			"length":26,
+			"jpn":"{文本11:0000}を{文本11:0100}個捨てました{换行}{END}",
+			"eng":"You discarded {文本11:0000} x{文本11:0100}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"626",
+			"length":34,
+			"jpn":"使用できるスキルがありません！{换行}{END}",
+			"eng":"You haven’t any skills to use！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"648",
+			"length":100,
+			"jpn":"{颜色:0300}『ＩＴＥＭ』{颜色:0000}メニューでは…{换行}所持しているアイテムを使用したり{换行}捨てたりすることができます{换行}{END}",
+			"eng":"In the {颜色:0300}Items{颜色:0000} menu, you can use{换行}or throw away items in your{换行}inventory．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"6ac",
+			"length":104,
+			"jpn":"{颜色:0300}『ＳＫＩＬＬ』{颜色:0000}メニューでは…{换行}ダンジョンや街の中で使用可能なスキルを{换行}使用することができます{换行}{END}",
+			"eng":"In the {颜色:0300}Skills{颜色:0000} menu, you can use{换行}the skills that are available{换行}outside of combat．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"714",
+			"length":204,
+			"jpn":"{颜色:0300}『ＥＱＵＩＰ』{颜色:0000}メニューでは…{换行}キャラクターの各種装備品を自由に{换行}変更することができます{换行}{换页}{颜色:0300}装備した武具によって使用できる{换行}スキルが異なる{颜色:0000}職業があるので{换行}装備の変更は注意して行いましょう{换行}{END}",
+			"eng":"In the {颜色:0300}Equip{颜色:0000} menu, you can{换行}adjust a party member’s{换行}equipment．{换行}{换页}{颜色:0300}Some classes require particular{换行}weapons to use some of their{换行}skills{颜色:0000}． Be mindful of this．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"7e0",
+			"length":278,
+			"jpn":"{颜色:0300}『ＣＵＳＴＯＭ』{颜色:0000}メニューでは…{换行}スキルポイントをふりわけて{换行}スキルを習得することができます{换行}{换页}このゲームでは{换行}{颜色:0300}ＬＶアップにつき１スキルポイント{换行}{颜色:0000}を取得します{换行}{换页}強化したいスキルや習得したいスキル{换行}にスキルポイントをふりわけて{换行}キャラクターを育てていきましょう{换行}{END}",
+			"eng":"In the {颜色:0300}Custom{颜色:0000} menu, you can{换行}spend skill points to learn{换行}new {颜色:0300}skills{颜色:0000}．{换行}{换页}In this game,{颜色:0300} you earn only one skill{换行}point for each level you gain{颜色:0000}．{换行}{换页}Use them wisely either to strengthen{换行}existing skills or to learn new ones．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"8f6",
+			"length":182,
+			"jpn":"{颜色:0300}『ＰＡＲＴＹ』{颜色:0000}メニューでは…{换行}パーティの前列後列の並び方を{换行}再編成することができます{换行}{换页}戦闘不能者が出て{换行}{颜色:0300}隊列が崩れた後は要注意です{换行}{颜色:0000}必ず直すように心がけましょう{换行}{END}",
+			"eng":"In the {颜色:0300}Party{颜色:0000} menu, you can{换行}reconfigure your party{换行}formation．{换行}{换页}In battle, {颜色:0300}if the entire front{换行}line dies, it will be replaced{换行}by the back line{颜色:0000}．{换行}{换页}Should the back line replace the{换行}fallen front line, remember to{换行}reform the party afterward．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"9ac",
+			"length":276,
+			"jpn":"{颜色:0300}『ＢＯＯＫ』{颜色:0000}メニューでは…{换行}受領中／コンプリート済みのクエストや{换行}ミッションなどが確認できます{换行}{换页}またゲームを進行することで{换行}ギルドカードの確認が{换行}できるようになります{换行}{换页}さらにモンスター図鑑、アイテム図鑑で{换行}発見したモンスター、アイテムを{换行}閲覧することも可能です{换行}{END}",
+			"eng":"In the {颜色:0300}Book{颜色:0000} menu, you can view{换行}any accepted or completed quests{换行}and missions．{换行}{换页}You may also view your collection{换行}of Guild Cards here．{换行}{换页}With the Monstrous Codex and Item Compendium,{换行}viewing discovered monsters and items is {换行}also possible．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"ac0",
+			"length":74,
+			"jpn":"ドールは二刀流として装備できません{换行}他の武器が外れますが装備しますか？{换行}{END}",
+			"eng":"Cannot equip the doll without{换行}removing another weapon． Do you{换行}still wish to equip it？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"b0a",
+			"length":46,
+			"jpn":"装備を外せません！{换行}持ち物を捨ててください{换行}{END}",
+			"eng":"That cannot be removed without{换行}first discarding something．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"b38",
+			"length":20,
+			"jpn":"依頼はありません{换行}{END}",
+			"eng":"You have no active requests．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"b4c",
+			"length":50,
+			"jpn":"このギルドカードを削除します{换行}よろしいですか？{换行}{END}",
+			"eng":"Are you sure you wish to discard{换行}this guild card？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"b7e",
+			"length":30,
+			"jpn":"ギルドカードを削除しました{换行}{END}",
+			"eng":"The guild card has been discarded．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"b9c",
+			"length":74,
+			"jpn":"{文本11:0000}のＳＴＲが{换行}{文本11:0100}に上がった！{换行}※{文本11:0200}残り使用可能回数{颜色:0300}{文本11:0300}{颜色:0000}回{换行}{END}",
+			"eng":"{文本11:0000}’s strength is now {文本11:0100}！{换行}*{颜色:0300}{文本11:0300}{颜色:0000} remaining uses of {文本11:0200}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"be6",
+			"length":74,
+			"jpn":"{文本11:0000}のＴＥＣが{换行}{文本11:0100}に上がった！{换行}※{文本11:0200}残り使用可能回数{颜色:0300}{文本11:0300}{颜色:0000}回{换行}{END}",
+			"eng":"{文本11:0000}’s technique is now {文本11:0100}！{换行}*{颜色:0300}{文本11:0300}{颜色:0000} remaining uses of {文本11:0200}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"c30",
+			"length":74,
+			"jpn":"{文本11:0000}のＶＩＴが{换行}{文本11:0100}に上がった！{换行}※{文本11:0200}残り使用可能回数{颜色:0300}{文本11:0300}{颜色:0000}回{换行}{END}",
+			"eng":"{文本11:0000}’s vitality is now {文本11:0100}！{换行}*{颜色:0300}{文本11:0300}{颜色:0000} remaining uses of {文本11:0200}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"c7a",
+			"length":74,
+			"jpn":"{文本11:0000}のＡＧＩが{换行}{文本11:0100}に上がった！{换行}※{文本11:0200}残り使用可能回数{颜色:0300}{文本11:0300}{颜色:0000}回{换行}{END}",
+			"eng":"{文本11:0000}’s agility is now {文本11:0100}！{换行}*{颜色:0300}{文本11:0300}{颜色:0000} remaining uses of {文本11:0200}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"cc4",
+			"length":74,
+			"jpn":"{文本11:0000}のＬＵＣが{换行}{文本11:0100}に上がった！{换行}※{文本11:0200}残り使用可能回数{颜色:0300}{文本11:0300}{颜色:0000}回{换行}{END}",
+			"eng":"{文本11:0000}’s luck is now {文本11:0100}！{换行}*{颜色:0300}{文本11:0300}{颜色:0000} remaining uses of {文本11:0200}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"d0e",
+			"length":26,
+			"jpn":"しかし効果はなかった！{换行}{END}",
+			"eng":"There was no effect！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"d28",
+			"length":96,
+			"jpn":"{颜色:0300}『ＳＴＡＴＵＳ』{颜色:0000}メニューでは…{换行}キャラクターのステータス・装備{换行}を見ることができます{换行}{END}",
+			"eng":"In the {颜色:0300}Status{颜色:0000} menu, you can{换行}see a party member’s status and{换行}equipment．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"d88",
+			"length":98,
+			"jpn":"{颜色:0300}サブウェポン{颜色:0000}を装備しました。{换行}戦闘時、サブウェポンのスキルも{换行}使用することができます！{换行}{END}",
+			"eng":"You have equipped a {颜色:0300}subweapon{颜色:0000},{换行}enabling you to use that weapon’s{换行}skills in battle！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"dea",
+			"length":56,
+			"jpn":"装備を変更したことで{换行}使用できるスキルが変化しました{换行}{END}",
+			"eng":"The change in equipment has changed{换行}the skills that can be used．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"e22",
+			"length":46,
+			"jpn":"このキャラクターの装備は{换行}変更できません！{换行}{END}",
+			"eng":"This character’s equipment cannot{换行}be changed！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"e50",
+			"length":60,
+			"jpn":"習得可能レベルに達していません。{换行}{颜色:0300}レベル２０以上{颜色:0000}{换行}{END}",
+			"eng":"You are not yet at the necessary{换行}level of {颜色:0300}２０{颜色:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"e8c",
+			"length":60,
+			"jpn":"習得可能レベルに達していません。{换行}{颜色:0300}レベル４０以上{颜色:0000}{换行}{END}",
+			"eng":"You are not yet at the necessary{换行}level of {颜色:0300}４０{颜色:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"ec8",
+			"length":24,
+			"jpn":"習得済みスキルです。{换行}{END}",
+			"eng":"That skill has already been mastered．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"ee0",
+			"length":68,
+			"jpn":"{颜色:0300}砲剣{颜色:0000}を装備しました{换行}砲剣装備中は他の武器を装備できません{换行}{END}",
+			"eng":"A {颜色:0300}drive blade{颜色:0000} is currently equipped．{换行}Subweapons cannot be equipped while{换行}a drive blade is in use．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"f24",
+			"length":40,
+			"jpn":"このキャラクターには使用できません！{换行}{END}",
+			"eng":"That cannot be used on this character！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"f4c",
+			"length":58,
+			"jpn":"このキャラクターのパラメータは{换行}最大値になっています。{换行}{END}",
+			"eng":"This character’s stats are already{换行}at their maximum．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"f86",
+			"length":58,
+			"jpn":"このキャラクターはすでに{换行}{文本11:0000}を１０回使用しています。{换行}{END}",
+			"eng":"This character has already used the{换行}{文本11:0000} １０ times．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"fc0",
+			"length":54,
+			"jpn":"{文本11:0000}の{文本11:0100}の効果により{换行}{颜色:0300}{文本11:0200}ｅｎ{颜色:0000}手に入れた{换行}{END}",
+			"eng":"Due to {文本11:0000}’s {文本11:0100} effect,{换行}you have gained {颜色:0300}{文本11:0200}en{颜色:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"ff6",
+			"length":52,
+			"jpn":"習得条件をみたしていません{换行}{文本11:0000}　ＬＶ：{文本11:0100}以上{换行}{END}",
+			"eng":"Learning this skill requires：{换行}{文本11:0000}  Lv：{文本11:0100}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"102a",
+			"length":74,
+			"jpn":"習得条件をみたしていません{换行}{文本11:0000}　ＬＶ：{文本11:0100}以上{换行}{文本11:0200}　ＬＶ：{文本11:0300}以上{换行}{END}",
+			"eng":"Learning this skill requires：{换行}{文本11:0000} Lv：{文本11:0100}{换行}{文本11:0200} Lv：{文本11:0300}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"1074",
+			"length":98,
+			"jpn":"習得条件をみたしていません{换行}{文本11:0000}　ＬＶ：{文本11:0100}以上{换行}{文本11:0200}　ＬＶ：{文本11:0300}以上{换行}{换页}{文本11:0400}　ＬＶ：{文本11:0500}以上{换行}{END}",
+			"eng":"Learning this skill requires：{换行}{文本11:0000} Lv：{文本11:0100}{换行}{文本11:0200} Lv：{文本11:0300}{换行}{换页}{文本11:0400} Lv：{文本11:0500}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"10d6",
+			"length":120,
+			"jpn":"習得条件をみたしていません{换行}{文本11:0000}　ＬＶ：{文本11:0100}以上{换行}{文本11:0200}　ＬＶ：{文本11:0300}以上{换行}{换页}{文本11:0400}　ＬＶ：{文本11:0500}以上{换行}{文本11:0600}　ＬＶ：{文本11:0700}以上{换行}{END}",
+			"eng":"Learning this skill requires：{换行}{文本11:0000} Lv：{文本11:0100}{换行}{文本11:0200} Lv：{文本11:0300}{换行}{换页}{文本11:0400} Lv：{文本11:0500}{换行}{文本11:0600} Lv：{文本11:0700}{换行}You could not warp out．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"114e",
+			"length":32,
+			"jpn":"しかし{文本11:0000}は{换行}発動しなかった{换行}{END}",
+			"eng":"But the {文本11:0000} failed to{换行}take effect．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"116e",
+			"length":28,
+			"jpn":"{文本11:0100}は{换行}{文本11:0000}を起動した！{换行}{END}",
+			"eng":"{文本11:0100} used {文本11:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"118a",
+			"length":22,
+			"jpn":"貴重品はありません{换行}{END}",
+			"eng":"You have no key items．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"11a0",
+			"length":52,
+			"jpn":"このスキルにポイントを{换行}割り振ることは出来ません{换行}{END}",
+			"eng":"You cannot allocate points to this skill．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"11d4",
+			"length":20,
+			"jpn":"食材はありません{换行}{END}",
+			"eng":"You have no ingredients．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"11e8",
+			"length":36,
+			"jpn":"捨てたいグリモアを選んでください{换行}{END}",
+			"eng":"Select a Grimoire to discard．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"120c",
+			"length":24,
+			"jpn":"グリモアはありません{换行}{END}",
+			"eng":"You have no Grimoires．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"1224",
+			"length":22,
+			"jpn":"所持品はありません{换行}{END}",
+			"eng":"You have no items．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"123a",
+			"length":30,
+			"jpn":"このグリモアを捨てますか？{换行}{END}",
+			"eng":"Discard this Grimoire？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"1258",
+			"length":24,
+			"jpn":"レベルが足りません！{换行}{END}",
+			"eng":"Your level isn’t high enough to learn this！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"1270",
+			"length":32,
+			"jpn":"しかし周囲に魔物はいなかった{换行}{END}",
+			"eng":"Unfortunately, there’s no monsters around．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"1290",
+			"length":330,
+			"jpn":"スキルポイントを振り分ける前に{换行}スキルの種類についてご説明します{换行}{换页}習得可能なスキルには{换行}フェンサー、セスタスといった{换行}職業固有であるＢａｓｉｃと…{换行}{换页}アースラン、セリアンといった{换行}種族固有のＲａｃｅが存在します{换行}{换页}今見ている画面はＢａｓｉｃ側になっており…{换行}{换页}Ｒａｃｅを見たい場合は十字ボタンの左を{换行}押せば見ることができます{换行}{END}",
+			"eng":"Before spending Skill Points, please review{换行}the different types of skills．{换行}{换页}Basic Skills are bound to a character’s class,{换行}such as Fencer or Pugilist．{换行}{换页}Race Skills are bound to a character’s race,{换行}such as Earthlain or Therian．{换行}{换页}You are currently viewing Basic Skills．{换行}{换页}To look at Race Skills, press Left {换行}on the +Control Pad．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"13da",
+			"length":124,
+			"jpn":"種族スキルは探索に有効なものが多く存在し{换行}ます。レベルの上昇に応じて解放されますの{换行}で定期的に確認し、習得してみましょう{换行}{END}",
+			"eng":"Many Race Skills help with exploration．{换行}Additional skills are gained by leveling,{换行}so check for new ones frequently．{换行}{END}",
+			"zh":""
+		}
+	]
+}

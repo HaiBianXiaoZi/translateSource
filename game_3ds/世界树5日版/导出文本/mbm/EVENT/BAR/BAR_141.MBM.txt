@@ -1,0 +1,29 @@
+{
+	"fileName":"BAR_141.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"50",
+			"length":284,
+			"jpn":"{F812}王立図書館の学者\u0000最近発見された古代文献によると、{换行}第六階層には{颜色:0500}光の輪{颜色:0000}という物が{换行}あるそうだ。{换行}{换页}なんでも、その光の輪に入った者は{换行}直線方向に離れた場所へと{换行}瞬時に移動することができるらしい。{换行}{换页}一体何者が造った物かはわからないが、{换行}君たちの探索の役に立つかもしれない。{换行}{END}",
+			"eng":"{F812}Royal Librarian\u0000According to recently discovered ancient{换行}documents, there’s apparently {颜色:0500}rings of light{颜色:0000}{换行}in the ６th Stratum．{换行}{换页}Supposedly, anyone who enters the rings can{换行}be transported instantly in a linear direction．{换行}{换页}I don’t know who made such marvelous things,{换行}but it may prove to be of use as you explore．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"16c",
+			"length":232,
+			"jpn":"{F812}王立図書館の学者\u0000やあ、前回話した{颜色:0500}光の輪{颜色:0000}についてだが…。{换行}さらに文献を解読した結果、{颜色:0500}輪の色によって{换行}転移距離に差が出る{颜色:0000}ことがわかった。{换行}{换页}どの色でどれぐらい移動するか覚えることで{换行}効率の良い探索が行えそうだな。{换行}{END}",
+			"eng":"{F812}Royal Librarian\u0000Hello again． We deciphered more documents on{换行}those rings of light I told you about． Seems the{换行}{颜色:0500}teleportation distance changes based on color{颜色:0000}．{换行}{换页}Keeping tabs on which color sends you how {换行}far should help you with your exploration．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"254",
+			"length":240,
+			"jpn":"{F812}王立図書館の学者\u0000やあ、前回話した{颜色:0500}光の輪{颜色:0000}についてだが、{换行}また新しいことがわかったよ。{换行}{换页}文献には、光の輪を利用して{换行}魔物を転移させることも{换行}可能と書かれている。{换行}{换页}{颜色:0500}光の輪{颜色:0000}と魔物の位置を見て{换行}上手く立ち回るといいだろう。{换行}{END}",
+			"eng":"{F812}Royal Librarian\u0000Hello there． We’ve learned a bit more {换行}about those mysterious rings of light．{换行}{换页}Newly deciphered documents suggest it’s{换行}also possible to use the rings of light to {换行}teleport monsters．{换行}{换页}Be mindful of where rings of light and{换行}monsters are located to skillfully navigate{换行}the ６th Stratum．{换行}{END}",
+			"zh":""
+		}
+	]
+}

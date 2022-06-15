@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_116.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":310,
+			"jpn":"{F812}ふくよかなご婦人\u0000あら、アンタたち、冒険者かい？{换行}じゃあ、リリちゃんを知ってるかい？{换行}{换页}何かを探しに樹海に入ってるって話だけど{换行}街の人からの頼みごとや評議会からの依頼も{换行}こなしてるんだから偉いわよねぇ。{换行}{换页}ウチの娘たちも見習ってくれないかしら。{换行}店の手伝いもしないで、すーぐに遊びに{换行}行っちゃうのよねぇ。{换行}{END}",
+			"eng":"{F812}Plump Lady\u0000Are you adventurers, by any chance？{换行}Then you’ve surely met Lili by now．{换行}{换页}Even though she has her own responsibilities,{换行}she still takes on more requests from the{换行}townsfolk and the Council than most guilds．{换行}{换页}Such a good girl． If only my daughters followed{换行}her example． They don’t help out at the shop{换行}at all． All they care about is playing outside．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

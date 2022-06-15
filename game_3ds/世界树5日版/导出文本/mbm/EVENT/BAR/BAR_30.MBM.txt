@@ -1,0 +1,109 @@
+{
+	"fileName":"BAR_30.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"f0",
+			"length":178,
+			"jpn":"{F812}ルナリアの老学者\u0000我は古代書物の研究者。{换行}アルカディアに眠る様々な書を調べておる。{换行}{换页}汝ら冒険者か？{换行}ならば{颜色:0500}達人の書{颜色:0000}を入手した時は{换行}我のところまで持ってくるといい。{换行}{END}",
+			"eng":"{F812}Celestrian Scholar\u0000I am a researcher of ancient texts．{换行}My calling is to find the forgotten{换行}tomes across the land of Arcania．{换行}{换页}Are you adventurers？ Should you ever acquire{换行}a {颜色:0500}Book of Mastery{颜色:0000}, please bring it to me．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1a2",
+			"length":250,
+			"jpn":"{F812}ルナリアの老学者\u0000我は古代書物の研究者。{换行}アルカディアに眠る様々な書を調べておる。{换行}{换页}ほう、それは{颜色:0500}達人の書{颜色:0000}。{换行}その書を読んだ者は一夜で歴戦の猛者に{换行}匹敵する経験を得る伝説の書物だ。{换行}{换页}もし達人の書を使いたい者がいれば{换行}名乗り出るが良い。{换行}{END}",
+			"eng":"{F812}Celestrian Scholar\u0000I am a researcher of ancient texts．{换行}My calling is to find the forgotten{换行}tomes across the land of Arcania．{换行}{换页}Ahh． Is that a {颜色:0500}Book of Mastery{颜色:0000}？ ’Tis said that{换行}whomever reads its legendary words shall gain{换行}the experience of a veteran warrior, overnight！{换行}{换页}’Twould be an honor to translate it for you．{换行}If there are any who wish to learn from its{换行}ancient teachings, then please, come forth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"29c",
+			"length":212,
+			"jpn":"{颜色:0300}達人の書を使うことで{换行}{颜色:0500}１９レベル以下{颜色:0300}のキャラクター１人を{换行}{颜色:0500}２０レベル{颜色:0300}にすることができます。{换行}{换页}{颜色:0300}ただし解読すると{颜色:0500}達人の書を１つ失い{颜色:0300}ます。{换行}達人の書の数に注意しながら使いましょう。{换行}{END}",
+			"eng":"{颜色:0300}By using a Book of Mastery, one character{换行}{颜色:0500}under level １９{颜色:0300} will be raised to {颜色:0500}level ２０{颜色:0300}．{换行}{换页}{颜色:0300}However, a {颜色:0500}Book of Mastery shall disintegrate{颜色:0300}{换行}once its wisdom has been transferred． Keep an{换行}eye on how many you have when using them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"370",
+			"length":90,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}達人の書を使う{换行}達人の書についてもう一度確認したい{换行}話をやめる{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Use the Book of Mastery{换行}Ask about ancient texts{换行}Stop talking about tomes{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"3ca",
+			"length":38,
+			"jpn":"{颜色:0500}誰に達人の書を使いますか？{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0500}Who shall read the Book of Mastery？{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"3f0",
+			"length":34,
+			"jpn":"{颜色:0300}{角色:0000}は{数字:0100}レベルです。{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0300}{角色:0000} is currently level {数字:0100}．{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"412",
+			"length":84,
+			"jpn":"{颜色:0500}本当に使ってもよろしいですか？{颜色:0000}{换行}{角色:0000}に達人の書を使用する{换行}やっぱりやめる{换行}{END}",
+			"eng":"{颜色:0500}Are you sure you want to use it？{颜色:0000}{换行}Use the book on {角色:0000}{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"466",
+			"length":52,
+			"jpn":"{颜色:0300}{角色:0000}は達人の書の力で{换行}レベルが２０になった！{换行}{END}",
+			"eng":"{颜色:0300}{角色:0000}’s level increased to ２０！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"49a",
+			"length":118,
+			"jpn":"{F812}ルナリアの老学者\u0000無事、達人の書の内容は{换行}理解できたようだな。{换行}{换页}また、書を読んで欲しいときは{换行}声をかけてくれ。{换行}{END}",
+			"eng":"{F812}Celestrian Scholar\u0000’Twould seem that the secrets locked within{换行}the Book of Mastery are now yours to keep．{换行}{换页}Should you come upon another, similar tome,{换行}bring it to me and I shall translate it for you．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"510",
+			"length":48,
+			"jpn":"{颜色:0300}{角色:0000}のレベルでは{换行}達人の書は使えません！{换行}{END}",
+			"eng":"{颜色:0300}The Book of Mastery cannot be used{换行}because of {角色:0000}’s level！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"540",
+			"length":72,
+			"jpn":"{F812}ルナリアの老学者\u0000わかった。{换行}またその気になったら声をかけてくれ。{换行}{END}",
+			"eng":"{F812}Celestrian Scholar\u0000Very well． Speak to me when you are up for it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"588",
+			"length":52,
+			"jpn":"{F812}ルナリアの老学者\u0000まあ、いつでも来るといいさ。{换行}{END}",
+			"eng":"{F812}Celestrian Scholar\u0000Very well, come again whenever you wish．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"5bc",
+			"length":44,
+			"jpn":"{颜色:0300}このキャラクターには使用できません！{换行}{END}",
+			"eng":"{颜色:0300}It cannot be used on this character！{换行}{END}",
+			"zh":""
+		}
+	]
+}

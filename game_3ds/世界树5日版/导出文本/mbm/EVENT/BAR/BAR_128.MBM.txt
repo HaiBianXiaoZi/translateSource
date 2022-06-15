@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_128.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":420,
+			"jpn":"{F812}顔に傷のある好々爺\u0000ほっほっほ、第四階層は水晶の樹海{换行}なんじゃと聞いたぞい。{换行}{换页}ワシも探検家だった頃、水晶の樹海なんて{换行}けったいなものではないが、水晶の洞窟に{换行}入ったことがあっての。{换行}{换页}そこには道をふさぐ大きい水晶があって{换行}とびっきり重いもんで{颜色:0500}２回ぶっ叩く{颜色:0000}と{换行}ようやく壊れたんじゃ。{换行}{换页}ワシが{颜色:0500}叩く間も獣たちは動く{颜色:0000}もんで{换行}近づかんでくれと、毎度祈っておったわ。{换行}ほほ、今となっては懐かしき思い出じゃ。{换行}{END}",
+			"eng":"{F812}Scarred Old Man\u0000Heh, heh--I hear the ４th Stratum’s {换行}a crystal cavern．{换行}{换页}Don’t know much about no Lucent Hollows,{换行}but I once wandered into a crystalline cave{换行}back when I was an explorer．{换行}{换页}Goddamn giant crystals there blocked half{换行}the paths． Wound up having to hit ’em twice{换行}with something heavy to get ’em to shatter．{换行}{换页}The {颜色:0500}beasties kept moving while I’d work on{换行}’em{颜色:0000}, though, so I had to hope and pray they{换行}didn’t come near me． Those were the days．{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_125.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":288,
+			"jpn":"{F812}よれた衣服の大男\u0000死霊術師のリリと死神のソロルって{换行}よく第三階層にいるらしいんだよ。{换行}{换页}なんだか探してる物があるって話だが、{换行}奥にとんでもない奴が潜んでるって噂と{换行}関係あるのかねぇ。{换行}{换页}ま、あくまで噂は噂だ。{换行}分かりもしねぇ情報に踊らされるより{换行}酒をあおって踊る方が性に合ってるぜ。{换行}{END}",
+			"eng":"{F812}Ragged-looking Warlock\u0000I’m told Lili and Solor are frequently seen{换行}in the ３rd Stratum．{换行}{换页}I hear they’re looking for something．{换行}Maybe it has to do with the deranged{换行}monster lurking deeper within the area？{换行}{换页}Nothing but rumors, anyhow--all uncertainty{换行}and hearsay． You know what is certain, though？{换行}How much this drink hits the spot．{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"fileName":"MISSION_NAME.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"f0",
+			"length":24,
+			"jpn":"アイオリス認定試験！{换行}{END}",
+			"eng":"Iorys Qualification Exam{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"108",
+			"length":26,
+			"jpn":"ルナリアの結界を解け！{换行}{END}",
+			"eng":"Breaking Down a Magic Barrier{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"122",
+			"length":16,
+			"jpn":"鳴動する大地{换行}{END}",
+			"eng":"A Primordiphant Shakes the Earth{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"132",
+			"length":26,
+			"jpn":"傲慢の仔、ヒポグリフ！{换行}{END}",
+			"eng":"Hippogryph, Creature of Malice{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"14c",
+			"length":24,
+			"jpn":"英雄の武具を集めよ！{换行}{END}",
+			"eng":"A Hero’s Lost Belongings{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"164",
+			"length":28,
+			"jpn":"ソロルとリリに助力せよ！{换行}{END}",
+			"eng":"Help Solor and Lili{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"180",
+			"length":34,
+			"jpn":"水晶竜を越え世界樹の奥へ進め！{换行}{END}",
+			"eng":"Best the Crystal Dragon{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"1a2",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1ac",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1b6",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"1c0",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"1ca",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"1d4",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		}
+	]
+}

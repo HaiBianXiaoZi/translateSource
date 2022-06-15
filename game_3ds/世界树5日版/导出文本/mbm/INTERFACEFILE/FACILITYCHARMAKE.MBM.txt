@@ -1,0 +1,85 @@
+{
+	"fileName":"FACILITYCHARMAKE.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"c0",
+			"length":26,
+			"jpn":"職業を選択してください{换行}{END}",
+			"eng":"Select the adventurer’s class．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"da",
+			"length":26,
+			"jpn":"外見を選択してください{换行}{END}",
+			"eng":"Select the adventurer’s portrait．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"f4",
+			"length":46,
+			"jpn":"このキャラクターで登録します{换行}いいですか？{换行}{END}",
+			"eng":"Is this adventurer ready{换行}for registration？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"122",
+			"length":30,
+			"jpn":"キャラクターを登録しました{换行}{END}",
+			"eng":"Registration complete．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"140",
+			"length":68,
+			"jpn":"続けて冒険者を登録しますか？{换行}ギルド登録者数{文本11:0000}人：残り枠{文本11:0100}人{换行}{END}",
+			"eng":"Register another adventurer？{换行}There are {文本11:0100} slots left．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"184",
+			"length":32,
+			"jpn":"サブクラスを選択してください{换行}{END}",
+			"eng":"Please choose a subclass．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"1a4",
+			"length":44,
+			"jpn":"このクラスを習得します{换行}よろしいですか？{换行}{END}",
+			"eng":"Select this as the character’s{换行}subclass？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1d0",
+			"length":30,
+			"jpn":"この職業でよろしいですか？{换行}{END}",
+			"eng":"Proceed with this class？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1ee",
+			"length":26,
+			"jpn":"この職業に転職しました{换行}{END}",
+			"eng":"The character’s class has been{换行}changed．{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"fileName":"BAR_139.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"50",
+			"length":384,
+			"jpn":"{F812}への字口のブラニー族\u0000オレッちはアースランが許せねぇ…。{换行}あいつらはいつもオレッちをバカにする。{换行}{换页}この前もそうだ、オレッちが果実を{换行}取ろうと飛び跳ねてるとアースランが{换行}勝手にそれをもぎ取っちまうんだよ！{换行}{换页}あまつさえ、はいどうぞ。って{换行}穏やかに笑って渡してくんだぞ！？{换行}思わず、ありがとうって返しちまったよ！{换行}{换页}くそぉ！　バカにしやがってぇ！！{换行}同情するならタッパを寄越せぇ！{换行}{END}",
+			"eng":"{F812}Pouting Brouni\u0000Damn Earthlains, always making fun of me．．．{换行}{换页}Just yesterday, I was jumping up to reach{换行}some fruit, and an Earthlain came by and {换行}plucked it out from under me． Over me？{换行}{换页}To make matters worse, they just handed{换行}the thing over to me with a nice smile！{换行}I couldn’t stop myself from saying ”thanks”！{换行}{换页}Damn！ I don’t need some Earthlain’s pity．{换行}I just need their height！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1d0",
+			"length":368,
+			"jpn":"{F812}への字口のブラニー族\u0000オレッちはセリアンが許せねぇ…。{换行}あいつらはいつもオレッちをバカにする。{换行}{换页}この前もそうだ、オレッちが落石から{换行}逃げてるとセリアンがひょいと{换行}片手でオレッちを持ちあげやがる。{换行}{换页}あまつさえ、お前は軽くていい。って{换行}脇に抱えられちまったんだぜ！？{换行}俺はぬいぐるみじゃねぇ！！{换行}{换页}くそぉ！　バカにしやがってぇ！！{换行}同情するならタッパを寄越せぇ！{换行}{END}",
+			"eng":"{F812}Pouting Brouni\u0000Damn Therians, always making fun of me．．．{换行}{换页}Just yesterday, I was running from {换行}a rock slide when a Therian picked {换行}me up with one arm！{换行}{换页}They tucked me under their arm and said,{换行}”Good thing you’re so light！” What do they{换行}think I am, a stuffed animal！？ I’m not！{换行}{换页}Damn！ I don’t need some Therian’s pity．{换行}I just need their height！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"340",
+			"length":364,
+			"jpn":"{F812}への字口のブラニー族\u0000オレッちはルナリアが許せねぇ…。{换行}あいつらはいつもオレッちをバカにする。{换行}{换页}この前もそうだ、オレッちが休んでると{换行}ルナリアが俺を抱きかかえて{换行}眠りにつこうとしやがる！{换行}{换页}あまつさえ、ちょうどいい大きさ。って{换行}言うなり本当に寝ちまうんだぜ！？{换行}オレッちは抱き枕じゃねぇ！{换行}{换页}くそぉ！　バカにしやがってぇ！！{换行}同情するならタッパを寄越せぇ！{换行}{END}",
+			"eng":"{F812}Pouting Brouni\u0000Damn Celestrians, always making fun of me．．．{换行}{换页}Just yesterday, I was taking a rest{换行}when a Celestrian came by and took a nap{换行}while hugging me！{换行}{换页}They mumbled something about me being{换行}”the perfect size” and then fell asleep！{换行}What am I, a body pillow！？ Well, I’m not！{换行}{换页}Damn！ I don’t need some Celestrian’s pity．{换行}I just need their height！{换行}{END}",
+			"zh":""
+		}
+	]
+}

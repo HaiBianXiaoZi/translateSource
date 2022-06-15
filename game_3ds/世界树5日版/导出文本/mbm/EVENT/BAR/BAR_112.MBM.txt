@@ -1,0 +1,77 @@
+{
+	"fileName":"BAR_112.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"b0",
+			"length":290,
+			"jpn":"{F812}紫髪の女細剣士\u0000あ、同業者のお方…ですよね？{换行}皆様は２階まで行かれましたか？{换行}{换页}ワタクシ、あのような大きな芋虫は{换行}初めて見ました。行ったり来たりとする{换行}ご様子は少し愛らしいですよね？{换行}{换页}芋虫様は無用な戦いをしないようなので{换行}進行の妨げにならないよう注意して{换行}進めば問題ないようですね。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000You’re fellow adventurers, I assume？{换行}Have you ventured over to ２F yet？{换行}{换页}I’ve never seen anything like that giant {换行}caterpillar up there． The way it moves{换行}is pretty adorable, though, isn’t it？{换行}{换页}Seems like the daggone thing’s got no interest{换行}for getting into battles, so if you stay out of its {换行}way you shouldn’t have any trouble from it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"1d2",
+			"length":306,
+			"jpn":"{F812}紫髪の女細剣士\u0000あ、確か{主角姓名}様…ですよね？{换行}皆様は３階であの珍妙な魔物を{换行}見ましたか…。{换行}{换页}梟のようなお顔の熊なのですが、{换行}彼らはワタクシどもが{颜色:0500}縄張りに入ると{换行}追いかけてくる{颜色:0000}のです。{换行}{换页}ワタクシは地図を見ながらなんとか{换行}切り抜けたのですが、怪奇小説に入った{换行}みたいで少し心躍るものがありました。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000You’re the {主角姓名} Guild, right？{换行}You seen that monster on ３F？{换行}{换页}You know, the one with an owl face that {换行}chases after you if you wander too close．{换行}{换页}I managed to get by it using my map． {换行}Felt like the star of a suspense story {换行}the whole time．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"304",
+			"length":392,
+			"jpn":"{F812}紫髪の女細剣士\u0000あ、{主角姓名}様…！{换行}ワタクシ、４階でとっても大きな{换行}蛇のようなロブスターを見たのです！{换行}{换页}自分の縄張りを守っているのでしょうか。{换行}水の中に行ったりもしますが、{颜色:0500}グルグルと{换行}同じ場所を徘徊{颜色:0000}していましたね。{换行}{换页}こちらに興味などないようですので、{换行}彼らの動きをよく見て進めば何事もなく{换行}通り抜けられそうですね。{换行}{换页}あれだけ大きなロブスター…。{换行}少し食べてみたいと思いませんか？{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000{主角姓名} Guild！ I saw the biggest{换行}goddang lobster monster you ever seen on ４F！{换行}{换页}Maybe it was protecting its turf？{换行}It kept wandering {颜色:0500}between the water {换行}and dry land{颜色:0000} over and over．{换行}{换页}It didn’t seem to have much interest in me,{换行}so you should be able to skirt on by if you{换行}keep an eye on where it’s going．{换行}{换页}Sure would be something to eat that {换行}big ol’ lobster, don’t you think？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"48c",
+			"length":432,
+			"jpn":"{F812}紫髪の女細剣士\u0000あら、{主角姓名}様。{换行}他の冒険者様から第二階層には大きな{换行}サソリがおられると聞きました。{换行}{换页}話によると、視野が狭いのか{颜色:0500}直線でしか{换行}物を見れない{颜色:0000}らしく、よく{颜色:0500}向きを変えて{换行}獲物を探している{颜色:0000}そうです。{换行}{换页}その代わり{颜色:0500}一度見つけられると、{换行}こちらの姿が見えなくなるまで{换行}どこまでも追ってくる{颜色:0000}とか…。{换行}{换页}きっと一途なお方なんでしょうけど、{换行}出来ればこちらの気持ちも汲み取って{换行}頂けるとありがたいですよね…。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000Hey, {主角姓名} Guild． Some other{换行}adventurers told me there’s a giant {换行}scorpion in the ２nd Stratum．{换行}{换页}They say it’s got a real narrow field of vision,{换行}though． Can’t see a thing that’s not in its {颜色:0500}direct{换行}line of sight{颜色:0000}, and it’s {颜色:0500}always moving about{颜色:0000}．{换行}{换页}But if it finds you, it’ll chase you till it {换行}{颜色:0500}loses track of you{颜色:0000}．{换行}{换页}Must be one relentless ’rachnid． Is it asking {换行}so much that it consider OUR feelings a little？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"63c",
+			"length":448,
+			"jpn":"{F812}紫髪の女細剣士\u0000御機嫌よう、{主角姓名}様。{换行}皆様は凶暴そうな目をした大きなキリンの{换行}魔物をご覧になりましたか？{换行}{换页}他の冒険者様から聞いた話なのですが、{换行}彼らは縄張りを{颜色:0500}端から端まで一気に駆け、{换行}進路上の冒険者を襲う{颜色:0000}そうです。{换行}{换页}ただ、その進路にいなければ襲ってくることも{换行}ありません。きっと首が長くてワタクシ共が{换行}いることが分からないのでしょう。{换行}{换页}大き過ぎるというのも考え物ですが、{换行}どのような景色をご覧になっているのか{换行}少し気になりますね。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000Hey there, {主角姓名} Guild． You seen{换行}that giraffe-lookin’ beast with the feral eyes？{换行}{换页}According to another adventurer,{换行}it {颜色:0500}dashes back and forth and attacks{换行}anything that gets in its way{颜色:0000}．{换行}{换页}As long as you stay out of its path, though,{换行}it won’t attack you． I guess the super-long {换行}neck makes it hard to see what’s around it．{换行}{换页}Still, I can only imagine what {换行}the view is like up there．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"7fc",
+			"length":318,
+			"jpn":"{F812}紫髪の女細剣士\u0000あ、{主角姓名}様…！{换行}ワタクシ、お鼻の長いサルがいると{换行}お聞きしたのです！{换行}{换页}縄張りに入った相手を排除しようと{换行}{颜色:0500}石柱を押しやり{颜色:0000}、それからこちらを{换行}{颜色:0500}追いかけてくる{颜色:0000}そうです。{换行}{换页}迂闊に近づいたら{颜色:0500}倒れた石柱に当たって{换行}こちらが痛い目を見そうですよね{颜色:0000}。{换行}それはあちらも同じだと思いますが。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000{主角姓名} Guild！ You won’t believe{换行}what I’ve heard！ Someone spotted a{换行}monkey monster with a big ol’ nose！{换行}{换页}Apparently, if you wander into its territory,{换行}it’ll {颜色:0500}knock down stone pillars{颜色:0000} and even {颜色:0500}chase{换行}after you{颜色:0000}．{换行}{换页}If you’re not careful, you’ll wind up badly{换行}injured by the falling pillars． That probably{换行}applies to the monkey, too, though．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"93a",
+			"length":394,
+			"jpn":"{F812}紫髪の女細剣士\u0000あら、{主角姓名}の皆様！{换行}第四階層へと到達したのですよね？{换行}{换页}よろしければ第四階層がどのようなところか{换行}少しお話をお聞かせ願えないでしょうか？{换行}{换页}……。{换行}{换页}なるほど…大きな水晶があるのですね…。{换行}となると、私どもだけじゃなく魔物も{换行}道を塞がれ困っているのでしょうね。{换行}{换页}{颜色:0500}道が開けば行動範囲を広げる魔物も{换行}いる{颜色:0000}やもしれません。そこを上手く{换行}利用できれば活路も開けそうですね。{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000Hello again, {主角姓名} Guild！{换行}Is it true you’ve reached the ４th Stratum？{换行}{换页}Would you mind telling me what it’s like？{换行}{换页}．．．．．．{换行}{换页}Large crystals you say, huh？ Well, if that’s{换行}true, I bet the monsters there are bothered{换行}by the same blocked passages as you．{换行}{换页}Some monsters might wander farther once {换行}a new path opens up． Maybe that’ll give you {换行}a leg up as you work your way through？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"ac4",
+			"length":458,
+			"jpn":"{F812}紫髪の女細剣士\u0000まぁ、{主角姓名}の皆様！{换行}第四階層の探索も順調とお聞きしました。{换行}{换页}よろしければ後学のためにも{换行}少しお話をお聞かせ願えないでしょうか？{换行}{换页}一瞬で場所を移動させられる水晶ですか…。{换行}それはややこしいですが、もし魔物に{换行}追われていたらどうなるのでしょう。{换行}{换页}もしや、{颜色:0500}一瞬で場所を移動できるのは{换行}魔物も同じ{颜色:0000}で、そのまま追いかけられ続ける{换行}といったことにもなるのでは…。{换行}{换页}わ、私もどこまでも追いかけられても{换行}良いように心構えをしておきますね！{换行}{END}",
+			"eng":"{F812}Violet-haired Fencer\u0000I hear your journeys through the ４th Stratum{换行}are going well．{换行}{换页}Why don’t you tell me a little more about it？{换行}Might help me out down the line, y’know？{换行}{换页}．．．Crystals that teleport you in an instant, huh？{换行}Sounds like a hassle． What happens if you go{换行}through one while being chased by a monster？ {换行}{换页}I sure hope they don’t get transported too{换行}and keep chasing you．{换行}{换页}I’ll．．． try to make sure I’m ready no matter {换行}how far any beasties badger me！{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"fileName":"DUNGEONNAME.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"a0",
+			"length":14,
+			"jpn":"鎮守ノ樹海{换行}{END}",
+			"eng":"Tutelary Forest{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"ae",
+			"length":14,
+			"jpn":"奇岩ノ山道{换行}{END}",
+			"eng":"Jagged Reach{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"bc",
+			"length":14,
+			"jpn":"晦冥ノ墓所{换行}{END}",
+			"eng":"Fetid Necropolis{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"ca",
+			"length":14,
+			"jpn":"虹霓ノ晶洞{换行}{END}",
+			"eng":"Lucent Hollows{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"d8",
+			"length":16,
+			"jpn":"円環ノ原生林{换行}{END}",
+			"eng":"Untamed Garden{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"e8",
+			"length":18,
+			"jpn":"赤方偏移ノ回廊{换行}{END}",
+			"eng":"Empyreal Bridge{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"fa",
+			"length":10,
+			"jpn":"ダミー{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		}
+	]
+}

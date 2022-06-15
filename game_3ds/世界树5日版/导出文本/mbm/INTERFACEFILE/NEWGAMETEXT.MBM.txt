@@ -1,0 +1,437 @@
+{
+	"fileName":"NEWGAMETEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"380",
+			"length":10,
+			"jpn":"ダミー{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"38a",
+			"length":42,
+			"jpn":"ギルドメンバーを引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose whether to carry over guild members．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"3b4",
+			"length":36,
+			"jpn":"グリモアを引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your Grimoires．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"3d8",
+			"length":34,
+			"jpn":"所持金を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your money．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"3fa",
+			"length":36,
+			"jpn":"アイテムを引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your items．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"41e",
+			"length":32,
+			"jpn":"食材を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over ingredients．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"43e",
+			"length":38,
+			"jpn":"商店の在庫を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over shop stock．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"464",
+			"length":32,
+			"jpn":"図鑑を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your codex and compendium．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"484",
+			"length":44,
+			"jpn":"地図の床記載情報を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your map floor markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"4b0",
+			"length":44,
+			"jpn":"地図の壁記載情報を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your map wall markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"4dc",
+			"length":50,
+			"jpn":"地図のアイコン配置情報を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over your map icons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"50e",
+			"length":42,
+			"jpn":"地図のメモ情報を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over notes on your map．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"538",
+			"length":54,
+			"jpn":"地図のオートパイロット情報を引き継ぐか選択できます{换行}{END}",
+			"eng":"You can choose to carry over auto-walk information．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"56e",
+			"length":36,
+			"jpn":"設定した状態でゲームを開始します{换行}{END}",
+			"eng":"Start the game with these settings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"592",
+			"length":56,
+			"jpn":"冒険者ギルドのキャラクターを{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}guild members into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"5ca",
+			"length":46,
+			"jpn":"生成したグリモアを{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}your Grimoires into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"5f8",
+			"length":34,
+			"jpn":"所持金を引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}your money into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"61a",
+			"length":40,
+			"jpn":"所持アイテムを引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}your inventory into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"642",
+			"length":32,
+			"jpn":"食材を引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}your ingredients into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"662",
+			"length":38,
+			"jpn":"商店の在庫を引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}item shop stock into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"688",
+			"length":38,
+			"jpn":"図鑑の状態を引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}your almanac into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"6ae",
+			"length":46,
+			"jpn":"地図の床記載状態を{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}map floor markings into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"6dc",
+			"length":46,
+			"jpn":"地図の壁記載状態を{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}map wall markings into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"70a",
+			"length":52,
+			"jpn":"地図のアイコン配置状態を{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}map icons into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"73e",
+			"length":48,
+			"jpn":"地図のメモ記載状態を{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}map memos into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"76e",
+			"length":60,
+			"jpn":"地図のオートパイロット記載状態を{换行}引き継ぐか選択できます{换行}{END}",
+			"eng":"Decide whether or not to carry over{换行}auto-walk instructions into your new game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"7aa",
+			"length":38,
+			"jpn":"設定された状態でゲームを開始します{换行}{END}",
+			"eng":"Start the game with these settings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"7d0",
+			"length":32,
+			"jpn":"ギルドメンバーを引き継ぎます{换行}{END}",
+			"eng":"Carry over guild members．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"7f0",
+			"length":34,
+			"jpn":"ギルドメンバーを引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over guild members．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"812",
+			"length":26,
+			"jpn":"グリモアを引き継ぎます{换行}{END}",
+			"eng":"Carry over Grimoires．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"82c",
+			"length":28,
+			"jpn":"グリモアを引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over Grimoires．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"848",
+			"length":24,
+			"jpn":"所持金を引き継ぎます{换行}{END}",
+			"eng":"Carry over your money．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"860",
+			"length":26,
+			"jpn":"所持金を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over your money．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"87a",
+			"length":26,
+			"jpn":"アイテムを引き継ぎます{换行}{END}",
+			"eng":"Carry over items．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"894",
+			"length":28,
+			"jpn":"アイテムを引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over items．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"8b0",
+			"length":22,
+			"jpn":"食材を引き継ぎます{换行}{END}",
+			"eng":"Carry over ingredients．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"8c6",
+			"length":24,
+			"jpn":"食材を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over ingredients．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"8de",
+			"length":28,
+			"jpn":"商店の在庫を引き継ぎます{换行}{END}",
+			"eng":"Carry over shop stock．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"8fa",
+			"length":30,
+			"jpn":"商店の在庫を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over shop stock．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"918",
+			"length":22,
+			"jpn":"図鑑を引き継ぎます{换行}{END}",
+			"eng":"Carry over the codex and compendium．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"92e",
+			"length":24,
+			"jpn":"図鑑を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over the codex and compendium．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"946",
+			"length":30,
+			"jpn":"地図の床情報を引き継ぎます{换行}{END}",
+			"eng":"Carry over the map floor markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"964",
+			"length":32,
+			"jpn":"地図の床情報を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over map floor markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"984",
+			"length":30,
+			"jpn":"地図の壁情報を引き継ぎます{换行}{END}",
+			"eng":"Carry over map wall markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"9a2",
+			"length":32,
+			"jpn":"地図の壁情報を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over map wall markings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"9c2",
+			"length":36,
+			"jpn":"地図のアイコン情報を引き継ぎます{换行}{END}",
+			"eng":"Carry over map icons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"9e6",
+			"length":38,
+			"jpn":"地図のアイコン情報を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over map icons．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"a0c",
+			"length":32,
+			"jpn":"地図のメモ情報を引き継ぎます{换行}{END}",
+			"eng":"Carry over map memos．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"a2c",
+			"length":34,
+			"jpn":"地図のメモ情報を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over map memos．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"a4e",
+			"length":44,
+			"jpn":"地図のオートパイロット情報を引き継ぎます{换行}{END}",
+			"eng":"Carry over map auto-walk information．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"a7a",
+			"length":46,
+			"jpn":"地図のオートパイロット情報を引き継ぎません{换行}{END}",
+			"eng":"Don’t carry over map auto-walk information．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"aa8",
+			"length":42,
+			"jpn":"初期設定に戻しますが{换行}よろしいですか？{换行}{END}",
+			"eng":"Return all settings to default？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"ad2",
+			"length":46,
+			"jpn":"設定した状態で開始します{换行}よろしいですか？{换行}{END}",
+			"eng":"Start a new game with these settings？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"b00",
+			"length":66,
+			"jpn":"設定をキャンセルしてタイトル画面に{换行}戻ります、よろしいですか？{换行}{END}",
+			"eng":"Return to the title screen？{换行}{END}",
+			"zh":""
+		}
+	]
+}

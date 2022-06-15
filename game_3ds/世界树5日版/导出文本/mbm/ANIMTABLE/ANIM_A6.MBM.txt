@@ -1,0 +1,77 @@
+{
+	"fileName":"ANIM_A6.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"b0",
+			"length":32,
+			"jpn":"どうして夜の空は暗いのだろう{换行}{END}",
+			"eng":"What is beyond the light of the stars？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"d0",
+			"length":36,
+			"jpn":"幼い頃　不思議に思った空の彼方へ{换行}{END}",
+			"eng":"The answers lie at our journey’s end,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"f4",
+			"length":40,
+			"jpn":"この旅の終わりは　その始まりに至る道{换行}{END}",
+			"eng":"But where one path ends, a new adventure begins．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"11c",
+			"length":42,
+			"jpn":"私たちが生まれた理由にして意義でもある{换行}{END}",
+			"eng":"And with it, a new question arises：{换行}Why were we given the gift of life．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"146",
+			"length":14,
+			"jpn":"君たちなら{换行}{END}",
+			"eng":"Leading you there has been my purpose．{换行}Now you shall find your own．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"154",
+			"length":40,
+			"jpn":"そこに連れていってくれると信じている{换行}{END}",
+			"eng":"Only you can take me beyond the stars．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"17c",
+			"length":34,
+			"jpn":"どうして星は美しく輝くのだろう{换行}{END}",
+			"eng":"Who awaits us in the dark of the night？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"19e",
+			"length":30,
+			"jpn":"私たちはこれから旅立つのだ{换行}{END}",
+			"eng":"over the clouds and above the skies．{换行}{END}",
+			"zh":""
+		}
+	]
+}

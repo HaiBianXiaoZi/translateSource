@@ -1,0 +1,93 @@
+{
+	"fileName":"BAR_05.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"d0",
+			"length":68,
+			"jpn":"{F812}元気そうな剣士\u0000あ！　こんちわっす！{换行}オレに何かご用っすか！？{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000Ah, hello there！ Can I help you with something？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"114",
+			"length":60,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}依頼を受けてきた{换行}特に用はない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”We’re here about your request．”{换行}”Nothing in particular．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"150",
+			"length":868,
+			"jpn":"{F812}元気そうな剣士\u0000依頼…？{换行}{换页}あっ！　オレたちの出した依頼、{换行}受けてきてくれたんすね！{换行}ありがとうございます！{换行}{换页}依頼を受けてきてくれたってことは{换行}みなさんも冒険者なんですよね！{换行}{换页}実はオレも冒険者で…つっても、{换行}なりたてホヤホヤのド新人なんですけど…。{换行}あ、こう見えてリーダーやってます。{换行}{换页}そんでですね、今オレたちのギルド、{换行}５階を攻略中なんですけど…。{换行}{换页}迷宮にはなんと次の階へと近道できる{换行}隠された通路があるって{换行}いうじゃないっすか！{换行}{换页}そんでそれを確かめるべく、オレたちの{换行}ギルドは１週間、２階に通いつめて、{换行}３階への近道を発見したんすよ！{换行}{换页}確かに近道は便利っす。{换行}行き来が楽になりました。{换行}{换页}ただ、そのあと気付いたんです。{换行}１週間もかけて、それを見つけ出したのは{换行}時間がかかり過ぎだよな…って。{换行}{换页}でも、やっぱり知ってる方が{换行}便利じゃないですか！{换行}{换页}だから、どうかお願いします！{换行}{颜色:0500}４階にある５階への階段の近道{颜色:0000}が{换行}どこにあるかを教えてください！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000Request．．．？{换行}{换页}Oh, that！ Of course！ Thank you！{换行}{换页}I suppose that makes you adventurers！{换行}{换页}I’m one, too． Just got started． I may not look{换行}like it, but I’m actually the leader of my guild．{换行}{换页}Listen to me go on and on． Anyway, our guild{换行}is trying to work its way through ５F．．．{换行}{换页}But then we heard there are hidden{换行}passages--shortcuts--between floors！{换行}{换页}So we went back to ２F to find the shortcut {换行}to ３F． Took us a week, but we found it！{换行}{换页}I gotta tell you, shortcuts are super useful． It’s{换行}so much easier to move between floors now．{换行}{换页}Still, spending a whole week to find one{换行}shortcut was, perhaps, a bit too much．．．{换行}{换页}But they’re so helpful！{换行}{换页}And that’s what we need your help with！{换行}We need you to help us find the {颜色:0500}shortcut{换行}from ４F to ５F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"4b4",
+			"length":132,
+			"jpn":"{F812}元気そうな剣士\u0000そうっすかー。{换行}{换页}オレ、実は依頼を受けてきてくれる人を{换行}ここで待ってるんす！{换行}こう見えて忙しいんで、それじゃ！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000Oh, well．{换行}{换页}I may not look it, but I’m actually quite busy！{换行}I’m waiting for someone to accept my request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"538",
+			"length":56,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}近道を教える{换行}近道を教えない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Share the shortcut’s location{换行}Keep the location to yourself{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"570",
+			"length":114,
+			"jpn":"{F812}元気そうな剣士\u0000ありがとうございます！{换行}で、{颜色:0500}４階にある５階への階段の近道{颜色:0000}って{换行}どこらへんなんすか！？{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000Thanks！ So, where’d you find it！？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"5e2",
+			"length":82,
+			"jpn":"{F812}元気そうな剣士\u0000なるほどなるほど、そこっすね！{换行}ちょっと待っててくださいね！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000I see, I see． Wait here while we check it out！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"634",
+			"length":298,
+			"jpn":"{F812}元気そうな剣士\u0000ありました！　ありましたよー近道！{换行}ありがとうございます！{换行}やっぱ先進んでる冒険者は違いますね！{换行}{换页}待っててください先輩！{换行}オレたちもすぐに追いついてみせますから！{换行}{换页}オレたち早速樹海探索に行ってきます！{换行}報酬は酒場のお姉さんに預けてあるんで{换行}受け取ってください！　それじゃ！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000It was there！ Just like you said！ Thank you！ {换行}Your guild’s in a league of its own, m’dude！{换行}{换页}But just you wait！ We’ll catch up {换行}to you guys in no time！{换行}{换页}Well, guess it’s adventure time again！ I gave{换行}your reward to the lady who runs the tavern, {换行}so get it from her． See you around！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"75e",
+			"length":158,
+			"jpn":"{F812}元気そうな剣士\u0000うーん、なかったっすねぇ、５階への近道。{换行}どこかと間違っちゃったんすか？{换行}{换页}オレ、まだここで待ってるんで{换行}わかったらまた教えてください！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000I couldn’t find the shortcut to ５F． {换行}Are you sure you had the right place？{换行}{换页}I’ll be right here． Come by again when {换行}you find out where the shortcut is！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"7fc",
+			"length":236,
+			"jpn":"{F812}元気そうな剣士\u0000え！？　依頼受けてきたのに{换行}断っちゃうんすか！？{换行}{换页}あ、もしかして近道を教えるためには{换行}何か手続きがいるとかっすか！？{换行}{换页}それならオレ、ここでまた来てくれるの{换行}待ってますから！　都合良くなったら{换行}また来てください！{换行}{END}",
+			"eng":"{F812}Enthusiastic Swordsman\u0000You won’t tell us！？ But, but．．． {换行}Why’d you accept our quest？{换行}{换页}Oh, maybe you need someone’s approval {换行}before you can tell me where it is？{换行}{换页}Well, I’ll wait right here！ Come back {换行}and tell me as soon as you can！{换行}{END}",
+			"zh":""
+		}
+	]
+}

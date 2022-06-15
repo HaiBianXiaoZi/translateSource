@@ -1,0 +1,117 @@
+{
+	"fileName":"KEYBOARDTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"f0",
+			"length":118,
+			"jpn":"ギルド名を入力してください{换行}{颜色:0300}他者に公開される事もあるので、個人情報や{换行}他者が不快に思う言葉は使用しないで下さい{换行}{END}",
+			"eng":"Enter a guild name． {颜色:0300}Others may see this,{换行}so do not use personal information or{换行}offensive language．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"166",
+			"length":34,
+			"jpn":"このギルド名でよろしいですか？{换行}{END}",
+			"eng":"Is this guild name acceptable？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"188",
+			"length":130,
+			"jpn":"下画面をタッチして名前を入力して下さい{换行}{颜色:0300}他者に公開される事もあるので、個人情報や{换行}他者が不快に思う言葉は使用しないで下さい{换行}{END}",
+			"eng":"Enter a name using the keyboard below．{换行}{颜色:0300}Others may see this, so do not use personal{换行}information or offensive language．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"20a",
+			"length":120,
+			"jpn":"新しい名前を入力してください{换行}{颜色:0300}他者に公開される事もあるので、個人情報や{换行}他者が不快に思う言葉は使用しないで下さい{换行}{END}",
+			"eng":"Choose a new name． {颜色:0300}Others may see this,{换行}so do not use personal information or{换行}offensive language．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"282",
+			"length":50,
+			"jpn":"このキャラクターで登録します{换行}よろしいですか？{换行}{END}",
+			"eng":"Would you like to register{换行}this character？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"2b4",
+			"length":134,
+			"jpn":"冒険の拠点となる館の名前を入力してください{换行}{颜色:0300}他者に公開される事もあるので、個人情報や{换行}他者が不快に思う言葉は使用しないで下さい{换行}{END}",
+			"eng":"Enter a cafe name． {颜色:0300}Others may see{换行}this, so do not use personal information{换行}or offensive language．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"33a",
+			"length":30,
+			"jpn":"この名前でよろしいですか？{换行}{END}",
+			"eng":"Is this name acceptable？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"358",
+			"length":30,
+			"jpn":"この名前でよろしいですか？{换行}{END}",
+			"eng":"Is this name acceptable？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"376",
+			"length":32,
+			"jpn":"パスワードを入力してください{换行}{END}",
+			"eng":"Please input your password．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"396",
+			"length":36,
+			"jpn":"このパスワードでよろしいですか？{换行}{END}",
+			"eng":"Is this password acceptable？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"3ba",
+			"length":32,
+			"jpn":"この二つ名でよろしいですか？{换行}{END}",
+			"eng":"Is this legendary title acceptable？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"3da",
+			"length":26,
+			"jpn":"二つ名を名付けて下さい{换行}{END}",
+			"eng":"Please enter your legendary title．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"65a",
+			"length":150,
+			"jpn":"",
+			"eng":"This text contains offensive language{换行}and cannot be used． Enter new text．{换行}{END}",
+			"zh":""
+		}
+	]
+}

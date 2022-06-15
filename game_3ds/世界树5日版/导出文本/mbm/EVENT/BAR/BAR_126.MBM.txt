@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_126.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":232,
+			"jpn":"{F812}セリアン族の女の子\u0000ねぇねぇ、きいたきいた？{换行}すっごくつよいボウケンシャさんが{换行}キラキラのじゅかいにいったんだって！{换行}{换页}えへへ、ワタシもおおきくなったら、{换行}ワンワンといっしょにボウケンシャさん{换行}みたいな、ボウケンシャになるの！{换行}{END}",
+			"eng":"{F812}Therian Lass\u0000Hey, did ya hear？ There’s some super strong{换行}adventurers exploring the shiny caves！ Y’know,{换行}the ４th Stratum？ I bet it’s real pretty up there．{换行}{换页}．．．Heehee！ When I get older, me and my puppy{换行}are gonna become adventurers, just like them！{换行}{END}",
+			"zh":""
+		}
+	]
+}

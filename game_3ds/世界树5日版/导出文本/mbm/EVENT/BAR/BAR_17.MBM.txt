@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_17.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"40",
+			"length":296,
+			"jpn":"{F812}バケツ型の兜をかぶった竜騎士\u0000リリちゃん、どこに行ったんだ…。{换行}{换页}俺も探しには行きてえけど、{换行}俺の実力じゃ大した場所は探せないし…。{换行}{换页}そもそもうちのギルドメンバーが{换行}まだ集合してねえし！{换行}{换页}これじゃあ何にもできねえじゃねえか！{换行}こんちきしょうめ！{换行}{换页}無事で帰ってきてくれよ、リリちゃん…。{换行}{END}",
+			"eng":"{F812}Goofy-helmeted Dragoon\u0000Where could Lili have gone？{换行}{换页}I want to help look for her, but I {换行}can’t get very far into the labyrinth．{换行}{换页}Besides, the rest of my guild isn’t here yet！{换行}{换页}So there’s nothing I can do {换行}even if I wanted to． Damn it！{换行}{换页}Please be okay, Lili．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"168",
+			"length":218,
+			"jpn":"{F812}バケツ型の兜をかぶった竜騎士\u0000リリちゃん、ちゃんと無事に{换行}帰って来てくれて安心したぜ。{换行}{换页}いつも以上にニコニコしてたし、{换行}本当によかったぜ…。{换行}{换页}後の問題は未だに俺がリリちゃんと{换行}話したことがないってことかな…。{换行}{END}",
+			"eng":"{F812}Goofy-helmeted Dragoon\u0000I’m so glad Lili came back safe and sound．{换行}{换页}I’m also glad she seemed so happy． {换行}{换页}Now if only I had the courage {换行}to actually talk to her．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

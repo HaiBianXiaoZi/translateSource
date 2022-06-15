@@ -1,0 +1,61 @@
+{
+	"fileName":"BAR_113.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"90",
+			"length":218,
+			"jpn":"{F812}酪農家のハリスン\u0000ん…？　ちょっと待て。{换行}アンタらの持ってるその虫はなんだ？{换行}{换页}{颜色:0500}{数字:0000}{颜色:0000}だと…？{换行}なんだそりゃあ！{换行}すげえクールじゃねえか！{换行}{换页}欲しい…オレはそいつが欲しくてたまらん。{换行}頼む！　譲ってくれー！{换行}{END}",
+			"eng":"{F812}Harrison the Dairyman\u0000Hm？ Hold on a tick--what kind of bug {换行}you got there with you？{换行}{换页}A {颜色:0500}{数字:0000}{颜色:0000}．．．？{换行}What the hell！？ Now that sure is something！{换行}{换页}I．．． I want it． Please！ I’m begging you！{换行}Let me have it！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"16a",
+			"length":38,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}譲る{换行}断る{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Let him have it{换行}Turn him down{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"190",
+			"length":106,
+			"jpn":"{F812}酪農家のハリスン\u0000本当か！　やったぜ！{换行}それじゃお返しといっちゃなんだが{换行}アンタらにこいつをやるよ。{换行}{END}",
+			"eng":"{F812}Harrison the Dairyman\u0000You will！ Yes！ Yes yes yes！{换行}Here, have this in exchange！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"1fa",
+			"length":286,
+			"jpn":"{F812}酪農家のハリスン\u0000ウチの牧場で育ててる牛だ。{换行}今日はたまたま一緒に連れてきていたのさ。{换行}{换页}このことがカミさんに知れたら恐ろしい目に{换行}遭うだろうが、男はロマンを追い求める{换行}生き物だからな、しょうがないな。{换行}{换页}牛の飼育場所に困ったら、{换行}セリアンの嬢ちゃんがやってる宿屋へ{换行}行ってみな。{换行}{END}",
+			"eng":"{F812}Harrison the Dairyman\u0000We nurtured that cow back at my ranch．{换行}Don’t ask why I brought it around today．{换行}{换页}My wife’s gonna give me hell when she finds{换行}out about this, but a man’s gotta be free to{换行}pursue his passions． Can’t be helped．{换行}{换页}Dunno where you can take the cow．{换行}Try stopping by the inn that Therian girl runs．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"318",
+			"length":120,
+			"jpn":"{F812}酪農家のハリスン\u0000そりゃねえぜ…まあ、仕方ないか。{换行}それじゃあ気が変わったらまた{换行}ここへ来てくれ。待ってるからよ。{换行}{END}",
+			"eng":"{F812}Harrison the Dairyman\u0000Aw man．．． Well, it is what it is． If you ever {换行}change your mind, you know where to find me．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"390",
+			"length":78,
+			"jpn":"{F812}酪農家のハリスン\u0000おお、アンタらか！{换行}例の虫を譲ってくれる気になったか？{换行}{END}",
+			"eng":"{F812}Harrison the Dairyman\u0000You’re back！ Did you reconsider letting me {换行}have that sweet, sweet bug of yours？{换行}{END}",
+			"zh":""
+		}
+	]
+}

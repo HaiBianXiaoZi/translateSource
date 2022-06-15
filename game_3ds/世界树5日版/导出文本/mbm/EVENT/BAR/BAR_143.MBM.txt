@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_143.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":450,
+			"jpn":"{F812}黒縁眼鏡の男\u0000君たちは、第六階層に棲息している{换行}黄色い軟体生物を知っていますか？{换行}{换页}その可愛らしい見た目とは裏腹に、{换行}あれはなかなか恐ろしい魔物なんですよ。{换行}{换页}なぜなら、あれは{颜色:0500}黒く歪んだ床に潜ることで{换行}自身の姿を巧妙に隠す{颜色:0000}ことが{换行}できるんですよ。{换行}{换页}床に潜られてしまったが最後、{换行}君たちはあれの姿を探し、{换行}慌てると思いますよ。{换行}{换页}待てよ…確か、ある道具があれば床に潜った{换行}あれの姿を捕捉できると聞いたことが…。{换行}でも、なんだったかなぁ。{换行}{END}",
+			"eng":"{F812}Bespectacled Woman\u0000You come across a yellow, gelatinous {换行}organism up on the ６th Stratum？{换行}{换页}It might look cute, but it’s really a handful．{换行}{换页}It can {颜色:0500}squirm its way under the stratum’s{换行}weird, distorted floors and hide there{颜色:0000}．{换行}{换页}The moment that thing vanishes, it’s over．{换行}You’ll be in a panic trying to find it．{换行}{换页}Although, now that I think about it, I did {换行}hear about a tool that can locate them． {换行}What was it called．．．？{换行}{END}",
+			"zh":""
+		}
+	]
+}

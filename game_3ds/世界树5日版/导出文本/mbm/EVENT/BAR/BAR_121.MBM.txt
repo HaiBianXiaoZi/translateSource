@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_121.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":310,
+			"jpn":"{F812}肩を窄めた中年男性\u0000第三階層か…聞くところによれば{换行}なんでも昔に戦争があった場所で、{换行}今でも死者が眠ってるとか…。{换行}{换页}俺みたいな怖がりにはムリだよ…。{换行}その点、冒険者って凄いよな。そんな{换行}恐ろしい場所に行けるんだもんなぁ。{换行}{换页}今度も{主角姓名}って冒険者が{换行}第三階層に行くんだろう？{换行}その勇気を少し分けてほしいよ。{换行}{END}",
+			"eng":"{F812}Shrugging Warlock\u0000The ３rd Stratum？ From what I understand,{换行}some big war happened there long ago,{换行}and now the dead still haunt the place．．．{换行}{换页}Someone as easily scared as me couldn’t set{换行}foot in a place like that． I envy you adventurers{换行}and your ability to brave such dreadful places．{换行}{换页}I heard adventurers from the {主角姓名}{换行}Guild are going to the ３rd Stratum soon． I wish{换行}I had even a fraction of their courage．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"fileName":"BAR_122.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"60",
+			"length":180,
+			"jpn":"{F812}王都護衛盾術の男\u0000おお、お前たちが達人試験に合格した{换行}たしか…{主角姓名}だったか。{换行}{换页}昇進祝いってわけじゃないが、{换行}第三階層に何度か足を運んでる先輩として{换行}良いことを教えてやろうか？{换行}{END}",
+			"eng":"{F812}Royal Shield Bearer\u0000You must be the adventurers that passed{换行}the Master Exam． {主角姓名} Guild, {换行}was it？{换行}{换页}Not to downplay your accomplishment, but as{换行}one who’s visited the ３rd Stratum several times,{换行}would you like a few pointers？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"114",
+			"length":54,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}お願いします{换行}知ってます{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Ask him for his advice{换行}Tell him you’re an expert{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"14a",
+			"length":674,
+			"jpn":"{F812}王都護衛盾術の男\u0000わはは、気持ちのいい答えだ！{换行}いいか、第三階層には{颜色:0500}二つの特徴{颜色:0000}がある。{换行}{颜色:0500}毒沼と日光{颜色:0000}だ。{换行}{换页}{颜色:0500}毒沼は昼の間のみ現れる{颜色:0000}んだが、{换行}こいつの上を歩くとかなり足が痛むぜ。{换行}{换页}それを避けて通りたいってんなら、{换行}夜の時間帯に行けばいい。{换行}{颜色:0500}夜の間は毒沼は力を失くしちまう{颜色:0000}んだ。{换行}{换页}で、日光の方は日光なんだから{换行}当然{颜色:0500}昼の間のみ{颜色:0000}見ることができる。{换行}{换页}そしてあの階層を歩き回る強敵は{换行}{颜色:0500}日光を苦手にしてる。{颜色:0000}その特性を使うことで{换行}戦いを避けられるって寸法さ。{换行}{换页}どっちの時間を選んで、どっちを避けるのか{换行}まさに冒険者の判断力が試される場所って{换行}わけだなぁ。{换行}{换页}なにはともあれ、同業者として{换行}これからもよろしく頼むよ{换行}期待の新鋭諸君。{换行}{END}",
+			"eng":"{F812}Royal Shield Bearer\u0000Haha, good answer！ Listen up, there’s {颜色:0500}two{换行}characteristics{颜色:0000} that define the ３rd Stratum：{换行}{颜色:0500}toxic marshes and sunlight{颜色:0000}．{换行}{换页}{颜色:0500}Toxic marshes only appear during the day{颜色:0000}．{换行}They’re quite painful to walk through．{换行}{换页}If you want to avoid them, try going through{换行}those areas at night． {颜色:0500}The marshes lose their{换行}toxicity when the sun falls{颜色:0000}．{换行}{换页}As for the other thing．．．{换行}{换页}The ３rd Stratum’s biggest bads {颜色:0500}hate sunlight{颜色:0000}, so{换行}you can avoid them by traveling during the day．{换行}{换页}It’s up to you to choose which to avoid{换行}and when． This stratum is the ultimate{换行}test of an adventurer’s judgment．{换行}{换页}Well, anyway, I hope to see more of you{换行}out in the field． You’re very promising{换行}adventurers．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"3ec",
+			"length":160,
+			"jpn":"{F812}王都護衛盾術の男\u0000あはは、これは失敬失敬。{换行}余計な申し出をしてしまったようだ。{换行}{换页}なにはともあれ、同業者として{换行}これからもよろしく頼むよ{换行}期待の新鋭諸君。{换行}{END}",
+			"eng":"{F812}Royal Shield Bearer\u0000Ha, I suppose that was uncalled for．{换行}Apologies if I seemed disrespectful．{换行}{换页}Well, anyway, I hope to see more of you{换行}out in the field． You’re very promising{换行}adventurers．{换行}{END}",
+			"zh":""
+		}
+	]
+}

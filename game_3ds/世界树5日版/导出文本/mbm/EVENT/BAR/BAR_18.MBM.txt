@@ -1,0 +1,197 @@
+{
+	"fileName":"BAR_18.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"1a0",
+			"length":180,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000うーん、ここのお店の食べ物も{换行}飲み物もなかなかにいけてるなぁ。{换行}行きつけにしちゃおうかな…。{换行}{换页}ん？　あなた方は…冒険者？{换行}私に何かご用ですかな？{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Mmm, the food and drinks at this place{换行}are pretty good．．． Maybe I should make{换行}the Twilight Tavern my new go-to spot．{换行}{换页}Hm？ You’re adventurers, I assume．{换行}Is there anything I can do for you？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"254",
+			"length":74,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}動物の角の納品依頼を受けてきた{换行}特に用はない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”We accepted your request．”{换行}”Nothing, just saying hello．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"29e",
+			"length":536,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000おお！　それは僥倖！{换行}いやはや、ありがたい話ですな。{换行}{换页}もう店主殿からはお聞きになったかも{换行}しれませんが、私、動物の角やら牙やらが{换行}好きで好きで…。{换行}{换页}それで今は家に飾る{颜色:0500}ヤギの角{颜色:0000}と{换行}{颜色:0500}イノシシの牙{颜色:0000}を探している最中なのですよ。{换行}{换页}そして樹海には普段街で取引されている{换行}ものよりも特別立派なものが入手できると{换行}聞いて、依頼を出した次第なのです。{换行}{换页}そういうわけですので、樹海に住む{换行}ヤギの角とイノシシの牙が手に入りましたら{换行}またここへいらしてくださいますか？{换行}{换页}何卒よろしくお願いいたします。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Ahh, what luck！ I can’t thank you{换行}enough for agreeing to help me．{换行}{换页}You see, I use antlers in all of my decorating,{换行}but that’s starting to get boring． Now I wanna{换行}try horns and tusks, but they’re hard to get．．．{换行}{换页}Currently I’m looking for a {颜色:0500}goat’s horn{颜色:0000}{换行}and a {颜色:0500}boar’s tusk{颜色:0000} to hang in my house．{换行}{换页}Rumor has it monsters in the labyrinth{换行}are more intimidating specimens than{换行}the animals down here on the ground．{换行}{换页}That’s where you adventurers come in．{换行}Once you get the horn of a goat and{换行}the tusk of a boar, bring ’em to me！{换行}{换页}Happy hunting！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"4b6",
+			"length":134,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000そうですか。私は依頼を受けてくれる人を{换行}待っているのですが、なかなかどうして{换行}来ないものですねぇ…。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Uh, okay．．． hello？ Sorry, I’m waiting{换行}for someone to accept my request,{换行}but I haven’t had any luck so far．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"53c",
+			"length":102,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000どうも、{主角姓名}殿。{换行}ヤギの角とイノシシの牙は無事に{换行}入手できましたかな？{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Hello there, {主角姓名} Guild．{换行}Did you manage to get your hands{换行}on a goat’s horn and a boar’s tusk？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"5a2",
+			"length":126,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000どうも、{主角姓名}殿。{换行}既にヤギの角は納品していただいてます故{换行}後はイノシシの牙をお願いいたします。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Hello there, {主角姓名} Guild．{换行}You already gave me a goat horn,{换行}so that just leaves the boar tusk．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"620",
+			"length":122,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000どうも、{主角姓名}殿。{换行}イノシシの牙は納品していただいてます故{换行}後はヤギの角をお願いいたします。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Hello there, {主角姓名} Guild．{换行}You already gave me a boar tusk,{换行}so that just leaves the goat horn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"69a",
+			"length":60,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}入手できた{换行}まだ手に入ってない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Say that you’ve got it{换行}Say you don’t have it{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"6d6",
+			"length":96,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000なんと！　それは素晴らしい！{换行}それでは納品の方をお願いしたい！{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Is that so？ That’s wonderful news！{换行}All right then, let’s see the goods！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"736",
+			"length":54,
+			"jpn":"{颜色:0500}{数字:0000}を納品しますか？{颜色:0000}{换行}納品する{换行}納品しない{换行}{END}",
+			"eng":"{颜色:0500}Turn in {数字:0000}？{颜色:0000}{换行}Yes{换行}No{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"76c",
+			"length":170,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000おお、これは立派なヤギの角ですなぁ…。{换行}さすが樹海育ちのものはたくましい…。{换行}{换页}いやはや、いいものを頂きました。{换行}ありがとうございます。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Ahh, what a magnificent horn．．． Those goats up{换行}in the labyrinth are way bigger than down here．{换行}{换页}Dear me, I’m getting a little emotional．{换行}This is just so wonderful． Thank you all！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"816",
+			"length":184,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000おお、これはなんとも雄々しき{换行}イノシシの牙…。これほどのものは{换行}私も見覚えがありませんぞ。{换行}{换页}いやはや、いいものを頂きました。{换行}ありがとうございます。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Ooh, what a powerful tusk．．． That must’ve{换行}been one heck of a boar, to grow this out！{换行}{换页}Dear me, I’m getting a little emotional．{换行}This is just so wonderful． Thank you all！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"8ce",
+			"length":90,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000それではもう片方の納品の方も{换行}お願いして良いでしょうか？{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Well then, there’s one down． How ’bout{换行}handing off the other thing I requested？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"928",
+			"length":56,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}納品を続ける{换行}納品を終了する{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Keep turning in materials{换行}Stop turning in materials{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"960",
+			"length":160,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000それではもう片方の納品の方も…、{换行}と思いましたが、今はお持ちでいない様子。{换行}{换页}また、そちらの良き時に{换行}声をおかけくださいませ。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Oh wow, a magnificent specimen of．．．{换行}nothing？ Uhh, you don’t have anything．{换行}{换页}Please come back when it’s convenient, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"a00",
+			"length":436,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000おお、これでヤギの角もイノシシの牙も{换行}揃いましたな！{换行}{换页}うーむ、こうして並べてみると実に壮観！{换行}さすがは樹海に生息している獣の逸品！{换行}実にすばらしい！{换行}{换页}おっと、いささか興奮してしまいました。{换行}これは申し訳ありません。{换行}{换页}さて、{主角姓名}殿。{换行}この度は私の道楽に付き合っていただき{换行}本当にありがとうございました。{换行}{换页}報酬は酒場の店主殿に預けてありますので{换行}ぜひお受け取りくださいませ。{换行}それでは失礼いたします。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Yippee ki-yay！ Now I’ve got both{换行}a goat’s horn and a boar’s tusk！{换行}{换页}Mmm, just looking at these fills me{换行}with a sense of wonder． The beasts{换行}of Yggdrasil are truly masterpieces！{换行}{换页}Oh, ’scuse me． Got a little carried away．{换行}{换页}Okay then, {主角姓名} Guild．{换行}Thank you for supporting my hobby．{换行}{换页}I left your payment with Mirina,{换行}so you can go get it from her．．．{换行}I’ve got some decorating to do！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"bb4",
+			"length":196,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000おや？　今お持ちの中に、{换行}それらしきものは無い様ですが…。{换行}{换页}今は都合が悪いということですかな？{换行}承知いたしました。またそちらの良き時に{换行}声をかけてくださいませ。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Oh？ B-But I see nothing of the sort．．．{换行}{换页}Is this some roundabout way of saying{换行}that now isn’t a good time for you．．．？{换行}Okay, okay． But come back when it is！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"c78",
+			"length":140,
+			"jpn":"{F812}くたびれた服を着たブラニー\u0000ふむ、今は都合が悪いということですかな？{换行}承知いたしました。またそちらの良き時に{换行}声をかけてくださいませ。{换行}{END}",
+			"eng":"{F812}Shabbily-dressed Brouni\u0000Oh, does that mean this isn’t a good{换行}time for you．．．？ Okay, I get it． Please{换行}come back later when it’s convenient！{换行}{END}",
+			"zh":""
+		}
+	]
+}

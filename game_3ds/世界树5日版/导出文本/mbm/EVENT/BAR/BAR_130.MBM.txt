@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_130.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":340,
+			"jpn":"{F812}厄祓祈祷師の男\u0000なぁ、アンタらが{主角姓名}だろ？{换行}俺たちもやっと第四階層に行ったんだが{换行}なんなんだあのデカイ水晶は…。{换行}{换页}{颜色:0500}叩くたびに大きな音が響く{颜色:0000}から{换行}{颜色:0500}耳のいい魔物に自分たちの場所を{换行}教えてる{颜色:0000}ようなもんじゃないか…。{换行}{换页}でも、耳がいい魔物だったら{颜色:0500}戦闘の時も{换行}近づいてきちゃう{颜色:0000}よな？{换行}うわぁ…そんな魔物いないでくれよ…。{换行}{END}",
+			"eng":"{F812}Juicy Shaman\u0000Aren’t you the {主角姓名} Guild？{换行}My guild finally made it to the ４th Stratum,{换行}but what’s up with all those crystal pillars？{换行}{换页}{颜色:0500}Every time we hit one, it makes a loud noise{颜色:0000}．{换行}We might as well be ringing the dinner bell,{换行}summoning {颜色:0500}sharp-eared monsters{颜色:0000} to eat us．．．{换行}{换页}But if a monster’s hearing was THAT good,{换行}wouldn’t it {颜色:0500}come to you even while you’re{换行}fighting{颜色:0000}？ Just thinking about that is scary．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

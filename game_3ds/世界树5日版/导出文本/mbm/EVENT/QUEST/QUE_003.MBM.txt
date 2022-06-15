@@ -1,0 +1,61 @@
+{
+	"fileName":"QUE_003.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"90",
+			"length":370,
+			"jpn":"{NPC:0300}その依頼は、{颜色:0500}旅商人セリク{颜色:0000}からの依頼よ。{换行}{换页}セリクは街で露店を開いている{换行}ブラニー族の子よ。一度は見かけたこと{换行}あるんじゃないかしら？{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000どうやら彼はお店で売る装備を作るための{换行}素材を集めてきてほしいらしいの。{换行}{换页}必要な素材については、彼のお店へ行って{换行}直接彼から話を聞いてきて頂戴。{换行}{换页}それじゃ、今回の依頼もがんばってね。{换行}{END}",
+			"eng":"{NPC:0300}That request is from {颜色:0500}Syrik{颜色:0000}, the merchant．{换行}{换页}He’s a Brouni with a street stall at the{换行}marketplace． Perhaps you’ve met him？{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000It seems he needs someone to collect{换行}materials for the equipment he crafts．{换行}{换页}As for what those materials are,{换行}you’ll need to ask him directly．{换行}{换页}He should be at his shop． Good luck．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"202",
+			"length":636,
+			"jpn":"{NPC:0300}セリクから話は聞いてるわ。{换行}今回の依頼も順調だったみたいね。{换行}{换页}セリクについてだけど、{换行}樹海を攻略する冒険者たちの間では、{换行}彼の作る装備は評判が良いらしいわよ。{换行}{换页}ブラニー族は元来手先の器用な種族だけど、{换行}彼はその中でも優秀な部類なようね。{换行}{换页}あなたたちも今後樹海を攻略する上で{换行}より強い装備が必要になっていくと思う。{换行}{换页}樹海で拾ってきた素材をこまめに{换行}セリクの店で売ることで、彼の店で取り扱う{换行}商品の品揃えも増えていくわ。{换行}{换页}ただし、売却する素材を別の依頼で{换行}使う場合もあるわ。注意して頂戴。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000それじゃ、あなたたちへのご褒美を{换行}渡すとするわね。はい、ごくろうさま。{换行}引き続きよろしく頼むわね。{换行}{END}",
+			"eng":"{NPC:0300}I received the news from Syrik．{换行}He had nothing but nice things{换行}to say about your performance．{换行}{换页}Syrik’s wares are quite popular amongst{换行}the adventurers infiltrating the labyrinth,{换行}so his request was a very important one．{换行}{换页}Brouni are naturally adept, but he is{换行}exceptional even by their standards．{换行}A genius among savants, if you will．{换行}{换页}As you continue to climb the labyrinth,{换行}I’m sure you’ll need better equipment．{换行}{换页}So make sure to sell the materials you find{换行}at Syrik’s store． That way, he can improve{换行}the quality of his goods as you rise higher．{换行}{换页}But do keep in mind that some materials{换行}will be needed for requests． Don’t forget！{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Well then, you’ll be wanting your reward．{换行}Here you go． Thanks for your hard work．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"47e",
+			"length":730,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000やあ、君たちか。{换行}あ、もしかして酒場に出した依頼のことで{换行}来てくれた？{换行}{换页}やった！　君たちになら、おいらも安心して{换行}お願いできるよ！{换行}{换页}早速仕事の話なんだけど、おいら、{换行}今度新しい装備を作って店で売ろうと{换行}思ってるんだ。{换行}{换页}どんな物を作るかは決まってるんだ。{换行}{颜色:0500}{数字:0000}{颜色:0000}っていう装備なんだけどね。{换行}素材になる物がなかなか手に入らないんだ。{换行}{换页}おいらが自分で集めてきてもいいけど、{换行}店を留守にするわけにはいかないし…。{换行}{换页}そこで、君たちに集めてきてもらえたらって{换行}話なんだよ。悪いけど、頼めるかなあ。{换行}{换页}必要な素材は{换行}{颜色:0500}{数字:0100}が２個{颜色:0000}だよ。{换行}{换页}素材が揃ったらおいらに直接売っておくれ。{换行}もちろん、素材を買い取った代金とは別に{换行}依頼達成の報酬は支払うからね。{换行}{换页}それじゃ、よろしく頼んだよ！{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Heya！ How’re you guys doing？{换行}Oh, is this about the request？{换行}{换页}Huzzah！ I can’t tell you how happy I am{换行}to know you guys are taking care of it！{换行}{换页}Lemme get right to business．{换行}See, I’ve been thinking ’bout{换行}selling new stuff at my shop．{换行}{换页}Problem is, it’s gonna be hard to get{换行}my hands on all the materials needed{换行}to make a good {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}Sure, I COULD go gather it myself,{换行}but then I’d have to close up shop．{换行}{换页}So then I thought, ”Why not pay someone{换行}to do it FOR me？” And here you guys are．{换行}{换页}I’ll need {颜色:0500}two {数字:0100}s{颜色:0000}．{换行}{换页}Once you get the materials, just sell ’em here．{换行}Not only will I pay you the normal finder’s fee,{换行}you’ll be rewarded for completing my request．{换行}{换页}Welp, I’ll be counting on you！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"758",
+			"length":330,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000どうだい、見ておくれよ。{换行}こいつが君たちに集めてきてもらった素材で{换行}作った{颜色:0500}{数字:0000}{颜色:0000}さ！{换行}{换页}よくできてるだろ？{换行}早速店に並べてみたから、{换行}興味があったら見てみておくれ！{换行}{换页}あ、それと今回の報酬は{换行}酒場のルナリアの姉ちゃんから{换行}受け取ってもらえるかな？{换行}{换页}それじゃ、また何かあったら頼むね！{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Take a look．．． How ’bout it？ I used the{换行}materials to make this {颜色:0500}{数字:0000}{颜色:0000}！{换行}{换页}Looks pretty cool, right？ I’ve already{换行}put it out on the storefront, so take{换行}a look if you’re interested in buying！{换行}{换页}Oh, and can you go get my reward{换行}for this request from the Celestrian{换行}lady who runs the Twilight Tavern？{换行}{换页}Welp, if something else comes up,{换行}I know just who to ask--you guys！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"8a2",
+			"length":510,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000いらっしゃい。今日はどうしたんだい？{换行}ん？　{颜色:0500}{数字:0000}{颜色:0000}の素材を{换行}持ってきたって？{换行}{换页}ありゃ、ルナリアの姉ちゃんから{换行}聞いてないの？{换行}{换页}こないだ君たちから売ってもらった分で{换行}{颜色:0500}{数字:0000}{颜色:0000}の素材が{换行}揃っちゃったんだよ。{换行}{换页}だから頼んでた仕事が終わったよーって{换行}ルナリアの姉ちゃんに伝えたんだけど、{换行}行き違いになっちゃったのかな。{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000ま、いいさ！　なんにせよ依頼は完了！{换行}報酬はルナリアの姉ちゃんに渡してあるから{换行}酒場で受け取ってくれるかい？{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Welcome！ What brings you here today？{换行}Oh, you brought {颜色:0500}{数字:0000}{颜色:0000} materials？{换行}{换页}Uhh．．． The Celestrian lady didn’t tell you？{换行}{换页}You’ve already sold me everything I need{换行}to make the {颜色:0500}{数字:0000}{颜色:0000} myself．{换行}{换页}So I sent word to the Twilight Tavern{换行}that my request was already complete．{换行}Guess she didn’t get the note in time？{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000Welp, that’s fine！ Any way you slice it,{换行}a job’s a job！ Go talk to the Celestrian{换行}lady and she’ll pass along your reward．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"aa0",
+			"length":274,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000ん？　必要な素材の確認をしたいのかい？{换行}ちょっと待っておくれよ。{换行}{换页}えーっとね、必要な素材は{换行}{颜色:0500}{数字:0100}が２個{颜色:0000}だよ。{换行}{换页}素材が揃ったらおいらに直接売っておくれ。{换行}もちろん、素材を買い取った代金とは別に{换行}依頼達成の報酬は支払うからね。{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Hm？ You wanna hear a refresher{换行}on the materials I need？ On sec．．．{换行}{换页}Let’s see．．． I need {颜色:0500}two {数字:0100}s{颜色:0000}．{换行}{换页}Just sell those materials directly to me．{换行}Of course, I’ll pay you for the materials{换行}AND give you a reward for your trouble．{换行}{END}",
+			"zh":""
+		}
+	]
+}

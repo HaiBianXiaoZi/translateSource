@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_132.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":338,
+			"jpn":"{F812}青髪の冒険者\u0000ついに…ついに{主角姓名}が{换行}第五階層を発見したらしいんだ！{换行}{换页}しかも、場所はあの空の上、{换行}まさに夢物語のような話だぜ！{换行}{换页}一番乗りは取られちゃったけどさ、{换行}それでも空の上なんてそんな夢みたいな{换行}場所に行かなきゃ冒険者じゃねぇよ！{换行}{换页}ああ、凄く簡単なことを忘れてた…。{换行}この胸の高鳴りを思い出させてくれた{换行}{主角姓名}には感謝しないとな。{换行}{END}",
+			"eng":"{F812}Blue-haired Adventurer\u0000It’s happening！ The {主角姓名} Guild{换行}finally found the ５th Stratum！{换行}{换页}Better yet, it’s way up in the sky． {换行}It’s like a dream come true！{换行}{换页}{主角姓名} Guild made it there first, but{换行}there’s still plenty for the rest of us explorers to{换行}find． Maybe something’s ABOVE the ５th Stratum！{换行}{换页}I haven’t felt this excited to be an adventurer{换行}in a while． I should thank {主角姓名} Guild{换行}for reminding me how fun life can be．{换行}{END}",
+			"zh":""
+		}
+	]
+}

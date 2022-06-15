@@ -1,0 +1,93 @@
+{
+	"fileName":"BAR_10.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"d0",
+			"length":116,
+			"jpn":"{F812}ミアの父\u0000全くミアめ…。何故俺がこんなところまで{换行}連れて来られねばならんのだ…。{换行}{换页}ん？　なんだ、お前たちは。{换行}{END}",
+			"eng":"{F812}Mia’s Father\u0000That girl’s got some nerve, dragging me here．．．{换行}{换页}Hrm． What do you want？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"144",
+			"length":74,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}依頼で話を聞きに来た者だ{换行}ただの通りすがりだ{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”We’re here about a request．”{换行}”Nothing, just passing through．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"18e",
+			"length":632,
+			"jpn":"{F812}ミアの父\u0000依頼？　お前たちに娘の結婚の反対をした{换行}理由を話せと言うのか？{换行}全くミアめ、妙な真似を…。{换行}{换页}まあいい。だったら教えてやる。{换行}俺はルナリアという種族を信用できない。{换行}{换页}魔法だとか死霊を呼び出したりだとか、{换行}そんな訳のわからんことができる連中を{换行}どうして信じられるというのか…！{换行}{换页}そんなやつよりも腕っぷしを{换行}鍛えた者の方がわかりやすく信じられる。{换行}{换页}サディアスとかいったか？{换行}あんなひょろい小僧ではミアを{换行}守ることなどできん。{换行}{换页}だが、そうだな…。それを否定したいのなら{换行}ミアの旦那気取りの小僧１人で樹海に{换行}挑むくらいはしてみて欲しいものだ。{换行}{换页}話は終わりだ。後はこのことを{换行}２人に話すなりなんなり自由にすればいい。{换行}{END}",
+			"eng":"{F812}Mia’s Father\u0000Let me guess． My daughter put you up to this．{换行}Wants to know why I won’t give my blessing．{换行}Harrumph！ What’s gotten into that silly girl．．．？{换行}{换页}Fine, then． I’ll tell you．{换行}I don’t trust Celestrians．{换行}{换页}How can I trust someone who dabbles in the{换行}dark arts？ Warlocks and Necromancers．．． Bah！{换行}No good can come out of all that witchcraft．{换行}{换页}A warrior who trains his body{换行}with bravery, zeal, and discipline．．．{换行}that’s the kind of man I respect．{换行}{换页}Thadius, was it？ Such an emaciated pipsqueak{换行}couldn’t lift a sword, let alone protect my Mia．{换行}{换页}Then again．．． If he thinks he has what it takes,{换行}tell him that he can prove he’s a real man by{换行}challenging the Tutelary Forest himself． Alone．{换行}{换页}．．．We’re done here．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"406",
+			"length":94,
+			"jpn":"{F812}ミアの父\u0000なら、さっさと通りすがってもらおうか。{换行}無意味な雑談をする気分ではないからな。{换行}{END}",
+			"eng":"{F812}Mia’s Father\u0000Then run along． I’m in no mood for nonsense．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"464",
+			"length":586,
+			"jpn":"{F812}ミアの父\u0000お前たちか…。{换行}発破をかけられて飛び出したはいいが{换行}返り討ちに遭うなど貧弱な男だ。{换行}{换页}やはりあんな男にミアを{换行}くれてやるなどできるわけもない。{换行}{换页}……。{换行}{换页}だがまあ、本気であることは理解した。{换行}ならば、その意気込みを見込んで{换行}鍛えてやらんこともない。{换行}{换页}それに耐えられれば最終的には…。{换行}……。{换行}{换页}お前たちに話しても仕様のないことか。{换行}言うべき相手のところへ行くとしよう。{换行}まだ片方は寝ているだろうが。{换行}{换页}今回は…いや、他の指輪やらドレスやらの{换行}件でも世話になったらしいな。{换行}感謝している。{换行}{换页}俺からの礼の品も酒場の主人に預けた。{换行}報告して受け取ってくれ。{换行}それではな。{换行}{END}",
+			"eng":"{F812}Mia’s Father\u0000You again．．． Good on the lad for trying, but it’s{换行}still pathetic how quickly he got beaten bloody．{换行}{换页}There’s no way I can let Mia settle for the boy．{换行}{换页}．．．．．．{换行}{换页}Still, at least he’s proven he’s serious about it．{换行}If he keeps that spirit up, I’ll train him myself．{换行}{换页}And if he can survive THAT, well．．．{换行}{换页}There’s no point telling all this to a messenger．{换行}I’ll go speak with them face-to-face． After all,{换行}ONE of them is bound to still be bedridden．{换行}{换页}Sounds like my daughter and her would-be{换行}groom are in your debt．．． not only for this,{换行}but for the ring and the dress． So, thanks．{换行}{换页}I left a token of my own gratitude with Mirina．{换行}You can collect it at the bar． We’re done here．{换行}{END}",
+			"zh":""
+		}
+	]
+}

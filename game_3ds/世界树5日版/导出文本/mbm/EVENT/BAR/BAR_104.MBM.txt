@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_104.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":326,
+			"jpn":"{F812}配給係のアースラン少女\u0000どうも冒険者さん。{换行}探索に行く時に{颜色:0500}アリアドネの糸{颜色:0000}を{换行}ちゃんと持って行ってますか？{换行}{换页}危ない時にちゃんと帰れる手段を持つことは{换行}大事ですよ。下手をすれば{换行}死を覚悟しなきゃいけませんから。{换行}{换页}って、この前アリアドネの糸を忘れて{换行}散々な目にあった兄が言ってました。{换行}冒険者さんもお気をつけて～。{换行}{END}",
+			"eng":"{F812}Earthlain Nurse\u0000Hail and well met, intrepid explorers．{换行}Do you always remember to take an{换行}{颜色:0500}Ariadne Thread{颜色:0000} on your adventures？{换行}{换页}It’s important to have a means of safely{换行}returning to Iorys when you’re in danger．{换行}Otherwise, better prepare for the worst．{换行}{换页}At least, that’s what my brother said when he{换行}forgot to bring an Ariadne Thread and went{换行}through hell getting back． Don’t forget yours！{换行}{END}",
+			"zh":""
+		}
+	]
+}

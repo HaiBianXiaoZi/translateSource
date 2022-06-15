@@ -1,0 +1,29 @@
+{
+	"fileName":"BAR_142.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"50",
+			"length":240,
+			"jpn":"{F812}荒くれ者の大男\u0000はぁ…はぁ…ったく、{换行}あの悪魔野郎、ふざけやがって！{换行}{换页}てめえは何もしないでてめえの{颜色:0500}分身{颜色:0000}を{换行}寄越してきやがって！{换行}{换页}おまけに{颜色:0500}何度分身を倒しても、{换行}その都度呼び直し{颜色:0000}やがって。{换行}いくら倒してもキリがねえぜ。{换行}{END}",
+			"eng":"{F812}Large Ruffian\u0000*pant* Damn that demon bastard！{换行}{换页}It just kept sending {颜色:0500}wave after wave of{换行}replicas{颜色:0000} while it sat there and did nothing！{换行}{换页}And it just kept summoning more copies,{换行}no matter how many we defeated． It’s like{换行}there was just no end to them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"140",
+			"length":248,
+			"jpn":"{F812}荒くれ者の大男\u0000はぁ…はぁ…ったく、{换行}あの悪魔野郎、ふざけやがって！{换行}{换页}いくら近づいても動きやしねえから、{换行}余裕こいてヤツの{颜色:0500}直線上{颜色:0000}に立った途端、{换行}急に動き出しやがって！{换行}{换页}そうならそうと先に言えっつーの！{换行}びびらせんじゃねーっつーの！{换行}{END}",
+			"eng":"{F812}Large Ruffian\u0000*pant* Damn that demon bastard！{换行}{换页}It wouldn’t budge no matter how close we got,{换行}but as soon as we stepped into its line of sight{换行}it suddenly started moving！{换行}{换页}How ’bout a little warning next time！{换行}The goddamn thing freaked us out！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"238",
+			"length":428,
+			"jpn":"{F812}荒くれ者の大男\u0000はぁ…はぁ…ったく、ふざけんなっつーの！{换行}第六階層にある黒く歪んだ床、{换行}なんだよありゃあ！{换行}{换页}見るからに踏んだらヤバそうだから{换行}試しに悪魔野郎の分身に踏ませてみたらよ！{换行}豆つぶみてえに潰れちまったじゃねえか！{换行}{换页}デブ悪魔はあの床を恐れてるみたいで、{换行}踏ませようと誘導しても{换行}近寄ろうともしやがらねえしよ！{换行}{换页}でも上手く利用すれば魔物を回避できそうで{换行}便利だなぁとも思えたりするしよぉ！{换行}なんなんだよ、クソ！{换行}{END}",
+			"eng":"{F812}Large Ruffian\u0000*pant* This is some goddamn bullshit！{换行}What the hell’s going on with the {换行}weird black floors in the ６th Stratum？{换行}{换页}It was obviously dangerous, so we tried to get {换行}one of that demon’s copies to step over it．．．{换行}And what happened？ It got crushed into dust！{换行}{换页}Even the demon seemed afraid of those floors．{换行}It wouldn’t go near them no matter how much{换行}we tried luring it over！{换行}{换页}Then again, maybe they could help {换行}with avoiding monsters． What a pain！{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_28.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":342,
+			"jpn":"{F812}つなぎを着たアースラン\u0000おっす、こんちは！{换行}あんたら、冒険者だろ？{换行}そういう格好してるもんな！{换行}{换页}オレはアイオリスで農家やってる{换行}マーティンってんだ。{换行}{换页}今はちょいとこの店で場所を借りて{换行}{颜色:0500}{道具:2807}{颜色:0000}を手売りしてたんだよ。{换行}{换页}あんたらも冒険者ならどうだい？{换行}備えあれば何とやら、だぜ？{换行}{换页}まあ、その気になったら{换行}オレに声をかけてくれや。{换行}{END}",
+			"eng":"{F812}Overalled Earthlain\u0000Hey there！ You must be adventurers． {换行}You certainly look the part！{换行}{换页}The name’s Marten． I run a farm here in Iorys．{换行}{换页}I’ve rented this space to sell my {颜色:0500}{道具:2807}{颜色:0000}．{换行}{换页}Would you adventures like some？ You know {换行}what they say--better safe than sorry！{换行}{换页}Well, swing ’round again sometime {换行}if you ever feel like picking some up．{换行}{END}",
+			"zh":""
+		}
+	]
+}

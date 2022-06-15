@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_110.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":224,
+			"jpn":"{F812}机に伏した女祈祷師\u0000この前、{颜色:0500}稀少な採集物{颜色:0000}を集めて{换行}って依頼を受けたけど、何回行っても{换行}見つからないームリっぽー。{换行}{换页}{颜色:0500}採集系のスキルを持った人{颜色:0000}だったら{换行}見つけられたのかなーと思われー…。{换行}はぁ…だるぅ…。{换行}{END}",
+			"eng":"{F812}Frustrated Shaman\u0000I took a request to gather {颜色:0500}rare materials{颜色:0000},{换行}but I can’t find them for the life of me．．．{换行}{换页}Maybe someone with {颜色:0500}Gathering Skills{颜色:0000} could．{换行}Ugh, so lame．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

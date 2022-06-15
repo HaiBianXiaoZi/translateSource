@@ -1,0 +1,45 @@
+{
+	"fileName":"BAR_106.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"70",
+			"length":316,
+			"jpn":"{F812}浅黒い肌の男竜騎士\u0000チッ、誰だ、１階は初心者でも{换行}安全な樹海だと言っていた奴は…。{换行}{换页}あの、{敌人:3500}って犬野郎{换行}最悪じゃないか！{换行}{换页}{颜色:0500}威嚇{颜色:0000}してからの攻撃で{换行}ドラグーンの俺ですら危うく{换行}昇天する所だったぜ！{换行}{换页}あんたらも、アイツと戦う時は注意しな！{换行}威嚇された時はガードをするか{换行}他のスキルで対策するといいぜ。{换行}{END}",
+			"eng":"{F812}Sun-bronzed Dragoon\u0000Shit, who said １F was safe{换行}enough for beginners？{换行}{换页}That goddamn {敌人:3500} is the worst！{换行}{换页}I waited until it used {颜色:0500}Threaten{颜色:0000}, but I still almost{换行}met my maker！{换行}{换页}Stay on your toes if you come across that thing．{换行}Perhaps guard or prep for its next attack after{换行}it uses Threaten．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"1ac",
+			"length":214,
+			"jpn":"{F812}浅黒い肌の男竜騎士\u0000チッ、誰だ、３階くらい{换行}楽勝だと言ってたヤツは…。{换行}{换页}なんだよ、{敌人:0500}が{换行}{敌人:0100}食って強くなるなんて{换行}聞いてなかったぜ！？{换行}{换页}見ていろよ、{敌人:0500}め…。{换行}次は{敌人:0100}のやつらを{换行}先に倒してやるからな！{换行}{END}",
+			"eng":"{F812}Sun-bronzed Dragoon\u0000Shit, who said ３F is a breeze？{换行}{换页}Why didn’t anyone tell me that a {敌人:0500}{换行}gets stronger when it eats a {敌人:0100}！？{换行}{换页}Better watch your back, {敌人:0500}．{换行}Next time I’ll take out the {敌人:0100}s first！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"282",
+			"length":260,
+			"jpn":"{F812}浅黒い肌の男竜騎士\u0000チッ、誰だ、４階なんて{换行}簡単に突破できると言ってたのは…。{换行}{换页}なんだよ、あの猿ども！{换行}猿真似で{敌人:0400}の合体まで{换行}真似るなんて聞いてねぇぜ！？{换行}{换页}…畜生、あいつらめ。{换行}次会った時は、{敌人:0400}を先に倒して{换行}猿真似ができないようにしてやるからな！{换行}{END}",
+			"eng":"{F812}Sun-bronzed Dragoon\u0000Shit, who said ４F is easy to get through？{换行}{换页}What’s the deal with those weird primates？{换行}Nobody warned me it could Copycat even{换行}a {敌人:0400}’s fusion！{换行}{换页}Goddamn apes． Next time I see them,{换行}I’ll take out the {敌人:0400} first so {换行}they can’t use Copycat！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"386",
+			"length":280,
+			"jpn":"{F812}浅黒い肌の男竜騎士\u0000チッ、誰だ、５階までくりゃ第一階層の{换行}クリアも楽勝だって言ってたヤツは…。{换行}{换页}{敌人:3900}の野郎、まわりの{换行}ドングリを投げるじゃねぇか！！{换行}しかもそれが痛ぇんだよ！{换行}{换页}アイツらに出会った時は、ガードするか{换行}先にドングリどもを倒すくらいしか{换行}思いつく手はないな…。{换行}{END}",
+			"eng":"{F812}Sun-bronzed Dragoon\u0000Shit, who said the １st Stratum was a breeze{换行}once you reach ５F？{换行}{换页}Goddamn {敌人:3900} threw{换行}goddamn acorn monsters at me！{换行}{换页}If you run into any, I suggest you defeat the{换行}acorn monsters first, or guard against them．{换行}{END}",
+			"zh":""
+		}
+	]
+}

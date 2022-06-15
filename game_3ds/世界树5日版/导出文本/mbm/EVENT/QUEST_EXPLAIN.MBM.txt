@@ -1,0 +1,837 @@
+{
+	"fileName":"QUEST_EXPLAIN.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"6a0",
+			"length":156,
+			"jpn":"デバックモード時に発生するクエです。{换行}ニューゲームデータで発生していたらバグです。{换行}各種アイテム報酬、磁軸フラグＯＮ。{换行}報酬　{颜色:0500}各種移動系アイテム{颜色:0000}{换行}{END}",
+			"eng":"THiS iS a QueST THaT oNLy CoMeS uP iN DeBug．{换行}iF iT SHoWS uP iN a NeW GaMe, iT’S a BuG．{换行}You CaN GeT VaRiouS iTeMs, aND TuRN oN GeoMaG FLaGS．{换行}Reward {颜色:0500}Various movement items{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"73c",
+			"length":110,
+			"jpn":"街の工芸職人からの依頼で、{换行}工芸品に使うための{道具:9404}を{换行}１つ入手してきて貰いたい。{换行}報酬　{颜色:0500}{道具:4805}　２個{颜色:0000}{换行}{END}",
+			"eng":"This request from one of the city’s craftsmen{换行}calls for one {道具:9404} for crafting．{换行} {换行}Reward： {颜色:0500}{道具:4805} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"7aa",
+			"length":130,
+			"jpn":"商業区の料理店からの依頼で、{换行}ケーキに使用する{道具:9D03}を{换行}３個入手して来て貰いたい。{换行}報酬　{颜色:0500}{道具:3905}　２個{颜色:0000}　{颜色:0500}{道具:3A05}　２個{颜色:0000}{换行}{END}",
+			"eng":"This request from a restaurant calls for{换行}three {道具:9D03}s to use for their cakes．{换行} {换行}Reward： {颜色:0500}{道具:3905} x２{颜色:0000}, {颜色:0500}{道具:3A05} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"82c",
+			"length":126,
+			"jpn":"旅商人セリクからの依頼で、{换行}新しい武器を作成するために必要となる材料を{换行}一揃い集めてきていただきたい。{换行}報酬　{颜色:0500}{道具:F300}{颜色:0000}{换行}{END}",
+			"eng":"This request from Syrik calls for a set{换行}of materials needed to make a new weapon．{换行} {换行}Reward： {颜色:0500}{道具:F300}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"8aa",
+			"length":104,
+			"jpn":"街の薬剤師からの依頼で、{换行}{道具:A704}が不足しているため{换行}１つ集めてきて貰いたい。{换行}報酬　{颜色:0500}{道具:3705}　３個{颜色:0000}{换行}{END}",
+			"eng":"This request comes from the city apothecary．{换行}It’s low on {道具:A704}, so go gather one．{换行} {换行}Reward： {颜色:0500}{道具:3705} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"912",
+			"length":156,
+			"jpn":"結婚指輪を作るための素材を探しているのですが{换行}なかなか見つけられず困っています。{换行}どなたかお力を貸していただけないでしょうか？{换行}報酬　{颜色:0500}{道具:2E05}　３個{颜色:0000}{换行}{END}",
+			"eng":"”I need rare materials for a wedding ring．{换行}Won’t someone lend me a helping hand？”{换行} {换行}Reward： {颜色:0500}{道具:2E05} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"9ae",
+			"length":114,
+			"jpn":"評議会より世界樹の探索を始めた冒険者へ依頼だ。{换行}君たちに{敌人:0700}が討伐できるか見せてくれ。{换行}　{换行}報酬　{颜色:0500}{道具:3105}{颜色:0000}{换行}{END}",
+			"eng":"This request from the Council is for new guilds：{换行}”Prove to us that you can defeat a {敌人:0700}．”{换行} {换行}Reward： {颜色:0500}{道具:3105}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"a20",
+			"length":130,
+			"jpn":"評議会からの依頼で、遠征中の衛兵に代わり{换行}２階で目撃された魔物の稀少個体を{换行}倒してきてほしいらしい。{换行}報酬　{颜色:0500}６００エン{颜色:0000}{换行}{END}",
+			"eng":"This request is from the Arcania Council：{换行}”Defeat a rare breed of monster on ２F．”{换行} {换行}Reward： {颜色:0500}６００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"aa2",
+			"length":158,
+			"jpn":"最近樹海で巨大なローパーが目撃されている。{换行}以前まではいなかった魔物であるため{换行}巨大ローパーがいるという証拠を持ち帰って欲しい。{换行}報酬　{颜色:0500}{道具:5605}　３個{颜色:0000}{换行}{END}",
+			"eng":"A giant-sized Roper has been sighted．{换行}Bring back proof that it actually exists．{换行} {换行}Reward： {颜色:0500}{道具:5605} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"b40",
+			"length":128,
+			"jpn":"蒼髪のモノクルの紳士からの依頼で、{换行}樹海の５階でグリフォンの兜をつけた{换行}冒険者を探して来て欲しいという。{换行}報酬　{颜色:0500}{道具:3505}{颜色:0000}{换行}{END}",
+			"eng":"This request is from a gentleman with a monocle{换行}looking for a gryphon-helmeted adventurer on ５F．{换行} {换行}Reward： {颜色:0500}{道具:3505}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"bc0",
+			"length":108,
+			"jpn":"街の家具職人からの依頼で、{换行}樹海の５階にある魔物の巣を{换行}破壊してきて貰いたい。{换行}報酬　{颜色:0500}{道具:F505}　２個{颜色:0000}{换行}{END}",
+			"eng":"This request from a local carpenter calls for{换行}the destruction of a nest of monsters on ５F．{换行} {换行}Reward： {颜色:0500}{道具:F505} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"c2c",
+			"length":92,
+			"jpn":"街の料理人からの依頼で、{换行}{道具:B003}を１個集めてきてもらいたい。{换行}　{换行}報酬　{颜色:0500}{道具:FB06}　３個{颜色:0000}{换行}{END}",
+			"eng":"This request from a local chef{换行}calls for one {道具:B003}．{换行} {换行}Reward： {颜色:0500}{道具:FB06} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"c88",
+			"length":126,
+			"jpn":"旅商人セリクからの依頼で、{换行}新しい武具を作成するために必要となる材料を{换行}一揃い集めてきていただきたい。{换行}報酬　{颜色:0500}{道具:E402}{颜色:0000}{换行}{END}",
+			"eng":"This request from Syrik calls for a set{换行}of materials needed to make a new weapon．{换行} {换行}Reward： {颜色:0500}{道具:E402}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"d06",
+			"length":114,
+			"jpn":"魔物狩りからの依頼で、{换行}樹海に仕掛けられた魔物捕獲用の罠を解除してきて貰いたい。{换行}　{换行}報酬　{颜色:0500}{道具:5D05}　３個{颜色:0000}{换行}{END}",
+			"eng":"This request from a monster hunter calls for the{换行}disarming of magic traps set up in the labyrinth．{换行} {换行}Reward： {颜色:0500}{道具:5D05} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"d78",
+			"length":92,
+			"jpn":"魔物監察院からの依頼で、{换行}{道具:B303}を３個集めてきてもらいたい。{换行}　{换行}報酬　{颜色:0500}{道具:2F05}　２個{颜色:0000}{换行}{END}",
+			"eng":"This request from the Monster Observation{换行}Institute calls for three {道具:B303}s．{换行} {换行}Reward： {颜色:0500}{道具:2F05} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"dd4",
+			"length":90,
+			"jpn":"樹海の７階にいる忌々しい獣を{换行}始末してきてもらいたい。{换行}　{换行}報酬　{颜色:0500}１５００エン{颜色:0000}{换行}{END}",
+			"eng":"This request came from a rowdy man and calls{换行}for the extermination of a dire beast on ７F．{换行} {换行}Reward： {颜色:0500}１５００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"e2e",
+			"length":130,
+			"jpn":"宿屋のジェネッタは店の宿泊客のことが{换行}気になっており、プレゼントを贈るため{换行}協力して貰いたいという。{换行}報酬　{颜色:0500}{道具:3705}　４個{颜色:0000}{换行}{END}",
+			"eng":"”It’s me, Jenetta！ There’s a mysterious guest{换行}at my inn--and I want to give him a present！”{换行} {换行}Reward： {颜色:0500}{道具:3705} x４{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"eb0",
+			"length":146,
+			"jpn":"近頃、樹海の７階で凶悪なモグラが{换行}活発に行動し、冒険者の妨げとなっている。{换行}７階でモグラを１２体ほど駆除してきて貰いたい。{换行}報酬　{颜色:0500}{道具:1C03}{颜色:0000}{换行}{END}",
+			"eng":"Lately, some raging moles have been harassing{换行}explorers． Please exterminate １２ moles on ７F．{换行} {换行}Reward： {颜色:0500}{道具:1C03}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"f42",
+			"length":176,
+			"jpn":"ギルドメンバーが大サソリの毒にやられてしまった！{换行}薬を作るためにはその大サソリの毒が必要なんだが、{换行}自分たちの実力では無理なんだ…。誰か力を貸してくれ！{换行}報酬　{颜色:0500}{道具:C502}{颜色:0000}{换行}{END}",
+			"eng":"”My guildmate got poisoned by a giant scorpion！{换行}We need its venom for the antidote．．． Help us！”{换行} {换行}Reward： {颜色:0500}{道具:C502}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"ff2",
+			"length":184,
+			"jpn":"ウェディングドレスを作るための素材を探しているのですが{换行}なかなか見つけられず困っています。{换行}{主角姓名}の皆様、お手伝いいただけないでしょうか？{换行}報酬　{颜色:0500}{道具:3905}　３個{颜色:0000}　{颜色:0500}{道具:3A05}　３個{颜色:0000}{换行}{END}",
+			"eng":"”I need help finding material for a wedding gown．{换行}Won’t you lend a hand, {主角姓名} Guild？”{换行} {换行}Reward： {颜色:0500}{道具:3905} x３{颜色:0000}, {颜色:0500}{道具:3A05} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"10aa",
+			"length":92,
+			"jpn":"衛兵に勝負を挑まれた。{换行}まずは樹海の８階へと向かってもらいたい。{换行}　{换行}報酬　{颜色:0500}{道具:F505}{颜色:0000}{换行}{END}",
+			"eng":"The Guard Corps has sent you a challenge．{换行}Head to ８F of the labyrinth to accept it．{换行} {换行}Reward： {颜色:0500}{道具:F505}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"1106",
+			"length":116,
+			"jpn":"街の料理人からの依頼で、{换行}{道具:0807}を１個、{道具:FE06}を２個、{道具:F406}を３個{换行}集めてきてもらいたい。{换行}報酬　{颜色:0500}１８００エン{颜色:0000}{换行}{END}",
+			"eng":"This request from a local chef calls for{换行}one {道具:0807}, two {道具:FE06}s, and three {道具:F406}．{换行} {换行}Reward： {颜色:0500}１８００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"117a",
+			"length":126,
+			"jpn":"旅商人セリクからの依頼で、{换行}新しい武具を作成するために必要となる材料を{换行}一揃い集めてきていただきたい。{换行}報酬　{颜色:0500}{道具:1000}{颜色:0000}{换行}{END}",
+			"eng":"This request from Syrik calls for a set{换行}of materials needed to make a new weapon．{换行} {换行}Reward： {颜色:0500}{道具:1000}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"11f8",
+			"length":158,
+			"jpn":"新薬を作るための実験に探している花があるんですが、{换行}なかなか見つけることができないでいます。{换行}冒険者の方なら見つけることはできますか？{换行}報酬　{颜色:0500}{道具:1500}{颜色:0000}{换行}{END}",
+			"eng":"”I’m having trouble finding a medicinal flower．{换行}Would adventurers be able to find it？”{换行} {换行}Reward： {颜色:0500}{道具:1500}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"1296",
+			"length":126,
+			"jpn":"ミーハーなベネットからの依頼で、{换行}近頃樹海で活躍している剣士の情報を{换行}集めてきて貰いたい{换行}報酬　{颜色:0500}{道具:4505}{颜色:0000}　{颜色:0500}{道具:4605}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"1314",
+			"length":146,
+			"jpn":"あたし、迷宮の第三階層で採れる鉱石を探してるんだけど{换行}街を探しても見つからなくて…。{换行}もし持ってたら見せてほしいの！{换行}報酬　{颜色:0500}{道具:3505}　２個{颜色:0000}{换行}{END}",
+			"eng":"”I’m looking for ores from the ３rd Stratum．{换行}If you have any, please let me see them！”{换行} {换行}Reward： {颜色:0500}{道具:3505} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"13a6",
+			"length":156,
+			"jpn":"うちの子が最近イタズラをしていて困っているんです。{换行}ちょっと灸をすえるために冒険者の方に{换行}お力を貸していただけないでしょうか？{换行}報酬　{颜色:0500}{道具:3105}　１個{颜色:0000}{换行}{END}",
+			"eng":"”My little boy just won’t stop playing pranks．{换行}Maybe adventurers could teach him a lesson．”{换行} {换行}Reward： {颜色:0500}{道具:3105}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"1442",
+			"length":126,
+			"jpn":"旅商人セリクからの依頼で、{换行}新しい武具を作成するために必要となる材料を{换行}一揃い集めてきていただきたい。{换行}報酬　{颜色:0500}{道具:8F02}{颜色:0000}{换行}{END}",
+			"eng":"This request from Syrik calls for a set{换行}of materials needed to make a new weapon．{换行} {换行}Reward： {颜色:0500}{道具:8F02}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"14c0",
+			"length":162,
+			"jpn":"家の蔵で見たことのない種を発見したのですが、{换行}普通に植えても育つ様子が全くありません。{换行}樹海のどこかで育ちそうな場所はあるでしょうか？{换行}報酬　{颜色:0500}{道具:4D05}{颜色:0000}{颜色:0000}{换行}{END}",
+			"eng":"”I found a weird seed, but it won’t grow anywhere．{换行}Is someplace in the labyrinth good for gardening？”{换行} {换行}Reward： {颜色:0500}{道具:4D05}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"1562",
+			"length":154,
+			"jpn":"ヴェールを作るための素材を探しているのですが{换行}なかなか見つけられず困っています。{换行}{主角姓名}の皆様、お手伝いいただけないでしょうか？{换行}報酬　{颜色:0500}{道具:4705}　２個{颜色:0000}{换行}{END}",
+			"eng":"”I need help finding material for a bridal veil．{换行}Won’t you help me out, {主角姓名} Guild？”{换行} {换行}Reward： {颜色:0500}{道具:4705} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"15fc",
+			"length":146,
+			"jpn":"どうも、新人冒険者っす！{换行}実は同じ冒険者の、できれば先輩に聞きたいことが{换行}あるんです！　どうかお答えをお願いします！{换行}報酬　{颜色:0500}{道具:3705}　５個{颜色:0000}{换行}{END}",
+			"eng":"”Hello, I’m a new adventurer！ I need some advice{换行}from veteran explorers． Please answer my question！”{换行} {换行}Reward： {颜色:0500}{道具:3705} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"168e",
+			"length":158,
+			"jpn":"第三階層の１１階で見慣れない魔物を見た！{换行}恐らくあれは更に上の階に生息している魔物だ。{换行}被害が大きくなる前に誰かやつらを討伐してくれ！{换行}報酬　{颜色:0500}{道具:B500}{颜色:0000}{换行}{END}",
+			"eng":"”We saw some strange monsters on １１F that must be{换行}from higher than the ３rd Stratum--They need to go！”{换行} {换行}Reward： {颜色:0500}{道具:B500}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"172c",
+			"length":116,
+			"jpn":"アルカディア評議会から{换行}{主角姓名}に依頼したいことがある。{换行}一度評議会へ来てくれるだろうか？{换行}報酬　{颜色:0500}７０００エン{颜色:0000}{换行}{END}",
+			"eng":"”The Arcania Council hereby summons the{换行}{主角姓名} Guild to the Council Hall．”{换行} {换行}Reward： {颜色:0500}７０００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"17a0",
+			"length":108,
+			"jpn":"追憶のケンからの依頼で、{换行}樹海でヴァンパイアになってしまった恋人を{换行}探して貰いたい。{换行}報酬　{颜色:0500}{道具:2303}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"180c",
+			"length":154,
+			"jpn":"またミスをしてしまった！　だけどへこたれない！{换行}ミスを帳消しにするために新しい料理に挑戦したい！{换行}必要なものを持ってきてください！{换行}報酬　{颜色:0500}{道具:2303}{颜色:0000}{换行}{END}",
+			"eng":"”I messed up again, but that won’t get me down！{换行}Bring me the ingredients I need for a new dish！”{换行} {换行}Reward： {颜色:0500}{道具:2303}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"18a6",
+			"length":140,
+			"jpn":"冒険者の方にぜひ頼みたいことがある！{换行}大変かとは思うが、樹海の第三階層にいる{换行}強力な魔物から採れる素材が欲しいのだ！{换行}報酬　{颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"eng":"”This quest isn’t easy, but I want some adventurers{换行}to get material from a tough ３rd Stratum monster！”{换行} {换行}Reward： {颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"1932",
+			"length":108,
+			"jpn":"蒼い髪の中年男性からの依頼で、{换行}グリフォンの剣士の正体を確かめてきてもらいたい。{换行}　{换行}報酬　{颜色:0500}{道具:B500}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"199e",
+			"length":140,
+			"jpn":"古い文献に書いてあった{道具:C004}というものを{换行}探している。冒険者ならその珍しい素材でも{换行}手に入れられるのではないだろうか？{换行}報酬　{颜色:0500}{道具:3F05}{颜色:0000}{换行}{END}",
+			"eng":"”I’m looking for the {道具:C004} I read about in{换行}an old document． Maybe adventurers can find it？”{换行} {换行}Reward： {颜色:0500}{道具:3F05}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"1a2a",
+			"length":154,
+			"jpn":"冒険者さんにお願いしたいことがあるの！{换行}水晶の魔物が落とす素材が見てみたいの！{换行}だから持ってたらあたしに見せてください！{换行}報酬　{颜色:0500}１００００エン{颜色:0000}{换行}{END}",
+			"eng":"”I have a request for adventurers． Please show{换行}me some materials that crystal monsters drop！”{换行} {换行}Reward： {颜色:0500}１００００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"1ac4",
+			"length":154,
+			"jpn":"樹海での任務のため１３階へ向かった{换行}衛兵隊の一団が未だ戻ってきていない。{换行}冒険者の方に捜索を依頼したい。{换行}報酬　{颜色:0500}{道具:3905}　５個{颜色:0000}　{颜色:0500}{道具:3A05}　５個{颜色:0000}{换行}{END}",
+			"eng":"”The Guard Corps still hasn’t returned from its{换行}mission on １３F． This is a job for adventurers！”{换行} {换行}Reward： {颜色:0500}{道具:3905} x５{颜色:0000}, {颜色:0500}{道具:3A05} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"1b5e",
+			"length":144,
+			"jpn":"１６階の手強い魔物から逃げるのに夢中でばあちゃんから{换行}もらった大切なお守りを落としちまった！{换行}誰か探すのを手伝ってくれ！{换行}報酬　{颜色:0500}{道具:6500}{颜色:0000}{换行}{END}",
+			"eng":"”I lost the charm my granny gave me while I was{换行}running away from a powerful monster on １６F！”{换行} {换行}Reward： {颜色:0500}{道具:6500}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"1bee",
+			"length":90,
+			"jpn":"大市の旅商人セリクからの依頼で{换行}{主角姓名}に頼みたいことがあるらしい。{换行}　{换行}報酬　{颜色:0500}{道具:3405}{颜色:0000}{换行}{END}",
+			"eng":"Syrik has a request for the {主角姓名} Guild．{换行} {换行} {换行}Reward： {颜色:0500}{道具:3405}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"1c48",
+			"length":42,
+			"jpn":"未実装{换行}　{换行}　{换行}報酬　{颜色:0500}仮　{道具:F305}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"1c72",
+			"length":172,
+			"jpn":"現在、宿屋は繁忙期を迎えており、{换行}ジェネッタは多忙をきわめているという。{换行}そこでなにやら冒険者に協力してほしいことがあるようだ。{换行}報酬　{颜色:0500}{道具:3705}　３個{颜色:0000}　{颜色:0500}{道具:3805}{颜色:0000}{换行}{END}",
+			"eng":"Jenetta needs the help of adventurers while{换行}her inn is swamped during its busy season．{换行} {换行}Reward： {颜色:0500}{道具:3705} x３{颜色:0000}, {颜色:0500}{道具:3805}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"1d1e",
+			"length":150,
+			"jpn":"冒険者の方にお願いしたいことがある。{换行}１７階にいる強力な魔物を捕獲したいのだが、{换行}衛兵だけでは力が足りない、力を貸して欲しい。{换行}報酬　{颜色:0500}{道具:1B03}{颜色:0000}{换行}{END}",
+			"eng":"”I wish to capture a powerful monster from １７F,{换行}but the guards aren’t strong enough． Please help．”{换行} {换行}Reward： {颜色:0500}{道具:1B03}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"1db4",
+			"length":150,
+			"jpn":"１８階の南西でトカゲの魔物に襲われた！{换行}そのせいでせっかく集めた収穫物がパアだ！{换行}許しがたきあいつらを討伐してきてくれ！{换行}報酬　{颜色:0500}{道具:4705}　３個{颜色:0000}{换行}{END}",
+			"eng":"”I was attacked by reptoids in the {换行}southwest of １８F, so now I want payback{换行}for losing my materials！”{换行}Reward： {颜色:0500}{道具:4705} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"1e4a",
+			"length":118,
+			"jpn":"アルカディア評議会から再び{换行}{主角姓名}に依頼したいことがある。{换行}一度評議会へ来てくれるだろうか？{换行}報酬　{颜色:0500}{道具:3005}　２個{颜色:0000}{换行}{END}",
+			"eng":"”The Arcania Council hereby summons the{换行}{主角姓名} Guild to the Council Hall．”{换行} {换行}Reward： {颜色:0500}{道具:3005} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"1ec0",
+			"length":164,
+			"jpn":"大市の旅商人セリクからの依頼で、{换行}現在街を訪れている父親に自身の腕を認めてもらうため、{换行}武具製作に必要な素材を集めてきてもらいたいとのこと。{换行}報酬　{颜色:0500}{道具:AA00}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"1f64",
+			"length":98,
+			"jpn":"{主角姓名}の皆さんにお願いがあるんです！{换行}私の父と話をしてみてくれませんか！？{换行}　{换行}報酬　{颜色:0500}{道具:3405}{颜色:0000}{换行}{END}",
+			"eng":"”I need help from the {主角姓名} Guild．{换行}P-Please go talk some sense into my father！”{换行} {换行}Reward： {颜色:0500}{道具:3405}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"1fc6",
+			"length":102,
+			"jpn":"１９階にトカゲの魔物たちが現れた！{换行}実力者にトカゲのボスの討伐を頼みたい！{换行}　{换行}報酬　{颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"eng":"”Those lizard monsters are running wild on １９F．{换行}Someone needs to take out their reptoid boss！”{换行} {换行}Reward： {颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"202c",
+			"length":176,
+			"jpn":"アタシの妹ジェネッタが、新作パンの材料を採りに樹海へ{换行}行こうとしている。だがアホな妹を１人で行かせるのは{换行}心配だ。妹の面倒を見てくれる冒険者はいないか？{换行}報酬　{颜色:0500}{道具:0501}{颜色:0000}{换行}{END}",
+			"eng":"”My little sis Jenetta is wandering into Yggdrasil{换行}trying to make new bread． She needs a babysitter！”{换行} {换行}Reward： {颜色:0500}{道具:0501}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"20dc",
+			"length":172,
+			"jpn":"植物について調査しているんだけど、{换行}樹海で採取してきて欲しいものがある。{换行}探して欲しいものは３種類あるのでお願いしたい。{换行}報酬　{颜色:0500}{道具:3705}　３個　{颜色:0000}または　{颜色:0500}{道具:3805}{颜色:0000}{换行}{END}",
+			"eng":"”I’m researching plants and require some samples{换行}from the labyrinth． Three types, to be precise．”{换行} {换行}Reward： {颜色:0500}{道具:3705} x３{颜色:0000}, {颜色:0500}{道具:3805}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"2188",
+			"length":142,
+			"jpn":"うちで飼ってるネズミのブレッジちゃんの歯が{换行}伸びてきたので固いものを探してます。{换行}鉄みたいに固いドングリをください！{换行}報酬　{颜色:0500}{道具:DD00}　{颜色:0000}{换行}{END}",
+			"eng":"”Our pet mouse Bredge’s teeth grew too long{换行}and my husband won’t do a thing about it！”{换行} {换行}Reward： {颜色:0500}{道具:DD00}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"2216",
+			"length":138,
+			"jpn":"{主角姓名}のみんなにお願いしたいことがあるの。{换行}四階層、１９階のことで質問させてちょうだい。{换行}　{换行}報酬　{颜色:0500}{道具:3905}　７個{颜色:0000}　{颜色:0500}{道具:3A05}　７個{颜色:0000}{换行}{END}",
+			"eng":"”This request is for the {主角姓名} Guild．{换行}I have a question for you about １９F．” - Mirina{换行} {换行}Reward： {颜色:0500}{道具:3905} x７{颜色:0000}, {颜色:0500}{道具:3A05} x７{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"22a0",
+			"length":144,
+			"jpn":"{主角姓名}に会えた幸運を逃すわけにはいかない！{换行}君たちがいると教えてくれた五階層に生息{换行}している{敌人:4600}の調査をお願いしたい！{换行}報酬　{颜色:0500}{道具:3605}　３個{颜色:0000}{换行}{END}",
+			"eng":"”I hope the {主角姓名} Guild takes this job．．．{换行}Please study the {敌人:4600} in the ５th Stratum！”{换行} {换行}Reward： {颜色:0500}{道具:3605} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"2330",
+			"length":146,
+			"jpn":"やっほー、リリだよー。{换行}{主角姓名}のみんなにお願いしたいことが{换行}あるから、お話聞いてくれるとうれしいな。{换行}報酬　{颜色:0500}{道具:4505}　２個{颜色:0000}　{颜色:0500}{道具:4605}　２個{颜色:0000}{换行}{END}",
+			"eng":"”What’s up, {主角姓名} Guild？ Lili here！{换行}It would make me happy if you’d hear me out！”{换行} {换行}Reward： {颜色:0500}{道具:4505} x２{颜色:0000}, {颜色:0500}{道具:4605} x２{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"23c2",
+			"length":186,
+			"jpn":"先日、拙者の愛刀が魔物との戦いで折れてしまった。{换行}そこで、新しい刀を打つための素材になる物がほしい。{换行}第五階層で採掘できる物をなにか１種類持ってきてほしい。{换行}報酬　{颜色:0500}{道具:3105}　３個{颜色:0000}{换行}{END}",
+			"eng":"”My trusty katana broke while battling monsters．{换行}I ask for ore from the Untamed Garden to fix it．”{换行} {换行}Reward： {颜色:0500}{道具:3105} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"247c",
+			"length":154,
+			"jpn":"我ながら酔狂な趣味とは存じますが、獣の素材などを{换行}収集しております。つきましては冒険者の方に{换行}入手をお願いしたいものがございます。{换行}報酬　{颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"eng":"”I used to use antlers in all of my decorating,{换行}but now I’ll pay hunters to find something new．”{换行} {换行}Reward： {颜色:0500}{道具:F605}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"2516",
+			"length":142,
+			"jpn":"ミアです。{换行}幾度も私の結婚を妨害してきた人物の正体が判明しました。{换行}皆様にはその人物の説得をお願いしたいのです。{换行}報酬　{颜色:0500}{道具:4705}　５個{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":59,
+			"offset":"25a4",
+			"length":120,
+			"jpn":"ちょっと依頼したいことがあるんだ。{换行}僕は酒場で待ってるから、話をしようじゃないか。{换行}　{换行}報酬　{颜色:0500}７００００エン{颜色:0000}{换行}{END}",
+			"eng":"”I have a request for you, and I’m willing to pay．{换行}I’ll be waiting in the tavern, so let’s chat soon．”{换行} {换行}Reward： {颜色:0500}７００００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"261c",
+			"length":124,
+			"jpn":"今、６階でサソリの魔物が暴れている。{换行}そいつは他の個体よりも手強い。{换行}手練れの者に討伐を依頼したい。{换行}報酬　{颜色:0500}{道具:4E05}{颜色:0000}{换行}{END}",
+			"eng":"A strong scorpion monster is rampaging on ６F．{换行}This is a request for a more experienced guild．{换行} {换行}Reward： {颜色:0500}{道具:4E05}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"2698",
+			"length":176,
+			"jpn":"はぁ…ハリセンスズメたん…しゅき…。{换行}…セルゲイだ。オレはハリセンスズメの羽根が欲しい。{换行}無重力下なら、奴を壁に突き刺してる間に採れるはずだ。{换行}報酬　{颜色:0500}７００００エン{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"2748",
+			"length":160,
+			"jpn":"第五階層の調査に向かった隊が、帰って来られなくなった。{换行}遭難した隊は２３階の各地にいるはずだ。{换行}重力制御装置を駆使して助け出してほしい。{换行}報酬　{颜色:0500}{道具:DD00}{颜色:0000}{换行}{END}",
+			"eng":"The troops sent to patrol the ５th Stratum are lost．{换行}Use the gravity device to rescue them from ２３F．{换行} {换行}Reward： {颜色:0500}{道具:DD00}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"27e8",
+			"length":180,
+			"jpn":"樹海には、好きな相手に贈るとその子が自分を好きになる{换行}なんて言われてる花があるそうだぜ。オレはそいつを使って{换行}ある女の子をオトしたい。頼む、採ってきてくれ！{换行}報酬　{颜色:0500}{道具:E005}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"289c",
+			"length":120,
+			"jpn":"冒険者さんの釣りの腕前はどんな感じだい？{换行}ちょいと試しに樹海で魚を釣ってきておくれよ！{换行}　{换行}報酬　{颜色:0500}{道具:F006}　５個{颜色:0000}{换行}{END}",
+			"eng":"”Adventuring is one thing, yes, but can you fish？{换行}I want you catch me a fish from the labyrinth！”{换行} {换行}Reward： {颜色:0500}{道具:F006} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"2914",
+			"length":112,
+			"jpn":"樹海の魚を捌くと稀に手に入ると言われてる{换行}黒真珠が欲しいんだ。手を貸してくれ！{换行}　{换行}報酬　{颜色:0500}{道具:F006}　５匹{颜色:0000}{换行}{END}",
+			"eng":"”They say that when filleting forest fish, you can{换行}sometimes find a black pearl． Help me get one！”{换行} {换行}Reward： {颜色:0500}{道具:F006} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"2984",
+			"length":124,
+			"jpn":"冒険者ギルドのエドガーだ。{换行}{主角姓名}に依頼したい案件がある。{换行}依頼を受けたら冒険者ギルドに来てくれ。{换行}報酬　{颜色:0500}{道具:3205}　５個{颜色:0000}{换行}{END}",
+			"eng":"”From Egar, to the {主角姓名} Guild： Meet me{换行}at the Explorers Guild after taking this request．”{换行} {换行}Reward： {颜色:0500}{道具:3205} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"2a00",
+			"length":146,
+			"jpn":"冒険者ギルドのエドガーだ。{换行}{主角姓名}よ、お前たちに依頼したいことがある。{换行}準備ができたのなら冒険者ギルドに来てくれ。{换行}報酬　{颜色:0500}１５００００エン{颜色:0000}{换行}{END}",
+			"eng":"”From Egar, to the {主角姓名} Guild： Meet me{换行}at the Explorers Guild, when you have the time．”{换行} {换行}Reward： {颜色:0500}１５００００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":68,
+			"offset":"2a92",
+			"length":134,
+			"jpn":"四階層の水晶が壊せなくて困っている。{换行}その水晶を壊すための特注のツルハシを作るための{换行}素材を集めてくれ。{换行}報酬　{颜色:0500}{道具:4E05}　３個{颜色:0000}{换行}{END}",
+			"eng":"”I want someone to gather materials for a special{换行}pickaxe for breaking crystals on the ４th Stratum．”{换行} {换行}Reward： {颜色:0500}{道具:4E05} x３{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":69,
+			"offset":"2b18",
+			"length":142,
+			"jpn":"ウチ、同年代のお友達がいないのが悩みなんです！{换行}そこで、お客さんたちに友達作りのお手伝いを{换行}お願いしたいのです！{换行}報酬　{颜色:0500}{道具:3805}　５個{颜色:0000}{换行}{END}",
+			"eng":"”Welcome, dear guests--I mean, it’s me, Jenetta！{换行}I really need help with making a friend my age！”{换行} {换行}Reward： {颜色:0500}{道具:3805} x５{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":70,
+			"offset":"2ba6",
+			"length":174,
+			"jpn":"{颜色:0500}２５階{颜色:0000}に突然見覚えのない魔物が現れた！{换行}奴らは徒党を組んで、２５階を支配下に置きつつある。{换行}このままでは世界樹が奴らの手に落ちるかもしれない。{换行}報酬　{颜色:0500}{道具:8E00}{颜色:0000}{换行}{END}",
+			"eng":"”New monsters have suddenly taken over ２５F！{换行}At this rate, they may conquer all of Yggdrasil！”{换行} {换行}Reward： {颜色:0500}{道具:8E00}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":71,
+			"offset":"2c54",
+			"length":102,
+			"jpn":"{主角姓名}に頼みたいことがある。{换行}１２階で待っているから来てくれるか？{换行}　{换行}報酬　{颜色:0500}２５００００エン{颜色:0000}{换行}{END}",
+			"eng":"”I have a request for the {主角姓名} Guild．{换行}I’ll be on １２F, so won’t you come and see me？”{换行} {换行}Reward： {颜色:0500}２５００００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":72,
+			"offset":"2cba",
+			"length":152,
+			"jpn":"伐採、採取、採掘で採れる稀少な素材、{换行}{颜色:0500}青碧の露{颜色:0000}、{颜色:0500}流星の果実{颜色:0000}、{颜色:0500}逆しまの木{颜色:0000}を{换行}１個ずつ取ってきてくれないか！{换行}報酬　{颜色:0500}{道具:1405}{颜色:0000}{换行}{END}",
+			"eng":"This is a request for {颜色:0500}Azure Dew{颜色:0000}, {颜色:0500}Starfall Fruit{颜色:0000},{换行}and a {颜色:0500}Reverse Tree{颜色:0000}． They are rare materials．{换行} {换行}Reward： {颜色:0500}{道具:1405}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":73,
+			"offset":"2d52",
+			"length":94,
+			"jpn":"{主角姓名}のみんなに依頼よ。{换行}どうか私の話を聞いてちょうだい。{换行}　{换行}報酬　{颜色:0500}３５００００エン{颜色:0000}{换行}{END}",
+			"eng":"”This request’s for the {主角姓名} Guild．{换行}Please come listen to what I have to say．”{换行} {换行}Reward： {颜色:0500}３５００００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":74,
+			"offset":"2db0",
+			"length":142,
+			"jpn":"悪魔という存在をもっとよく研究してみたい。{换行}そこで、五階層の強力な魔物を{换行}モンスター図鑑に登録してきてもらいたいんだ。{换行}報酬　{颜色:0500}{道具:1405}{颜色:0000}{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":75,
+			"offset":"2e3e",
+			"length":124,
+			"jpn":"樹海の五階層までに生息する{颜色:0500}強い魔物{颜色:0000}の{颜色:0500}稀少素材{颜色:0000}を{换行}すべて手に入れてきてもらいたい。{换行}　{换行}報酬　{颜色:0500}{道具:F705}{颜色:0000}{换行}{END}",
+			"eng":"This is a request for all the {颜色:0500}rare materials{颜色:0000} that are{换行}dropped by {颜色:0500}powerful monsters{颜色:0000} in Yggdrasil．{换行} {换行}Reward： {颜色:0500}{道具:F705}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":76,
+			"offset":"2eba",
+			"length":166,
+			"jpn":"樹海にいる冒険者たちから商品の配達を頼まれたんだ。{换行}けど、おいら一人で樹海に行くのはなぁ…。{换行}そこで、君たちに護衛を依頼したいんだよ！{换行}報酬　{颜色:0500}１８００エン{颜色:0000}{换行}{END}",
+			"eng":"”Hiya！ I’ve got deliveries to make up in Yggdrasil,{换行}but I’m no adventurer． That’s where you come in！”{换行} {换行}Reward： {颜色:0500}１８００en{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":77,
+			"offset":"2f60",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":78,
+			"offset":"2f6a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":79,
+			"offset":"2f74",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":80,
+			"offset":"2f7e",
+			"length":146,
+			"jpn":"ワシが長年研究を続けておったものが{换行}ようやくある程度形になった！　成長効率が{换行}本当によくなるかどうか、誰か検証してくれい！{换行}報酬　{颜色:0500}{道具:4705}{颜色:0000}{换行}{END}",
+			"eng":"A wizard’s invention is finally ready for testing．{换行}Does it really make explorers more experienced？{换行} {换行}Reward： {颜色:0500}{道具:4705}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":81,
+			"offset":"3010",
+			"length":164,
+			"jpn":"ワシが長年研究を続けておったものが{换行}ようやくある程度形になった！　魔物が素材を{换行}落とすようになるかどうか、誰か検証してくれい！{换行}報酬　{颜色:0500}到達階に応じた大金{颜色:0000}{换行}{END}",
+			"eng":"A wizard’s invention is finally ready for testing．{换行}Does it really raise monster material drop rates？{换行} {换行}Reward： {颜色:0500}Money based on highest floor reached{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":82,
+			"offset":"30b4",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":83,
+			"offset":"30be",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":84,
+			"offset":"30c8",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":85,
+			"offset":"30d2",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":86,
+			"offset":"30dc",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":87,
+			"offset":"30e6",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":88,
+			"offset":"30f0",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":89,
+			"offset":"30fa",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":90,
+			"offset":"3104",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":91,
+			"offset":"310e",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":92,
+			"offset":"3118",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":93,
+			"offset":"3122",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":94,
+			"offset":"312c",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":95,
+			"offset":"3136",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":96,
+			"offset":"3140",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":97,
+			"offset":"314a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":98,
+			"offset":"3154",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":99,
+			"offset":"315e",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":100,
+			"offset":"3168",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":101,
+			"offset":"3172",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":102,
+			"offset":"317c",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":103,
+			"offset":"3186",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Unused{换行}{END}",
+			"zh":""
+		}
+	]
+}

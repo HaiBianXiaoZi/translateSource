@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_124.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":248,
+			"jpn":"{F812}明るい声の若手ギルド\u0000第三階層って昔は戦場だったんだろ？{换行}{换页}となると、その時の武人たちが落とした{换行}装備品が残ってたりすんのかね？{换行}{换页}ま、使い物にはならねえだろうし、{换行}俺らのギルドにゃ関係ねえな。まだ達人と{换行}認められない弱小だからな！　ははは！{换行}{END}",
+			"eng":"{F812}Cheerful Young Explorer\u0000The ３rd Stratum is a battlefield from {换行}long, long ago, right？{换行}{换页}Do you think all the equipment the warriors{换行}used is still out there？{换行}{换页}I can’t imagine they’re any good after all{换行}these years, though． Besides, it doesn’t{换行}matter--our guild’s so tiny and weak, ha！{换行}{END}",
+			"zh":""
+		}
+	]
+}

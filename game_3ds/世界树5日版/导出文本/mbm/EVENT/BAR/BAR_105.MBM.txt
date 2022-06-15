@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_105.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":220,
+			"jpn":"{F812}小太りの新米冒険者\u0000いやー、樹海っていいねー。{换行}釣りをすれば魚が食べられるし{换行}細かく探索すれば木の実とかもある。{换行}{换页}取った{颜色:0500}食べ物は持ち歩ける{颜色:0000}から、{换行}疲れた時に食べれば体力も回復！{换行}食費も浮くし一石二鳥だね！{换行}{END}",
+			"eng":"{F812}Stout Adventurer\u0000Man, the labyrinth sure is great． All the fish{换行}you could ever hope to catch, and berries all{换行}over the place--just make sure they’re edible！{换行}{换页}Since you can {颜色:0500}carry the food{颜色:0000} you find with you,{换行}just snack on the go for a boost of energy！ And{换行}it saves cash, killing two birds with one stone！{换行}{END}",
+			"zh":""
+		}
+	]
+}

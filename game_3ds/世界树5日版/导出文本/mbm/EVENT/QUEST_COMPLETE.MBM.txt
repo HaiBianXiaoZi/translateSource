@@ -1,0 +1,837 @@
+{
+	"fileName":"QUEST_COMPLETE.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"6a0",
+			"length":74,
+			"jpn":"デバックモード専用クエストです。{换行}簡単なお仕事だからヨロシク頼みマス！{换行}{END}",
+			"eng":"Debug mode quest！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"6ea",
+			"length":52,
+			"jpn":"{颜色:0500}{道具:9404}{颜色:0000}を{颜色:0500}１つ{颜色:0000}集め、酒場に納品しろ！{换行}{END}",
+			"eng":"Collect {颜色:0500}１ {道具:9404}{颜色:0000}{换行}and bring it to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"71e",
+			"length":78,
+			"jpn":"{颜色:0500}{敌人:0100}{颜色:0000}から取れる、{换行}{颜色:0500}{道具:9D03}{颜色:0000}を{颜色:0500}３個{颜色:0000}集め、酒場に納品しろ！{换行}{END}",
+			"eng":"Collect {颜色:0500}３ {道具:9D03}s{颜色:0000} from {颜色:0500}{敌人:0100}s{颜色:0000}{换行}and bring them to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"76c",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"7a4",
+			"length":52,
+			"jpn":"{颜色:0500}{道具:A704}{颜色:0000}を{颜色:0500}１つ{颜色:0000}集め、酒場に納品しろ！{换行}{END}",
+			"eng":"Collect {颜色:0500}１ {道具:A704}{颜色:0000}{换行}and bring it to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"7d8",
+			"length":62,
+			"jpn":"{颜色:0500}ルナリアのサディアス{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Go talk to {颜色:0500}Thadius the Celestrian{颜色:0000}{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"816",
+			"length":28,
+			"jpn":"{颜色:0500}{敌人:0700}{颜色:0000}を討伐せよ！{换行}{END}",
+			"eng":"Slay a {颜色:0500}{敌人:0700}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"832",
+			"length":46,
+			"jpn":"{颜色:0500}稀少個体{颜色:0000}と呼ばれる魔物を討伐しろ！{换行}{END}",
+			"eng":"Slay a {颜色:0500}Rare Breed{颜色:0000} monster！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"860",
+			"length":72,
+			"jpn":"{颜色:0500}巨大なローパー{颜色:0000}が落とす{换行}{颜色:0500}{道具:AC03}{颜色:0000}を{颜色:0500}１個{颜色:0000}納品せよ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}１ {道具:AC03}{颜色:0000}{换行}from a {颜色:0500}Colossal Roper{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"8a8",
+			"length":62,
+			"jpn":"{颜色:0500}蒼髪のモノクルの紳士{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to the {颜色:0500}Monocled Gentleman{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"8e6",
+			"length":56,
+			"jpn":"{颜色:0500}５階{颜色:0000}の南東にあるという魔物の巣を{换行}破壊しろ！{换行}{END}",
+			"eng":"Destroy the monster nest{换行}to the southeast of {颜色:0500}５F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"91e",
+			"length":62,
+			"jpn":"{颜色:0500}{敌人:1200}{颜色:0000}が落とす{换行}{颜色:0500}{道具:B003}{颜色:0000}を{颜色:0500}１個{颜色:0000}納品せよ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}１ {道具:B003}{颜色:0000}{换行}from an {颜色:0500}{敌人:1200}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"95c",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"994",
+			"length":52,
+			"jpn":"樹海の{颜色:0500}５階{颜色:0000}に設置された罠を、{换行}解除しろ！{换行}{END}",
+			"eng":"Disable the traps set on {颜色:0500}５F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"9c8",
+			"length":62,
+			"jpn":"{颜色:0500}{敌人:0C00}{颜色:0000}が落とす{换行}{颜色:0500}{道具:B303}{颜色:0000}を{颜色:0500}３個{颜色:0000}納品せよ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}３ {道具:B303}s{颜色:0000}{换行}from the {颜色:0500}{敌人:0C00}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"a06",
+			"length":58,
+			"jpn":"{颜色:0500}酒を飲んで騒ぐ客{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to the {颜色:0500}rowdy man{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"a40",
+			"length":62,
+			"jpn":"{颜色:0500}宿屋の少女ジェネッタ{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Jenetta the Innkeeper{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"a7e",
+			"length":64,
+			"jpn":"樹海の{颜色:0500}７階{颜色:0000}で{颜色:0500}{敌人:0E00}{颜色:0000}を{换行}{颜色:0500}１２匹{颜色:0000}駆除しろ！{换行}{END}",
+			"eng":"Slay {颜色:0500}１２ {敌人:0E00}s{颜色:0000} on {颜色:0500}７F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"abe",
+			"length":40,
+			"jpn":"{颜色:0500}{敌人:1100}{颜色:0000}に気付かれずに隣接しろ！{换行}{END}",
+			"eng":"Get close to a {颜色:0500}{敌人:1100}{颜色:0000}{换行}without being noticed！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"ae6",
+			"length":62,
+			"jpn":"{颜色:0500}ルナリアのサディアス{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Go talk to {颜色:0500}Thadius the Celestrian{颜色:0000}{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"b24",
+			"length":44,
+			"jpn":"樹海の{颜色:0500}８階{颜色:0000}に行き衛兵と勝負せよ！{换行}{END}",
+			"eng":"Go to {颜色:0500}８F{颜色:0000} of the labyrinth{换行}and accept the guard’s challenge！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"b50",
+			"length":98,
+			"jpn":"{颜色:0500}{道具:0807}{颜色:0000}を{颜色:0500}１個{颜色:0000}、{颜色:0500}{道具:FE06}{颜色:0000}を{颜色:0500}２個{颜色:0000}、{换行}{颜色:0500}{道具:F406}{颜色:0000}を{颜色:0500}３個{颜色:0000}納品せよ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}１ {道具:0807}{颜色:0000}, {颜色:0500}２ {道具:FE06}s{颜色:0000},{换行}and {颜色:0500}３ {道具:F406}s{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"bb2",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"bea",
+			"length":46,
+			"jpn":"樹海の{颜色:0500}９階{颜色:0000}にある白い花を発見せよ！{换行}{END}",
+			"eng":"Find the white flower on {颜色:0500}９F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"c18",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"{颜色:0500}Listen to the client’s story{颜色:0000}{换行}and complete their request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"c46",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"{颜色:0500}Listen to the client’s story{颜色:0000}{换行}and complete their request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"c74",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"cac",
+			"length":36,
+			"jpn":"{颜色:0500}種が育つ場所{颜色:0000}を発見せよ！{换行}{END}",
+			"eng":"Find a spot where {颜色:0500}a seed{颜色:0000} could grow！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"cd0",
+			"length":56,
+			"jpn":"{颜色:0500}セリアンのミア{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Mia the Therian{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"d08",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"{颜色:0500}Listen to the client’s story{颜色:0000}{换行}and complete their request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"d36",
+			"length":48,
+			"jpn":"{颜色:0500}１１階{颜色:0000}に現れたという魔物を討伐せよ！{换行}{END}",
+			"eng":"Slay the monster that appeared on {颜色:0500}１１F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"d66",
+			"length":46,
+			"jpn":"{颜色:0500}評議会{颜色:0000}で話を聞き、依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}the Council{颜色:0000}’s story{换行}and complete the request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"d94",
+			"length":52,
+			"jpn":"{颜色:0500}追憶のケン{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"dc8",
+			"length":74,
+			"jpn":"{颜色:0500}{道具:D203}{颜色:0000}を{颜色:0500}３つ{颜色:0000}と{换行}{颜色:0500}{道具:AC04}{颜色:0000}を{颜色:0500}３つ{颜色:0000}を{换行}納品せよ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}５ {道具:D203}s{颜色:0000}{换行}and {颜色:0500}３ {道具:AC04}s{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"e12",
+			"length":40,
+			"jpn":"{颜色:0500}{敌人:1A00}{颜色:0000}が落とす素材を納品せよ！{换行}{END}",
+			"eng":"Bring back the dropped materials{换行}from the {颜色:0500}{敌人:1A00}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"e3a",
+			"length":58,
+			"jpn":"{颜色:0500}蒼い髪の中年男性{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"e74",
+			"length":40,
+			"jpn":"{颜色:0500}{道具:C004}{颜色:0000}を集め、酒場に納品しろ！{换行}{END}",
+			"eng":"Collect {颜色:0500}{道具:C004}{颜色:0000}{换行}and bring it to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"e9c",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"{颜色:0500}Listen to the client’s story{颜色:0000}{换行}and complete their request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"eca",
+			"length":48,
+			"jpn":"{颜色:0500}１３階{颜色:0000}から戻って来ない衛兵隊を探せ！{换行}{END}",
+			"eng":"Find the missing guards on {颜色:0500}１３F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"efa",
+			"length":48,
+			"jpn":"{颜色:0500}１６階{颜色:0000}で失くしたお守りを見つけ出せ！{换行}{END}",
+			"eng":"Find the lost charm on {颜色:0500}１６F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"f2a",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"f62",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"f6c",
+			"length":62,
+			"jpn":"{颜色:0500}宿屋の少女ジェネッタ{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Jenetta the Innkeeper{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"faa",
+			"length":48,
+			"jpn":"{颜色:0500}１７階{颜色:0000}にいる{颜色:0500}{敌人:2900}{颜色:0000}を捕獲せよ！{换行}{END}",
+			"eng":"Capture the {颜色:0500}{敌人:2900}{颜色:0000} on {颜色:0500}１７F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"fda",
+			"length":68,
+			"jpn":"{颜色:0500}１８階の南西{颜色:0000}に巣穴を構えている{换行}トカゲの魔物を討伐せよ！{换行}{END}",
+			"eng":"Slay the lizard monsters{换行}to the {颜色:0500}southwest of １８F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"101e",
+			"length":46,
+			"jpn":"{颜色:0500}評議会{颜色:0000}で話を聞き、依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}the Council{颜色:0000}’s story{换行}and complete the request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"104c",
+			"length":62,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}武具の素材を集めろ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"108a",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Mia the Therian{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"10b8",
+			"length":64,
+			"jpn":"{颜色:0500}１９階{颜色:0000}を歩き、現れるだろう{换行}トカゲのボスを討伐せよ！{换行}{END}",
+			"eng":"Travel through {颜色:0500}１９F{颜色:0000} and then slay{换行}the lizard boss when it appears！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"10f8",
+			"length":62,
+			"jpn":"{颜色:0500}宿屋の少女ジェネッタ{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Jenetta the Innkeeper{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"1136",
+			"length":50,
+			"jpn":"{颜色:0500}{道具:B104}、{道具:B204}、{道具:B304}{颜色:0000}を{换行}採取し、納品せよ！{换行}{END}",
+			"eng":"Collect {颜色:0500}{道具:B104}, {道具:B204}, and{换行}a {道具:B304}{颜色:0000}, then bring them back！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"1168",
+			"length":68,
+			"jpn":"{颜色:0500}鉄のように固いドングリの殻{颜色:0000}を{换行}ギルド長エドガーに届けろ！{换行}{END}",
+			"eng":"Deliver an {颜色:0500}iron-hard acorn shell{颜色:0000}{换行}to Guildmaster Egar！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"11ac",
+			"length":88,
+			"jpn":"{颜色:0500}１９階の西側{颜色:0000}から更に奥へと続いていそうな{换行}道を酒場の店主メリーナに報告せよ！{换行}{END}",
+			"eng":"Find a hidden passageway on the {颜色:0500}west side{换行}of １９F{颜色:0000} and report it to Mirina the barkeep！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"1204",
+			"length":54,
+			"jpn":"依頼人の話を聞き、{颜色:0500}{敌人:4600}の{换行}調査を{颜色:0000}実行せよ！{换行}{END}",
+			"eng":"Listen to the client’s story and{换行}experiment on a {颜色:0500}{敌人:4600}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"123a",
+			"length":44,
+			"jpn":"{颜色:0500}リリの話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Lili the Necromancer{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"1266",
+			"length":64,
+			"jpn":"{颜色:0500}五階層{颜色:0000}の{颜色:0500}採掘物{颜色:0000}を{颜色:0500}どれか１つ{颜色:0000}納品しろ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}at least １{颜色:0000} of the ores{换行}that can be mined on the {颜色:0500}５th Stratum{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"12a6",
+			"length":78,
+			"jpn":"依頼人が望む{颜色:0500}ヤギの角{颜色:0000}と{颜色:0500}イノシシの牙{颜色:0000}を{换行}入手して、納品せよ！{换行}{END}",
+			"eng":"Collect a {颜色:0500}goat’s horn{颜色:0000} and a {颜色:0500}boar’s tusk{颜色:0000}{换行}and bring them back to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"12f4",
+			"length":56,
+			"jpn":"{颜色:0500}セリアンのミア{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Mia the Therian{颜色:0000}’s story{换行}and complete her request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":59,
+			"offset":"132c",
+			"length":58,
+			"jpn":"{颜色:0500}孤高のケヴィン{颜色:0000}から話を聞き、{换行}依頼を達成せよ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Ghai the Fiery{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"1366",
+			"length":46,
+			"jpn":"{颜色:0500}６階{颜色:0000}に出現した大サソリを討伐せよ！{换行}{END}",
+			"eng":"Slay the giant scorpion on {颜色:0500}６F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"1394",
+			"length":60,
+			"jpn":"{颜色:0500}魔物好きのセルゲイ{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"13d0",
+			"length":40,
+			"jpn":"{颜色:0500}２３階{颜色:0000}へ行き、衛兵を助けろ！{换行}{END}",
+			"eng":"Go to {颜色:0500}２３F{颜色:0000} and help the guards there！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"13f8",
+			"length":56,
+			"jpn":"{颜色:0500}女好きのスエズ{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"1430",
+			"length":44,
+			"jpn":"{颜色:0500}{道具:F006}{颜色:0000}を釣り上げ、酒場に納品しろ！{换行}{END}",
+			"eng":"Catch a {颜色:0500}{道具:F006}{颜色:0000}{换行}and bring it to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"145c",
+			"length":50,
+			"jpn":"{颜色:0500}釣り上げた魚{颜色:0000}から、黒真珠を手に入れろ！{换行}{END}",
+			"eng":"Obtain a {颜色:0500}Black Pearl{颜色:0000} from a fish！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"148e",
+			"length":46,
+			"jpn":"{颜色:0500}ギルド長エドガー{颜色:0000}の依頼を達成せよ！{换行}{END}",
+			"eng":"Complete {颜色:0500}Guildmaster Egar{颜色:0000}’s request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"14bc",
+			"length":46,
+			"jpn":"{颜色:0500}ギルド長エドガー{颜色:0000}の依頼を達成せよ！{换行}{END}",
+			"eng":"Complete {颜色:0500}Guildmaster Egar{颜色:0000}’s request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":68,
+			"offset":"14ea",
+			"length":46,
+			"jpn":"{颜色:0500}依頼人に話を聞いて{颜色:0000}依頼を達成せよ！{换行}{END}",
+			"eng":"{颜色:0500}Listen to the client’s story{颜色:0000}{换行}and complete their request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":69,
+			"offset":"1518",
+			"length":54,
+			"jpn":"{颜色:0500}宿屋の少女ジェネッタ{颜色:0000}の友達作りに協力しろ！{换行}{END}",
+			"eng":"Help {颜色:0500}Jenetta the Innkeeper{颜色:0000} make friends！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":70,
+			"offset":"154e",
+			"length":70,
+			"jpn":"{颜色:0500}２５階{颜色:0000}へ侵略してきた{换行}{颜色:0500}タコ型の魔物{颜色:0000}どもを駆逐しろ！{换行}{END}",
+			"eng":"Slay the {颜色:0500}monstrous octopi{颜色:0000}{换行}that have invaded {颜色:0500}２５F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":71,
+			"offset":"1594",
+			"length":50,
+			"jpn":"{颜色:0500}１２階{颜色:0000}へ行き、正体不明の依頼人と会え！{换行}{END}",
+			"eng":"Meet the unknown client on {颜色:0500}１２F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":72,
+			"offset":"15c6",
+			"length":72,
+			"jpn":"{颜色:0500}青碧の露{颜色:0000}、{颜色:0500}流星の果実{颜色:0000}、{颜色:0500}逆しまの木{颜色:0000}を納品しろ！{换行}{END}",
+			"eng":"Bring back {颜色:0500}Azure Dew{颜色:0000}, {颜色:0500}Starfall Fruit{颜色:0000},{换行}and a {颜色:0500}Reverse Tree{颜色:0000} to the tavern！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":73,
+			"offset":"160e",
+			"length":50,
+			"jpn":"{颜色:0500}１９階{颜色:0000}の隠された場所に潜む魔物を倒せ！{换行}{END}",
+			"eng":"Defeat the monster hiding on {颜色:0500}１９F{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":74,
+			"offset":"1640",
+			"length":108,
+			"jpn":"{颜色:0500}ガリデーモン{颜色:0000}、{颜色:0500}ハイブエル{颜色:0000}、{颜色:0500}アークデーモン{颜色:0000}、{颜色:0500}デブデーモン{颜色:0000}を図鑑に登録しろ！{换行}{END}",
+			"eng":"UNUSED{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":75,
+			"offset":"16ac",
+			"length":60,
+			"jpn":"五階層までに生息する{换行}{颜色:0500}強敵の稀少素材{颜色:0000}を入手しろ！{换行}{END}",
+			"eng":"Obtain {颜色:0500}rare materials from powerful{换行}enemies{颜色:0000} living up to the ５th Stratum！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":76,
+			"offset":"16e8",
+			"length":56,
+			"jpn":"{颜色:0500}旅商人のセリク{颜色:0000}から話を聞き、{换行}依頼をこなせ！{换行}{END}",
+			"eng":"Listen to {颜色:0500}Syrik the Traveling Merchant{颜色:0000}’s story{换行}and complete his request！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":77,
+			"offset":"1720",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":78,
+			"offset":"172a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":79,
+			"offset":"1734",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":80,
+			"offset":"173e",
+			"length":50,
+			"jpn":"{颜色:0500}{道具:5203}{颜色:0000}を装備した状態で{换行}魔物に勝利せよ！{换行}{END}",
+			"eng":"Go defeat monsters while{换行}wearing the {颜色:0500}{道具:5203}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":81,
+			"offset":"1770",
+			"length":50,
+			"jpn":"{颜色:0500}{道具:5303}{颜色:0000}を装備した状態で{换行}魔物に勝利せよ！{换行}{END}",
+			"eng":"Go defeat monsters while{换行}wearing the {颜色:0500}{道具:5203}{颜色:0000}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":82,
+			"offset":"17a2",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":83,
+			"offset":"17ac",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":84,
+			"offset":"17b6",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":85,
+			"offset":"17c0",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":86,
+			"offset":"17ca",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":87,
+			"offset":"17d4",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":88,
+			"offset":"17de",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":89,
+			"offset":"17e8",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":90,
+			"offset":"17f2",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":91,
+			"offset":"17fc",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":92,
+			"offset":"1806",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":93,
+			"offset":"1810",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":94,
+			"offset":"181a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":95,
+			"offset":"1824",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":96,
+			"offset":"182e",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":97,
+			"offset":"1838",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":98,
+			"offset":"1842",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":99,
+			"offset":"184c",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":100,
+			"offset":"1856",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":101,
+			"offset":"1860",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":102,
+			"offset":"186a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":103,
+			"offset":"1874",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not Used{换行}{END}",
+			"zh":""
+		}
+	]
+}

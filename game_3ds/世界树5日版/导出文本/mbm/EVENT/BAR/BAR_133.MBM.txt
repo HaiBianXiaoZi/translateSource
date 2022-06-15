@@ -1,0 +1,37 @@
+{
+	"fileName":"BAR_133.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"60",
+			"length":90,
+			"jpn":"{F812}吟遊詩人の女性\u0000やぁ。ここであったのも何かの縁。{换行}どうだい、一曲聞いていかないかい？{换行}{END}",
+			"eng":"{F812}Bardic Woman\u0000Why hello there． Must be fate that brought {换行}us together． How ’bout it, then？ Won’t you {换行}listen to a song？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"ba",
+			"length":50,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}聞いていく{换行}やめておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Listen{换行}Don’t listen{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"ec",
+			"length":426,
+			"jpn":"{F812}吟遊詩人の女性\u0000たった一つの小さな光、空へと向かう。{换行}光は幾度も瞬いてはまた空へと上る。{换行}上に上に輝き増してキラキラと。{换行}{换页}いつしか光は星へと変わる。{换行}強く大きく輝く誰もが眺める一番星に。{换行}そして星は空へとたどり着いた。{换行}{换页}これは最近流行っている詩なんだ。{换行}強い心で上へと進むことを教える詩…、{换行}君たち{主角姓名}の詩さ。{换行}{换页}きっと君たちはもっと良い詩を紡ぎだす。{换行}人々へ夢と希望を与える詩を。{换行}ふふ、第五階層の探索も頑張ってね。{换行}{END}",
+			"eng":"{F812}Bardic Woman\u0000A tiny light soars to the skies{换行}It blinks and blinks and starts to rise{换行}Higher and higher, it grows in size{换行}{换页}Soon the light becomes a star{换行}Its shine can reach wherever you are{换行}And chase the dark wide and far{换行}{换页}This song’s been quite popular lately．{换行}It’s about learning to burn bright and true．{换行}It’s a song about you, {主角姓名} Guild．{换行}{换页}I’m sure you’ll inspire many more songs． {换行}Ones that give hope to all adventurers．{换行}Good luck exploring the ５th Stratum．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"296",
+			"length":46,
+			"jpn":"{F812}吟遊詩人の女性\u0000そうかい、それは残念だ。{换行}{END}",
+			"eng":"{F812}Bardic Woman\u0000Maybe another time, then．{换行}{END}",
+			"zh":""
+		}
+	]
+}

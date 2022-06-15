@@ -1,0 +1,61 @@
+{
+	"fileName":"BAR_14.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"90",
+			"length":320,
+			"jpn":"{F812}大きな荷物を背負った男\u0000ん？　私に何か用かい？{换行}{换页}ああ、背負ってる荷物の中身かい？{换行}食材が入っているんだよ。{换行}私はこれを街で売り歩いているのさ。{换行}{换页}もしかして君たち何か入り用かな？{换行}私でよければ売ることもできるが。{换行}{换页}…ふむ、{数字:0000}に{数字:0100}、{换行}それと{数字:0200}か。{换行}{换页}だったら手持ちにあるから、{换行}売ってあげることはできるよ。{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000Hm？ Can I help you with something？{换行}{换页}Oh, you want to know about the big case {换行}on my back？ It contains cooking ingredients． {换行}I travel throughout the city selling them．{换行}{换页}Do you need something？ I’d be happy {换行}to sell you whatever I have on hand．{换行}{换页}Looks like you need {数字:0000}, {换行}{数字:0100}, and {数字:0200}, right？{换行}{换页}I have those． I can sell ’em to you {换行}at a good price．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1d0",
+			"length":146,
+			"jpn":"{F812}大きな荷物を背負った男\u0000{颜色:0500}どうしますか？{颜色:0000}{换行}{数字:0000}１個を３００エンで買う{换行}{数字:0100}２個を６００エンで買う{换行}{数字:0200}３個を９００エンで買う{换行}買わない{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000{颜色:0500}What will you do？{颜色:0000}{换行}Buy {数字:0000} x１ for ３００en{换行}Buy {数字:0100} x２ for ６００en{换行}Buy {数字:0200} x３ for ９００en{换行}Don’t buy anything{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"262",
+			"length":74,
+			"jpn":"{F812}大きな荷物を背負った男\u0000毎度あり！{换行}じゃあ、これを持っていくといい。{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000Here you go！ Pleasure doing business with you．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"2ac",
+			"length":124,
+			"jpn":"{F812}大きな荷物を背負った男\u0000そうか。もしやっぱり必要になったら{换行}また声をかけておくれよ。もうしばらくは{换行}ここにいるからね。{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000Ah, okay． Well, if you change your mind,{换行}feel free to stop by here． I’ll be around{换行}a little while longer．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"328",
+			"length":92,
+			"jpn":"{F812}大きな荷物を背負った男\u0000やあ、君たちか。{换行}依頼に必要だっていう食材、{换行}買っていくかい？{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000Ah, hello again．{换行}Do you still want those ingredients {换行}you said you needed？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"384",
+			"length":112,
+			"jpn":"{F812}大きな荷物を背負った男\u0000でも、残念だけどお金がたりないようだね。{换行}お金が用意できてから、また来ておくれよ。{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000I’m sorry, you don’t seem to have {换行}enough money． Come back when {换行}you do, though．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"3f4",
+			"length":180,
+			"jpn":"{F812}大きな荷物を背負った男\u0000あー、でもそれだと君たちの手持ちの{换行}食材が溢れてしまいそうだね。{换行}{换页}いらない食材とかを整理して{换行}持てそうな空きができてから{换行}また声をかけてくれるかい？{换行}{END}",
+			"eng":"{F812}Encumbered Salesman\u0000Whoops, there’s not enough room in your bag．{换行}{换页}Why don’t you come talk to me after {换行}you’ve gotten yourself organized？{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,173 @@
+{
+	"fileName":"BAR_119.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"170",
+			"length":82,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000むむっ…、そなたら、{换行}昆虫に興味などおありですかな？{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Hmm？ Are you perchance{换行}fellow bug enthusiasts．．．？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1c2",
+			"length":54,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}あります{换行}いいえまったく{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Yes{换行}No{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"1f8",
+			"length":204,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000やはり！　やはりそうであったか！{换行}ならば、小生とそなたらはこれから同志！{换行}{换页}もし、樹海で昆虫を取り逃したら{换行}小生に言ってくだされ。同種の昆虫を{换行}特別価格でお譲りしましょうぞ。{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Haha, I knew it！ From this moment on,{换行}we are kindred spirits in insectophilia！{换行}{换页}If you ever fail to catch a bug in the{换行}labyrinth, just let me know． I’ll allow{换行}you to buy the same one, for a price．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"2c4",
+			"length":298,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000なんたる！　なんたること！！{换行}この世界に生まれ落ちて、生きて、{换行}昆虫に興味がないなんて！！{换行}{换页}とはいえ、そなたらはいずれ昆虫について{换行}興味を持つと小生は感じていますぞ！{换行}{换页}もし、樹海で昆虫を取り逃したら{换行}小生に言ってくだされ。同種の昆虫を{换行}特別価格でお譲りしましょう。{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000What？ Th-That’s preposterous！{换行}How could anyone in this world{换行}NOT be a fellow insectophile！？{换行}{换页}You’ll come around eventually．{换行}I can feel it in my antennae．．．{换行}I mean, I WOULD, if I had any．{换行}{换页}If you ever fail to catch a bug in the{换行}labyrinth, just let me know． I’ll allow{换行}you to buy the same one, for a price．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"3ee",
+			"length":230,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000と、その顔を見るに既に取り逃したご様子。{换行}よければ、どのような見た目だったか{换行}お聞かせ願えますかな？{换行}{换页}ふむふむ、それならば同種の昆虫を{换行}小生が捕まえておるので、そなたらに{换行}譲ってさしあげましょうぞ！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Oh！ That look on your face says you’ve{换行}already failed to collect one． If you don’t{换行}mind, can you tell me what it looked like？{换行}{换页}Mhmm．．． I happen to have the same bug{换行}type in my collection, so I wouldn’t mind{换行}parting with it--for a fellow insectophile！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"4d4",
+			"length":138,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000小生は今は貧乏な冒険者ですが、{换行}ゆくゆくは樹海の昆虫の生態をまとめて、{换行}本にするのがささやかな夢なのですぞ。{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000I am but a poor bug catcher now, but I have a{换行}dream of one day collecting every last insect{换行}in the labyrinth and compiling them in a book！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"55e",
+			"length":292,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000おや、そなたたちのその顔…。{换行}もしかすると、樹海で見つけた昆虫を{换行}逃がしてしまったような顔ですな…。{换行}{换页}よければ、どのような見た目だったか{换行}お聞かせ願えますかな？{换行}{换页}ふむふむ、それならば同種の昆虫を{换行}小生が捕まえておるので、そなたらに{换行}譲ってさしあげましょうぞ！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Oh． That look on your face．．．{换行}You failed to catch an insect{换行}in the labyrinth, didn’t you？{换行}{换页}Would you mind telling me what{换行}it looked like, if you don’t mind？{换行}{换页}Mhm． I happen to have that same type{换行}of insect in my collection, so I wouldn’t{换行}mind selling it to a fellow bug collector！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"682",
+			"length":90,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}エンペラーカブト{换行}七本ツノカブト{换行}ハサミクワガタ{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Emperor Beetle{换行}Rhino Beetle{换行}Stag Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"6dc",
+			"length":74,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}エンペラーカブト{换行}七本ツノカブト{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Emperor Beetle{换行}Rhino Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"726",
+			"length":74,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}エンペラーカブト{换行}ハサミクワガタ{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Emperor Beetle{换行}Stag Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"770",
+			"length":72,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}七本ツノカブト{换行}ハサミクワガタ{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Rhino Beetle{换行}Stag Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"7b8",
+			"length":58,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}エンペラーカブト{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Emperor Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"7f2",
+			"length":56,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}七本ツノカブト{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Rhino Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"82a",
+			"length":56,
+			"jpn":"{颜色:0500}どの昆虫を見ますか？{颜色:0000}{换行}ハサミクワガタ{换行}やめる{换行}{END}",
+			"eng":"{颜色:0500}Which insect will you look at？{颜色:0000}{换行}Stag Beetle{换行}Never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"862",
+			"length":234,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000{数字:0000}は{换行}二本の立派な双角で敵を挟み込み、{换行}宇宙の果てまで投げ飛ばす豪傑の勇士！！{换行}{换页}これぞ勝者に相応しい昆虫であると{换行}言えましょう！{换行}{换页}ただ、その分お値段は張りますぞ…{换行}この{数字:0000}、{换行}ずばり{数字:0100}エンなり！！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000This brave bug is a hero to the insect world．{换行}It catches its enemies with two mighty horns{换行}and launches them to the far ends of space！{换行}{换页}Its powerful horns, its glistening exoskeleton．．．{换行}You could call this beetle a battle bug beauty．{换行}In the insect world, don’t mess with the king！{换行}{换页}It will, however, cost you a pretty Ental．．．{换行}I’ll part with my {数字:0000} for {数字:0100}en！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"94c",
+			"length":306,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000{数字:0000}はその名の通り、{换行}一本の大角と六本の小角、計七本の角を{换行}有する、男の夢を体現した昆虫ですぞ！{换行}{换页}普段は温厚で雌雄の仲も睦まじい種ですが{换行}いざ戦いが始まれば、並大抵の昆虫には{换行}遅れを取ることはありますまい！{换行}{换页}お値段は少しお高めですが…、{换行}この{数字:0000}、{换行}ずばり{数字:0100}エンなり！！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000The {数字:0000} is a dream come true．{换行}It gets its name from its one large horn,{换行}which is surrounded by six smaller horns！{换行}{换页}Normally it’s quite docile, and gets along well{换行}with its mate． But once a bug battle begins．．．{换行}it can hold its own against most other insects！{换行}{换页}It’s a little on the pricey side．．．{换行}but this {数字:0000} is {数字:0100}en！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"a7e",
+			"length":172,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000{数字:0000}は{换行}初心者にも手の出しやすい、{换行}入門用の昆虫と言われておりまする。{换行}{换页}お値段も手頃になっておりまして、{换行}この{数字:0000}、{换行}ずばり{数字:0100}エンなり！！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Ah, the classic {数字:0000}． A perfect starter{换行}insect that even beginners can take care of．{换行}It won’t win every bug battle, but it’s loyal．{换行}{换页}Because of that, it’s reasonably priced．{换行}I’ll sell you this {数字:0000} for {数字:0100}en！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"b2a",
+			"length":36,
+			"jpn":"{颜色:0500}{数字:0100}エンで購入しますか？{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0500}Buy it for {数字:0100}en？{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"b4e",
+			"length":98,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000ははは、大事に育ててくだされよ？{换行}また何かあれば声をかけてくだされ。{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Hehe！ Take good care of it, okay？{换行}Please feel free to come back{换行}if you can’t catch another bug．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"bb0",
+			"length":124,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000むむっ…買って行かれないのですか？{换行}それも已む無しですな。{换行}また何かあれば声をかけてくだされ。{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Hrm．．． You won’t buy a bug？ Well, I guess{换行}I can’t force you． Please feel free to come{换行}back if you change your mind about insects．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"c2c",
+			"length":136,
+			"jpn":"{F812}昆虫マニアのカジミール\u0000おや、お金が足りませぬな…。{换行}でも、安心してくだされ。小生はこの子を{换行}きっちり育てながら待っておりますぞ！{换行}{END}",
+			"eng":"{F812}Kashmir the Bug Catcher\u0000Oh dear, you don’t have enough money．．．{换行}But no worries, I’ll look after this beetle{换行}until you’ve saved enough to buy a bug！{换行}{END}",
+			"zh":""
+		}
+	]
+}

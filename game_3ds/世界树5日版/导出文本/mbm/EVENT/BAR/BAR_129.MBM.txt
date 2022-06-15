@@ -1,0 +1,37 @@
+{
+	"fileName":"BAR_129.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"60",
+			"length":110,
+			"jpn":"{F812}神風拳法の女性\u0000ねえねえねえ、アナタ達さ！{换行}水晶にぎゅいーんって行ったら{换行}シュパーンってならなかった！？{换行}{END}",
+			"eng":"{F812}Extremely Agile Pugilist\u0000Hey！ You guys！ Hey！ When you got near a{换行}crystal, did it make a sound like whooooosh？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"ce",
+			"length":50,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}なった{换行}ならなかった{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”Yeah！ It did！”{换行}”Don’t know what you’re talking about．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"100",
+			"length":80,
+			"jpn":"{F812}神風拳法の女性\u0000だよね！　なるよね！{换行}あたしもそうなって、びっくりしたよ！{换行}{END}",
+			"eng":"{F812}Extremely Agile Pugilist\u0000Right！？ That happened to me, too！{换行}I totally freaked out！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"150",
+			"length":458,
+			"jpn":"{F812}神風拳法の女性\u0000いやいやいや！{换行}ぎゅいーんって{颜色:0500}水晶に近づいたらいきなり{换行}知らない場所に飛ばされた{颜色:0000}でしょ！？{换行}{换页}あたしバカだからさ何回もシュパーンって{换行}飛ばされてたらさ、いい加減法則性を{换行}覚えなさいって怒られてさ！{换行}{换页}{颜色:0500}水晶に近づいた方角{颜色:0000}でナンタラカンタラって{换行}言われたから、走って試してたんだけど、{换行}気づいたら迷子になっちゃってさ。{换行}{换页}しょうがないから街に帰って来たのよね！{换行}やばいぃ…、絶対アイツ怒ってる…。{换行}頭シュパーンってされる…。{换行}{END}",
+			"eng":"{F812}Extremely Agile Pugilist\u0000No way！ C’mon！ When you got near the crystal,{换行}it teleported you to a new place and was all{换行}like, whooooosh, right？{换行}{换页}I keep getting whooshed ’cause I’m an idiot．{换行}My team got mad and told me to memorize{换行}the pattern already．{换行}{换页}They said something about paying attention {换行}to the direction you approach the crystal, but{换行}I just wound up getting lost．{换行}{换页}I didn’t know what to do, so I came back here．{换行}Craaaaap．．． They’re gonna be so pissed at me,{换行}they’ll make my head go whoosh．{换行}{END}",
+			"zh":""
+		}
+	]
+}

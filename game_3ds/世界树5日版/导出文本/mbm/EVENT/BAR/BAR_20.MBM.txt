@@ -1,0 +1,165 @@
+{
+	"fileName":"BAR_20.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"160",
+			"length":1022,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000ん？　なんだ、おめぇさんら。{换行}依頼ぃ？　おれ、依頼なんて出して…。{换行}{换页}あ！　あーあー、あれか。{换行}どっかの何某かを壊すための{换行}ツルハシの素材集めの！{换行}{换页}ああ、そうだったそうだった。{换行}そういう話をしろってことだったな…。{换行}{换页}あー、ごほんごほん。{换行}おめぇさんらが受けてくれたんだな。{换行}いかにもおれが依頼人だ。{换行}{换页}聞いたところによるとおめぇさんら、{换行}六階層を探索してるっていう話じゃねえか。{换行}{换页}だからよ、おめぇさんらには{换行}{颜色:0500}六階層{颜色:0000}で採れる採掘物を{颜色:0500}全種類１つずつ{颜色:0000}{换行}集めてきて欲しいんだ！{换行}{换页}それがありゃあ、何階層だったか…四階層？{换行}にあるどんな水晶でも壊せるツルハシを{换行}作ってやれるはずなんだ！{换行}{换页}これで合ってるよな、うん。{换行}以上がおれからの依頼の説明だ！{换行}{换页}…でも、本当におめぇさんら、{换行}六階層なんかを歩いてるのかい？{换行}{换页}他のだーれも歩いたことのない{换行}前人未到の領域って話なのに…。{换行}{换页}あーいや、何だか見た感じはそんなに{换行}おれと変わんねえただの人に見えるのに{换行}そこまで強いのかが信じられなくてよ。{换行}{换页}まあ、実際に持って帰ってくれば{换行}その強さを証明できるってこったな！{换行}よろしく頼んだぜ！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Huh？ Who’re you？{换行}A request？ I didn’t make a--{换行}{换页}Oh！ Right, right, right． The one about my {换行}little demo project．．． Need some materials．．．{换行}{换页}Right, right, right．{换行}That’s what I was told to say--{换行}{换页}．．．I mean． *cough* Yeah, I’m the {换行}one who posted that request．{换行}{换页}I hear you’ve been exploring the ６th Stratum．{换行}{换页}I need you to gather one of each type of{换行}ore that can be mined in the ６th Stratum．{换行}{换页}With those, I should be able to make {换行}a pickaxe that’ll destroy any kind of {换行}crystal on the．．． ４th Stratum？ That it？{换行}{换页}Yeah, that’s the one． Right, right, right．{换行}Well, that’s the long and short of my request！{换行}{换页}．．．Are you really going into {换行}the ６th Stratum, though？{换行}{换页}I hear no one’s been there before,{换行}that it’s totally uncharted territory．{换行}{换页}You look like an ordinary schmoe, like me．{换行}Hard to believe you’re tough enough for{换行}the ６th Stratum．{换行}{换页}Well, I guess if you bring back {换行}the ore that’ll prove your skills． {换行}I’m counting on you！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"55e",
+			"length":68,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000六階層の採掘物、持って帰ってきたのか？{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Did you get the ores from the ６th Stratum？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"5a2",
+			"length":54,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}持って帰ってきた{换行}まだだ{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”Here you go．”{换行}”Not yet．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"5d8",
+			"length":58,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000お！　マジか！{换行}どれどれ～？{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000For real？ Let’s have a look then, shall we？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"612",
+			"length":1076,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000おー、これが六階層の採掘物かぁ…。{换行}実物を見るのも触るのも初めてだけど、{换行}こりゃあすげーもんだなぁ。{换行}{换页}おめぇさんら、本当に六階層を{换行}歩いてんだな。疑って悪かった。{换行}{换页}……。{换行}{换页}ってことは、実力も疑いようもなく{换行}とんでもねぇってことだよな…。{换行}{换页}なあ、おれさ、実は今回の依頼の{换行}依頼人なんかじゃないんだわ。{换行}{换页}ツルハシを作るのがおれなのは{换行}間違いないけど、ツルハシを{换行}欲しがってんのはメリーナさんなんだ。{换行}{换页}依頼を受けた人には知られたくないから{换行}おれが依頼人だってことにして話を{换行}進めてって言われたんだけどよ…。{换行}{换页}おれにツルハシ作ってくれって{换行}言ってきたメリーナさんの顔が妙に{换行}引っかかっちまってよ。{换行}{换页}このままツルハシ作って、はいどうぞって{换行}渡したら、何か嫌なことになるような{换行}気がしてな。{换行}{换页}だから悪いんだけどよ、無茶苦茶{换行}強いおめぇさんらに頼みたい。{换行}{换页}メリーナさんの話を聞いて、{换行}助けになってやってくれ。{换行}{换页}おれ、いっつも依頼を回してもらってよ。{换行}メリーナさんには助けてもらいっぱなし{换行}なんだよ。{换行}{换页}おれだけじゃねえ。ここを利用する連中、{换行}全員がそうなのさ。{换行}{换页}だからよ、この酒場の客の代表として頼む。{换行}メリーナさんを助けてやってくれ。{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Whoa, now that’s impressive． {换行}I’ve never seen anything like it．{换行}{换页}Looks like you really can handle the{换行}６th Stratum． Sorry I doubted you．{换行}{换页}．．．．．．{换行}{换页}Guess your skills are really somethin’ else．．．{换行}{换页}Look, you should know I’m not {换行}the one who made this request．{换行}{换页}I mean, I’ll be making the pickaxe, but {换行}Miss Mirina’s the one who wants it．{换行}{换页}She asked me to make it on her behalf{换行}so no one would know she wanted it．．．{换行}{换页}And when she did, she had a {换行}real strange look on her face．．．{换行}{换页}I feel like something bad’s gonna happen if{换行}I just make the pickaxe and give it to her．{换行}{换页}I know it’s a lot to ask, but seeing how you{换行}guys are so strong, I have to ask a favor．．．{换行}{换页}Please, help Miss Mirina any way you can．{换行}{换页}I make all kinds of requests, so {换行}Miss Mirina’s helped me a ton．{换行}{换页}And not just me--anyone who uses this place．{换行}{换页}So for all of us, please--help Miss Mirina．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"a46",
+			"length":84,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}わかった{换行}メリーナがどう言うか次第だ{换行}断ると言ったら？{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”All right．”{换行}”Depends on what Mirina says．”{换行}”What if I refuse？”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"a9a",
+			"length":236,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000ありがとよ！{换行}おめぇさんらならそう言ってくれると{换行}思ってたぜ！{换行}{换页}よし、おれはすぐに戻って{换行}ツルハシ作ってくるからよ！{换行}{换页}おめぇさんらはメリーナさんに報告して{换行}しっかり話を聞いてやってくれや！{换行}そんじゃな！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Thanks！ I knew you’d help！{换行}{换页}I’m gonna head back to my shop{换行}and get started on that pickaxe！{换行}{换页}You guys go talk to Miss Mirina．{换行}See ya ’round！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"b86",
+			"length":208,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000おうおう！　それで全然構わねぇよ！{换行}{换页}よし、おれはすぐに戻って{换行}ツルハシ作ってくるからよ！{换行}{换页}おめぇさんらはメリーナさんに報告して{换行}しっかり話を聞いてやってくれや！{换行}そんじゃな！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Right, right, right． That’s fine！{换行}{换页}I’m gonna head back to my shop{换行}and get started on that pickaxe！{换行}{换页}You guys go talk to Miss Mirina．{换行}See ya ’round！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"c56",
+			"length":346,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000はっはっは！　そん時は店の客全員{换行}引き連れて、おめぇさんらに{换行}依頼を出すことにするさ！{换行}{换页}今回の依頼もやってくれたってことは{换行}依頼なら考え直してくれるかも{换行}しんねえからな！{换行}{换页}よし、おれはすぐに戻って{换行}ツルハシ作ってくるからよ！{换行}{换页}おめぇさんらはメリーナさんに報告して{换行}しっかり話を聞いてやってくれや！{换行}そんじゃな！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Ha！ Don’t make me get everyone in this{换行}tavern to make it a formal request．{换行}{换页}Then you’ll HAVE to complete it！{换行}{换页}I’m gonna head back to my shop{换行}and get started on that pickaxe！{换行}{换页}You guys go talk to Miss Mirina．{换行}See ya ’round！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"db0",
+			"length":142,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000ん？　どうも揃ってねえみたいだぞ？{换行}{换页}まあ、気長に待たせてもらうからよ！{换行}採掘物全部手に入ったら声かけてくれや！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Hm？ Looks like you don’t have all of them yet．{换行}{换页}No worries, I’ll wait． Just come see {换行}me again when you got all the ore．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"e3e",
+			"length":128,
+			"jpn":"{F812}炭鉱夫然としたセリアン\u0000お、そうか、わかった。{换行}まあ、気長に待たせてもらうからよ！{换行}採掘物全部手に入ったら声かけてくれや！{换行}{END}",
+			"eng":"{F812}Therian Miner\u0000Oh, okay． No worries． I’ll wait． Just come{换行}see me again when you got all the ore．{换行}{END}",
+			"zh":""
+		}
+	]
+}

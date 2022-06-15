@@ -1,0 +1,69 @@
+{
+	"fileName":"BAR_140.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"a0",
+			"length":178,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000ぁぁあああぁぁぁ…。{换行}困った…、やっぱりどこにもない…。{换行}{换页}あれがないと、拗ねるよな…。{换行}っていうか、最悪フラれるよな…。{换行}やばい…やばいぞ…。{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000No, no, no．．． I can’t find it anywhere！{换行}What am I going to do？{换行}{换页}It’ll break her heart if I can’t find it．{换行}Or, worse, she’ll totally dump me．{换行}This is a nightmare．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"152",
+			"length":50,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}声をかける{换行}放っておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Talk to him{换行}Leave him be{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"184",
+			"length":550,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000ああ、騒がしかったよな、すまない…。{换行}でも今、すごく困っているんだ。{换行}{换页}実は恋人のために用意していたプレゼントを{换行}どこかで落としてしまったみたいなんだ…。{换行}{换页}前々から僕の方から楽しみにしてろー。{换行}なんて言ってたせいで、彼女ものすごく{换行}期待しててさ…。{换行}{换页}ぅぅうううぅぅぅ…。{换行}どうすれば…どうすれば…。{换行}{换页}って、君たち！　君たちの持ってるそれ！{换行}その小さいけど、きれいな水晶！{换行}{换页}迷宮で拾ったのかい？{换行}そうか、なるほどなるほど…。{换行}じゃなくて！{换行}{换页}とても申し訳ないのだけど、その水晶を{换行}僕に譲ってくれないだろうか！？{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000Sorry, didn’t realize I was talking out loud．．．{换行}I’m just in a real jam here．{换行}{换页}I had this present for my SO, but{换行}I seemed to have lost it somewhere．{换行}{换页}I’ve been telling her to look forward to it{换行}for a while, so she’s already super excited．．．{换行}{换页}Yggdrasil’s mighty trunk．．． {换行}What am I going to do？{换行}{换页}*gasp* Wait！ What do you have there？{换行}Is that a crystal！？{换行}{换页}You found it in the labyrinth？ I see．．．{换行}{换页}Look, I hate to ask, but．．． {换行}would you let me have it？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"3aa",
+			"length":42,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}譲る{换行}譲らない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Give it to him{换行}Keep it for yourself{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"3d4",
+			"length":144,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000あ、ありがとう！　恩に着るよ！{换行}{换页}でも貰いっぱなしっていうのも{换行}良くないと思うから、君たちに{换行}これをあげるよ。{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000Thank you！ Thank you so much！ {换行}I owe you！{换行}{换页}I should at least repay your kindness．{换行}Here, I want you to have this．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"464",
+			"length":118,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000本当に助かったよ！　これがあれば{换行}きっと彼女も幻滅しないと思う！{换行}本当にありがとう！{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000You’re a real lifesaver！ There’s no way my{换行}SO will be disappointed by this！ Thanks again！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"4da",
+			"length":148,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000そ、そうだよな…。{换行}いきなりこんなこと言っても無理だよな…。{换行}{换页}だ、大丈夫さ…。{换行}探せばきっと見つかるさ、うん…。{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000Yes． Of course． I’m being unreasonable．{换行}I can’t possibly ask that of you．．．{换行}{换页}It’s fine． I’m sure it’ll turn up．．． {换行}I just need to keep looking． {换行}Yeah, that’s it．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"56e",
+			"length":90,
+			"jpn":"{F812}落ち着きのないアースラン族\u0000ぅぅぅあああぁぁ…。{换行}どうすれば…どうすればいいんだ…。{换行}{END}",
+			"eng":"{F812}Restless Earthlain\u0000Yggdrasil’s mighty trunk．．． {换行}What am I going to do？{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,37 @@
+{
+	"fileName":"BAR_108.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"60",
+			"length":190,
+			"jpn":"{F812}顔を隠した黒装束の男\u0000お、アンタ方が最近やってきた{换行}{主角姓名}ですかい？{换行}{换页}アッシ、情報屋のハンスケって言いやす。{换行}主に魔物が{颜色:0500}特定の条件で落とす{换行}稀少な素材{颜色:0000}の情報を取り扱っておりやす。{换行}{END}",
+			"eng":"{F812}Man in Black\u0000Psst． Hey you． Yeah, you． Over here．．．{换行}You the {主角姓名} Guild？{换行}{换页}Name’s Hansuke the Informant--an info dealer．{换行}I sell intel on monsters and the conditions you{换行}gotta meet to make them {颜色:0500}drop rare materials{颜色:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"11e",
+			"length":328,
+			"jpn":"{F812}情報屋ハンスケ\u0000例えば、{颜色:0500}{敌人:3600}{颜色:0000}と呼ばれる魔物を{换行}{颜色:0500}弓などの突き攻撃で倒せば{颜色:0000}{换行}珍しい素材を落としやす。{换行}{换页}これはお試しってことでタダでいいっすよ。{换行}この商売はお客さんの信用が何よりも{换行}大切でいやすからね。{换行}{换页}お客さんに合わせてアッシも情報を{换行}仕入れときやすんで、ちょくちょく{换行}顔を出してくだせぇ。待ってやすよー。{换行}{END}",
+			"eng":"{F812}Hansuke the Informant\u0000For example, {颜色:0500}{敌人:3600}s{颜色:0000} drop rare materials{换行}if you kill ’em off with a stab attack, like{换行}with a {颜色:0500}bow and arrow{颜色:0000}． Got it memorized？{换行}{换页}Don’t worry, this tip’s on the house． To prove{换行}I’m legit． Gotta develop a trusting relationship{换行}if we’re gonna be business partners, y’know？{换行}{换页}I’ll keep up-to-date information{换行}on everywhere you go． So if you{换行}ever need tips, I’ll be right here．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"266",
+			"length":136,
+			"jpn":"{F812}情報屋ハンスケ\u0000お客さんに合わせてちょくちょく情報を{换行}仕入れていやすので、機会がありやしたら{换行}ぜひご利用くだせぇ。待ってやすよー。{换行}{END}",
+			"eng":"{F812}Hansuke the Informant\u0000I’ll keep tabs on you, so come back{换行}here often． Don’t worry ’bout where{换行}the intel comes from． I got my ways．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

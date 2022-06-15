@@ -1,0 +1,149 @@
+{
+	"fileName":"AOCECTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"140",
+			"length":42,
+			"jpn":"インターネットへの接続を許可しますか？{换行}{END}",
+			"eng":"Do you want to connect to the Internet？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"16a",
+			"length":86,
+			"jpn":"追加コンテンツの購入にはインターネット{换行}への接続を許可していただく必要があります。{换行}{END}",
+			"eng":"You must connect to the Internet in{换行}order to purchase add-on content．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"1c0",
+			"length":36,
+			"jpn":"追加コンテンツの一覧を更新中です{换行}{END}",
+			"eng":"Updating the add-on content list．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"1e4",
+			"length":40,
+			"jpn":"この追加コンテンツを{换行}購入しますか？{换行}{END}",
+			"eng":"Do you want to purchase this add-on{换行}content？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"20c",
+			"length":60,
+			"jpn":"この追加コンテンツをＳＤカードに{换行}ダウンロードしますか？{换行}{END}",
+			"eng":"Do you want to download this add-on{换行}content to the SD card？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"248",
+			"length":54,
+			"jpn":"この追加コンテンツを{换行}ＳＤカードから削除しますか？{换行}{END}",
+			"eng":"Do you want to delete this add-on{换行}content from the SD card？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"27e",
+			"length":106,
+			"jpn":"ＳＤカードが{换行}本体に挿入されていません。{换行}{换页}ＳＤカードの挿入は本体の電源を{换行}切ってから行ってください。{换行}{END}",
+			"eng":"An SD card was not found．{换行}{换页}Please turn the system off before{换行}inserting an SD card．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"2e8",
+			"length":94,
+			"jpn":"ＳＤカードが認識できません。{换行}{换页}ＳＤカードの挿入は本体の電源を{换行}切ってから行ってください。{换行}{END}",
+			"eng":"The SD card was not recognized．{换行}{换页}Please turn the system off before{换行}inserting an SD card．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"346",
+			"length":32,
+			"jpn":"インターネットに接続中です。{换行}{END}",
+			"eng":"Connecting to the Internet．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"366",
+			"length":48,
+			"jpn":"追加コンテンツの販売が{换行}開始されていません。{换行}{END}",
+			"eng":"No add-on content has been released{换行}yet．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"396",
+			"length":138,
+			"jpn":"ＳＤカードのフォーマットが不正。{换行}または書き込み不可に設定されています。{换行}{换页}ＳＤカードの挿入は本体の電源を{换行}切ってから行ってください。{换行}{END}",
+			"eng":"The SD memory card is corrupt or{换行}has been locked．{换行}{换页}Please turn the system off before{换行}inserting an SD card．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"420",
+			"length":60,
+			"jpn":"選択した追加コンテンツを{换行}ＳＤカードから削除しています。{换行}{END}",
+			"eng":"The selected add-on content will be{换行}deleted from the SD card．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"45c",
+			"length":58,
+			"jpn":"選択した追加コンテンツを{换行}ＳＤカードから削除しました。{换行}{END}",
+			"eng":"The selected add-on content has {换行}been deleted from the SD card．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"496",
+			"length":40,
+			"jpn":"追加コンテンツを認識できませんでした{换行}{END}",
+			"eng":"The add-on content was not recognized．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"4be",
+			"length":56,
+			"jpn":"追加コンテンツの購入を終了し{换行}タイトルに戻りますか？{换行}{END}",
+			"eng":"Stop purchasing add-on content{换行}and return to the title screen？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"4f6",
+			"length":92,
+			"jpn":"ダウンロードカードをお持ちの場合は{换行}こちらで記載されたダウンロード番号{换行}の入力が行えます{换行}{END}",
+			"eng":"You can redeem a download code{换行}by entering it here．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"552",
+			"length":42,
+			"jpn":"ダウンロード番号の入力を{换行}行いますか？{换行}{END}",
+			"eng":"Enter download code？{换行}{END}",
+			"zh":""
+		}
+	]
+}

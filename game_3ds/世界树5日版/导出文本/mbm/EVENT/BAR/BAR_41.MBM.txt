@@ -1,0 +1,149 @@
+{
+	"fileName":"BAR_41.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"140",
+			"length":244,
+			"jpn":"{F812}孤高のケヴィン\u0000な、なんだいアンタたちは…。{换行}ああ…そういえば酒場に{换行}依頼出してたっけ…。{换行}{换页}えーとだね…今僕はすごく{换行}{颜色:0500}{数字:0000}{颜色:0000}が食べたいんだ。{换行}だから作って持ってきてくれないか？{换行}{换页}僕はここで待っているから、{换行}どうかよろしく頼むよ。{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Wh-What the hell do you guys want from me！？{换行}．．．Oh, right． I’M the one who requested YOU．{换行}Hope you’re ready to cook me up some grub．{换行}{换页}See, I’m lookin’ for Arcania’s greatest eateries,{换行}meateries, and sweeteries． And right now, I’ve{换行}got a hankering for an {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}So c’mon, cook me one up and let’s see{换行}what you got． I’ll be waiting right here,{换行}ready for you to take me to Flavorland！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"234",
+			"length":190,
+			"jpn":"{F812}孤高のケヴィン\u0000そ、そうなのか…、へぇ…。{换行}{换页}……。{换行}{换页}あ、食べ終わってしまった…。{换行}{换页}……。{换行}{换页}…次は{颜色:0500}{数字:0000}{颜色:0000}だ。{换行}{换页}聞こえなかったのかい？{换行}次は{颜色:0500}{数字:0000}{颜色:0000}を持ってきてくれ！！{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000That so？ Well, hot dog．．．{换行}{换页}．．．．．．{换行}{换页}Urp．．． All done．{换行}{换页}．．．．．．{换行}{换页}Next on the menu is {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}．．．You got butter in your ears？ I’m hungry！{换行}Gimme some {颜色:0500}{数字:0000}{颜色:0000}, on the double！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"2f2",
+			"length":258,
+			"jpn":"{F812}孤高のケヴィン\u0000き、君たちって冒険者なんだろう？{换行}それなのに料理もこんなにちゃんと{换行}作れるなんてすごいんだなぁ…。{换行}{换页}だから…、そのえっと…。{换行}{换页}……。{换行}{换页}…最後は{颜色:0500}{数字:0000}{颜色:0000}だ。{换行}{换页}{颜色:0500}{数字:0000}{颜色:0000}を持ってきてくれって{换行}言ってるんだよ！{换行}さあ急いでくれ！{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Well hot dog！ Ain’t you guys adventurers？{换行}I’m amazed ya learned to cook like this in{换行}the labyrinth． Just like Mama used to make．{换行}{换页}So, uhh． Anywho．．．{换行}{换页}．．．．．．{换行}{换页}．．．Last up is a {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}I’m so hungry for {颜色:0500}{数字:0000}{颜色:0000},{换行}my big gut’s eating up my little gut！{换行}Now go on out there and get cookin’！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"3f4",
+			"length":246,
+			"jpn":"{F812}孤高のケヴィン\u0000そ、そうなのかい…？{换行}いや、でもちゃんと依頼を果たすために{换行}そうしてくれたんだろう…？{换行}{换页}だから…、そのえっと…。{换行}{换页}……。{换行}{换页}…最後は{颜色:0500}{数字:0000}{颜色:0000}だ。{换行}{换页}{颜色:0500}{数字:0000}{颜色:0000}を持ってきてくれって{换行}言ってるんだよ！{换行}さあ急いでくれ！{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Th-That so？ Well hey, at least you tried．{换行}Might not be home-made, but it’s tasty．{换行}And in the end, that’s what truly counts．{换行}{换页}So, uhh． Anywho．．．{换行}{换页}．．．．．．{换行}{换页}．．．Last up is a {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}I’m so hungry for {颜色:0500}{数字:0000}{颜色:0000},{换行}my big gut’s eating up my little gut！{换行}Now go on out there and get cookin’！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"4ea",
+			"length":84,
+			"jpn":"{F812}孤高のケヴィン\u0000{颜色:0500}{数字:0000}{颜色:0000}を{换行}手に入れたようだね。{换行}それを僕にくれるのかい？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Mmm, is that {颜色:0500}{数字:0000}{颜色:0000} I smell？{换行}C’mon guys, take me to Flavorland！{换行}You gonna gimme a taste or what？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"53e",
+			"length":88,
+			"jpn":"{F812}孤高のケヴィン\u0000{颜色:0500}{数字:0000}{颜色:0000}を{换行}手に入れてきてくれたのか！{换行}それを僕におくれよ！？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000I know you got that {颜色:0500}{数字:0000}{颜色:0000}！{换行}C’mon, I’m starvin’ like a Stoneray！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"596",
+			"length":278,
+			"jpn":"{F812}孤高のケヴィン\u0000な、なんだいアンタたちは…。{换行}ああ…そういえば前に出した依頼を{换行}途中でやめられたんだっけ…。{换行}{换页}まぁ、いいよ…それよりも、今僕はすごく{换行}{颜色:0500}{数字:0000}{颜色:0000}を欲しているんだ。{换行}だから作って持ってきてくれないか？{换行}{换页}僕はここで待っているから、{换行}どうかよろしく頼むよ。{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Th-The hell you guys want！？ Oh, that’s right．{换行}You dropped my request before completing it．{换行}Pretty shitty, leavin’ a guy hungry like that．．．{换行}{换页}But hey, it’s cool． I’ll let bygones be bygones．{换行}What’s important now is that I get some grub．{换行}Cook me up your best {颜色:0500}{数字:0000}{颜色:0000}！{换行}{换页}I’ll be waitin’ right here when you get back,{换行}bib tightened, belt loosened, and ready to eat！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"6ac",
+			"length":104,
+			"jpn":"{F812}孤高のケヴィン\u0000まだ{颜色:0500}{数字:0000}{颜色:0000}を{换行}手に入れていないのかい？{换行}{换页}そうか…できるだけ急いでおくれよ。{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Still ain’t got no {颜色:0500}{数字:0000}{颜色:0000}？{换行}{换页}Fine, fine．．． But hurry it up a bit, will you？{换行}I’m so hungry I could eat an Owl Beast！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"714",
+			"length":72,
+			"jpn":"{F812}孤高のケヴィン\u0000って、もう持ってるのか。{换行}それを僕にくれるのかい？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Mmm？ You already have it． I can smell it！{换行}So, you gonna gimme a taste or what．．．？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"75c",
+			"length":78,
+			"jpn":"{F812}孤高のケヴィン\u0000って、もう持っているじゃないか！{换行}それを僕にくれるかい？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Hot dog, you already have it！ Well？{换行}You gonna gimme a taste or what？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"7aa",
+			"length":48,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{数字:0000}を渡す{换行}渡さない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Hand him the {数字:0000}{换行}Don’t give him anything{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"7da",
+			"length":242,
+			"jpn":"{F812}孤高のケヴィン\u0000本当かい？{换行}それじゃあ遠慮なくいただくよ。{换行}{换页}……。{换行}{换页}これは！　表面が焼かれ、サクサクした{换行}パンに、柔らかい目玉焼きが挟まって…{换行}見事な親和性だ。とても美味しい…。{换行}{换页}……。{换行}{换页}き、君たちはこのパン、よく食べるのかい？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Well then, I’m gonna go hog wild here．{换行}It’s food versus man, and I aim to win！{换行}{换页}．．．．．．{换行}{换页}Holy guacamole．．．！ The bread’s toasted on both{换行}sides, giving it a soft yet crunchy texture． And{换行}the sunny-side egg in the middle completes it！{换行}{换页}．．．．．．{换行}{换页}D-Do you guys eat this stuff often？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"8cc",
+			"length":78,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}よく食べてる{换行}そこそこ食べてる{换行}ほとんど食べない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Frequently{换行}Sometimes{换行}Never{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"91a",
+			"length":306,
+			"jpn":"{F812}孤高のケヴィン\u0000よし、ならいただくとするよ。{换行}{换页}……。{换行}{换页}うっ！　普段なら何とも思わない{道具:2C07}{换行}なのに、こうして団子状にすると、その身の{换行}旨味に圧倒されるなんて…！{换行}{换页}調理の方法で食材の力を引き出すなんて…。{换行}これが人間の知恵…。すごく美味しい…。{换行}{换页}……。{换行}{换页}こ、この料理って君たちが作ったんだよね？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Sweet！ Time to put on the feedbag and dig in．{换行}{换页}．．．．．．{换行}{换页}Holy guacamole！ Usually I wouldn’t bother with{换行}{道具:2C07}, but when it’s ground down, the{换行}balls burst in my mouth with funky, fishy flavor！{换行}{换页}The soup draws out the ingredient’s inner zest．{换行}So THIS is what it’s like to go to Flavorland．．．{换行}It’s like a party in my mouth, but I’m invited．{换行}{换页}．．．．．．{换行}{换页}Y-You guys made this yourselves, didn’t you！？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"a4c",
+			"length":74,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}そうだと頷く{换行}その辺で買ってきたとウソをつく{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Tell him it’s home-cooked{换行}Lie that it’s store-bought{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"a96",
+			"length":892,
+			"jpn":"{F812}孤高のケヴィン\u0000これが…{颜色:0500}{数字:0000}{颜色:0000}…。{换行}{换页}そ、それじゃあいただくとするぞ。{换行}{换页}……。{换行}{换页}{道具:F506}と{道具:0807}を煮込むことで{换行}口当たり優しいまろやかなスープが{换行}完成されている…。{换行}{换页}温かい…、なんて温かい心で作られた{换行}シチューなんだ…、すごく、美味しい…。{换行}{换页}……。{换行}{换页}いや、違うな。{换行}この料理が美味しい理由は{换行}僕が君たちと話をしているからなんだ。{换行}{换页}誰かと一緒に食べるだけで料理って{换行}こんなにも美味しく感じられるんだ…。{换行}{换页}僕、この街に出稼ぎに来たはいいけど、{换行}友達ができなくて、寂しかったんだ。{换行}{换页}だから依頼を出したんだ。{换行}そうして誰かと接すれば、{换行}友達ができるんじゃないかって…。{换行}{换页}君たちからすれば一方的に頼まれて、{换行}話されて、面倒だったかもしれないけど{换行}僕はそれでも楽しかった…。{换行}{换页}だから、ありがとう。{换行}{换页}これからはもっと行動的になってみるよ。{换行}そしていつか誰かから何か頼まれるような{换行}人間になってみせる。{换行}{换页}それじゃあ、僕は行くよ。{换行}酒場のお姉さんから報酬は受け取って{换行}くれるかい？{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000So this here’s your famous {颜色:0500}{数字:0000}{颜色:0000}．．．{换行}{换页}W-Well, guess I’ll just chow down then．．．{换行}{换页}．．．．．．{换行}{换页}．．．Stewin’ the {道具:F506} and {道具:0807} together{换行}makes it smooth and gentle, like the warmth{换行}of a lover’s embrace, caressing my tastebuds．．．{换行}{换页}It’s like．．． a ray of sunlight through the trees．．．{换行}a rainbow shining from heaven．．． a star shoots{换行}down from outer space with every bite I take！{换行}{换页}．．．．．．{换行}{换页}．．．No, that ain’t right． It isn’t the spice that’s{换行}bringing a tear to my eye． It’s because I’m{换行}sittin’ here, enjoying it with my new friends．{换行}{换页}I’ve eaten at kitchens, cantinas, and cookhouses{换行}all over Arcania, but I never would’ve guessed{换行}that friendship is the tastiest dish of ’em all．．．{换行}{换页}I came to this city to find my inner Flavorland,{换行}but I got lonely ’cause I couldn’t make friends．{换行}{换页}That’s why I made this request． I thought it’d{换行}be more fun if I had an audience while I ate．{换行}{换页}Guess I put you guys through a lotta shit,{换行}makin’ you cook me stuff and then forcing{换行}you to watch me stuff it down my gullet．．．{换行}{换页}But we had fun, and now we’re friends, right？{换行}Thanks for taking me to Flavorland, you guys．{换行}{换页}But now I realize it’s time to take this show{换行}on the road． I’ll make sure to tell everyone{换行}I meet that you’re the best cooks in town．{换行}{换页}Guess that’s all from this Ghai． Go ahead,{换行}get your reward from the tavernkeeper．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"e12",
+			"length":84,
+			"jpn":"{F812}孤高のケヴィン\u0000そうか、それじゃ都合のいい時に{换行}僕のところまで持ってきてくれ。{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Uh, sure．．． But I’m as hungry as a Hellhound！{换行}I’ll just snack on appetizers till you bring it．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"e66",
+			"length":86,
+			"jpn":"{F812}孤高のケヴィン\u0000そうか…、それじゃ都合のいい時に{换行}僕のところまで持ってきてくれ。{换行}{END}",
+			"eng":"{F812}Ghai the Fiery\u0000Okay．．． Good thing this joint serves bottomless{换行}breadsticks to munch on till you bring it to me．{换行}{END}",
+			"zh":""
+		}
+	]
+}

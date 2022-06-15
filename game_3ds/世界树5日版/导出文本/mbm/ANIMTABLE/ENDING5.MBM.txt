@@ -1,0 +1,237 @@
+{
+	"fileName":"ENDING5.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"1f0",
+			"length":36,
+			"jpn":"この星に生まれ、育った者の末裔よ{换行}{END}",
+			"eng":"Brave heroes, champions of this world：{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"214",
+			"length":16,
+			"jpn":"見事であった{换行}{END}",
+			"eng":"You have done magnificently．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"224",
+			"length":20,
+			"jpn":"前にも告げた通り{换行}{END}",
+			"eng":"Now you know the truth behind the tales．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"238",
+			"length":38,
+			"jpn":"かつて　この星は闇に支配されていた{换行}{END}",
+			"eng":"This planet was once ruled by darkness,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"25e",
+			"length":22,
+			"jpn":"命の生まれぬ大地に{换行}{END}",
+			"eng":"so visitors came and planted Yggdrasil,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"274",
+			"length":38,
+			"jpn":"命を育む世界樹を植えた者たちがいた{换行}{END}",
+			"eng":"a tree from whence grew light and life．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"29a",
+			"length":38,
+			"jpn":"それが　“アルコン”　我らの種族だ{换行}{END}",
+			"eng":"They were my species, called the Arken．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2c0",
+			"length":44,
+			"jpn":"アルコンは長い年月をかけてこの星を見守り{换行}{END}",
+			"eng":"For eons we watched over this world,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"2ec",
+			"length":30,
+			"jpn":"生命に溢れる大地へと変えた{换行}{END}",
+			"eng":"guiding the land and all of its people．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"30a",
+			"length":24,
+			"jpn":"“アルコン”は告げる{换行}{END}",
+			"eng":"I speak as the Arken, for I am the last．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"322",
+			"length":28,
+			"jpn":"かつて　様々な危機のたび{换行}{END}",
+			"eng":"Whenever calamity threatened its people,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"33e",
+			"length":34,
+			"jpn":"世界樹の恵みが人々を救っていた{换行}{END}",
+			"eng":"the blessings of Yggdrasil saved us all．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"360",
+			"length":38,
+			"jpn":"いつか人類が原始の闇を乗り越える…{换行}{END}",
+			"eng":"Our duty has been to guard your species,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"386",
+			"length":40,
+			"jpn":"その日まで種を守るのが使命であったと{换行}{END}",
+			"eng":"until humanity could stand as our equal．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"3ae",
+			"length":28,
+			"jpn":"そして今　君たちが現れた{换行}{END}",
+			"eng":"And here you are, beyond the stars．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"3ca",
+			"length":36,
+			"jpn":"原始の闇を乗り越えた君たち人類は{换行}{END}",
+			"eng":"Your light has chased away the darkness．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"3ee",
+			"length":36,
+			"jpn":"アルコンの頸木から脱し、己が手で{换行}{END}",
+			"eng":"Now you must put the past behind you,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"412",
+			"length":30,
+			"jpn":"世界を歩かねばならないと…{换行}{END}",
+			"eng":"and guide your world toward its future．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"430",
+			"length":26,
+			"jpn":"これで私が役割は終わる{换行}{END}",
+			"eng":"The Arkens’ work here is finally done．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"44a",
+			"length":28,
+			"jpn":"私はこの地を去るだろうと{换行}{END}",
+			"eng":"I now must leave these lands forever．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"466",
+			"length":30,
+			"jpn":"同様に君たちの冒険も終わる{换行}{END}",
+			"eng":"This marks your journey’s end, as well．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"484",
+			"length":36,
+			"jpn":"世界樹を巡る旅は最後となるだろう{换行}{END}",
+			"eng":"The adventure of Yggdrasil is complete．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"4a8",
+			"length":42,
+			"jpn":"しかし君たちは“アルコン”が消えた後の{换行}{END}",
+			"eng":"When the last Arken is gone, however,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"4d2",
+			"length":40,
+			"jpn":"世界を見守り、苦難を越えていくという{换行}{END}",
+			"eng":"you must guide this planet in our stead．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"4fa",
+			"length":28,
+			"jpn":"重く大変な役目があるのだ{换行}{END}",
+			"eng":"The weight of a world is yours to bear．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"516",
+			"length":34,
+			"jpn":"だがきっと　この迷宮を踏破した{换行}{END}",
+			"eng":"But you have conquered this labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"538",
+			"length":36,
+			"jpn":"君たちなら成し遂げると信じている{换行}{END}",
+			"eng":"You can do this, too． I know you can．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"55c",
+			"length":38,
+			"jpn":"みなで協力する事の大切さを誰よりも{换行}{END}",
+			"eng":"For you understand, better than anyone,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"582",
+			"length":30,
+			"jpn":"知っているだろうから………{换行}{END}",
+			"eng":"the importance of working together．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

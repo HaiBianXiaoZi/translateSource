@@ -1,0 +1,109 @@
+{
+	"fileName":"BAR_118.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"f0",
+			"length":80,
+			"jpn":"{F812}オウム\u0000ナンダコノ店ハ！{换行}フライドチキンガネージャネーカ！{换行}ナメテンノカ！{换行}{END}",
+			"eng":"{F812}Parrot\u0000WHAT’S WITH THIS PLACE？ IS THIS {换行}ABOUT THE FRIED CHICKEN AGAIN！？ {换行}THIS IS TOTAL BULLSHEET！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"140",
+			"length":76,
+			"jpn":"{F812}劇作家のジャン\u0000ん…？{换行}ちょ、ちょっと君たち。{换行}その鳥は君たちのかい？{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000Excuse me--is that bird yours？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"18c",
+			"length":34,
+			"jpn":"{F812}オウム\u0000ナンダコノオッサン！{换行}{END}",
+			"eng":"{F812}Parrot\u0000WHAT’S YOUR DEAL, PAL！？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"1ae",
+			"length":88,
+			"jpn":"{F812}劇作家のジャン\u0000す、素晴らしい…！{换行}君たち、この鳥を{换行}私に譲ってくれないだろうか？{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000Magnificient．．． Truly magnficent！{换行}Please, adventurers--won’t you {换行}let me have this bird？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"206",
+			"length":44,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}譲る{换行}やめておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Let him have it{换行}Don’t let him have it{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"232",
+			"length":102,
+			"jpn":"{F812}劇作家のジャン\u0000ありがとう…！{换行}この鳥がいれば今までにない新しい喜劇を{换行}見せることができそうだ！{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000Thank you！ With this bird, I shall pen a comedy{换行}of unprecedented riotousness！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"298",
+			"length":56,
+			"jpn":"{F812}オウム\u0000オイ！　本人ヲ差シ置イテ{换行}勝手ニ決メルナ！{换行}{END}",
+			"eng":"{F812}Parrot\u0000DON’T I GET A SAY！？ SQUAAAWK！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2d0",
+			"length":66,
+			"jpn":"{F812}劇作家のジャン\u0000これはせめてものお礼だ。{换行}とっておいてくれ！{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000I’m afraid this is all I can offer you {换行}for your kindness． Please, have it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"312",
+			"length":102,
+			"jpn":"{F812}オウム\u0000エェー！　オレノ価値ッテ{换行}チーズ５個分シカナイノカヨ！{换行}絶対カラアゲヲ基準ニ決メタダロ！{换行}{END}",
+			"eng":"{F812}Parrot\u0000I’M ONLY WORTH FIVE CHUNKS OF CHEESE！？{换行}SQUAAAWK！ I KNEW IT！ YOU JERKS WISHED{换行}I WAS A CHICKEN SO YOU COULD FRY ME！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"378",
+			"length":110,
+			"jpn":"{F812}劇作家のジャン\u0000そうか…残念だ。{换行}気が変わったらまたここへ来てくれ。{换行}私はどうしてもその鳥が欲しいのだ。{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000I see．．． How disappointing． Well, if you ever {换行}change your mind, please come find me．{换行}I desperately wish to have that bird．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"3e6",
+			"length":80,
+			"jpn":"{F812}オウム\u0000ケッ。ムダムダ。{换行}オレト{主角姓名}パイセンノ{换行}絆ヲナメンジャネエッツーノ！{换行}{END}",
+			"eng":"{F812}Parrot\u0000NOT HAPPENING, PAL． SQUAAAWK！{换行}THE BOND BETWEEN {主角姓名} GUILD{换行}AND I CANNOT BE BROKEN！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"436",
+			"length":76,
+			"jpn":"{F812}劇作家のジャン\u0000やあ君たち。{换行}あの鳥を僕に譲ってくれる気になったかい？{换行}{END}",
+			"eng":"{F812}Jean the Playwright\u0000Ah, you’re back． Have you decided to {换行}let me have the bird？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"482",
+			"length":58,
+			"jpn":"{F812}オウム\u0000シツケエ男ダナ！{换行}何度言ッテモ無駄ナノニヨ！{换行}{END}",
+			"eng":"{F812}Parrot\u0000SQUAAAWK！ IT’S USELESS, PAL！{换行}NO MATTER HOW MANY TIMES YOU ASK！{换行}{END}",
+			"zh":""
+		}
+	]
+}

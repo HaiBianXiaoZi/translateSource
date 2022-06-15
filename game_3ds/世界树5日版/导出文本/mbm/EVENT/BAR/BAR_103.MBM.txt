@@ -1,0 +1,181 @@
+{
+	"fileName":"BAR_103.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"180",
+			"length":80,
+			"jpn":"{F812}生き字引のコニッサ\u0000これは、{主角姓名}のみなさん。{换行}何か私にお聞きしたいことでも？{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Ah, {主角姓名} Guild． Something you {换行}care to ask？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"1d0",
+			"length":88,
+			"jpn":"{颜色:0500}何を聞きますか？{颜色:0000}{换行}戦闘について{换行}装備について{换行}スキルについて{换行}話すことはない{换行}{END}",
+			"eng":"{颜色:0500}What will you ask about？{颜色:0000}{换行}About battles{换行}About equipment{换行}About skills{换行}Nothing to ask{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"228",
+			"length":118,
+			"jpn":"{颜色:0500}何を聞きますか？{颜色:0000}{换行}パーティの隊列について{换行}封じ・状態異常について{换行}強化・弱体・図鑑の閲覧について{换行}聞かない{换行}{END}",
+			"eng":"{颜色:0500}What will you ask about？{颜色:0000}{换行}About party arrangement{换行}About binds／status ailments{换行}About buffs／debuffs{换行}Don’t ask{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"29e",
+			"length":460,
+			"jpn":"{F812}生き字引のコニッサ\u0000隊列には{颜色:0500}前列と後列{颜色:0000}があります。{换行}剣や拳などは、近くにいる敵に効果的で{换行}{颜色:0500}遠くにいる敵だと威力が減って{颜色:0000}しまいます。{换行}{换页}ですが、弓や銃、魔法であれば{换行}{颜色:0500}距離に関係なくダメージを与えられます。{颜色:0000}{换行}ただし、魔物も同じなのでご注意を。{换行}{换页}そして前列がいなくなった場合は、{换行}自動的に{颜色:0500}後列の者が前に出る{颜色:0000}ことに{换行}なるのでお気をつけください。{换行}{换页}{颜色:0500}隊列の変更は戦闘中でも行えます{颜色:0000}ので{换行}色々と試されてみてはどうでしょうか？{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Arrange the front and back rows by range．{换行}Swords and fists are more effective against {换行}nearby enemies than ones farther away．{换行}{换页}Arrows, guns, and spells, however, deal the{换行}same damage regardless of distance． Though,{换行}this also applies to monsters, so be careful．{换行}{换页}When the front row is defeated, {颜色:0500}the back row{换行}automatically takes their place{颜色:0000}． Remember that．{换行}{换页}{颜色:0500}You can change the party arrangement during{换行}battle, too{颜色:0000}． Be sure to try different variations．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"46a",
+			"length":314,
+			"jpn":"{F812}生き字引のコニッサ\u0000封じや状態異常には慣れがありまして、{换行}{颜色:0500}同じものにはかかりにくくなる{颜色:0000}のです。{换行}{换页}もう一度、同じ封じや状態異常をかけたい{换行}場合は、時間を置いてからがよいでしょう。{换行}…それでも、一番最初よりは難しいです。{换行}{换页}だから、封じや状態異常の手段は{换行}多様な種類を持っていた方が{换行}いいと思いますよ。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Monsters will build up a resistance {换行}to binds and status ailments if you {换行}use them repeatedly．{换行}{换页}Wait a while before trying to inflict the same{换行}bind or ailment． And even then, it might still {换行}be harder to land than the first time．{换行}{换页}That’s why it’s wise to have a variety of {换行}binds and status ailments at your disposal．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"5a4",
+			"length":318,
+			"jpn":"{F812}生き字引のコニッサ\u0000戦闘中は慌てることも多いですが、{换行}だからこそ落ち着いて戦況を{换行}見ることも大事です。{换行}{换页}自分にかかっている強化や弱体を確認したり{换行}図鑑を開いて、相手の特徴を調べることで{换行}活路を見いだせるはずです。{换行}{换页}一度戦った魔物の情報であれば、{换行}図鑑に載っているはずですので{换行}こまめな確認をオススメしますよ。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000It’s not unusual for adventurers to feel {换行}overwhelmed during battles． If you ever do,{换行}remain calm and size up the situation．{换行}{换页}Keeping tabs on buffs and debuffs and{换行}minding your opponent’s characteristics{换行}using the Codex will help you survive．{换行}{换页}Information on monsters you’ve fought {换行}is collected in the Codex． I recommend {换行}you check in on it regularly．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"6e2",
+			"length":442,
+			"jpn":"{颜色:0300}戦闘時、{颜色:0500}行動選択中にＹボタンを押す{颜色:0300}と{换行}パーティにかかっている{颜色:0500}強化・弱体{颜色:0300}が{换行}確認できます。{换行}{换页}{颜色:0500}Ｒボタン{颜色:0300}を押すと{颜色:0500}下画面に図鑑{颜色:0300}が表れます。{换行}戦っている相手の情報の閲覧に加えて、{换行}{颜色:0500}強化・弱体{颜色:0300}も確認ができます。{换行}{换页}{颜色:0300}そして{颜色:0500}Ｌボタン{颜色:0300}を押すと戦闘が{颜色:0500}自動で{换行}進む{颜色:0300}ようになりますので、弱い相手との{换行}戦いなどで使うといいでしょう。{换行}{换页}{颜色:0300}解除したい時はもう一度Ｌボタンを{换行}押すことで解除できます。{换行}{END}",
+			"eng":"{颜色:0300}If you {颜色:0500}press the Y Button on your turn in{换行}battle{颜色:0300}, you can check the {颜色:0500}buffs and debuffs{颜色:0300}{换行}that are on your party at that moment．{换行}{换页}{颜色:0500}Press the R button to display the {颜色:0500}Codex on{换行}the bottom screen{颜色:0300}． This lets you see enemy{换行}details as well as {颜色:0500}buffs and debuffs{颜色:0000}．{颜色:0000}{换行}{换页}{颜色:0300}Press the {颜色:0500}L Button{颜色:0300} to enable {颜色:0500}Auto-battle{颜色:0300}．{换行}This is useful when fighting weak enemies．{换行}{换页}{颜色:0300}Press the L Button again to disable Auto-battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"89c",
+			"length":56,
+			"jpn":"{颜色:0500}何を聞きますか？{颜色:0000}{换行}行動速度について{换行}聞かない{换行}{END}",
+			"eng":"{颜色:0500}What will you ask about？{颜色:0000}{换行}About action speed{换行}Don’t ask{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"8d4",
+			"length":476,
+			"jpn":"{F812}生き字引のコニッサ\u0000{颜色:0500}装備にはそれぞれ重さがあり、{换行}戦闘中の行動速度にも影響がある{颜色:0000}ことを{换行}ご存知でしょうか。{换行}{换页}重たい全身鎧と普通の服であれば、{换行}どちらが早く動けるかは明白でしょう。{换行}{换页}他にも、銃は発射に時間がかかるため{换行}行動速度が遅くなってしまいがちですね。{换行}{换页}そうですね…。{换行}行動速度を上げたいのであれば{换行}{颜色:0500}足元の装備を整える{颜色:0000}と効果があります。{换行}{换页}少し難しい話だと思いますので、{换行}最初のうちは気にしなくても平気です。{换行}ただ、覚えておいて損はないでしょう。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Did you know the {颜色:0500}weight of equipment alters{换行}the wearer’s action speed during combat{颜色:0000}？{换行}{换页}Comparing heavy armor to normal clothes,{换行}it should be obvious which will grant higher{换行}action speed when equipped．{换行}{换页}Similarly, guns take time to fire, so they{换行}typically have a slower action speed．{换行}{换页}Paying attention to the {颜色:0500}equipment you assign{换行}to your feet{颜色:0000} will help increase action speed．{换行}{换页}I realize this doesn’t make a whole {换行}lot of sense． Don’t worry about it {换行}for now--just keep it in mind．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"ab0",
+			"length":104,
+			"jpn":"{颜色:0500}何を聞きますか？{颜色:0000}{换行}影響する能力について{换行}種族スキルについて{换行}ユニオンスキルについて{换行}聞かない{换行}{END}",
+			"eng":"{颜色:0500}What will you ask about？{颜色:0000}{换行}About stats and skills{换行}About Race Skills{换行}About Union Skills{换行}Don’t ask{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"b18",
+			"length":308,
+			"jpn":"{F812}生き字引のコニッサ\u0000武器を使用するスキルは基本として{换行}スキルを扱う者の{颜色:0500}力の強さ{颜色:0000}が影響します。{换行}{换页}それとは別のスキル…ウォーロックが{换行}扱う魔法などが該当しますが、これは{换行}その人の{颜色:0500}知力{颜色:0000}が強さに影響します。{换行}{换页}{颜色:0500}スキルによって影響される能力は違う{颜色:0000}ので、{换行}きちんと確認するといいでしょう。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Weapon-based skills are affected {换行}by a user’s {颜色:0500}Strength{颜色:0000}．{换行}{换页}Other skills, such as a Warlock’s spells,{换行}are affected by their {颜色:0500}Intelligence{颜色:0000}．{换行}{换页}{颜色:0500}Different stats affect different skills{颜色:0000},{换行}so be sure you look into them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"c4c",
+			"length":458,
+			"jpn":"{颜色:0300}スキルに影響する能力については{换行}{颜色:0500}スキルカスタム画面{颜色:0300}の説明文の末尾にある{换行}{颜色:0500}アイコン{颜色:0300}で確認できます。{换行}{换页}{颜色:0300}またそのアイコンに{颜色:0500}ＳＴＲ{颜色:0300}というものがある{换行}スキルは{颜色:0500}武器のＡＴＫの値の大きさが{换行}スキルの威力を高め{颜色:0300}ます。{换行}{换页}{颜色:0300}そして{颜色:0500}ＩＮＴ{颜色:0300}というアイコンがあるスキルは{换行}{颜色:0500}武器のＭＡＴの値の大きさがスキルの威力を{换行}高める{颜色:0300}ことになります。{换行}{换页}{颜色:0300}ですので、使うスキルとの関係を考えて、{换行}装備する武器を選ぶといいでしょう。{换行}{END}",
+			"eng":"{颜色:0300}You can check which abilities influence a{换行}skill by checking the {颜色:0500}icon{颜色:0300} at the end of a{换行}skill’s details on the {颜色:0500}customization screen{颜色:0300}．{换行}{换页}{颜色:0300}Also, {颜色:0500}the higher a weapon’s ATK power is{颜色:0300}, {换行}the stronger skills with the {颜色:0500}STR icon{颜色:0300} are．{颜色:0000}{换行}{换页}{颜色:0300}Similarly, {颜色:0500}the higher a weapon’s MAT power{颜色:0300},{换行}the stronger skills with the {颜色:0500}INT{颜色:0300} icon are．{颜色:0000}{换行}{换页}{颜色:0300}So keep skills in mind when choosing{换行}what weapons to equip．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"e16",
+			"length":282,
+			"jpn":"{F812}生き字引のコニッサ\u0000種族スキルとは、その名の通り{换行}種族毎に得ることができるスキルですね。{换行}{换页}それぞれの種族に眠る元から{换行}備わっていた力を呼び覚ましたもの{换行}と、思っていただければよいでしょう。{换行}{换页}戦いに直接関係のあるものから、{换行}探索が楽になるスキルまで{换行}様々な効力がありますね。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Race Skills, as the name implies, are skills{换行}that can only be learned depending on race．{换行}{换页}Think of these as latent powers {换行}a race already possesses．{换行}{换页}These skills come in handy outside of battle,{换行}and will help aid you in your exploration．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"f30",
+			"length":118,
+			"jpn":"{颜色:0500}何を聞きますか？{颜色:0000}{换行}ユニオンスキルとは？{换行}ユニオンスキルの注意点{换行}ユニオンスキルを使うコツについて{换行}聞かない{换行}{END}",
+			"eng":"{颜色:0500}What will you ask about？{颜色:0000}{换行}Union Skills{换行}Cautions about Union Skills{换行}Tips on using Union Skills{换行}No more questions{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"fa6",
+			"length":158,
+			"jpn":"{F812}生き字引のコニッサ\u0000そうですか。{换行}いえ、それならば問題はありません。{换行}{换页}私はいつでもここにいますので{换行}聞きたいことがあったらいつでも{换行}お声掛けください。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000No questions, huh？ Well, okay then．{换行}{换页}I’m always here, so feel free to {换行}stop by if there’s ever anything {换行}you want to know about．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"1044",
+			"length":190,
+			"jpn":"{F812}生き字引のコニッサ\u0000ユニオンスキルは複数人の力を合わせて{换行}放つスキルですね。{换行}{换页}最初から習得しているスキルもありますし、{换行}後で自分から習得することで使えるように{换行}なるスキルもあります。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000When multiple people combine their strengths,{换行}it’s called a Union Skill．{换行}{换页}Some Union Skills are immediately available,{换行}others unlock after you’ve learned them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"1102",
+			"length":580,
+			"jpn":"{颜色:0300}ユニオンスキルを使用するためには{换行}まず発動する人のユニオンゲージが{换行}{颜色:0500}１００％{颜色:0300}、必要となります。{换行}{换页}{颜色:0300}発動者がユニオンの項目を選択後、{换行}{颜色:0500}スキル発動に必要な人数になるよう協力者を{换行}選択する{颜色:0300}ことで発動できます。{换行}{换页}{颜色:0300}ユニオンスキルを使用すると、{颜色:0500}発動者と{换行}その発動に協力したキャラクターの{换行}ユニオンゲージが０％{颜色:0300}になります。{换行}{换页}{颜色:0300}ユニオンスキルは使用しても、その後{换行}{颜色:0500}発動者、協力者の両方ともが通常の行動を{换行}選択することが可能{颜色:0300}です。{换行}{换页}{颜色:0300}戦況を見極めて、良きタイミングで{换行}使うことを心掛ければ、より有利に戦闘を{换行}進めることができるでしょう。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}To use a Union Skill, the person activating{换行}its Union Gauge must be at {颜色:0500}１００％{颜色:0300}．{颜色:0000}{换行}{换页}{颜色:0300}After selecting which Union Skill to use,{换行}they must then {颜色:0500}choose the number of{换行}people who will participate in the skill．{颜色:0000}{换行}{换页}{颜色:0300}Once a Union Skill is used, {颜色:0500}the activator{换行}and participating character’s Union Gauges{换行}will drop to ０％．{颜色:0000}{换行}{换页}{颜色:0300}After using a Union Skill, the activator {换行}and her or his helpers can still select {换行}normal actions．{换行}{换页}{颜色:0300}Timing the use of Union Skills just right can{换行}go a long way at giving you the advantage{换行}during battle．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"1346",
+			"length":302,
+			"jpn":"{F812}生き字引のコニッサ\u0000複数人で発動するユニオンスキルには{换行}発動者本人以外に協力者が必要ですが{换行}誰でも協力できるわけではありません。{换行}{换页}戦闘不能に陥った人、石化した人、{换行}睡眠、混乱中の人は協力することが{换行}できないのです。{换行}{换页}ですから、その辺りのフォローを入れつつ{换行}事を運ぶようにしないといけませんね。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000Union Skills require multiple people, {换行}but certain conditions may prevent {换行}someone from helping．{换行}{换页}If a character is unconscious, petrified,{换行}sleeping, or panicking, they cannot help{换行}activate a Union Skill．{换行}{换页}Be mindful of this when planning {换行}to activate a Union Skill in battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"1474",
+			"length":170,
+			"jpn":"{F812}生き字引のコニッサ\u0000ユニオンスキルは発動者の力が{换行}溜まってさえいれば使うことができる{换行}というのがミソですね。{换行}{换页}発動に協力する人はそれに付き合うだけで{换行}いいのです。{换行}{END}",
+			"eng":"{F812}Conissa the Walking Encyclopedia\u0000The key to using a Union Skill is activating it {换行}with a character that has a full Union Gauge．{换行}{换页}Characters helping with activation{换行}are only doing just that： helping．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"151e",
+			"length":518,
+			"jpn":"{颜色:0300}ユニオンスキルは発動者のゲージが{换行}１００％溜まっていれば、使用可能です。{换行}{换页}{颜色:0300}つまり、発動に{颜色:0500}協力する側のゲージの有無は{换行}関係ない{颜色:0300}のです。{换行}{换页}{颜色:0300}直前のターンにユニオンスキルを{换行}発動した人が、{颜色:0500}次のターンに協力者に{换行}なることも可能{颜色:0300}だということです。{换行}{换页}{颜色:0300}行動の組み立て方として最初に１人で発動、{换行}次のターンに最初の発動者を協力者に据えて{换行}２人用のスキルを発動…。{换行}{换页}{颜色:0300}といった具合に順々に発動に必要な人数を{换行}増やして発動すると、{颜色:0500}ゲージ消費を抑えつつ{换行}使用可能{颜色:0300}なので覚えておきましょう。{换行}{END}",
+			"eng":"{颜色:0300}Once a character’s Union Gauge is at{换行}１００％, they can activate a Union Skill．{换行}{换页}{颜色:0300}The characters helping with the Union Skill,{换行}however, {颜色:0500}do not need{颜色:0300} full Union Gauges．{颜色:0000}{换行}{换页}{颜色:0300}This means that someone who activated{换行}a Union Skill the previous turn {颜色:0500}can still{换行}help activate another one the next turn．{颜色:0000}{换行}{换页}{颜色:0300}For example, one character can activate a{换行}skill, then help out with another skill activated{换行}by a different character on the next turn．{换行}{换页}{颜色:0300}Incrementally increasing the number of people{换行}involved in a Union Skill is a smart way to {换行}mitigate Union Gauge depletion during battle．{换行}{END}",
+			"zh":""
+		}
+	]
+}

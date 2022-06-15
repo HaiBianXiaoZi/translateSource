@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_137.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":258,
+			"jpn":"{F812}鷹を抱きしめる男\u0000うわぁあああん！{换行}良かった、良かったよぉ！！！{换行}{换页}間違えてぶつかった魔物と戦って{换行}マルタが飛ばれちゃった時は{换行}本当に心配したんだよぉおおお！{换行}{换页}もう二度とあんな奴と戦わないし{换行}君を手放さないよぉおおおお！！{换行}マルタぁあああああああ！！{换行}{END}",
+			"eng":"{F812}Hawk-hugging Rover\u0000Oh thank the great tree,{换行}I’m so glad you’re okay, Martha！{换行}{换页}When I bumped into that monster and{换行}it blasted you away, I was worried sick！{换行}{换页}I’ll never fight something like that again．{换行}And I’ll never lose you again！ Never ever！{换行}{END}",
+			"zh":""
+		}
+	]
+}

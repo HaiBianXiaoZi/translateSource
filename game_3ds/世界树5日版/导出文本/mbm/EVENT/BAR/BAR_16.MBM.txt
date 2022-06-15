@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_16.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"40",
+			"length":280,
+			"jpn":"{F812}そわそわしているルナリアの少女\u0000うぅ…、リリさんへのお礼にお菓子を{换行}焼いてきたのに、会えないどころか{换行}いなくなったなんて…。{换行}{换页}わ、私はど、どうしたら…{换行}{换页}はっ！　こ、このお菓子を報酬にして{换行}依頼を出せばなんとか…？{换行}{换页}さすがにこれじゃあしょぼすぎるよぉ～！{换行}どうしよう～！{换行}{END}",
+			"eng":"{F812}Fidgeting Celestrian Girl\u0000I baked all these sweets to thank Miss Lili,{换行}but she’s no where to be found．．．{换行}{换页}What should I do．．．？{换行}{换页}I know！ Maybe I should offer my sweets {换行}as a reward for whoever finds her！{换行}{换页}No, no, that’s not a good reward．．．{换行}What should I do！？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"158",
+			"length":212,
+			"jpn":"{F812}そわそわしているルナリアの少女\u0000知ってますか？{换行}リリさんが帰ってきたんですよ！{换行}{换页}ちゃんとお菓子も食べてもらえて、{换行}ありがとうって言ってもらえて…！{换行}{换页}なんだかもう感激しちゃって{换行}とにかくよかったです～！！{换行}{END}",
+			"eng":"{F812}Fidgeting Celestrian Girl\u0000Did you hear？ Miss Lili came back！{换行}{换页}She ate all my sweets, and she thanked me！{换行}{换页}I’m just so glad she’s okay！{换行}{END}",
+			"zh":""
+		}
+	]
+}

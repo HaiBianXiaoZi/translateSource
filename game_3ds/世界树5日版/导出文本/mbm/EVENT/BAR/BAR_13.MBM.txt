@@ -1,0 +1,213 @@
+{
+	"fileName":"BAR_13.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"1c0",
+			"length":350,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000やあ、{主角姓名}！{换行}僕の依頼を受けてくれたんだね！{换行}ありがとう！{换行}{换页}早速依頼の内容について{换行}話させてくれ！{换行}{换页}君たちの話によると、白黒模様の{换行}{颜色:0500}{敌人:4600}という蟻{颜色:0000}が五階層に{换行}いるんだよね？{换行}{换页}で、君たちにお願いしたいのは{换行}その{敌人:4600}が{颜色:0500}どういった味の物を{换行}好むのかの調査{颜色:0000}なんだ。{换行}{换页}それを調べるために必要な物を{换行}渡しておこう。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Hello again, {主角姓名} Guild！ {换行}Thanks for accepting my request！{换行}{换页}Let’s get down to business．{换行}{换页}By your account, there are monochrome ants {换行}called {敌人:4600}s in the ５th Stratum, yes？{换行}{换页}What I need to know is {颜色:0500}what flavors{颜色:0000}{换行}{敌人:4600} {颜色:0500}favors{颜色:0000}．{换行}{换页}Here’s what you’ll need：{换行}One loaf of Super Sweet Bread {换行}and one loaf of Extra Spicy Bread．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"31e",
+			"length":670,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000それが調査に使うために{换行}僕が作った特製のパンさ！{换行}{换页}調査のために作ったもので{换行}味付けはかなり極端だから、人の舌には{换行}全く合わないのが玉に瑕だけどね。{换行}{换页}でだね、君たちにはそのパンを{换行}{颜色:0500}{敌人:4600}のいそうな場所に置いて{换行}様子を見てきて欲しい{颜色:0000}んだよ。{换行}{换页}喜んで食べるのか、食べて拒否感を示すのか{换行}それとも食べないのか、どういった反応を{换行}返すのか観察してきて欲しいのさ。{换行}{换页}置くべき場所はそうだね…。{换行}{颜色:0500}蟻の巣{颜色:0000}なんかがあれば、{换行}そこに置くのが間違いないだろうね。{换行}{换页}本音を言えば、そのパン両方で{换行}反応の調査をお願いしたいけれど…。{换行}{换页}君たちの都合もあるだろうし、{换行}{颜色:0500}どれか一つのパンでの調査だけでも{换行}構わない{颜色:0000}から、よろしくお願いするよ！{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000I made these special bread loaves {换行}to help with the investigation．{换行}{换页}Suffice to say, I’ve flavored them in such a way{换行}to be．．． unfit for people, so don’t nibble．{换行}{换页}Put that bread {颜色:0500}somewhere a {敌人:4600}{换行}will be able to see it and observe how it reacts{颜色:0000}．{换行}{换页}Keep an eye out for whether they love it,{换行}hate it, or just ignore it． Write it all down．{换行}{换页}As for where to put it．．． The closer to {换行}the {颜色:0500}ant’s nest{颜色:0000}, the better．{换行}{换页}And I’d really like you to try out {换行}both types of bread．．．{换行}{换页}But I realize you have your own things to do,{换行}so it’s fine if you only have time to try one．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"5bc",
+			"length":82,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000やあ、君たち。{换行}{敌人:4600}の味の好みの調査は{换行}終わったかな？{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Ah, you’re back． Did you figure out which{换行}flavors the {敌人:4600} favors？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"60e",
+			"length":84,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}調査は終わった{换行}まだ終わってない{换行}依頼内容を確認したい{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Tell him you’re done, it’s over{换行}Tell him you haven’t finished yet{换行}Ask for request details again{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"662",
+			"length":72,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000本当かい？{换行}それじゃあ話を聞かせておくれよ！{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Really？ Tell me everything！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"6aa",
+			"length":176,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000ふむふむ…、甘いパンは喜んで{换行}全て平らげてしまったと…。{换行}なるほどなるほど。{换行}{换页}甘いものを好む性質があるかも{换行}しれない、と…。これは貴重な情報だ…。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000I see, I see．．． So it munched down {换行}the sweet bread．{换行}{换页}This may indicate an affinity for sweet things．{换行}Good to know．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"75a",
+			"length":186,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000で、辛いパンはどうだったかというと、{换行}警戒して食べなかった…と。{换行}{换页}なるほど、何かでそれが危険だと{换行}考えて、口にできなかったのかも{换行}しれないなぁ、ふむふむ…。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000It wouldn’t go near the spicy bread．．．{换行}{换页}Perhaps it was able to somehow determine{换行}that the spicy bread was dangerous． Hrm．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"814",
+			"length":236,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000で、辛いパンはどうだったかというと、{换行}辛さに苦しんだ挙句、どこかへと{换行}行ってしまったんだね。{换行}{换页}明確に辛味を感じることができるのか。{换行}その前にかなり警戒をしていたというのも{换行}忘れてはいけないか…ふーむふむ…。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000When it got near the spicy bread, {换行}it recoiled and ran off somewhere．{换行}{换页}Clearly it can tell when something’s spicy．{换行}I should make a note about how cautious{换行}they seem to be．．． Hmm．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"900",
+			"length":98,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000うむ、よくわかったよ。{换行}ありがとう、{主角姓名}。{换行}依頼をして本当によかったよ。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Hm． Yes． I think I understand now．{换行}I’m glad I had you do this, {主角姓名}{换行}Guild．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"962",
+			"length":76,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000ちなみにそれ以外に何か{换行}報告することはあるかな？{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Anything else worth noting？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"9ae",
+			"length":108,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}辛いパンを食べたことを話す{换行}パンの辛さに文句を付ける{换行}特に異常はなかったと告げる{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Tell him you ate the spicy bread{换行}Complain about how spicy the bread was{换行}Tell him there was nothing else{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"a1a",
+			"length":334,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000え！？　あれを食べちゃったのかい！？{换行}普通の人じゃ、まずちょっと耐えられない{换行}辛さだったはずなんだけど…。{换行}{换页}ああ、ただ辛くしただけで体に{换行}悪影響とかはないから心配いらないよ。{换行}しかし…。{换行}{换页}なんだろう、次は虫じゃなくて{换行}君たちの調査をしてみたい気分に{换行}なってきたなぁ…。{换行}{换页}ああ、いや冗談だよ冗談、うん。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000You．．． You ate it！？ I could’ve sworn I made {换行}that sucker so spicy no one could stomach it．．．{换行}{换页}Well, I wouldn’t worry about it． I mean besides{换行}being super spicy, it shouldn’t be harmful any．{换行}Although．．．{换行}{换页}Maybe you should be my next {换行}research specimen．．．{换行}{换页}Haha． I kid, I kid． Relax．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"b68",
+			"length":404,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000ご、ごめんよ。反応を調べるためには{换行}中途半端はよくないと思って…。{换行}{换页}というか、あれを食べちゃったのかい？{换行}普通の人じゃ、まずちょっと耐えられない{换行}辛さだったはずなんだけど…。{换行}{换页}ああ、ただ辛くしただけで体に{换行}悪影響とかはないから心配いらないよ。{换行}しかし…。{换行}{换页}なんだろう、次は虫じゃなくて{换行}君たちの調査をしてみたい気分に{换行}なってきたなぁ…。{换行}{换页}ああ、いや冗談だよ冗談、うん。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Sorry, I didn’t want to cut corners{换行}when it came to researching their{换行}reactions to spiciness．．．{换行}{换页}But forget about that． I could’ve sworn I made {换行}that sucker so spicy no one could stomach it．．．{换行}{换页}Well, I wouldn’t worry about it． I mean besides{换行}being super spicy, it shouldn’t be harmful any．{换行}Although．．．{换行}{换页}Maybe you should be my next {换行}research specimen．．．{换行}{换页}Haha． I kid, I kid． Relax．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"cfc",
+			"length":48,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000そうか。了解したよ。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Oh, I see．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"d2c",
+			"length":202,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000さて、依頼を見事に果たしてくれたんだ。{换行}ぜひ酒場の店主殿から報酬を受け取って{换行}くれると僕も嬉しいよ。{换行}{换页}それでは{主角姓名}。{换行}これからも君たちの冒険の無事を{换行}祈っているよ。それでは。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000And with that, you’ve completed my request．{换行}Please, accept your reward from Mirina．{换行}{换页}Hopefully we’ll meet again, {主角姓名}{换行}Guild． I’ll pray to the great tree{换行}that you stay safe．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"df6",
+			"length":302,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000ん？　でも君たち、僕が渡したパンを{换行}両方とも持っているじゃないか。{换行}{换页}それってつまりまだ調査を{换行}してきていないってことじゃないかい？{换行}{换页}かの高名な{主角姓名}でも{换行}ドジをするんだねぇ。ははは。{换行}{换页}引き続き、僕はここで君たちの{换行}報告を待っているから、{敌人:4600}の{换行}調査をよろしくお願いするよ。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Well, hold on a moment． You still have {换行}both bread loaves．{换行}{换页}Have you even conducted any of the research？{换行}{换页}Who’d have thought the legendary {换行}{主角姓名} Guild would make such a {换行}rookie mistake．{换行}{换页}Well, I’ll be waiting here when you’re done．{换行}Good luck researching the {敌人:4600}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"f24",
+			"length":90,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000そうか。わかった。それじゃあ{换行}引き続き報告を待つことにするよ。{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000Ah, well then． I’ll be waiting here {换行}when you’re done．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"f7e",
+			"length":360,
+			"jpn":"{F812}昆虫学者のヴァーノン\u0000君たちにはさっき渡したパンで{换行}{敌人:4600}の味の好みを{换行}調べてみて欲しいんだ。{换行}{换页}方法としては{颜色:0500}蟻の巣{颜色:0000}か何かを探して{换行}その近くにパンを置けばいいと思うよ。{换行}{换页}本音を言えば、そのパン両方で{换行}反応の調査をお願いしたいけれど…。{换行}{换页}君たちの都合もあるだろうし、{换行}{颜色:0500}どれか一つのパンでの調査だけでも{换行}構わない{颜色:0000}から、よろしくお願いするよ！{换行}{END}",
+			"eng":"{F812}Vernon the Entomologist\u0000What I need to know is {颜色:0500}what flavors{颜色:0000}{换行}{敌人:4600} {颜色:0500}favors{颜色:0000}．{换行}{换页}As for where to put it．．． The closer to {换行}the {颜色:0500}ant’s nest{颜色:0000}, the better．{换行}{换页}And I’d really like you to try out {换行}both types of bread．．．{换行}{换页}But I realize you have your own things to do,{换行}so it’s fine if {颜色:0500}you only have time to try one{颜色:0000}．{换行}{END}",
+			"zh":""
+		}
+	]
+}

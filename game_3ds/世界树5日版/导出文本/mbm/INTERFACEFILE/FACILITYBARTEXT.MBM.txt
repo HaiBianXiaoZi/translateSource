@@ -1,0 +1,133 @@
+{
+	"fileName":"FACILITYBARTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"120",
+			"length":62,
+			"jpn":"この街のさまざまな人の依頼を見て{换行}引き受けることができます{换行}{END}",
+			"eng":"Hear requests from the people of{换行}Iorys．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"15e",
+			"length":60,
+			"jpn":"クエストの結果を報告したり{换行}依頼を破棄することができます{换行}{END}",
+			"eng":"Report a quest’s completion or give up．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"19a",
+			"length":60,
+			"jpn":"酒場にやってくる冒険者と話し{换行}さまざまな情報を得られます{换行}{END}",
+			"eng":"Talk to fellow explorers to{换行}gain information．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"1d6",
+			"length":22,
+			"jpn":"店の店主と話します{换行}{END}",
+			"eng":"Talk to Mirina．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"1ec",
+			"length":18,
+			"jpn":"広場へ戻ります{换行}{END}",
+			"eng":"Return to the town square．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"1fe",
+			"length":22,
+			"jpn":"誰と会話しますか？{换行}{END}",
+			"eng":"Who do you want to talk to？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"214",
+			"length":20,
+			"jpn":"依頼はありません{换行}{END}",
+			"eng":"There are no requests．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"228",
+			"length":30,
+			"jpn":"この依頼を引き受けますか？{换行}{END}",
+			"eng":"Will you accept this request？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"246",
+			"length":24,
+			"jpn":"依頼を引き受けました{换行}{END}",
+			"eng":"You have accepted the task．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"25e",
+			"length":34,
+			"jpn":"引き受けている依頼がありません{换行}{END}",
+			"eng":"There are no tasks underway．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"280",
+			"length":10,
+			"jpn":"ダミー{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"28a",
+			"length":28,
+			"jpn":"この依頼を破棄しますか？{换行}{END}",
+			"eng":"Will you give up on the task？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"2a6",
+			"length":22,
+			"jpn":"依頼を破棄しました{换行}{END}",
+			"eng":"You abandoned the task．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"2bc",
+			"length":16,
+			"jpn":"誰もいません{换行}{END}",
+			"eng":"There is no one here．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"2cc",
+			"length":28,
+			"jpn":"これ以上受けられません！{换行}{END}",
+			"eng":"You can’t take on any more requests！{换行}{END}",
+			"zh":""
+		}
+	]
+}

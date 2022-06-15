@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_111.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":426,
+			"jpn":"{F812}短髪の青年鎌使い\u0000お、お前ら新米さんだな？{换行}ハハハ、んじゃぁ、探索を頑張ってる{换行}君らに先輩からの余計なお節介だ！{换行}{换页}樹海にゃ明らかに格上の魔物がいるだろ？{换行}おっかねえ芋虫みたいなやつのことな。{换行}{换页}あいつらは{颜色:0500}倒すといなくなる{颜色:0000}が、{换行}しばらく{颜色:0500}日にちが経つと{换行}また元の場所に現れてきやがる{颜色:0000}んだ。{换行}{换页}空いた縄張りを横取りした別の個体だとは{换行}思うけど、強いことに変わりはないぜ。{换行}んじゃ、気をつけてビシッと行きなよ！{换行}{END}",
+			"eng":"{F812}Short-haired Harbinger\u0000New adventurers？ Well then, let me give you {换行}some advice--even if you don’t want it, ha！{换行}{换页}You’ve come across those next-level {换行}nightmares in the forest, right？ Like those{换行}horrifying caterpillar-looking monstrosities．{换行}{换页}They might stay gone once you defeat them,{换行}but after a few days a new batch’ll show up{换行}in the same spot．{换行}{换页}New bugs, same turf, same toughness．{换行}Better brace yourselves and get back {换行}in the fray！{换行}{END}",
+			"zh":""
+		}
+	]
+}

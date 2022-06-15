@@ -1,0 +1,101 @@
+{
+	"fileName":"BAR_27.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"e0",
+			"length":66,
+			"jpn":"{F812}狩人のジェイミー\u0000どうも、{主角姓名}さん。{换行}今まさに{道具:F206}を販売中よ。{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000Hey there, {主角姓名}． I just so happen{换行}to be selling {道具:F206} right now．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"122",
+			"length":68,
+			"jpn":"{F812}狩人のジェイミー\u0000２個で１００エンだけど、{换行}買っていくかしら？{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000It’ll be two for １００en． Would you like some？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"166",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:F206}２個を１００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:F206} x２ for １００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"1aa",
+			"length":68,
+			"jpn":"{F812}狩人のジェイミー\u0000３個で１５０エンだけど、{换行}買っていくかしら？{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000It’ll be three for １５０en． You looking to buy？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"1ee",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:F206}３個を１５０エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:F206} x３ for １５０en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"232",
+			"length":68,
+			"jpn":"{F812}狩人のジェイミー\u0000４個で２００エンだけど、{换行}買っていくかしら？{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000It’ll be four for ２００en． Ready to purchase？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"276",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:F206}４個を２００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:F206} x４ for ２００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2ba",
+			"length":62,
+			"jpn":"{F812}狩人のジェイミー\u0000まあ、ありがとう！{换行}じゃあ、はいこれ。{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000Ahh, thank you！ Well then, here you go．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"2f8",
+			"length":106,
+			"jpn":"{F812}狩人のジェイミー\u0000よし、手持ちの分はなくなったわね。{换行}新しいのを用意しなくっちゃ。{换行}またよろしくね。{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000All right, that was the last of my latest haul．{换行}I’d better get out there and hunt some more．{换行}Pleasure doing business with you！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"362",
+			"length":102,
+			"jpn":"{F812}狩人のジェイミー\u0000あら、持ち物がいっぱいみたいよ。{换行}買う前に整理した方がいいんじゃ{换行}ないかしら？{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000Uh． Your equipment’s full． Maybe you should{换行}organize your bag before stuffing it with meat．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"3c8",
+			"length":104,
+			"jpn":"{F812}狩人のジェイミー\u0000あら、代金が足りないみたいよ。{换行}それじゃ売ることはできないわ。{换行}ごめんなさいね。{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000Uh． That’s not enough money． Sorry, I’m trying{换行}to run a business． Can’t give you any handouts．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"430",
+			"length":90,
+			"jpn":"{F812}狩人のジェイミー\u0000それなら、仕方ないわよね。{换行}必要な時にまた運よく会えるといいわね。{换行}{END}",
+			"eng":"{F812}Jaimie the Hunter\u0000All right, thanks for stopping by． Swing back{换行}around when you’re hankering for some meat．{换行}{END}",
+			"zh":""
+		}
+	]
+}

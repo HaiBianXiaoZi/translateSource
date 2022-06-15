@@ -1,0 +1,117 @@
+{
+	"fileName":"ANIM_A4.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"100",
+			"length":26,
+			"jpn":"足を踏み入れればそこは{换行}{END}",
+			"eng":"One look will take your breath away：{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"11a",
+			"length":18,
+			"jpn":"輝く水晶の洞窟{换行}{END}",
+			"eng":"A cavern of shimmering crystal．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"12c",
+			"length":40,
+			"jpn":"一攫千金を夢見る者たちがここに来れば{换行}{END}",
+			"eng":"Those who dream of a fast, easy fortune{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"154",
+			"length":18,
+			"jpn":"ツルハシを手に{换行}{END}",
+			"eng":"cannot help but to journey here,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"166",
+			"length":34,
+			"jpn":"一心不乱に財宝を求めるのだろう{换行}{END}",
+			"eng":"called by a promise of riches for cheap．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"188",
+			"length":10,
+			"jpn":"だけど{换行}{END}",
+			"eng":"However．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"192",
+			"length":26,
+			"jpn":"輝く水晶の光に惑わされ{换行}{END}",
+			"eng":"When they dig too quickly, too deeply,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1ac",
+			"length":24,
+			"jpn":"奥へ奥へと進むうちに{换行}{END}",
+			"eng":"bewitched by the sparkling light．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1c4",
+			"length":30,
+			"jpn":"人はみな　見慣れぬ場所へと{换行}{END}",
+			"eng":"they all soon vanish, one by one,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"1e2",
+			"length":22,
+			"jpn":"連れ去られてしまう{换行}{END}",
+			"eng":"lost in the caves of crystal．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"1f8",
+			"length":30,
+			"jpn":"綺麗な花には棘があるように{换行}{END}",
+			"eng":"Just as every beautiful rose has thorns,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"216",
+			"length":16,
+			"jpn":"美しい宝には{换行}{END}",
+			"eng":"there is no treasure without danger．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"226",
+			"length":32,
+			"jpn":"相応の危険が存在しているのだ{换行}{END}",
+			"eng":"Dangerous beauty is the true prize here．{换行}{END}",
+			"zh":""
+		}
+	]
+}

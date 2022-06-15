@@ -1,0 +1,405 @@
+{
+	"fileName":"QUE_054.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"340",
+			"length":218,
+			"jpn":"{NPC:0300}この依頼を受けてくれるのね。{换行}{换页}もうあなたたちは依頼人と少し{换行}お話したみたいだけど、依頼人は{换行}昆虫学者のヴァーノンさんね。{换行}{换页}今もうちであなたたちが話を聞きに{换行}来るのを首を長くして待ってるから{换行}行ってあげてね。{换行}{END}",
+			"eng":"{NPC:0300}Ah, so you’re taking this quest on, are you？{换行}{换页}It seems you’ve already spoken with Vernon．{换行}He’s the entomologist who made the request．{换行}{换页}He’s excited to see you even as we speak,{换行}so make sure you go talk to Vernon again．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"41a",
+			"length":152,
+			"jpn":"{NPC:0300}ヴァーノンさんの依頼は{换行}問題なく終わったみたいね。{换行}{换页}昆虫の観察って聞くと、なんだか{换行}楽しそうだけど場所は樹海だったのよね。{换行}ケガとかしてない？{换行}{END}",
+			"eng":"{NPC:0300}Looks like Vernon’s request was{换行}completed without any problems．{换行}{换页}Studying insects sounds fun, but nothing{换行}in the labyrinth is that easy． Anyone hurt？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"4b2",
+			"length":196,
+			"jpn":"{NPC:0300}とか言っても、あなたたちが{换行}生傷だらけなのはいつものことよね。{换行}{换页}無事に戻ってくるなら、{换行}それでよしよね。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000はい、それじゃ今回のご褒美よ。{换行}おつかれさま。{换行}{END}",
+			"eng":"{NPC:0300}Well, I guess seeing you lot come here{换行}covered with injuries is nothing unusual．{换行}{换页}As long as you make it back in one piece,{换行}that’s what matters at the end of the day．{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Here you go． This is your reward．{换行}Well done, as always．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"576",
+			"length":82,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}辛いパンを食べたことを告白する{换行}問題なかったと返答する{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Admit that you ate the spicy bread{换行}Tell her that there were no issues{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"5c8",
+			"length":338,
+			"jpn":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000え？　{换行}虫に食べさせるためのパンを食べたの？{换行}{换页}…ねえ、それって食べて大丈夫なものなの？{换行}今は平気みたいだからいいけど、{换行}お腹痛くなったりしてない？{换行}{换页}とにかく食べた人は養生するようにね？{换行}長く引き留めるのもよくないでしょうし、{换行}すぐ報酬を渡すわ。{换行}{换页}はいこれ。{换行}体調には気を付けるのを忘れずにね。{换行}{END}",
+			"eng":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000Huh？ You ate the bread meant for bugs？{换行}{换页}．．．I-Is that even safe to eat？ You seem fine{换行}now, but does anyone have a stomach ache？{换行}{换页}Either way, whoever ate it should lie down．{换行}Let me give you your reward now, in case{换行}anyone needs to rush off to the restroom．{换行}{换页}Here you go． Take care of yourselves, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"71a",
+			"length":152,
+			"jpn":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000そう。それならよかったわ。{换行}問題なければ、万事それでよしよね。{换行}{换页}はい、それじゃ今回のご褒美よ。{换行}おつかれさま。{换行}{END}",
+			"eng":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000Glad to hear that． All’s well that ends well．{换行}{换页}Here you go, then． This is your reward．{换行}Well done as always, and thank you．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"7b2",
+			"length":430,
+			"jpn":"樹海の第五階層を歩く君たちは{换行}ふと足元に一つの穴があることに気付き、{换行}立ち止まる。{换行}{换页}そして同時に昆虫学者のヴァーノンから{换行}受けた依頼のことを思い出す。{换行}{换页}確か{敌人:4600}のいそうな場所に{换行}渡したパンを置いて、食べた時の反応を{换行}観察して欲しいと言われていたはずだ。{换行}{换页}君たちの足元にあるのが蟻の巣への{换行}入り口であれば、ここにパンを置けば{换行}{敌人:4600}が現れるかもしれない。{换行}{换页}君たちは試しにパンを置いてもいいし、{换行}この場から立ち去ってもいい。{换行}{END}",
+			"eng":"As you blaze a trail through the wilderness,{换行}you notice a mound by your feet and stop．{换行}{换页}It looks like an anthill, which reminds you{换行}of Vernon the entomologist’s request．{换行}{换页}If you recall correctly, your job is to observe{换行}an insect’s reaction to eating bread．{换行}{换页}If this really is an anthill at your feet,{换行}you might be able to find a {敌人:4600}．{换行}{换页}You can try placing down bread{换行}to lure it out, or leave it alone．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"960",
+			"length":170,
+			"jpn":"君たちは蟻の巣と思しき穴の前に{换行}再び足を運ぶ。{换行}{换页}ここにパンを置けば{敌人:4600}が{换行}現れるかもしれない。{换行}{换页}君たちは試しにパンを置いてもいいし、{换行}この場から立ち去ってもいい。{换行}{END}",
+			"eng":"You come once again to a large anthill．{换行}{换页}Setting down bread might attract a {敌人:4600}．{换行}{换页}You can try placing down bread{换行}to lure it out, or leave it alone．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"a0a",
+			"length":70,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{数字:0000}を置く{换行}{数字:0100}を置く{换行}この場から立ち去る{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Place {数字:0000}{换行}Place {数字:0100}{换行}Leave the anthill alone{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"a50",
+			"length":58,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{数字:0000}を置く{换行}この場から立ち去る{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Place {数字:0000}{换行}Leave the anthill alone{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"a8a",
+			"length":714,
+			"jpn":"君たちはひどく甘そうなパンを{换行}バックパックから取り出し、{换行}巣の入り口近くへと置く。{换行}{换页}そして近くの茂みの中に身を隠し、{换行}できる限り気配を絶つことに専念した。{换行}{换页}……。{换行}{换页}すると、一匹の{敌人:4600}が{换行}樹海の通路を歩いてくるのが確認できた。{换行}{换页}そしてその{敌人:4600}は巣の入り口の{换行}前に置かれたパンの存在に気が付き、{换行}立ち止まった。{换行}{换页}{敌人:4600}は見慣れない物体の周囲を{换行}ぐるぐると歩き回り、様子を窺う。{换行}{换页}だが、その甘い香りのするパンへの誘惑は{换行}すぐに{敌人:4600}をその気にさせた！{换行}{换页}{敌人:4600}はパンへとかぶりつき、{换行}一心不乱に食べ進めていく！{换行}{换页}気が付けば、パンはきれいに食べられて{换行}{敌人:4600}の体の中へ消えてしまった。{换行}{换页}どうやら甘いものには目がないらしい。{换行}{换页}君たちがその情報を頭に入れている間に{换行}{敌人:4600}は満足げに自分の巣の中へと{换行}帰っていった。{换行}{END}",
+			"eng":"You take some sweet-smelling bread{换行}out of your backpack and set it down{换行}near the entrance of the large anthill．{换行}{换页}Then, you hide in a nearby bush{换行}and keep as quiet as possible．{换行}{换页}．．．．．．{换行}{换页}Eventually, a {敌人:4600} crawls out of the hill．{换行}{换页}The {敌人:4600} notices the bread{换行}and suddenly stops in its tracks．{换行}{换页}Antennae twitching, it approaches the food．{换行}{换页}The scent alone is all it takes to convince{换行}the {敌人:4600} to start eating the bread！{换行}{换页}The {敌人:4600} digs in, completely engrossed！{换行}{换页}Before long, the {敌人:4600} has totally{换行}devoured every last crumb of bread．{换行}{换页}It seems to have a serious sweet tooth．．．{换行}or sweet mandible, as the case may be．{换行}{换页}As you take notes on your observations,{换行}the {敌人:4600} scuttles back into its hole．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"d54",
+			"length":222,
+			"jpn":"ひどく甘そうなパンを使った調査は{换行}これで終了となる。だが、君たちの荷物には{换行}まだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"That completes the sweet bread experiment,{换行}but you still have that spicy bread with you．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to finish this request．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"e32",
+			"length":136,
+			"jpn":"これでパンを使った{换行}{敌人:4600}の調査は終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"That completes the experiment{换行}of {敌人:4600}s and sweet bread．{换行}{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"eba",
+			"length":722,
+			"jpn":"君たちは見るからに辛そうなパンを{换行}バックパックから取り出し、{换行}巣の入り口近くへと置く。{换行}{换页}そして近くの茂みの中に身を隠し、{换行}できる限り気配を絶つことに専念した。{换行}{换页}……。{换行}{换页}すると、一匹の{敌人:4600}が{换行}樹海の通路を歩いてくるのが確認できた。{换行}{换页}そしてその{敌人:4600}は巣の入り口の{换行}前に置かれたパンの存在に気が付き、{换行}立ち止まった。{换行}{换页}{敌人:4600}は見慣れない物体の周囲を{换行}ぐるぐると歩き回り、様子を窺う。{换行}{换页}興味はあるようだが、真っ赤に染まる{换行}そのパンをすぐに口に入れようとする{换行}気配はない。{换行}{换页}しばらく経っても、まだ{敌人:4600}は{换行}用意されたパンを食べようとはしない。{换行}{换页}とりあえずは辛そうなパンを見ても、{换行}すぐに食いついたりはしないということは{换行}観察して判明した。{换行}{换页}君たちはその情報で十分と思うなら、{换行}これでここでの調査を打ち切ってもいい。{换行}{END}",
+			"eng":"You take some spicy-smelling bread{换行}out of your backpack and set it down{换行}near the entrance of the large anthill．{换行}{换页}Then, you hide in a nearby bush{换行}and keep as quiet as possible．{换行}{换页}．．．．．．{换行}{换页}Eventually, a {敌人:4600} crawls out of the hill．{换行}{换页}The {敌人:4600} notices the bread{换行}and suddenly stops in its tracks．{换行}{换页}Antennae twitching, it paces around{换行}the unfamiliar object a few times．{换行}{换页}This {敌人:4600} seems interested, but makes{换行}no attempt to bite into the bright-red bread．{换行}{换页}After even more time passes, the {敌人:4600}{换行}is still showing no effort to eat that bread．{换行}{换页}At the very least, it doesn’t appear to be{换行}recognizing the scent of the bread as food．{换行}{换页}If you believe that’s enough data,{换行}you can end the experiment here．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"118c",
+			"length":70,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}まだ観察を続ける{换行}ここでの調査は終了にする{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Continue observing{换行}End the experiment{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"11d2",
+			"length":842,
+			"jpn":"まだ食べた結果の反応は見られていない。{换行}であれば、まだ観察は続けるべきと考え{换行}君たちは{敌人:4600}を見つめ続ける。{换行}{换页}……。{换行}{换页}そして君たちが粘り強く待ち続けた結果、{换行}ついに{敌人:4600}が辛そうなパンを{换行}口に含んだ！{换行}{换页}黙々と食べ進めていく様子から辛いものでも{换行}食べるのかと君たちが思っていたその矢先！{换行}{换页}{敌人:4600}が動きを急に止めたかと思うと{换行}その場で苦しむようにのたうち回り始めた！{换行}{换页}ジタバタともがき続けた{敌人:4600}は{换行}最終的にどこか遠くへと逃げるように{换行}走り去っていってしまった。{换行}{换页}辛いものは苦手なのだろうか。{换行}{换页}それとも単純にあのパンが度を越して{换行}辛いだけなのだろうか。{换行}{换页}確かにパンと言いつつ、あの生地の{换行}赤さは尋常ではない。まるで絵具で表面を{换行}塗ったような赤さなのだ。{换行}{换页}普通に考えれば、あんな見た目のものを{换行}口にしようとは思えないほどだ。{换行}{换页}だがそれでもと思うなら、更なる調査のため{换行}目の前にある辛そうなパンを試食して、{换行}辛さを確かめてみてもいい。{换行}{END}",
+			"eng":"Your job was to observe the {敌人:4600}{换行}eating the bread, not just looking at it,{换行}so you decide to wait until it does so．{换行}{换页}．．．．．．{换行}{换页}Your patience is finally rewarded when{换行}the {敌人:4600} takes a bite of the bread．{换行}{换页}It continues to eat, so you’re just about{换行}to conclude that it’s fine with spicy food．{换行}However--{换行}{换页}The {敌人:4600} suddenly stops eating the bread{换行}and starts writhing in agony on the ground！{换行}{换页}After thrashing about, the {敌人:4600}{换行}skitters frantically back into its anthill．{换行}{换页}Maybe it doesn’t like spicy food．{换行}{换页}Or maybe this bread is just that spicy？{换行}{换页}Now that you look at it, the redness{换行}of the dough seems pretty abnormal．{换行}Even the crust is the color of blood．{换行}{换页}No human would ever try eating such a thing．{换行}{换页}But maybe．．． you could try eating{换行}the leftover bread and figure out{换行}just how spicy this stuff really is．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"151c",
+			"length":56,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}パンを食べてみる{换行}放っておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Eat the bread{换行}Leave it alone{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"1554",
+			"length":96,
+			"jpn":"君たちはより実感の伴った調査を{换行}行うべきと判断して、そのパンを試しに{换行}食べてみることにする。{换行}{END}",
+			"eng":"The best way to find out is to test it yourself,{换行}so you decide to sample a taste of this bread．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"15b4",
+			"length":74,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}パーティメンバー全員で食べる{换行}誰か一人が食べる{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Share it with the party{换行}Have one person eat it{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"15fe",
+			"length":912,
+			"jpn":"君たちは情報は共有した方がいいはずだと{换行}パンを均等に分けていく。{换行}{换页}そして、深呼吸を一つしてから、{换行}赤過ぎるパンを口の中へと放り込んだ！{换行}{换页}覚悟をしていた割に辛さは大したことはなく{换行}君たちは肩透かしを食らったなと、{换行}笑みを浮かべ始めた。{换行}{换页}しかし刹那の後、{角色:0000}が{换行}顔を強張らせ始める。{换行}{换页}そしてその隣の{角色:0100}からも{换行}表情が消え、目の輝きが失われていく。{换行}{换页}気付けば、全員が先ほどのパンのように{换行}顔を赤くして、全身を汗でびっしょりと{换行}濡らしてしまっていた。{换行}{换页}先ほどの{敌人:4600}の反応の仕方は{换行}ごく普通と思えるほどに、そのパンは{换行}過剰なまでに辛いのだ！{换行}{换页}喉はびりびりと熱を持ち、舌の上は{换行}剣山でも刺したかのように痛む。{换行}{换页}体の表面は熱いはずなのに、{换行}パンを食べてしまった胃の中は{换行}冷えてきた錯覚すら覚えている。{换行}{换页}手の震えが止まらないほどのものをどうして{换行}食べたのだと、ほんの少し前の自分たちの{换行}判断を悔やむがもう遅い。{换行}{换页}しばらく悶絶した結果、どうにか辛さは{换行}収まってくれたものの、君たちはひどく{换行}疲れてしまった。{换行}{END}",
+			"eng":"Deciding it’s best to get everyone’s opinion{换行}on the taste, you split the bread up evenly．{换行}{换页}And after taking a deep breath, each of you{换行}toss the weirdly red bread into your mouths！{换行}{换页}Surprsingly, it’s not as spicy as you feared．{换行}The party shares a collective sigh of relief．{换行}{换页}．．．Until {角色:0000}’s brow furrows．{换行}{换页}．．．And {角色:0100} eyes start watering．{换行}{换页}Everyone’s faces are as red as the bread,{换行}and soon they’re sweating like waterfalls．{换行}{换页}No wonder the {敌人:4600} reacted like that！{换行}{换页}Your throat is burning up, and your tongue{换行}feels like it’s being stabbed by tiny daggers．{换行}{换页}Your body temperature is rising,{换行}but your gut starts to feel cold．{换行}{换页}Whose bright idea was this, anyway？{换行}Everything is going dark．．．{换行}{换页}After flailing for a while, you all return{换行}to your senses as the spiciness fades．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"198e",
+			"length":236,
+			"jpn":"パーティの表情が沈鬱なものになっているが{换行}辛いパンの調査は終了だ。だが、君たちの{换行}荷物にはまだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"The entire party looks worse for wear,{换行}but at least the experiment got results．{换行}You still have that sweet bread, though．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to complete this quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"1a7a",
+			"length":178,
+			"jpn":"パーティの表情が沈鬱なものになっているが{换行}これでパンを使った{敌人:4600}の調査は{换行}終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"The entire party looks worse for wear,{换行}but at least the experiment got results．{换行}{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"1b2c",
+			"length":1160,
+			"jpn":"何かあっても被害が一人で済む以上、{换行}そうした方がいいと考えて、君たちは{换行}代表として{角色:0000}を選んだ。{换行}{换页}パンの一部を千切り、{角色:0000}は{换行}大きく息を吸って吐いてをしばらくの間{换行}繰り返す。{换行}{换页}そして、深呼吸を一つしてから、{换行}赤過ぎるパンを口の中へと放り込んだ！{换行}{换页}{角色:0000}を見つめる他の者は心配そうに{换行}経過を見守るが、{角色:0000}の{换行}様子は特に変わりない。{换行}{换页}どうやら覚悟をしていた割に{换行}辛さは大したことはないようだ。{换行}{换页}しかし刹那の後、{角色:0000}の{换行}体の動きかぴたりと止まる。{换行}{换页}やがて{角色:0000}から表情が消え、{换行}目の輝きがどこかへと失われていく。{换行}{换页}気付けば、{角色:0000}の顔は口にした{换行}パンのように赤くなり、体中が{换行}汗まみれになってしまっていた。{换行}{换页}先ほどの{敌人:4600}の反応の仕方は{换行}ごく普通と思えるほどに、そのパンは{换行}過剰なまでに辛いのだ！{换行}{换页}{角色:0000}の喉はびりびりと熱を持ち、{换行}舌の上は剣山でも刺したかのように痛む。{换行}{换页}体の表面は熱いはずなのに、{换行}パンを食べてしまった胃の中は{换行}冷えてきた錯覚すら覚えているという。{换行}{换页}手の震えが止まらないほどのものをどうして{换行}自分だけに食べさせたのだと{角色:0000}が{换行}目で訴えかけてくるがもう遅い。{换行}{换页}しばらく悶絶した結果、どうにか辛さは{换行}収まったようで、{角色:0000}は{换行}落ち着きを取り戻した。{换行}{换页}しかし、あまりの辛さに耐えている間に{换行}{角色:0000}の気力体力ともにかなり{换行}減退してしまった。{换行}{END}",
+			"eng":"If there’s anything wrong with the bread,{换行}it’d be best to limit the damage to one,{换行}so you vote for {角色:0000}．{换行}{换页}After tearing off a piece of the bread,{换行}{角色:0000} takes a deep breath．{换行}{换页}Here goes nothing．．． They toss{换行}the red bread into their mouth！{换行}{换页}Though everyone watches over in worry,{换行}{角色:0000} seems just fine．{换行}{换页}Surprisingly, the bread’s not that spicy．{换行}{换页}But after a few more moments,{换行}{角色:0000} suddenly freezes．{换行}{换页}Their brows furrow as their eyes water．{换行}{换页}Soon, {角色:0000}’s face turns as red{换行}as the bread． They’re sweating like a waterfall．{换行}{换页}No wonder the {敌人:4600} reacted like that！{换行}{换页}{角色:0000}’s throat is burning,{换行}and their tongue feels like it’s{换行}being stabbed by tiny daggers．{换行}{换页}Their body temperature is rising,{换行}but their gut feels as cold as ice．{换行}{换页}{角色:0000}’s eyes seem to ask,{换行}”Why did you make me eat this！？”{换行}But it’s too late to turn back now．{换行}{换页}After flailing around, the spiciness fades away{换行}and {角色:0000} finally calms down．{换行}{换页}The horrible taste left {角色:0000}{换行}both physically and mentally drained．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"1fb4",
+			"length":226,
+			"jpn":"{角色:0000}の表情が沈鬱になっているが{换行}辛いパンの調査は終了だ。だが、君たちの{换行}荷物にはまだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"{角色:0000} looks downtrodden,{换行}but at least you’ve concluded your spicy bread{换行}experiment． You still have sweet bread, though．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to complete this quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"2096",
+			"length":168,
+			"jpn":"{角色:0000}の表情が沈鬱になっているが{换行}これでパンを使った{敌人:4600}の調査は{换行}終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"{角色:0000} looks downtrodden,{换行}but at least your investigation{换行}into the {敌人:4600} is finished．{换行}{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"213e",
+			"length":992,
+			"jpn":"{角色:0000}はパンへと近づき、{换行}それを拾い上げる。{换行}{换页}手の中に収まったそれからは{换行}鼻孔をつんとさせる臭いを発しており、{换行}{角色:0000}はやや顔をしかめる。{换行}{换页}しかし、ここで退いても仕方ないと{换行}大きく息を吐いてから赤過ぎるパンを{换行}口の中へと放り込んだ！{换行}{换页}が、覚悟をしていた割にさほど辛くもなく{换行}{角色:0000}は肩透かしを食らったなと、{换行}笑みを浮かべ始めた。{换行}{换页}しかし刹那の後、{角色:0000}が{换行}顔を強張らせ始める。{换行}{换页}やがて{角色:0000}から表情が消え、{换行}目の輝きがどこかへと失われていく。{换行}{换页}気付けば、{角色:0000}の顔は口にした{换行}パンのように赤くなり、体中が{换行}汗まみれになってしまっていた。{换行}{换页}先ほどの{敌人:4600}の反応の仕方は{换行}ごく普通と思えるほどに、そのパンは{换行}過剰なまでに辛いのだ！{换行}{换页}{角色:0000}の喉はびりびりと熱を持ち、{换行}舌の上は剣山でも刺したかのように痛む。{换行}{换页}体の表面は熱いはずなのに、{换行}パンを食べてしまった胃の中は{换行}冷えてきた錯覚すら覚えている。{换行}{换页}手の震えが止まらないほどのものをどうして{换行}食べたのだと、ほんの少し前の自分の{换行}判断を悔やむがもう遅い。{换行}{换页}しばらく悶絶した結果、どうにか辛さは{换行}収まってくれたが、{角色:0000}はひどく{换行}疲れてしまった。{换行}{END}",
+			"eng":"{角色:0000} picks up the bread．{换行}{换页}Even smelling the bread stings the nostrils．{换行}{角色:0000}’s face scrunches up．{换行}{换页}．．．But there’s no point in turning back now．{换行}They take a deep breath and eat the bread！{换行}{换页}But with a smile, {角色:0000}{换行}realizes it wasn’t as spicy as expected．{换行}{换页}But after a few more moments,{换行}{角色:0000} suddenly freezes．{换行}{换页}Their brows furrow as their eyes water．{换行}{换页}{角色:0000}’s face turns as red as the{换行}bread, and they’re sweating like a waterfall！{换行}{换页}No wonder the {敌人:4600} reacted like that！{换行}{换页}{角色:0000}’s throat is burning,{换行}and their tongue feels like it’s{换行}being stabbed by tiny daggers．{换行}{换页}Their body temperature is rising,{换行}but their gut feels as cold as ice．{换行}{换页}{角色:0000} is filled with regret{换行}as they endure this living hell．{换行}{换页}After flailing around, the spiciness fades away{换行}and {角色:0000} finally calms down．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"251e",
+			"length":220,
+			"jpn":"ダメージをかなり受けはしたものの{换行}辛いパンの調査は終了だ。だが、荷物には{换行}まだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"That bread took a serious toll, but at least{换行}you got the results you need． You still have{换行}one more piece of bread to test, however．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to complete this quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"25fa",
+			"length":170,
+			"jpn":"ダメージをかなり受けはしたものの{换行}これでパンを使った{敌人:4600}の調査は{换行}終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"26a4",
+			"length":146,
+			"jpn":"あそこまで露骨に危険そうなものを{换行}食べるなど正気の沙汰ではない。{换行}{换页}君たちは、これで辛そうなパンを{换行}使った{敌人:4600}の調査は{换行}終了とすることにした。{换行}{END}",
+			"eng":"That bread is obviously unfit for consumption．{换行}You’d have to be out of your mind to eat it．{换行}{换页}All things considered, that should conclude{换行}your study of spicy food and {敌人:4600}s．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"2736",
+			"length":170,
+			"jpn":"だが、君たちの荷物には{换行}まだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"But you still have more types of bread to test．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to complete this quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"27e0",
+			"length":142,
+			"jpn":"そしてこれでパンを使った{换行}{敌人:4600}の調査は終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"That takes care of researching{换行}{敌人:4600} using this bread．{换行}{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"286e",
+			"length":98,
+			"jpn":"これ以上、観察しても得られるものは{换行}ないだろう。君たちはここでの調査を{换行}終了とすることにした。{换行}{END}",
+			"eng":"There’s nothing more to learn by waiting{换行}and watching longer, so you decide that{换行}this section of the experiment is finished．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"28d0",
+			"length":170,
+			"jpn":"だが、君たちの荷物には{换行}まだ預かったパンが残っている。{换行}{换页}調査を続行するために別の場所に向かっても{换行}いいし、調査を終了して酒場にいる依頼人に{换行}報告してしまってもいい。{换行}{END}",
+			"eng":"But you still have more types of bread to test．{换行}{换页}You can either find another site to experiment{换行}with the other bread, or report back to Vernon{换行}at the Twilight Tavern to complete this quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"297a",
+			"length":142,
+			"jpn":"そしてこれでパンを使った{换行}{敌人:4600}の調査は終了だ。{换行}{换页}後は酒場で君たちの帰りを待っている{换行}依頼人の元へ行き、このことを報告{换行}するといいだろう。{换行}{END}",
+			"eng":"Thus concludes the experiment{换行}testing the effects of different{换行}types of bread on {敌人:4600}s．{换行}{换页}All that remains is to report your findings{换行}to the entomologist back at the tavern．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"2a08",
+			"length":62,
+			"jpn":"君たちはパンを置くのをやめ、{换行}樹海の探索に戻ることにする。{换行}{END}",
+			"eng":"You decide not to place any bread here,{换行}and return to your wanderings instead．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"2a46",
+			"length":28,
+			"jpn":"{颜色:0500}誰が食べますか？{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0500}Who will eat it？{颜色:0000}{换行}{END}",
+			"zh":""
+		}
+	]
+}

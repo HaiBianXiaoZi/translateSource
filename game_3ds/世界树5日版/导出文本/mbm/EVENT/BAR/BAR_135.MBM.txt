@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_135.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":282,
+			"jpn":"{F812}青白い顔の鎌使い\u0000うおぇ…、はぁはぁ、{换行}大変な目にあった…。{换行}{换页}第五階層で重力を操る機械あるだろ？{换行}あれで浮いちまうと、{颜色:0500}第五階層にいる間{换行}ずっと浮きっぱなし{颜色:0000}なんだよ。{换行}{换页}来た道を戻ろうとしても苦労するし、{换行}挙句の果てには知らない場所に出るし{换行}迷うし酔うしで…うおえっ。{换行}{END}",
+			"eng":"{F812}Pale-faced Shaman\u0000Guh！ Ugh！ Phew！{换行}That was．．． That was hell．{换行}{换页}The know the gravity machine in the ５th{换行}Stratum？ If you use it to float, you’ll {颜色:0500}stay{换行}that way the entire time you’re there{颜色:0000}．{换行}{换页}It’s a real pain trying to go back the way{换行}you came in． It’s easy to get lost, and the{换行}motion sickess--hrk！{换行}{END}",
+			"zh":""
+		}
+	]
+}

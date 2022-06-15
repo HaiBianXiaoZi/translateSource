@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_120.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":266,
+			"jpn":"{F812}騒がしい猟犬使いの男\u0000聞いたか{主角姓名}って連中が{换行}達人の認定試験に受かったそうだぜ！{换行}{换页}くぅー！　羨ましいぜ！{换行}俺も二つ名とか名乗ってみたいもんだ。{换行}{换页}ゴージャススペシャルデラックスボンバー！{换行}とかそういうのが…えっ、長いし意味不明？{换行}ぐぬぬ、二つ名って難しいな…。{换行}{END}",
+			"eng":"{F812}Rowdy Rover\u0000Did you hear！？ The {主角姓名} Guild{换行}passed the Master Exam！{换行}{换页}I’m so jealous！ I want a legendary title！{换行}{换页}Something like．．． Gorgeous Deluxe Bomber！{换行}．．．What do you mean it makes no sense？{换行}Ugh, coming up with a legendary title is hard．{换行}{END}",
+			"zh":""
+		}
+	]
+}

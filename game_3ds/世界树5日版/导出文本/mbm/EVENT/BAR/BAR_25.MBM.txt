@@ -1,0 +1,101 @@
+{
+	"fileName":"BAR_25.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"e0",
+			"length":96,
+			"jpn":"{F812}ベリー販売員のデール\u0000やあ、こんにちは！{换行}今、ここで{道具:FD06}の販売を{换行}させてもらっているんだ。{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Ah, hello there！ I’ve got some {换行}{道具:FD06} right here for sale．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"140",
+			"length":74,
+			"jpn":"{F812}ベリー販売員のデール\u0000２個で１００エンなんだけど、{换行}買っていくかい？{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000I’ll sell you a pair for １００en． How’s that sound？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"18a",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:FD06}２個を１００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:FD06} x２ for １００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"1ce",
+			"length":74,
+			"jpn":"{F812}ベリー販売員のデール\u0000３個で１５０エンなんだけど、{换行}買っていくかい？{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000It’ll be １５０en for three． How’s that sound？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"218",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:FD06}３個を１５０エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:FD06} x３ for １５０en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"25c",
+			"length":74,
+			"jpn":"{F812}ベリー販売員のデール\u0000４個で２００エンなんだけど、{换行}買っていくかい？{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000It’ll be ２００en for four． How’s that sound？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"2a6",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:FD06}４個を２００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:FD06} x４ for ２００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2ea",
+			"length":112,
+			"jpn":"{F812}ベリー販売員のデール\u0000ご購入ありがとう！{换行}それじゃあこれがお返しの{道具:FD06}だよ！{换行}冒険の役に立つとうれしいな！{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Thanks！ Here’s your {道具:FD06}．{换行}Hope they prove useful on your adventures！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"35a",
+			"length":124,
+			"jpn":"{F812}ベリー販売員のデール\u0000さて、それじゃあ僕はこれで。{换行}他の市場にも顔を出さないといけないから。{换行}縁が会ったらまた会おう。{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Well, I best be off． Got plenty of other {换行}markets to chase． I’m sure fate will {换行}have us cross paths again．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"3d6",
+			"length":114,
+			"jpn":"{F812}ベリー販売員のデール\u0000おっと、持ち物がいっぱいみたいだよ？{换行}買う前に整理しておいた方が{换行}いいんじゃないかな？{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Looks like your backpack’s about to burst．{换行}Maybe you should make some room before{换行}you buy m’berries．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"448",
+			"length":116,
+			"jpn":"{F812}ベリー販売員のデール\u0000おっと、お金が足りないみたいだよ。{换行}残念だけど、それじゃ販売はできないな。{换行}すまないね。{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Looks like your short on funds． Sorry, can’t {换行}sell these to you until you pad that wallet．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"4bc",
+			"length":118,
+			"jpn":"{F812}ベリー販売員のデール\u0000そうか、それなら仕方ないね。{换行}また欲しくなった時にでも会うことが{换行}あることを祈っているよ。{换行}{END}",
+			"eng":"{F812}Dale the Berry Merchant\u0000Well, it is what it is． Hopefully we’ll meet {换行}again sometime, and when we do you’ll {换行}need some berries．{换行}{END}",
+			"zh":""
+		}
+	]
+}

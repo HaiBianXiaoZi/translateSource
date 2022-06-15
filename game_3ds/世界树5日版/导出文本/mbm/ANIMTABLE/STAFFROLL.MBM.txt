@@ -1,0 +1,309 @@
+{
+	"fileName":"STAFFROLL.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"280",
+			"length":340,
+			"jpn":"{换行}{颜色:0900}ＳＴＡＦＦ{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｄｉｒｅｃｔｏｒ{颜色:0000}{换行}小森　成雄{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｃｈａｒａｃｔｅｒ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}日向　悠二{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｍｏｎｓｔｅｒ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}長澤　真{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｍｕｓｉｃ　Ｃｏｍｐｏｓｅｒ{颜色:0000}{换行}古代　祐三{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ａｒｔ　Ｄｉｒｅｃｔｏｒ{颜色:0000}{换行}笹津　啓志{换行}{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"eng":"{换行}{颜色:0900}STAFF{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Director{颜色:0000}{换行}Shigeo Komori{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Character Designer{颜色:0000}{换行}Yuji Himukai{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Monster Designer{颜色:0000}{换行}Shin Nagasawa{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Music Composer{颜色:0000}{换行}Yuzo Koshiro{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Art Director{颜色:0000}{换行}Hiroshi Sasazu{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"3d4",
+			"length":1152,
+			"jpn":"{颜色:0D00}Ｃｈｉｅｆ　Ｐｌａｎｎｅｒ{颜色:0000}{换行}渡邊　勝{换行}{换行}{颜色:0D00}Ｂａｔｔｌｅ　Ｐｌａｎｎｅｒ{颜色:0000}{换行}吉田　城能輔{换行}岩佐　亮　　{换行}阿部　一洋　{换行}伊藤　清仁　{换行}{换行}{颜色:0D00}Ｆｉｅｌｄ　＆　ｆ．ｏ．ｅ　　　　{颜色:0000}{换行}{颜色:0D00}　　　　　　　　　　Ｐｌａｎｎｅｒ{颜色:0000}{换行}吉田　城能輔{换行}{换行}{颜色:0D00}Ｅｖｅｎｔ　Ｐｌａｎｎｅｒ{颜色:0000}{换行}山本　崇裕{换行}村山　峻哉{换行}川崎　友寛{换行}小針　友和{换行}小松　裕司{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｃｈｉｅｆ　Ｐｒｏｇｒａｍｍｅｒ{颜色:0000}{换行}小森　祥弘{换行}{换行}{颜色:0D00}Ｂａｔｔｌｅ　Ｐｒｏｇｒａｍｍｅｒ{颜色:0000}{换行}肥後　聖亨{换行}{换行}{颜色:0D00}Ｐｒｏｇｒａｍｍｅｒ{颜色:0000}{换行}新谷　大樹{换行}山口　正太{换行}{换行}{换行}{换行}{换行}{颜色:0D00}３Ｄ　Ｃｈａｒａｃｔｅｒ　　　　　{颜色:0000}{换行}{颜色:0D00}　　　　　　　Ｄｅｓｉｇｎｅｒ　　{颜色:0000}{换行}青柳　拓　　{换行}針谷　美雪　{换行}橋本　紹未　{换行}為平　千寿香{换行}{换行}{颜色:0D00}Ｍｏｔｉｏｎ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}中島　良恵{换行}{换行}{颜色:0D00}３Ｄ　Ｄｕｎｇｅｏｎ　　　　　　　{颜色:0000}{换行}{颜色:0D00}　　　　　　　Ｄｅｓｉｇｎｅｒ　　{颜色:0000}{换行}青柳　拓　{换行}黒田　史明{换行}{换行}{颜色:0D00}Ｅｆｆｅｃｔ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}植田　圭一　{换行}岩田　真由巳{换行}芳原　匠　　{换行}{换行}{颜色:0D00}Ｉｎｔｅｒｆａｃｅ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}寺田　友紀{换行}{换行}{颜色:0D00}２Ｄ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}高岡　新之介{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｓｏｕｎｄ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}小西　利樹{换行}{换行}{颜色:0D00}Ｖｏｉｃｅ　Ｅｄｉｔｏｒ{颜色:0000}{换行}土屋　憲一{换行}{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"eng":"{颜色:0D00}Chief Planner{颜色:0000}{换行}Masaru Watanabe{换行}{换行}{颜色:0D00}Battle Planner{颜色:0000}{换行}Johnosuke Yoshida{换行}Ryo Iwasa{换行}Kazuhiro Abe{换行}Kiyohito Ito{换行}{换行}{颜色:0D00}Field & f．o．e    {颜色:0000}{换行}{颜色:0D00}          Planner{颜色:0000}{换行}Johnosuke Yoshida{换行}{换行}{颜色:0D00}Event Planner{颜色:0000}{换行}Takahiro Yamamoto{换行}Shunya Murayama{换行}Tomohiro Kawasaki {换行}Tomokazu Kobari{换行}Yuji Komatsu{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Chief Programmer{颜色:0000}{换行}Yoshihiro Komori{换行}{换行}{颜色:0D00}Battle Programmer{颜色:0000}{换行}Masayuki Higo{换行}{换行}{颜色:0D00}Programmer{颜色:0000}{换行}Hiroki Shintani{换行}Shouta Yamaguchi{换行}{换行}{换行}{换行}{换行}{颜色:0D00}３D Character     {颜色:0000}{换行}{颜色:0D00}       Designer  {颜色:0000}{换行}Taku Aoyagi{换行}Miyuki Harigai{换行}Tsugumi Hashimoto{换行}Chizuka Tamehira{换行}{换行}{颜色:0D00}Motion Designer{颜色:0000}{换行}Yoshie Nakajima{换行}{换行}{颜色:0D00}３D Dungeon       {颜色:0000}{换行}{颜色:0D00}       Designer  {颜色:0000}{换行}Taku Aoyagi{换行}Fumiaki Kuroda{换行}{换行}{颜色:0D00}Effect Designer{颜色:0000}{换行}Keiichi Ueda{换行}Mayumi Iwata{换行}Takumi Yoshihara{换行}{换行}{颜色:0D00}Interface Designer{颜色:0000}{换行}Yuki Terada{换行}{换行}{颜色:0D00}２D Designer{颜色:0000}{换行}Shinosuke Takaoka{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Sound Designer{颜色:0000}{换行}Toshiki Konishi{换行}{换行}{颜色:0D00}Voice Editor{颜色:0000}{换行}Kenichi Tsuchiya{换行}{换行}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"854",
+			"length":858,
+			"jpn":"{颜色:0D00}ＳＯＵＮＤ　ＷＯＲＫＳ{颜色:0000}{换行}{颜色:0600}ＡＮＣＩＥＮＴ　ＣＯ．，ＬＴＤ{颜色:0000}{换行}{换行}{颜色:0D00}Ｄｒｕｍ{颜色:0000}{换行}野口　仁史{换行}{换行}{颜色:0D00}Ｂａｓｓ{颜色:0000}{换行}棚橋　俊幸{换行}{换行}{颜色:0D00}Ｇｕｉｔａｒ{颜色:0000}{换行}宮崎　大介{换行}{换行}{颜色:0D00}Ｐｉａｎｏ{颜色:0000}{换行}ＡＹＡＫＩ{换行}{换行}{颜色:0D00}Ｖｉｏｌｉｎ{颜色:0000}{换行}小林　明日香{换行}高橋　和葉　{换行}{换行}{颜色:0D00}Ｖｉｏｌａ{颜色:0000}{换行}松宮　茉希{换行}{换行}{颜色:0D00}Ｃｅｌｌｏ{颜色:0000}{换行}神野　洋平{换行}{换行}{颜色:0D00}Ｔｒｕｍｐｅｔ{颜色:0000}{换行}荻原　和音{换行}{换行}{颜色:0D00}Ｔｒｏｍｂｏｎｅ{颜色:0000}{换行}白井　友理恵{换行}{换行}{颜色:0D00}Ｈｏｒｎ{颜色:0000}{换行}竹内　修{换行}{换行}{颜色:0D00}Ｆｌｕｔｅ{颜色:0000}{换行}櫻田　朗歩{换行}{换行}{颜色:0D00}Ｏｂｏｅ{颜色:0000}{换行}高田　園子{换行}{换行}{颜色:0D00}Ｃｌａｒｉｎｅｔ{颜色:0000}{换行}水越　裕二{换行}{换行}{颜色:0D00}Ｓａｘｏｐｈｏｎｅ／Ｐｅｒｃｕｓｓｉｏｎ{颜色:0000}{换行}伊勢　賢治{换行}{换行}{颜色:0D00}Ｓｃｏｒｅ　Ｃｒｅａｔｏｒ{颜色:0000}{换行}羽田　二十八{换行}{换行}{颜色:0D00}Ｍｉｘ　Ｅｎｇｉｎｅｅｒ{颜色:0000}{换行}ｑｕａｄ{换行}{换行}{颜色:0D00}Ｒｅｃｏｒｄｉｎｇ　Ｄｉｒｅｃｔｏｒ，　{颜色:0000}{换行}{颜色:0D00}　　　Ｃｏｍｐｏｓｅｒ，Ａｒｒａｎｇｅｒ{颜色:0000}{换行}古代　祐三{换行}{换行}{颜色:0D00}Ａｒｒａｎｇｅｒ{颜色:0000}{换行}柳川　剛{换行}{END}",
+			"eng":"{颜色:0D00}SOUND WORKS{颜色:0000}{换行}{颜色:0600}ANCIENT CO．,LTD{颜色:0000}{换行}{换行}{颜色:0D00}Drum{颜色:0000}{换行}Hitoshi Noguchi{换行}{换行}{颜色:0D00}Bass{颜色:0000}{换行}Toshiyuki Tanahashi{换行}{换行}{颜色:0D00}Guitar{颜色:0000}{换行}Daisuke Miyazaki{换行}{换行}{颜色:0D00}Piano{颜色:0000}{换行}AYAKI{换行}{换行}{颜色:0D00}Violin{颜色:0000}{换行}Asuka Kobayashi{换行}Kazuha Takahashi{换行}{换行}{颜色:0D00}Viola{颜色:0000}{换行}Maki Matsumiya{换行}{换行}{颜色:0D00}Cello{颜色:0000}{换行}Yohei Jinno{换行}{换行}{颜色:0D00}Trumpet{颜色:0000}{换行}Kazune Ogihara{换行}{换行}{颜色:0D00}Trombone{颜色:0000}{换行}Yurie Shirai{换行}{换行}{颜色:0D00}Horn{颜色:0000}{换行}Osamu Takeuchi{换行}{换行}{颜色:0D00}Flute{颜色:0000}{换行}Akiho Sakurada{换行}{换行}{颜色:0D00}Oboe{颜色:0000}{换行}Sonoko Takada{换行}{换行}{颜色:0D00}Clarinet{颜色:0000}{换行}Yuji Mizukoshi{换行}{换行}{颜色:0D00}Saxophone／Percussion{颜色:0000}{换行}Kenji Ise{换行}{换行}{颜色:0D00}Score Creator{颜色:0000}{换行}Nijuhashi Haneda{换行}{换行}{颜色:0D00} Mixing Engineer{颜色:0000}{换行}quad{换行}{换行}{颜色:0D00}Recording Director, {颜色:0000}{换行}{颜色:0D00}   Composer,Arranger{颜色:0000}{换行}Yuzo Koshiro{换行}{换行}{颜色:0D00}Arranger{颜色:0000}{换行}Takeshi Yanagawa{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"bae",
+			"length":696,
+			"jpn":"{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｂａｃｋｇｒｏｕｎｄ　Ｄｅｓｉｇｎ{颜色:0000}{换行}{颜色:0600}Ｂａｍｂｏｏ　Ｉｎｃ．{颜色:0000}{换行}西野　隆世{换行}竹田　悠介{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}３Ｄ　Ｍｏｄｅｌ　Ｄｅｓｉｇｎｅｒ{颜色:0000}{换行}{颜色:0600}ＱＯＵＲＩＥＲ　Ｉｎｃ．{颜色:0000}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｍａｐ　Ｍｏｄｅｌｉｎｇ{颜色:0000}{换行}{颜色:0600}ＱＯＵＲＩＥＲ　Ｉｎｃ．{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｒｅｃｏｒｄｉｎｇ　Ｄｉｒｅｃｔｏｒ{颜色:0000}{换行}嶋澤　みどり{换行}{换行}{颜色:0D00}Ｒｅｃｏｒｄｉｎｇ　Ｅｎｇｉｎｅｅｒ{颜色:0000}{换行}岡部　直紀{换行}{换行}{颜色:0D00}Ａｓｓｉｓｔａｎｔ　　　　　　　　　　{颜色:0000}{换行}{颜色:0D00}　Ｒｅｃｏｒｄｉｎｇ　Ｅｎｇｉｎｅｅｒ{颜色:0000}{换行}村山　魁杜{换行}川和　浩之{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｒｅｃｏｒｄ　Ｐｒｏｄｕｃｔｉｏｎ{颜色:0000}{换行}{颜色:0600}ＳＴＵＤＩＯ　ＭＡＵＳＵ　Ｉｎｃ．{颜色:0000}{换行}{换行}{颜色:0D00}Ｒｅｃｏｒｄｉｎｇ　Ｓｔａｆｆ{颜色:0000}{换行}入江　信子{换行}{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"eng":"{换行}{换行}{换行}{换行}{颜色:0D00}Background Design{颜色:0000}{换行}{颜色:0600}Bamboo Inc．{颜色:0000}{换行}Ryusei Nishino{换行}Yusuke Takeda{换行}{换行}{换行}{换行}{换行}{颜色:0D00}３D Model Designer{颜色:0000}{换行}{颜色:0600}QOURIER Inc．{颜色:0000}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Map Modeling{颜色:0000}{换行}{颜色:0600}QOURIER Inc．{颜色:0000}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Recording Director{颜色:0000}{换行}Midori Shimazawa{换行}{换行}{颜色:0D00}Recording Engineer{颜色:0000}{换行}Naoki Okabe{换行}{换行}{颜色:0D00}Assistant          {颜色:0000}{换行}{颜色:0D00} Recording Engineer{颜色:0000}{换行}Kaito Murayama{换行}Hiroyuki Kawawa{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Record Production{颜色:0000}{换行}{颜色:0600}STUDIO MAUSU Inc．{颜色:0000}{换行}{换行}{颜色:0D00}Recording Staff{颜色:0000}{换行}Nobuko Irie{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"e66",
+			"length":862,
+			"jpn":"{颜色:0900}ＣＡＳＴ{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｐｌａｙｅｒ　Ｃｈａｒａｃｔｅｒ{颜色:0000}{换行}蒼井　翔太　{换行}新井　里美　{换行}石田　彰　　{换行}大川　透　　{换行}大橋　彩香　{换行}川原　慶久　{换行}久野　美咲　{换行}斎賀　みつき{换行}佐藤　拓也　{换行}瀬戸　麻沙美{换行}田中　敦子　{换行}鳥海　浩輔　{换行}中田　譲二　{换行}名塚　佳織　{换行}花江　夏樹　{换行}早見　沙織　{换行}潘　めぐみ　{换行}日笠　陽子　{换行}日高　里菜　{换行}堀江　由衣　{换行}村瀬　歩　　{换行}代永　翼　　{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｎｏｎ　Ｐｌａｙｅｒ　Ｃｈａｒａｃｔｅｒ{颜色:0000}{换行}{换行}{颜色:0D00}Ｊｅｎｅｔｔａ{颜色:0000}{换行}中村　桜{换行}{换行}{颜色:0D00}Ｓｅｒｉｋｕ{颜色:0000}{换行}金田　アキ{换行}{换行}{颜色:0D00}Ｍｅｌｉｎａ{颜色:0000}{换行}岡村　明美{换行}{换行}{颜色:0D00}Ｅｄｇａｒ{颜色:0000}{换行}坪井　智浩{换行}{换行}{颜色:0D00}Ｒｅｍｕｓ{颜色:0000}{换行}小松　未可子{换行}{换行}{颜色:0D00}Ｓｏｌｏｒ{颜色:0000}{换行}雨宮　天{换行}{换行}{颜色:0D00}Ｌｉｌｉ{颜色:0000}{换行}加隈　亜衣{换行}{换行}{颜色:0D00}Ａｒｃｈｏｎ{颜色:0000}{换行}悠木　碧{换行}{换行}{颜色:0D00}Ｇｕａｒｄ{颜色:0000}{换行}川原　慶久{换行}{换行}{颜色:0D00}Ｔｏｗｎ　Ｃｒｉｅｒ{颜色:0000}{换行}川原　慶久{换行}{换行}{颜色:0D00}Ｄｒｙａｄ{颜色:0000}{换行}早見　沙織{换行}{换行}{颜色:0D00}Ｌａｍｉａ{颜色:0000}{换行}早見　沙織{换行}{END}",
+			"eng":"{颜色:0900}Localization{颜色:0000}{换行}{换行}{换行}{颜色:0D00}Atlus U．S．A．, Inc．{颜色:0000}{换行}{换行}{换行}{颜色:0D00}Executive Producer{颜色:0000}{换行}Naoto Hiraoka{换行}{换行}{颜色:0D00}General Manager{颜色:0000}{换行}Mitsuhiro Tanaka{换行}{换行}{颜色:0D00}VP of Production{颜色:0000}{换行}Bill Alexander{换行}{换行}{颜色:0D00}Project Lead{颜色:0000}{换行}Shigeto Sammy Matsushima{换行}{换行}{颜色:0D00}Project Coordinators{颜色:0000}{换行}Hiroyuki Tanaka{换行}Tadayoshi Ishihara{换行}{换行}{颜色:0D00}Translators{颜色:0000}{换行}Minoru Iwasaki{换行}Mai Namba{换行}{换行}{颜色:0D00}Editors{颜色:0000}{换行}Derk Bramer{换行}Allie Doyon{换行}Chris Holzworth{换行}John Moralis{换行}{换行}{颜色:0D00}QA Manager{颜色:0000}{换行}Carl Chen{换行}{换行}{颜色:0D00}QA Lead{颜色:0000}{换行}Jason Osborne {换行}{换行}{颜色:0D00}QA Testers{颜色:0000}{换行}Sean Cortes {换行}Raul Lozada{换行}Joshua Aviel Malone {换行}Peter Truong{换行}{换行}{颜色:0D00}QA Compliance Specialist{颜色:0000}{换行}Rob Stone{换行}{换行}{颜色:0D00}VP Sales & Marketing{颜色:0000}{换行}Tim Pivnicny{换行}{换行}{颜色:0D00}Director of Marketing{颜色:0000}{换行}Robyn Mukai Koshi{换行}{换行}{颜色:0D00}Product Marketing Specialist{颜色:0000}{换行}Sara Chan{换行}{换行}{颜色:0D00}Marketing Associate{颜色:0000}{换行}Lauren Woodward{换行}{换行}{颜色:0D00}Senior PR Manager{颜色:0000}{换行}Jacob Nahin{换行}{换行}{颜色:0D00}PR Associate{颜色:0000}{换行}William Chan{换行}{换行}{颜色:0D00}Marketing Communications Specialist{颜色:0000}{换行}Ann Namie{换行}{换行}{颜色:0D00}Manager of Creative Services{颜色:0000}{换行}Ayami Haruno{换行}{换行}{颜色:0D00}Graphic Designer{颜色:0000}{换行}Amy Shimoshige{换行}{换行}{颜色:0D00}Web Developer{颜色:0000}{换行}James Kaneshiro{换行}{换行}{颜色:0D00}Media Producer{颜色:0000}{换行}John Tubera{换行}{换行}{颜色:0D00}Media Associate{颜色:0000}{换行}Alex Limon{换行}{换行}{颜色:0D00}Community Associate{颜色:0000}{换行}Emmanuel ”EJ” Rivera{换行}{换行}{颜色:0D00}Events & Purchasing Manager{颜色:0000}{换行}Kathy D． Park{换行}{换行}{颜色:0D00}Sales Manager{颜色:0000}{换行}Danny Miscevich{换行}{换行}{颜色:0D00}Digital Promotions Manager{颜色:0000}{换行}Michael Manzanares{换行}{换行}{颜色:0D00}Sales Administration Manager{颜色:0000}{换行}Nathan Harris{换行}{换行}{颜色:0D00}Sales Administrator{颜色:0000}{换行}Connie Chinn{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"11c4",
+			"length":510,
+			"jpn":"{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0900}Ｑｕａｌｉｔｙ　Ａｓｓｕｒａｎｃｅ{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0600}ＡＴＬＵＳ　ＱＡ　Ｔｅａｍ{颜色:0000}{换行}{换行}{颜色:0D00}ＱＡ　Ｍａｎａｇｅｒ{颜色:0000}{换行}太田　恵一郎{换行}{换行}{颜色:0D00}ＱＡ　Ｃｈｉｅｆ{颜色:0000}{换行}市川　哲{换行}{换行}{颜色:0D00}ＱＡ　Ｓｔａｆｆ{颜色:0000}{换行}中川　望　{换行}渡邉　新　{换行}大城　和也{换行}安井　拓　{换行}村山　千尋{换行}嶺　瀬玲那{换行}山谷　寛　{换行}{换行}{换行}{换行}{换行}{颜色:0D00}ＱＡ　Ｃｏｏｐｅｒａｔｉｏｎ{颜色:0000}{换行}{颜色:0600}Ｐｏｌｅ　Ｔｏ　Ｗｉｎ　ＣＯ．，Ｌｔｄ．{颜色:0000}{换行}{换行}{颜色:0D00}Ｔｉｔｌｅ　Ｌｅａｄｅｒ{颜色:0000}{换行}阿野　貴寛{换行}{换行}{颜色:0D00}Ｃｈｉｅｆ　Ｄｅｂｕｇｇｅｒ{颜色:0000}{换行}松永　和憲{换行}{换行}{换行}{换行}{换行}{换行}{换行}{END}",
+			"eng":"{颜色:0900}English Voice Recording{颜色:0000}{换行}{换行}{换行}{颜色:0D00}Cup of Tea Productions, Inc．{颜色:0000}{换行}{换行}{换行}{颜色:0D00}Casting{颜色:0000}{换行}Cup of Tea Productions, Inc．{换行}{换行}{颜色:0D00}Recording Studio{颜色:0000}{换行}Cup of Tea Productions, Inc．{换行}{换行}{颜色:0D00}Project Management{颜色:0000}{换行}Lainie Bushey{换行}{换行}{颜色:0D00}Directing{颜色:0000}{换行}Kirk Thornton{换行}{换行}{颜色:0D00}Engineers{颜色:0000}{换行}Eddie Correa{换行}Danni Hunt{换行}{换行}{颜色:0D00}Editor{颜色:0000}{换行}Jean Luc Dub{换行}{换行}{换行}{颜色:0D00}Localization Development{颜色:0000}{换行}{换行}{颜色:0D00}Project Coordinators{颜色:0000}{换行} Minki Kim (MiraeSoft) {换行} Jae-Min Shin (ENSIDE){换行}{换行}{颜色:0D00}Project Leader &{换行}         Lead Programmer{颜色:0000}{换行} Se-Woong Kim (ENSIDE){换行}{换行}{颜色:0D00}Graphic Designers{颜色:0000}{换行} Jae-Min Shin (ENSIDE){换行} Dong-Hun Kim (ENSIDE){换行}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"13c2",
+			"length":764,
+			"jpn":"{颜色:0D00}Ｆｏｎｔ　Ｄｅｓｉｇｎ　　　　　　{颜色:0000}{换行}{颜色:0D00}　　　　　　Ｃｏｏｐｅｒａｔｉｏｎ{颜色:0000}{换行}{颜色:0600}Ｆｏｎｔｗｏｒｋｓ　Ｉｎｃ．{颜色:0000}{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｐａｃｋａｇｅ　Ａｒｔｗｏｒｋ{颜色:0000}{换行}{颜色:0600}ＦＩＸ　Ｉｎｃ．{颜色:0000}{换行}永島　政男{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0900}Ｍａｒｋｅｔｉｎｇ　Ｄｅｐａｒｔｍｅｎｔ{颜色:0000}{换行}{换行}{颜色:0D00}Ｍａｎａｇｅｒ{颜色:0000}{换行}田中　良和{换行}{换行}{颜色:0D00}Ｓａｌｅｓ{颜色:0000}{换行}三崎　康世{换行}岡田　陽平{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｌｉｃｅｎｓｅ{颜色:0000}{换行}　森　純一　{换行}村本　秀美　{换行}江藤　隆仁　{换行}竹野　紗弥香{换行}新井　弘人　{换行}高見　正輝　{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｐｒｏｄｕｃｔ　Ｒｅｌａｔｉｏｎ{颜色:0000}{换行}進藤　裕仁{换行}八木　篤　{换行}篠田　研治{换行}{换行}{换行}{换行}{换行}{颜色:0900}Ｏｖｅｒｓｅａｓ　Ｂｕｓｉｎｅｓｓ　{颜色:0000}{换行}{颜色:0900}　　　　Ｐｒｏｍｏｔｉｏｎ　Ｔｅａｍ{颜色:0000}{换行}{换行}{颜色:0D00}Ｍａｎａｇｅｒ{颜色:0000}{换行}田中　裕之{换行}{换行}　森　純一{换行}石原　公祥{换行}Ｊａｓｍｉｎｅ　Ｗｅｂｂ{换行}{换行}{换行}{换行}{换行}{END}",
+			"eng":"{颜色:0D00}Package Artwork{颜色:0000}{换行}{颜色:0600}FIX Inc．{颜色:0000}{换行}Masao Nagashima{换行}{换行}{换行}{换行}{换行}{颜色:0900}Marketing Department{颜色:0000}{换行}{换行}{颜色:0D00}Manager{颜色:0000}{换行}Yoshikazu Tanaka{换行}{换行}{颜色:0D00}Sales{颜色:0000}{换行}Yasuyo Misaki{换行}Yohei Okada{换行}{换行}{换行}{换行}{换行}{颜色:0D00}License{颜色:0000}{换行}Junichi Mori{换行}Hidemi Muramoto{换行}Takahito Eto{换行}Sayaka Takeno{换行}Hiroto Arai{换行}Masaki Takami{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Product Relation{颜色:0000}{换行}Hirohito Shindo{换行}Atsushi Yagi{换行}Kenji Shinoda{换行}{换行}{换行}{换行}{换行}{颜色:0900}Overseas Business {颜色:0000}{换行}{颜色:0900}    Promotion Team{颜色:0000}{换行}{换行}{颜色:0D00}Manager{颜色:0000}{换行}Hiroyuki Tanaka{换行}{换行}Junichi Mori{换行}Tadayoshi Ishihara{换行}Jasmine Webb{换行}{换行}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"16be",
+			"length":532,
+			"jpn":"{颜色:0900}Ｐｒｏｍｏｔｉｏｎ　Ｔｅａｍ{颜色:0000}{换行}{换行}{颜色:0D00}Ｍａｎａｇｅｒ{颜色:0000}{换行}高島　寿洋{换行}{换行}{颜色:0D00}Ｐｒｏｍｏｔｉｏｎ{颜色:0000}{换行}宇田　洋輔{换行}前原　由依{换行}中村　信彦{换行}伊藤　千恵{换行}大畑　美帆{换行}宮田　健伍{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ａｄｍｉｎｉｓｔｒａｔｉｏｎ　　{颜色:0000}{换行}{颜色:0D00}　　　　　　Ｄｅｐａｒｔｍｅｎｔ{颜色:0000}{换行}進藤　優木{换行}黒川　真紀{换行}太田　美子{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｐｒｏｊｅｃｔ　Ｍａｎａｇｅｒ{颜色:0000}{换行}中村　陽子{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｃｈｉｅｆ　　　　　　　　　　　　{颜色:0000}　{换行}{颜色:0D00}　　Ｐｒｏｊｅｃｔ　Ｍａｎａｇｅｒ{颜色:0000}{换行}定形　倫{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｓｕｐｅｒｖｉｓｏｒ{颜色:0000}{换行}高田　慎二郎{换行}{END}",
+			"eng":"{颜色:0900}Promotion Team{颜色:0000}{换行}{换行}{颜色:0D00}Manager{颜色:0000}{换行}Toshihiro Takashima{换行}{换行}{颜色:0D00}Promotion{颜色:0000}{换行}Yosuke Uda{换行}Yui Maehara{换行}Nobuhiko Nakamura{换行}Chie Ito{换行}Miho Ohata{换行}Kengo Miyata{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Administration  {颜色:0000}{换行}{颜色:0D00}      Department{颜色:0000}{换行}Yuki Shindo{换行}Maki Kurokawa{换行}Miko Ohta{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Project Manager{颜色:0000}{换行}Yoko Nakamura{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Chief            {颜色:0000} {换行}{颜色:0D00}  Project Manager{颜色:0000}{换行}Hitoshi Sadakata{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Supervisor{颜色:0000}{换行}Shinjiro Takata{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"18d2",
+			"length":316,
+			"jpn":"{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0900}Ｃｏｎｓｕｍｅｒ　　　　　　　　　　{颜色:0000}{换行}{颜色:0900}　Ｓｏｆｔｗａｒｅ　Ｄｉｖｉｓｉｏｎ{颜色:0000}{换行}{换行}{颜色:0D00}Ｇｅｎｅｒａｌ　Ｍａｎａｇｅｒ{颜色:0000}{换行}平岡　直人{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｅｘｅｃｕｔｉｖｅ　Ｐｒｏｄｕｃｅｒ{颜色:0000}{换行}平岡　直人{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Ｄｅｖｅｌｏｐｍｅｎｔ{颜色:0000}{换行}{颜色:0600}Ａｔｌｕｓ　ＣＯ．，ＬＴＤ．{颜色:0000}{换行}{换行}{换行}{END}",
+			"eng":"{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0900}Consumer          {颜色:0000}{换行}{颜色:0900} Software Division{颜色:0000}{换行}{换行}{颜色:0D00}General Manager{颜色:0000}{换行}Naoto Hiraoka{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Executive Producer{颜色:0000}{换行}Naoto Hiraoka{换行}{换行}{换行}{换行}{换行}{换行}{换行}{颜色:0D00}Development{颜色:0000}{换行}{颜色:0600}Atlus CO．,LTD．{颜色:0000}{换行}{换行}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"1a0e",
+			"length":38,
+			"jpn":"この星に生まれ、育った者の末裔よ。{换行}{END}",
+			"eng":"Brave heroes, champions of this world：{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"1a34",
+			"length":28,
+			"jpn":"　　　　　見事であった。{换行}{END}",
+			"eng":"You have done magnificently．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"1a50",
+			"length":70,
+			"jpn":"　　　　前にも告げた通り　　{换行}かつて、この星は闇に支配されていた。{换行}{END}",
+			"eng":"Now you know the truth behind the tales．{换行}This planet was once ruled by darkness．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"1a96",
+			"length":72,
+			"jpn":"　　　　命の生まれぬ大地に　　{换行}命を育む世界樹を植えた者たちがいた。{换行}{END}",
+			"eng":"Visitors came and planted Yggdrasil,{换行}a tree from whence grew light and life．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"1ade",
+			"length":36,
+			"jpn":"それが“アルコン”、私の一族だ。{换行}{END}",
+			"eng":"They were my species, called the Arken．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"1b02",
+			"length":80,
+			"jpn":"私たちは長い年月をかけてこの星を見守り　{换行}　生命に溢れる大地へと変えたのだ。{换行}{END}",
+			"eng":"For eons we watched over this world,{换行}guiding the land and all of its people．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"1b52",
+			"length":12,
+			"jpn":"………。{换行}{END}",
+			"eng":"．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"1b5e",
+			"length":74,
+			"jpn":"これまで、私たちは様々な危機のたび　{换行}　世界樹の力で人々を救ってきた。{换行}{END}",
+			"eng":"Up till now, we have saved its people{换行}from peril with the powers of Yggdrasil．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"1ba8",
+			"length":84,
+			"jpn":"しかし、それはいつの日か人がその手で　{换行}原始の闇を乗り越えると信じていたからだ。{换行}{END}",
+			"eng":"We believed that one day, mankind will{换行}overcome the darkness with their own hands．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"1bfc",
+			"length":52,
+			"jpn":"　　　　時は流れ　　{换行}そして今、君たちが現れた。{换行}{END}",
+			"eng":"And here you are, beyond the stars．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"1c30",
+			"length":106,
+			"jpn":"原始の闇を乗り越えた君たち人類は　{换行}アルコンの頸木から脱し、己が手で　{换行}　　世界を歩く資格を得たのだ。{换行}{END}",
+			"eng":"Your light has chased away the darkness．{换行}Mankind has earned the right to guide the{换行}world to a future of its own design．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"1c9a",
+			"length":30,
+			"jpn":"これで、私の役割は終わる。{换行}{END}",
+			"eng":"Our work is finally done．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"1cb8",
+			"length":78,
+			"jpn":"同様に君たちの冒険も終わりを告げる。　{换行}世界樹を巡る旅は最後となるだろう。{换行}{END}",
+			"eng":"This marks your journey’s end, as well．{换行}Your adventure through Yggdrasil is complete．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"1d06",
+			"length":108,
+			"jpn":"しかし君たちは私が去った後の世界を見守り{换行}　　　苦難を越えていくという{换行}　　　重く大変な役目があるのだ。{换行}{END}",
+			"eng":"When the last Arken is gone, however,{换行}you must guide this planet in our stead．{换行}The weight of a world is yours to bear．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"1d72",
+			"length":72,
+			"jpn":"だがきっと、この迷宮を踏破した　{换行}君たちなら成し遂げると信じている。{换行}{END}",
+			"eng":"But you have conquered this labyrinth．{换行}You can do this, too． I know you can．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"1dba",
+			"length":72,
+			"jpn":"みなで協力する事の大切さを誰よりも{换行}　　知っているだろうから………。{换行}{END}",
+			"eng":"For you understand, better than anyone,{换行}the importance of working together．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

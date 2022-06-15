@@ -1,0 +1,117 @@
+{
+	"fileName":"QUE_012.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"100",
+			"length":90,
+			"jpn":"{NPC:0300}その依頼は旅商人の{颜色:0500}セリク{颜色:0000}からよ。{换行}以前彼から受けた依頼を覚えてるかしら？{换行}{换页}{END}",
+			"eng":"{NPC:0300}That’s a request from {颜色:0500}Syrik{颜色:0000} the merchant．{换行}Remember the last one you took for him？{换行}{换页}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"15a",
+			"length":46,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}覚えてる{换行}忘れた{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Say you remember{换行}Tell her you forgot{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"188",
+			"length":202,
+			"jpn":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000あら、えらいわね。{换行}依頼の内容は前回と同じで、樹海で採れる{换行}武具の素材を集めてきてほしいみたい。{换行}{换页}依頼の詳細については{换行}あの子の店へ行って聞いてもらえるかしら。{换行}{END}",
+			"eng":"{NPC:0300}{0xF81B}VCA_0/VN/EEA/0\u0000Good． It’s the same deal as last time．{换行}He wants you to go into the labyrinth{换行}and gather up some materials for him．{换行}{换页}Talk to him at his shop to learn which ones．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"252",
+			"length":608,
+			"jpn":"{NPC:0300}{0xF81B}VCA_0/ATEBT01\u0000あらあら、困った子たちね。{换行}{换页}…前回あの子から受けた依頼は、{换行}装備を作るための素材を集めてきて{换行}ほしいという内容だったのよ。{换行}{换页}その様子じゃ彼から依頼を受けた場合の{换行}進め方も忘れちゃってるわよね？{换行}仕方ないわね。それじゃよく聞いてね。{换行}{换页}商店から受けた依頼の進め方はね、{换行}まずあなたたちが樹海で素材を集めてくる。{换行}その後、集めた素材を直接店に売るの。{换行}{换页}必要な素材を売却し終わると、売った素材を{换行}使って作られた物が商店の店頭へと並ぶの。{换行}ここまですれば依頼は完了よ。{换行}{换页}今回の依頼も流れは同じよ。{换行}それじゃ、まずは彼の店へと行って、{换行}必要な素材を直接聞いてみてほしいの。{换行}{END}",
+			"eng":"{NPC:0300}{0xF81B}VCA_0/ATEBT01\u0000Not the sharpest teeth on the hare, huh？{换行}{换页}．．．His last request was to gather materials．{换行}{换页}I guess if you’ve forgotten that much,{换行}you’ll need a reminder on how to get{换行}this request going． Oh well, listen up．{换行}{换页}Go talk to Syrik, gather what he wants{换行}from the labyrinth, then sell it to him．{换行}{换页}Once you give him the requested materials,{换行}he’ll put the equipment he crafts on display．{换行}At that point, come back here for your pay．{换行}{换页}This one’s the same as last time．{换行}Go on, head to Syrik’s shop and{换行}ask him what materials he needs．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"4b2",
+			"length":344,
+			"jpn":"{NPC:0300}セリクから聞いてるわよ。{换行}彼に頼まれた仕事が終わったそうね。{换行}みんなおつかれさま。{换行}{换页}それにしても、彼の作る装備品は{换行}質が高くて長持ちするってうちの店でも{换行}評判がいいの。{换行}{换页}ブラニー族の多くは手先が器用だけど、{换行}彼ほど品質の高い物が作れる者は稀よ。{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000しかもあの若さでしょう？{换行}彼、一体何者なのかしら…。{换行}{END}",
+			"eng":"{NPC:0300}Syrik says you finished the job． Good work．{换行}{换页}Just so you know, the regulars here sing{换行}Syrik’s praises to the treetop． He makes{换行}the finest equipment that Ental can buy．{换行}{换页}Lots of Brouni are skilled with their hands,{换行}but Syrik takes his craft to a new stratum．{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000It’s even more impressive when you consider{换行}how young he is． What’s his story, anyway．．．？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"60a",
+			"length":406,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000あ、酒場に依頼した件で来てくれたんだね！{换行}助かるよ～。今回も装備の素材を{换行}集めてきてもらいたいんだ。{换行}{换页}今回集めてきてもらいたいのは、{换行}{颜色:0500}{数字:0000}{颜色:0000}の{换行}作成に必要な素材なんだ。{换行}{换页}{颜色:0500}{数字:0000}{颜色:0000}の作成には{换行}{颜色:0500}{数字:0100}が３個{颜色:0000}必要なんだ。{换行}{换页}前にも一度お願いしてるから{换行}わかってると思うけど、素材が集まったら{换行}おいらに直接売っておくれよ！{换行}{换页}それじゃ、よろしく頼んだよ！{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Oh boy！ You’re here for my request, right？{换行}Thank goodness, I was hoping it’d be you．{换行}{换页}I wanna craft a new {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}And to make this {颜色:0500}{数字:0000}{颜色:0000},{换行}I’ll need {颜色:0500}three {数字:0100}s{颜色:0000}．{换行}{换页}Remember to sell those materials{换行}directly to me once you find ’em！{换行}{换页}Welp, I’m counting on you！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"7a0",
+			"length":328,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000どうだい、見ておくれよ。{换行}こいつが君たちに集めてきてもらった素材で{换行}作った{颜色:0500}{数字:0000}{颜色:0000}さ！{换行}{换页}よくできてるだろ？{换行}早速店に並べてみたから、{换行}興味があったら見てみておくれ！{换行}{换页}あ、報酬は前と同じく{换行}酒場のルナリアの姉ちゃんから{换行}受け取ってもらえるかな？{换行}{换页}それじゃ、また何かあったら頼むね！{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Okay, feast your eyes on this baby．{换行}It’s the {颜色:0500}{数字:0000}{颜色:0000} I made！{换行}{换页}Looks fantabulous, doesn’t it？{换行}I’ve already put it on display,{换行}so check it out if you wanna！{换行}{换页}Oh, and you can go get the reward{换行}for this request from the Celestrian{换行}lady like last time．{换行}{换页}Welp, I’ll make sure to ask for you{换行}if I have another job for explorers！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"8e8",
+			"length":510,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000いらっしゃい。今日はどうしたんだい？{换行}ん？　{颜色:0500}{数字:0000}{颜色:0000}の素材を{换行}持ってきたって？{换行}{换页}ありゃ、ルナリアの姉ちゃんから{换行}聞いてないの？{换行}{换页}こないだ君たちから売ってもらった分で{换行}{颜色:0500}{数字:0000}{颜色:0000}の素材が{换行}揃っちゃったんだよ。{换行}{换页}だから頼んでた仕事が終わったよーって{换行}ルナリアの姉ちゃんに伝えたんだけど、{换行}行き違いになっちゃったのかな。{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000ま、いいさ！　なんにせよ依頼は完了！{换行}報酬はルナリアの姉ちゃんに渡してあるから{换行}酒場で受け取ってくれるかい？{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Welcome！ What brings you here today？{换行}Oh, you got the {颜色:0500}{数字:0000}{颜色:0000} stuff？{换行}{换页}Err, this is awkward． You didn’t get my memo？{换行}{换页}The other day, you ALREADY sold me{换行}what I needed for the {颜色:0500}{数字:0000}{颜色:0000}．{换行}{换页}I tried sending word to the Celestrian lady to{换行}cancel the job, but you beat me to the punch．{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000Welp, that’s okay！ A deal’s a deal, right？{换行}Go get your reward at the tavern, guys．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"ae6",
+			"length":274,
+			"jpn":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000ん？　必要な素材の確認をしたいのかい？{换行}ちょっと待っておくれよ。{换行}{换页}えーっとね、必要な素材は{换行}{颜色:0500}{数字:0100}が３個{颜色:0000}だよ。{换行}{换页}素材が揃ったらおいらに直接売っておくれ。{换行}もちろん、素材を買い取った代金とは別に{换行}依頼達成の報酬は支払うからね。{换行}{END}",
+			"eng":"{NPC:0200}{0xF81B}VCA_0/VN/EEA/0\u0000Hm？ You wanna hear what I need？{换行}Gimme one sec, I’ll check my list．．．{换行}{换页}Let’s see．．． Oh, that’s right．{换行}I need {颜色:0500}three {数字:0100}s{颜色:0000}．{换行}{换页}Once you get all that, just sell ’em to me．{换行}Don’t worry, you’ll get your regular pay on{换行}top of your reward at the Twilight Tavern！{换行}{END}",
+			"zh":""
+		}
+	]
+}

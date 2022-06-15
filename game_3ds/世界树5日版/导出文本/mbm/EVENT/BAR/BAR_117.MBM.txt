@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_117.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":432,
+			"jpn":"{F812}酒浸りの男\u0000俺…、俺達は調子に乗ってたんだ…。{换行}気がつけば、俺はグズグズになったものに{换行}う、埋もれてて、仲間は全員いなくて…。{换行}{换页}アイツは、あの巨象は格が違いすぎる…。{换行}この国中の人間が束になっても絶対に{换行}あいつを倒せない…。{换行}{换页}剣を握るとあの光景が蘇って…。{换行}酒で忘れようとしても忘れられなくて、{换行}でも、飲んでいないと鮮明になって…。{换行}{换页}俺…俺は、もう冒険者に戻れない…。{换行}ごめん…ごめん、みんな…。{换行}弱い俺を許してくれ…。{换行}{END}",
+			"eng":"{F812}Heavy Drinker\u0000We．．． We got cocky． When I came to, {换行}my friends were gone, and I was buried {换行}under their mangled remains．．．{换行}{换页}That elephant beast．．． It’s on a whole ’nother {换行}level．．． Every last adventurer in Iorys working{换行}together couldn’t defeat it．．．{换行}{换页}Now, every time I touch my sword{换行}that monster flashes before my eyes． {换行}{换页}My days of being an adventurer are over．．．{换行}I’m so sorry, everyone． Please．．． forgive me．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

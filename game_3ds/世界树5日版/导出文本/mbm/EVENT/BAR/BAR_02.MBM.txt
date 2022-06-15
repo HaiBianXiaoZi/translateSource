@@ -1,0 +1,213 @@
+{
+	"fileName":"BAR_02.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"1c0",
+			"length":760,
+			"jpn":"{F812}大きな本を持った女の子\u0000んーと、こっちの石は第一階層ので{换行}採れる階は…。{换行}{换页}あ！　こんにちは！{换行}ごめんなさい、今ちょっと色々メモを{换行}書くので、いそがしくって。{换行}{换页}もしかして冒険者さん！？{换行}あたしの依頼を受けてきてくれたの！？{换行}やったー！　ありがとう！{换行}{换页}冒険者さんたち、{颜色:0500}三階層で{换行}採掘できる鉱石{颜色:0000}って持ってる？{换行}{换页}あたし、その鉱石を見せてほしいの。{换行}全部だったらうれしいけど、{换行}別に１個でも全然構わないから！{换行}{换页}その鉱石を触って、あとはスケッチして、{换行}この本に残しておきたいの。{换行}{换页}そしていつか自分でその鉱石を探しに{换行}樹海に行きたいと思ってるの。{换行}{换页}今はまだ子供だから無理だけど{换行}大きくなったらきっと行くんだ！{换行}{换页}あ、ごめんね。{换行}依頼の話じゃなくなっちゃった。{换行}{换页}あたし、ここで待ってるから、{换行}{颜色:0500}三階層の鉱石{颜色:0000}が集まったら、{换行}またお声かけてね。{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Let’s see, this stone’s on the １st Stratum,{换行}and the floor it can be mined from is．．．{换行}{换页}Oh, hello！ Sorry, I’m kinda busy taking notes．{换行}I’ve got a lot of studying to do！{换行}{换页}Wait, are you an adventurer？ And you{换行}accepted my request！？ Yay, thank you！{换行}{换页}Do you have any {颜色:0500}ores from the ３rd Stratum{颜色:0000}？{换行}{换页}I wanna see some of them． It’d make me really{换行}happy if you showed me all the different kinds,{换行}but even just one would be neat！{换行}{换页}I gotta see the ores up close so I can sketch{换行}them down in my book here．{换行}{换页}And someday I’ll travel up to the graveyard{换行}myself and dig up all of it．{换行}{换页}I’m not allowed to go because I’m just a kid．{换行}But I’ll go when I’m grown up！{换行}{换页}Oh, sorry． Got off topic．{换行}{换页}Anyway, I’ll be right here． Please lemme know{换行}when you get some {颜色:0500}ore from the ３rd Stratum{颜色:0000}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"4b8",
+			"length":86,
+			"jpn":"{F812}大きな本を持った女の子\u0000あ！　冒険者さん！{换行}どうかな？　三階層の鉱石、集まった？{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Hey, you’re the explorers who’re helping me！{换行}Did you mine any ore from the ３rd Stratum？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"50e",
+			"length":56,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}集まった{换行}まだ集まってない{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}Tell her you’ve gathered them{换行}Tell her you haven’t had time{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"546",
+			"length":58,
+			"jpn":"{F812}大きな本を持った女の子\u0000ほんとに！？{换行}見せて見せて！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Ooh, really？ Show me, show me！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"580",
+			"length":50,
+			"jpn":"{颜色:0500}{数字:0000}{换行}{颜色:0500}{数字:0100}{换行}{颜色:0500}{数字:0200}{颜色:0300}を見せた。{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0300}You show her {颜色:0500}{数字:0000},{换行}{颜色:0500}{数字:0100}, and {颜色:0500}{数字:0200}{颜色:0300}．{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"5b2",
+			"length":40,
+			"jpn":"{颜色:0500}{数字:0000}{换行}{颜色:0500}{数字:0100}{颜色:0300}を見せた。{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0300}You show her {颜色:0500}{数字:0000}{换行}and {颜色:0500}{数字:0100}{颜色:0300}．{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"5da",
+			"length":30,
+			"jpn":"{颜色:0500}{数字:0000}{颜色:0300}を見せた。{颜色:0000}{换行}{END}",
+			"eng":"{颜色:0300}You show her {颜色:0500}{数字:0000}．{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"5f8",
+			"length":186,
+			"jpn":"{F812}大きな本を持った女の子\u0000わー！　ほんとに持って帰ってくるなんて{换行}やっぱり冒険者さんってすごいね！{换行}{换页}ちょっとだけ触らせて！{换行}あ、あとスケッチもさせてください！{换行}すぐ終わらせるから！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Wooow！ I can’t believe you pulled it off！{换行}You adventurers really are amazing, huh？{换行}{换页}Lemme feel ’em a bit！ Ooh, and I gotta sketch{换行}what they look like, too！ Just a minute, okay．．．？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"6b2",
+			"length":422,
+			"jpn":"{F812}大きな本を持った女の子\u0000うん、観察完了、スケッチもオッケー！{换行}借りてた鉱石３つ、お返しするね！{换行}{换页}まさか鉱石３つとも見せてもらえるなんて{换行}夢にも思ってなかったよ。{换行}{换页}もしかしてわざわざ探してくれたの？{换行}だとしたら、あたしとってもうれしい！{换行}ほんとにありがとう！{换行}{换页}あたし、きっと冒険者にいつかなるから！{换行}その時はよろしくね！　えへへ！{换行}{换页}依頼のほーしゅーはお姉さんに預けてるから{换行}受け取ってください！{换行}それじゃあね！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000All done！ Here, you can have all three back！{换行}{换页}I never even dreamed I’d get to see three new{换行}minerals in one day． This is the best day ever！{换行}{换页}Did you look extra hard to find them for me？{换行}That’s super duper nice！ Thank you so much！{换行}{换页}When I grow up, I wanna be an adventurer just{换行}like you！ And when I do, we’ll be friends, okay？{换行}{换页}I’ve left your reward with that nice tavern lady,{换行}so please get it from her！ Okay then, bye bye！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"858",
+			"length":284,
+			"jpn":"{F812}大きな本を持った女の子\u0000うん、観察完了、スケッチもオッケー！{换行}借りてた鉱石両方とも、お返しするね！{换行}{换页}新しい物を一度に２つも見られるなんて、{换行}今日はとっても幸せな日だよ！{换行}ありがとね、冒険者さん！{换行}{换页}依頼のほーしゅーはお姉さんに預けてるから{换行}受け取ってください！{换行}それじゃあね！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000All done！ Here, you can have them both back！{换行}{换页}I can’t believe I got to see two new things in{换行}one day． Thanks, you’re great adventurers！{换行}{换页}I’ve left your reward with that nice tavern lady,{换行}so please get it from her！ Okay then, bye bye！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"974",
+			"length":266,
+			"jpn":"{F812}大きな本を持った女の子\u0000うん、観察完了、スケッチもオッケー！{换行}借りてた{数字:0000}、お返しするね！{换行}{换页}１個だけだったけど、新しい物が{换行}直接見れて、うれしかった！{换行}ありがとね、冒険者さん！{换行}{换页}依頼のほーしゅーはお姉さんに預けてるから{换行}受け取ってください！{换行}それじゃあね！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000All done！ Here, you can keep the {数字:0000}！{换行}{换页}It was just one ore, but I’m happy I got to see{换行}it in person！ Thanks, you’re good adventurers！{换行}{换页}I’ve left your reward with the nice tavern lady,{换行}so please get it from her！ Okay then, bye bye！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"a7e",
+			"length":292,
+			"jpn":"{F812}大きな本を持った女の子\u0000あれ？　でも冒険者さん。{换行}冒険者さん、三階層の鉱石、{换行}持ってないよ？{换行}{换页}もしかしてどこかに落っことしたとか？{换行}{换页}あ、持ってなかっただけ？{换行}よかったぁ、せっかくの鉱石をなくしたら{换行}もったいないもんね！{换行}{换页}あたし、まだここで待ってるから、{换行}がんばってね、冒険者さん！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Huh？ But you don’t have any with you．{换行}{换页}Did you drop them somewhere？{换行}{换页}Oh, you just forgot to get them？ Whew, it’d be{换行}really sad if you found the ores and lost them！{换行}{换页}I’ll still be waiting here, so good luck to you！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"ba2",
+			"length":108,
+			"jpn":"{F812}大きな本を持った女の子\u0000そうなんだ。{换行}じゃあ、あたしまだここで待ってるね。{换行}がんばってね、冒険者さん！{换行}{END}",
+			"eng":"{F812}Girl with a Big Book\u0000Oh, okay．．． Then I’ll keep waiting right here．{换行}Good luck！{换行}{END}",
+			"zh":""
+		}
+	]
+}

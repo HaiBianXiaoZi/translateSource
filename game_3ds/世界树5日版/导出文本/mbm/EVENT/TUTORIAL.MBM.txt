@@ -1,0 +1,77 @@
+{
+	"fileName":"TUTORIAL.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"b0",
+			"length":234,
+			"jpn":"{颜色:0300}ここからは下画面をタッチすることで{换行}キャラクターの見た目とボイスの設定を{换行}行うことができます。{换行}{颜色:0000}{换页}{颜色:0300}下画面の左側にある{颜色:0500}ＨＡＩＲ、ＥＹＥＳ、{换行}ＳＫＩＮ、ＶＯＩＣＥ{颜色:0300}にタッチすると{换行}それぞれの設定が可能になります。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}From here, touch the bottom screen{换行}to customize portraits and voices．{换行}{颜色:0000}{换页}{颜色:0300}Select {颜色:0500}HAIR, EYES, SKIN, or VOICE{颜色:0300}{换行}from the left of the lower screen{换行}to set details for each of them．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"19a",
+			"length":116,
+			"jpn":"{颜色:0300}ＨＡＩＲ、ＥＹＥＳ、ＳＫＩＮは{换行}初期状態だと下画面右上の{颜色:0500}ＤＥＦＡＵＬＴ{颜色:0300}に{换行}設定されていますが…。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}HAIR, EYES, and SKIN are initially{换行}set to {颜色:0500}DEFAULT{颜色:0300} in the upper right{换行}corner of the bottom screen．．．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"20e",
+			"length":100,
+			"jpn":"{颜色:0300}それ以外に存在する１２色のパレットに{换行}タッチすることで別の色に{换行}変更することが可能です。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}But touching any of the １２ colors{换行}on the palette will change them．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"272",
+			"length":74,
+			"jpn":"{颜色:0300}またＨＡＩＲ、ＥＹＥＳはより詳細な{换行}設定をすることが可能です。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}Both HAIR and EYES allow for{换行}more detailed customization．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"2bc",
+			"length":262,
+			"jpn":"{颜色:0300}下画面の右上の{颜色:0500}ＬＩＮＫ{颜色:0300}をタッチして{换行}リンクを切ることで{颜色:0500}明るい部分と影の部分の{换行}片方ずつに対して色変更{颜色:0300}が行えます。{换行}{颜色:0000}{换页}{颜色:0300}もう一度明るい部分と影の部分を同時に{换行}変更したくなったら、ＬＩＮＫをタッチして{换行}リンクするようにしてください。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}Touching LINK at the upper right corner{换行}of the bottom screen unlocks the colors,{换行}letting you change the areas separately．{换行}{颜色:0000}{换页}{颜色:0300}To return to changing the lighter{换行}and shaded areas together again,{换行}touch LINK to re-link the colors．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"3c2",
+			"length":220,
+			"jpn":"{颜色:0300}そして{颜色:0500}ＲＧＢバーをタッチしてスライドする{颜色:0300}{换行}ことで、より細かい色の調整も行えます。{换行}{颜色:0000}{换页}{颜色:0300}ですが明るい部分と影の部分をリンクさせた{换行}状態でＲＧＢバーを動かしても選択している{换行}側の色しか変更はされません。{换行}{END}",
+			"eng":"{颜色:0300}By {颜色:0500}moving the sliders{颜色:0300} along{换行}the RGB bar, you can choose{换行}colors even more precisely．{换行}{颜色:0000}{换页}{颜色:0300}But if you slide the RGB bar while the{换行}light and shaded areas are linked, only{换行}the selected side’s color will change．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"49e",
+			"length":228,
+			"jpn":"{颜色:0300}またＥＹＥＳには{颜色:0500}ＬＲ　ＬＩＮＫ{颜色:0300}という{换行}項目があり、これにタッチして{颜色:0500}チェックを{换行}外す{颜色:0300}と…。{换行}{换页}{颜色:0500}目の色を片方ずつ変更することが可能になり{颜色:0300}{换行}オッドアイのキャラを作ることも{换行}できるようになっています。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}There is also an option for the{换行}EYES called {颜色:0500}LR LINK{颜色:0300}． By touching{换行}it and {颜色:0500}removing the checkmark{颜色:0300}．．．{换行}{换页}{颜色:0500}．．．you can change the coloring of one{换行}eye at a time, allowing you to create{换行}characters with heterochromatic eyes．{换行}{颜色:0000}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"582",
+			"length":236,
+			"jpn":"{颜色:0300}最後にＶＯＩＣＥをタッチすると{换行}４０種類のボイスの中から１つを選んで{换行}設定することができます。{换行}{颜色:0000}{换页}{颜色:0500}同じ番号を連続でタッチ{颜色:0300}すれば、いくつかの{换行}台詞が聞けますので、実際に聞いてみて{换行}お好みのものを選んでみてください。{换行}{颜色:0000}{END}",
+			"eng":"{颜色:0300}Lastly, touch VOICE to select{换行}from ４０ different voice types{换行}to apply to your characters．{换行}{颜色:0000}{换页}{颜色:0500}Press the same number multiple times{换行}to listen to different lines． Choose{换行}the voice that fits your character！{换行}{颜色:0000}{END}",
+			"zh":""
+		}
+	]
+}

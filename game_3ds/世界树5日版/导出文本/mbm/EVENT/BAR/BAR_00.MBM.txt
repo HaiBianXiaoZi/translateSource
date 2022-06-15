@@ -1,0 +1,29 @@
+{
+	"fileName":"BAR_00.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"50",
+			"length":390,
+			"jpn":"おっ、見ない顔じゃん。{换行}駆け出し冒険者…ってトコか？{换行}{换页}へへ、実はオレ達もそうなんだよ。{换行}やっぱ、冒険者として一度はこの迷宮に{换行}挑戦しときたいよな！{换行}{换页}この街は冒険者が山ほど来るからか、{换行}便利な施設もいっぱいあるんだ。{换行}{换页}お前らも、街を見回って来た方がいいぜ。{换行}特に、{颜色:0500}シリカ商店{颜色:0000}への顔出しは必須かな。{换行}{换页}冒険者にとって、武器や防具は生命線だぜ。{换行}買ったら装備すんのも忘れんなよ！{换行}{END}",
+			"eng":"Ooh, here’s a new face．．． You a new{换行}adventurer？{换行}{换页}Heheh, to tell you the truth, so am I．{换行}If you call yourself an adventurer, then{换行}you just gotta come to this place, huh？{换行}{换页}There are always people coming here{换行}seeking fame and fortune, so there are{换行}plenty of useful facilities for us．{换行}{换页}You guys should take a gander around{换行}town, too． I suggest you at least pay{换行}a visit to {颜色:0500}Shilleka’s Goods{颜色:0000}．{换行}{换页}Weapons and armor are the very{换行}lifeblood of us adventurers． Don’t{换行}forget to equip anything you buy！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1d6",
+			"length":218,
+			"jpn":"へへっ、聞いてくれよ。{换行}オレたちようやく執政院の認可を得たんだ！{换行}{换页}地図書くのがニガテでさ、てこずったけど{换行}苦労した甲斐もあったっていうか…。{换行}{换页}あんたらも認可されたのかい？{换行}じゃあ、これからは俺たちライバルだな！{换行}{END}",
+			"eng":"Hey, you gotta hear this！ We finally{换行}got approval from the Radha, heheh！{换行}{换页}I’m absolutely horrible at drawing{换行}maps, so it took me a while．．． but all{换行}that hard work paid off．{换行}{换页}Huh？ You guys got approved, too？{换行}That makes us rivals from now on！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"2b0",
+			"length":386,
+			"jpn":"はあ…。{换行}前の探索じゃ、ヒドい目に遭ったぜ。{换行}{换页}最近、魔物との戦いにも慣れてきたし{换行}素材を集めまくろうと思って、荷物を絞って{换行}迷宮に挑戦してたのさ。{换行}{换页}…そう、忘れちまってたよ。{换行}アリアドネの糸を。{换行}{换页}気づいたのが、ＴＰも無くなった奥の方。{换行}泣いたね、みんなで。{换行}{换页}力を合わせてなんとか１階まで戻ったけど{换行}あれ以来、迷宮に行く前は仲間全員で荷物を{换行}指さし確認するようになっちまった。{换行}{END}",
+			"eng":"Ugh．．． We had one complete screwup{换行}of an adventure not too long ago．{换行}{换页}We’d gotten used to dealing with the{换行}monsters, so we lightened our load so{换行}we could gather more materials．{换行}{换页}Annnnnnnnd．．． you guessed it．{换行}We forgot to bring an Ariadne Thread．{换行}{换页}Of course, we didn’t realize it until{换行}we were deep in the labyrinth with{换行}no TP left． Oh, how we cried．{换行}{换页}We did manage to make it back to the{换行}first floor, but ever since then, we{换行}make sure to check each others’ packs．{换行}{END}",
+			"zh":""
+		}
+	]
+}

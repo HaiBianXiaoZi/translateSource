@@ -1,0 +1,5213 @@
+{
+	"fileName":"USEITEMEXPBATTLE.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"28d0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"28de",
+			"length":136,
+			"jpn":"樹海表層に住むドングリの{0xF846}体を覆うお椀状の外殻{换行}日常の生活では特に必要と{0xF846}されないため価値は低い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：お化けドングリ{颜色:0000}{换行}{END}",
+			"eng":"Bowl-shaped outer cap {0xF846}of a nut monster． Being{换行}practically useless, it {0xF846}isn’t worth much．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Rabid Acorn{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"2966",
+			"length":136,
+			"jpn":"硬いドングリの殻を割り、{0xF846}取り出しやすくしたもの{换行}中の実の部分を搾ると{0xF846}よく燃える油の原料となる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：お化けドングリ{颜色:0000}{换行}{END}",
+			"eng":"A cracked acorn shell． {0xF846}The seed inside can be{换行}pressed to extract a {0xF846}well-burning oil．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Rabid Acorn{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"29ee",
+			"length":124,
+			"jpn":"樹海の浅層に生息する{0xF846}植物の棘の付いたツタ{换行}棘は鋭くないが非常に{0xF846}硬いため武具に使用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ローパー{颜色:0000}{换行}{END}",
+			"eng":"Thorned ivy of a plant {0xF846}monster． It isn’t sharp,{换行}but it’s hard enough {0xF846}to make weapons with．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Roper{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"2a6a",
+			"length":122,
+			"jpn":"飛び回る獣の襟にある{0xF846}ふかふかな毛皮{换行}手触りもよく温かいため{0xF846}服に加工すると喜ばれる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：風船モモンガ{颜色:0000}{换行}{END}",
+			"eng":"Fluffy neck fur of a {0xF846}flying beast． Its warmth{换行}makes it a popular {0xF846}material for clothing．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Air Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"2ae4",
+			"length":130,
+			"jpn":"大きな口で新人冒険者を{0xF846}葬って来た獣の重い牙{换行}鋭さよりも力と重量で{0xF846}引きちぎるのに適している{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：マッドドッグ{颜色:0000}{换行}{END}",
+			"eng":"Heavy fang of a beast {0xF846}known for slaying many{换行}adventurers． Not sharp, {0xF846}but meant to grind prey．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Wild Dog{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"2b66",
+			"length":138,
+			"jpn":"氷を使って攻撃する蝙蝠の{0xF846}ほんのりと冷たく感じる翼膜{换行}柔らかいが丈夫なため{0xF846}皮製品として十分に使える{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アイスバット{颜色:0000}{换行}{END}",
+			"eng":"Chilly membrane from a {0xF846}bat that uses ice．{换行}It’s resilient, but soft, {0xF846}and makes fine leather．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Ice Bat{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2bf0",
+			"length":126,
+			"jpn":"氷蝙蝠の下顎から生える{0xF846}鋭く尖った犬歯{换行}生きているうちに突き{0xF846}落とさないとうまく抜けない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アイスバット{颜色:0000}{换行}{END}",
+			"eng":"Sharp fang from the {0xF846}Ice Bat． It won’t come{换行}clean unless stabbed out {0xF846}while the bat’s alive．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Ice Bat{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"2c6e",
+			"length":122,
+			"jpn":"脚のような先端にある{0xF846}茸の唯一硬い場所{换行}どっしりと重く加工が{0xF846}難しいためよく捨てられる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：マイコニド{颜色:0000}{换行}{END}",
+			"eng":"The hard part of the {0xF846}mushroom, on the tip of{换行}its ”leg．” Heavy, and {0xF846}commonly thrown away．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Myconid{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"2ce8",
+			"length":106,
+			"jpn":"樹海に住む亀の{0xF846}硬い甲羅のカケラ{换行}その硬さを利用して{0xF846}防具が作られる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アカモリガメ{颜色:0000}{换行}{END}",
+			"eng":"Hard shell of a Forest{换行}Turtle． Used for armor．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Forest Turtle{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"2d52",
+			"length":118,
+			"jpn":"亀の硬い甲羅を炎で{0xF846}よく焼いたもの{换行}焼入れることで性質が変わり{0xF846}武器に使用できる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アカモリガメ{颜色:0000}{换行}{END}",
+			"eng":"A hard shell baked with {0xF846}fire． By tempering it,{换行}its properties change {0xF846}for use in weaponmaking．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Forest Turtle{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"2dc8",
+			"length":130,
+			"jpn":"突き上げる獣の先端が{0xF846}二股に枝分かれした牙{换行}個々の形が異なるため{0xF846}美術品として集める人もいる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：突撃イノシシ{颜色:0000}{换行}{END}",
+			"eng":"A forked hog tusk． Since {0xF846}each tooth has a unique{换行}shape, some collect them {0xF846}as decorative pieces．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Charging Boar{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"2e4a",
+			"length":136,
+			"jpn":"強力な毒を持つ蛭の{0xF846}ブヨブヨとした表面の皮{换行}うまく加工すると倍以上にも{0xF846}伸び縮みできるようになる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ポイズンリーチ{颜色:0000}{换行}{END}",
+			"eng":"Spongy skin of a toxic {0xF846}worm． Once it has been{换行}processed, it can stretch {0xF846}to over twice its length．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Venomous Leech{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"2ed2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"2ee0",
+			"length":112,
+			"jpn":"細長い指の先端から生える{0xF846}鋭く曲がった爪{换行}硬さの割に小さいため{0xF846}加工が難しい{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：森アイアイ{颜色:0000}{换行}{END}",
+			"eng":"The curving claw from a {0xF846}lemur’s slender finger．{换行}It’s small, hard, and {0xF846}difficult to process．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Forest Aye-Aye{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"2f50",
+			"length":136,
+			"jpn":"樹海で動くものに飛びかかる{0xF846}獰猛な兎の鋭い前歯{换行}何でも切り裂く程鋭いため{0xF846}扱いに注意が必要とされる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：人喰いウサギ{颜色:0000}{换行}{END}",
+			"eng":"Sharp front tooth of a {0xF846}skittish, vicious bunny．{换行}It’s quite sharp, so use {0xF846}caution in handling it．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Man-eating Hare{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"2fd8",
+			"length":146,
+			"jpn":"細いツタが寄り集まり大きく{0xF846}育ったかのような太いツタ{换行}見た目以上に繊維質が強く{0xF846}簡単には切れそうにもない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ギガントローパー{颜色:0000}{换行}{END}",
+			"eng":"A thick vine seemingly {0xF846}made of clustered thin{换行}vines． They’re much {0xF846}tougher than they look．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Colossal Roper{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"306a",
+			"length":142,
+			"jpn":"身動きが全く取れなくなって{0xF846}しまった大きなツタ{换行}力が封じ込められているため{0xF846}欲しがる人が後を絶たない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ギガントローパー{颜色:0000}{换行}{END}",
+			"eng":"Large vine made utterly {0xF846}immobile． The monster’s{换行}power is sealed inside, {0xF846}so it’s high in demand．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Colossal Roper{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"30f8",
+			"length":134,
+			"jpn":"芋虫の頭部から生えている{0xF846}鉄のように硬い角{换行}獲物の動きを抑制する目的の{0xF846}ためこの角には毒分は無い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：這い回る毒蟲{颜色:0000}{换行}{END}",
+			"eng":"A horn as hard as metal． {0xF846}It’s primarily used to{换行}restrain prey, so it’s {0xF846}actually non-venomous．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Toxipede{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"317e",
+			"length":130,
+			"jpn":"二足歩行する巨大な鳥型の{0xF846}獣から生える大きな羽根{换行}その凶暴さゆえ、入手を{0xF846}あきらめる冒険者も多い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：猛る梟獣{颜色:0000}{换行}{END}",
+			"eng":"A furry feather from a {0xF846}bipedal bird-bear． Given{换行}its ferocity, many give {0xF846}up on obtaining this．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Owl Beast{颜色:0000}  {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"3200",
+			"length":118,
+			"jpn":"頭から体までを覆う{0xF846}大きな真っ赤な外殻{换行}見た目の割に重くないため{0xF846}持ち運びには便利{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：紅鉄の蜊蛄{颜色:0000}{换行}{END}",
+			"eng":"A large red shell that {0xF846}covers a lobster’s head{换行}and body． It’s actually {0xF846}not as heavy as it looks．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Iron Crustacean{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"3276",
+			"length":116,
+			"jpn":"水辺に住む魔物の{0xF846}切り落とされた大きな鋏{换行}見た目に反し鋭さよりも{0xF846}堅牢さが伺える{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：紅鉄の蜊蛄{颜色:0000}{换行}{END}",
+			"eng":"A large claw cut from a {0xF846}shore-dwelling lobster．{换行}It’s more dense than it {0xF846}is sharp, surprisingly．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Iron Crustacean{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"32ea",
+			"length":120,
+			"jpn":"高地を飛び回る昆虫の{0xF846}大きくて薄い翅{换行}透けて見える薄さだが{0xF846}引っ張っても中々ちぎれない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：痺れゼミ{颜色:0000}{换行}{END}",
+			"eng":"Large, thin wing of a {0xF846}high-flying insect．{换行}It’s translucent, but {0xF846}not at all fragile．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stun Cicada{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"3362",
+			"length":128,
+			"jpn":"岩山に住む小動物の{0xF846}特徴的な三角の耳{换行}肌触りが非常に良いため{0xF846}冒険者以外にも需要がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：とびつきカラカル{颜色:0000}{换行}{END}",
+			"eng":"Triangular ear of a {0xF846}mountain animal． Its soft{换行}feel makes it popular {0xF846}among non-adventurers．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Jumping Caracal{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"33e2",
+			"length":128,
+			"jpn":"非常に警戒心が強い鳥の{0xF846}とても綺麗な尾羽{换行}羽そのものが軽いため{0xF846}弓や髪飾りに利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：まんまるターキー{颜色:0000}{换行}{END}",
+			"eng":"Gorgeous tail feather {0xF846}of a cautious bird．{换行}It’s used for bows and {0xF846}other hair accessories．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Gobbler{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"3462",
+			"length":138,
+			"jpn":"硬い岩盤も掘り砕くほどの{0xF846}鋭利で頑丈なモグラの爪{换行}金属との加工相性が良く{0xF846}職人が喜んで加工する素材{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：切り裂きモグラ{颜色:0000}{换行}{END}",
+			"eng":"A sturdy mole claw, {0xF846}capable of digging{换行}through even solid {0xF846}layers of bedrock．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Rending Mole{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"34ec",
+			"length":122,
+			"jpn":"稲妻リスのふさふさな{0xF846}尻尾に生えていた棘{换行}触感が違う根本表面は{0xF846}電気を通さない性質を持つ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：稲妻リス{颜色:0000}{换行}{END}",
+			"eng":"A thorn from a Volt {0xF846}Squirrel’s fluffy tail．{换行}The surface near the {0xF846}root resists electricity．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Volt Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"3566",
+			"length":124,
+			"jpn":"元々は直線的だった{0xF846}稲妻リスのひしゃげた電気角{换行}強い力を受けた際に{0xF846}発電器官ごと角が抜けた{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：稲妻リス{颜色:0000}{换行}{END}",
+			"eng":"A crushed horn from the {0xF846}Volt Squirrel． The sheer{换行}impact has dislodged {0xF846}its electrical organ．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Volt Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"35e2",
+			"length":130,
+			"jpn":"プディングの中にあった{0xF846}不思議な色の球体核{换行}溶かして加工することで{0xF846}金属として利用できる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ポッププディング{颜色:0000}{换行}{END}",
+			"eng":"Strange spherical core {0xF846}found inside a Gel．{换行}It can be heated into {0xF846}a metal-like substance．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Popping Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"3664",
+			"length":130,
+			"jpn":"毒に侵され変色した{0xF846}プディングの体そのもの{换行}通常の死骸に比べ硬く{0xF846}強い弾力性も残っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ポッププディング{颜色:0000}{换行}{END}",
+			"eng":"A Gel’s body that has {0xF846}been discolored from{换行}contact with toxins． {0xF846}It’s quite resilient．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Popping Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"36e6",
+			"length":128,
+			"jpn":"山地で出会った山羊の{0xF846}欠けてしまった立派な角{换行}欠け方により価値が変わり{0xF846}装飾品にも使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：クリフゴート{颜色:0000}{换行}{END}",
+			"eng":"The chipped horn of a {0xF846}mountain goat． Depending{换行}on how it’s broken, it {0xF846}might be more valuable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cliff Goat{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"3766",
+			"length":132,
+			"jpn":"山道を駆け回っていた獣の{0xF846}動かなくなった脚の蹄{换行}鉱物と混ぜて溶かすことで{0xF846}武器にも加工ができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：クリフゴート{颜色:0000}{换行}{END}",
+			"eng":"A hoof from a beast of {0xF846}the mountain trails．{换行}It can be combined with {0xF846}ore to make weapons．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cliff Goat{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"37ea",
+			"length":140,
+			"jpn":"空中を漂い襲いかかる{0xF846}不思議な魚の細い尾ヒレ{换行}よくしなる性質を持つため{0xF846}弓や髪飾りによく利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ロックフィッシュ{颜色:0000}{换行}{END}",
+			"eng":"The thin tail of a fish {0xF846}that flies in the air．{换行}Flexible, and often used {0xF846}for hair ornaments．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stoneray{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"3876",
+			"length":126,
+			"jpn":"オウムの翼の片側を{0xF846}直接切り取ったもの{换行}骨も羽も加工性に優れ{0xF846}武具以外にも使われている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：バウンスオウム{颜色:0000}{换行}{END}",
+			"eng":"A severed macaw wing． {0xF846}Its bones and feathers{换行}are quite versatile, and {0xF846}used for many things．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Prancing Parrot{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"38f4",
+			"length":130,
+			"jpn":"冒険者をあざ笑う{0xF846}オウムの頭の羽根{换行}羽根についた赤丸の大きさで{0xF846}価値がガラリと変わるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：バウンスオウム{颜色:0000}{换行}{END}",
+			"eng":"Feathers from a macaw {0xF846}that ridicules adventurers．{换行}The size of the red circle {0xF846}determines its price．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Prancing Parrot{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"3976",
+			"length":134,
+			"jpn":"感電により絶命したオウムの{0xF846}電気を帯びた嘴{换行}帯電すると耐熱性が上がり{0xF846}硬くなる特殊な性質がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：バウンスオウム{颜色:0000}{换行}{END}",
+			"eng":"The beak of a macaw that {0xF846}died from electrocution．{换行}Curiously, the charge {0xF846}made it heat-resistant．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Prancing Parrot{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":36,
+			"offset":"39fc",
+			"length":134,
+			"jpn":"暴れまわる獣の筋骨隆々な{0xF846}腕から取り出した骨{换行}加工法で硬さが変わるため{0xF846}様々な武具に利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ハンマーコング{颜色:0000}{换行}{END}",
+			"eng":"Bone removed from the {0xF846}arm of a violent bat-ape．{换行}Its hardness changes with {0xF846}the processing method．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Chiroptekong{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":37,
+			"offset":"3a82",
+			"length":138,
+			"jpn":"炎でよく焼かれた獣の{0xF846}胸にあった空気をためる袋{换行}熱にさらされ硬化しており{0xF846}多少の衝撃では傷つかない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ハンマーコング{颜色:0000}{换行}{END}",
+			"eng":"A sac from the chest of {0xF846}a burnt beast． Heat has{换行}hardened it, and it can {0xF846}take some heavy impacts．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Chiroptekong{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":38,
+			"offset":"3b0c",
+			"length":130,
+			"jpn":"冒険者に襲いかかってきた{0xF846}獰猛な犬の下顎{换行}加工しづらく素材の原型を{0xF846}活かした武具が作られる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オオマダライヌ{颜色:0000}{换行}{END}",
+			"eng":"Lower jaw of a ferocious {0xF846}mongrel． It’s hard to{换行}process, so it keeps its {0xF846}shape in crafting．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Spotted Hound{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":39,
+			"offset":"3b8e",
+			"length":130,
+			"jpn":"鉄成分が含まれる{0xF846}まだらの犬の黒ずんだ鉤爪{换行}傷をつけた先端に強い力を{0xF846}加えると綺麗に割れる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オオマダライヌ{颜色:0000}{换行}{END}",
+			"eng":"Blackened claw of a {0xF846}mad dog． The tip{换行}breaks cleanly under {0xF846}strong pressure．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Spotted Hound{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"3c10",
+			"length":138,
+			"jpn":"特殊な金属成分を含んだ{0xF846}大サソリの巨大なハサミ{换行}非常に鋭利で包丁や刀などの{0xF846}刃によく利用されている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：見据える捕食者{颜色:0000}{换行}{END}",
+			"eng":"Massive pincer of a {0xF846}giant scorpion． The{换行}metals inside are used {0xF846}for knives or katana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Glaring Stinger{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"3c9a",
+			"length":130,
+			"jpn":"本体と一緒に石化した{0xF846}大サソリの尻尾の結晶{换行}石化することで元より{0xF846}硬くて重くなってしまった{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：見据える捕食者{颜色:0000}{换行}{END}",
+			"eng":"Crystal from a giant {0xF846}scorpion’s tail． It has{换行}been made heavier {0xF846}through petrification．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Glaring Stinger{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"3d1c",
+			"length":134,
+			"jpn":"長くて強靭な性質を持つ{0xF846}凶暴なキリンの体の毛{换行}武器に使われるだけでなく{0xF846}弦楽器の弓毛にも使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：驀進の大麒麟{颜色:0000}{换行}{END}",
+			"eng":"Long, stiff hair from a {0xF846}violent giraffe． They’re{换行}used to make weapons {0xF846}and stringed instruments．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Bucking Giraffe{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"3da2",
+			"length":126,
+			"jpn":"巨猿からもぎとった{0xF846}テングのように長い鼻{换行}乾燥させると硬化するが{0xF846}なぜかヌメりはとれない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：傲慢の通仙坊{颜色:0000}{换行}{END}",
+			"eng":"Elongated nose of a {0xF846}giant ape． Drying it{换行}will make it harder, but {0xF846}it’ll still stay slimy．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Impeding Tengu{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"3e20",
+			"length":126,
+			"jpn":"小さな黒い魔物の{0xF846}黒色で緩い弾力のある足{换行}柔らかさを活かした服や{0xF846}アクセサリの材料になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：プチノワール{颜色:0000}{换行}{END}",
+			"eng":"Tough foot of a small {0xF846}black fairy．{换行}Often used for {0xF846}clothes or accessories．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Petite Spriggan{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"3e9e",
+			"length":136,
+			"jpn":"空中を漂う頭蓋骨が残した{0xF846}頭部の破片の１つ{换行}強い力で抑えつけない限り{0xF846}残留魔力で宙に浮いてしまう{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ひび割れこうべ{颜色:0000}{换行}{END}",
+			"eng":"Fragment of a floating {0xF846}skull． Unless held down,{换行}it’ll keep floating {0xF846}due to residual magic．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cracked Skull{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"3f26",
+			"length":124,
+			"jpn":"弓兵が携えていた{0xF846}薄汚れた緑色の矢筒{换行}外側が金属で覆われており{0xF846}武具に再利用できる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ボーンアーチャー{颜色:0000}{换行}{END}",
+			"eng":"Dingy green quiver once {0xF846}worn by an archer．{换行}Wrapped with metal, so it {0xF846}can be used as a weapon．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Bone Archer{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"3fa2",
+			"length":132,
+			"jpn":"古戦場を駆け巡る{0xF846}車輪の魔物の鋭い金属外輪{换行}断熱性を持つことから{0xF846}床や壁に使われることもある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：デッドホイール{颜色:0000}{换行}{END}",
+			"eng":"Sharp outer ring of a {0xF846}wheel monster． Often{换行}used in flooring and {0xF846}walls for insulation．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Soultaker{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"4026",
+			"length":126,
+			"jpn":"冒険者を襲う植物の{0xF846}人の腕に見える不気味な蔓{换行}伸縮性に優れるため{0xF846}靴や弓などの素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ブキミカズラ{颜色:0000}{换行}{END}",
+			"eng":"Eerie ivy that looks {0xF846}like an arm． It’s{换行}flexible, and so is used {0xF846}for shoes and bows．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Eerie Choker{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"40a4",
+			"length":140,
+			"jpn":"冒険者に返り討ちにされた{0xF846}ゾンビドッグのあばら骨{换行}比較的柔らかい骨ではあるが{0xF846}優れた防毒性を持っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゾンビドッグ{颜色:0000}{换行}{END}",
+			"eng":"Ribs of an undead dog {0xF846}killed by adventurers．{换行}The bones are oddly soft, {0xF846}and poison-resistant．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Zombie Mutt{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"4130",
+			"length":140,
+			"jpn":"混乱した魔物が倒れた拍子に{0xF846}抜け落ちた先鋭な針{换行}筒状で中央が空洞なことから{0xF846}ストローなどにも利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゾンビドッグ{颜色:0000}{换行}{END}",
+			"eng":"Sharp needle from a {0xF846}confused undead dog．{换行}It’s a hollow tube, so {0xF846}it works as a straw．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Zombie Mutt{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"41bc",
+			"length":136,
+			"jpn":"衝撃を跳ね返すほど柔らかい{0xF846}巨大な怪物の尻尾{换行}金鉄と一緒に溶かし込むと{0xF846}非常に柔らかい金属になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：グランノワール{颜色:0000}{换行}{END}",
+			"eng":"Soft tail of a giant {0xF846}fairy． If melted with{换行}metal, the resultant {0xF846}alloy is likewise soft．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Grand Spriggan{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"4244",
+			"length":130,
+			"jpn":"衝撃で壊死してしまった{0xF846}巨大な魔物の黒い指{换行}体と違って弾力性はなく{0xF846}肌に吸いつく性質を持つ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：グランノワール{颜色:0000}{换行}{END}",
+			"eng":"Black finger of a fairy {0xF846}felled by heavy impact．{换行}Incongruously fragile, {0xF846}and a bit sticky．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Grand Spriggan{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"42c6",
+			"length":136,
+			"jpn":"不気味な樹海をさ迷う幽霊の{0xF846}体を構成していた白い袋{换行}ありふれた生地に見えるが{0xF846}魔力の浸透性が非常に良い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゴースト{颜色:0000}{换行}{END}",
+			"eng":"White bag made from a {0xF846}wandering spirit． It{换行}looks like common cloth, {0xF846}but transmits high mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Ghost{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"434e",
+			"length":136,
+			"jpn":"ゾンビと化したモモンガが{0xF846}滑空に利用する飛膜{换行}刃物で突いても破れないほど{0xF846}強靭で盾の素材にもなる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゾンビモモンガ{颜色:0000}{换行}{END}",
+			"eng":"Patagium that a Zombie {0xF846}Squirrel uses to glide．{换行}It’s thick enough that {0xF846}blades can’t pierce it．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Zombie Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"43d6",
+			"length":138,
+			"jpn":"冒険者を焼き払おうとする{0xF846}魔物が身につけていた冠{换行}自分の炎で燃えないように{0xF846}内側に不燃板が入っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：フレアレディ{颜色:0000}{换行}{END}",
+			"eng":"Crown worn by a fiery {0xF846}witch． It keeps itself{换行}safe with a fireproof {0xF846}sheet on the inside．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Flame Temptress{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"4460",
+			"length":136,
+			"jpn":"魔術を封じられたために{0xF846}体内で石化した吸血鬼の魔力{换行}魔力伝導率が高いため{0xF846}杖の素材として利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：フレアレディ{颜色:0000}{换行}{END}",
+			"eng":"Petrified mana trapped {0xF846}in a witch’s gemstone{换行}after its spells have {0xF846}all been sealed off．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Flame Temptress{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"44e8",
+			"length":136,
+			"jpn":"不気味なしゃれこうべの{0xF846}額から生えていた黒い角{换行}根本が柔らかくなっており{0xF846}加工がしやすい素材である{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：角つきこうべ{颜色:0000}{换行}{END}",
+			"eng":"A black horn from a {0xF846}creepy skull’s forehead．{换行}It’s actually quite {0xF846}soft at the base．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Horned Skull{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"4570",
+			"length":126,
+			"jpn":"魔法により凍結した{0xF846}一角の頭蓋骨の中身{换行}解凍すると綺麗に光る{0xF846}緑色の硬塊になる性質を持つ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：角つきこうべ{颜色:0000}{换行}{END}",
+			"eng":"Contents of a Horned {0xF846}Skull frozen by magic．{换行}When defrosted, it turns {0xF846}into a glowing green mass．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Horned Skull{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":59,
+			"offset":"45ee",
+			"length":140,
+			"jpn":"かつて悪魔が収まっていた{0xF846}空っぽの大きな棺桶{换行}内側に向かって刃が飛び出す{0xF846}ギミックが仕込まれている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：デモンズコフィン{颜色:0000}{换行}{END}",
+			"eng":"A large, empty coffin {0xF846}that once stored a demon．{换行}When triggered, blades {0xF846}pop out from inside．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Coffin Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"467a",
+			"length":124,
+			"jpn":"死人の兵士が大事にしていた{0xF846}鈍い切れ味の剣{换行}刃の部分は加工しやすく{0xF846}剣や盾に再利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：外道の剣屍{颜色:0000}{换行}{END}",
+			"eng":"A sharp sword cherished {0xF846}by a fallen soldier．{换行}You can reforge the {0xF846}blade as a shield．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Skelesword{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"46f6",
+			"length":126,
+			"jpn":"戦場跡を徘徊する魔物が{0xF846}身に着けていた布{换行}魔力が内部に溜まっていて{0xF846}独りでに動くことがある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：流離う幻炎{颜色:0000}{换行}{END}",
+			"eng":"Cloth worn by a monster {0xF846}that haunts battlefields．{换行}Sometimes, it seems to {0xF846}move on its own．．．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Roaming Wraith{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"4774",
+			"length":146,
+			"jpn":"冒険者の血で黒く染まった{0xF846}鎧から剥がれ落ちた金属板{换行}大きくて持ち運びは不便だが{0xF846}様々な金属製品に加工できる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：首刈りの断罪者{颜色:0000}{换行}{END}",
+			"eng":"Metal from armor that’s {0xF846}been stained with the{换行}blood of adventurers． {0xF846}Large and unwieldy．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Headless Hunter{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"4806",
+			"length":134,
+			"jpn":"高温で丸焦げに焼かれた{0xF846}甲冑の怪物の肩当て{换行}硬質化が進んでいるため{0xF846}非常に加工がしにくいらしい{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：首刈りの断罪者{颜色:0000}{换行}{END}",
+			"eng":"Pauldron of an armored {0xF846}wraith that was burnt．{换行}Already charred, it’s {0xF846}harder to process．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Headless Hunter{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"488c",
+			"length":134,
+			"jpn":"稲妻を彷彿させる姿を持つ{0xF846}奇妙な魔物の一部{换行}金属との相性に優れており{0xF846}金属製品の素材に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ボルトクリープ{颜色:0000}{换行}{END}",
+			"eng":"Portion of a monster that {0xF846}resembles a bolt．{换行}It’s used as material {0xF846}with metal goods．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Volt Cryst{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"4912",
+			"length":136,
+			"jpn":"痺れたことで糖分が{0xF846}濃縮されたとても甘い核{换行}砂糖代わりに出回るほどに{0xF846}調味料としても浸透している{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ボルトクリープ{颜色:0000}{换行}{END}",
+			"eng":"Sweet core with natural {0xF846}sugars released by{换行}paralysis． It’s even sold {0xF846}as a sugar substitute．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Volt Cryst{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"499a",
+			"length":138,
+			"jpn":"獲物を狩ることに使われる{0xF846}巨大なコウモリの牙{换行}硬い鉄板も貫くほど鋭いため{0xF846}武器や工具に利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：サイミンコウモリ{颜色:0000}{换行}{END}",
+			"eng":"Fangs of a massive {0xF846}predatory bat． They’re{换行}sharp enough to pierce {0xF846}through steel．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hypno Bat{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"4a24",
+			"length":136,
+			"jpn":"洞窟内を這いまわるヒルの{0xF846}非常に反発の強い表面皮{换行}乾燥させてもゴムのような{0xF846}強い弾力性は衰えない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：グリーンリーチ{颜色:0000}{换行}{END}",
+			"eng":"Resilient outer skin of {0xF846}a cave-dwelling leech．{换行}It remains rubbery even {0xF846}after drying．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cave Leech{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":68,
+			"offset":"4aac",
+			"length":140,
+			"jpn":"トカゲの戦士が愛用していた{0xF846}特殊な金属で作られた剣{换行}あまり手入れがされておらず{0xF846}武器としては使えない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードソード{颜色:0000}{换行}{END}",
+			"eng":"Unique sword beloved by {0xF846}a reptoid warrior．{换行}Not well-maintained, so {0xF846}not a great weapon．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Sword Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":69,
+			"offset":"4b38",
+			"length":140,
+			"jpn":"釣り針のような返しがついた{0xF846}王の名を持つモグラの爪{换行}返しの部分も非常に鋭く{0xF846}持ち帰るには一工夫が必要だ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：モールキング{颜色:0000}{换行}{END}",
+			"eng":"Hooklike claws from the {0xF846}king of all moles．{换行}The sharp barb demands {0xF846}caution in carrying．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Mole King{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":70,
+			"offset":"4bc4",
+			"length":142,
+			"jpn":"揺らめく炎の姿が特徴的な{0xF846}魔物の半透明な紅色の外殻{换行}高温では柔らかくなるため{0xF846}様々な形状に加工される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ブレイズクリープ{颜色:0000}{换行}{END}",
+			"eng":"Translucent-red shell {0xF846}of a flame crystal．{换行}Grows soft and malleable {0xF846}under heat．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Fire Cryst{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":71,
+			"offset":"4c52",
+			"length":142,
+			"jpn":"周囲を探知できなくなり{0xF846}濁ってしまった魔物の体{换行}元の体よりも硬化しており{0xF846}加工がより難しくなっている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ブレイズクリープ{颜色:0000}{换行}{END}",
+			"eng":"The clouded body of a {0xF846}monster that had its{换行}senses dulled． It’s {0xF846}harder to process now．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Fire Cryst{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":72,
+			"offset":"4ce0",
+			"length":132,
+			"jpn":"凶暴な生物の二の腕に{0xF846}ついていた薄い皮膜{换行}加工がしやすく靴などの{0xF846}身につけるものの素材になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：マイティゴリラ{颜色:0000}{换行}{END}",
+			"eng":"Thin membrane found on a {0xF846}bat-ape’s upper arm．{换行}It’s often used for {0xF846}footwear designs．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Chiroptilla{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":73,
+			"offset":"4d64",
+			"length":132,
+			"jpn":"槍を携えたトカゲの魔物が{0xF846}身に着けていた肩甲{换行}サイズが合わないため{0xF846}素材として利用する他ない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードランス{颜色:0000}{换行}{END}",
+			"eng":"Pauldron worn by a spear-{0xF846}toting reptoid． It won’t{换行}fit you, obviously--it’s {0xF846}only good for crafting．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Lance Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":74,
+			"offset":"4de8",
+			"length":132,
+			"jpn":"戦闘で斬り飛ばされた{0xF846}トカゲ戦士の槍の穂先{换行}加工のしやすい金属で{0xF846}作られており再加工ができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードランス{颜色:0000}{换行}{END}",
+			"eng":"The tip of a reptoid {0xF846}spear, severed during{换行}combat． Fortunately, {0xF846}it’s easily recyclable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Lance Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":75,
+			"offset":"4e6c",
+			"length":142,
+			"jpn":"怒れる鳥の頭に生えている{0xF846}象徴的な存在感のトサカ{换行}触り心地が良く柔らかいため{0xF846}衣類などに利用されている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アンガーバード{颜色:0000}{换行}{END}",
+			"eng":"Symbolic coxcomb from {0xF846}the head of a raging{换行}bird． Its softness makes {0xF846}it good for clothes．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Tantrum Turkey{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":76,
+			"offset":"4efa",
+			"length":118,
+			"jpn":"警笛を鳴らす昆虫の{0xF846}背からもぎとった薄い翅{换行}強い力で引っ張ると{0xF846}細く伸びる性質がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：警報ゼミ{颜色:0000}{换行}{END}",
+			"eng":"Wings ripped from the {0xF846}back of an alert{换行}insect． It can be {0xF846}stretched quite thin．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Klaxon Cicada{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":77,
+			"offset":"4f70",
+			"length":130,
+			"jpn":"警笛を鳴らそうにも鳴らせず{0xF846}絶命したセミの頭{换行}杖素材に利用することで{0xF846}魔力の流れが良くなるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：警報ゼミ{颜色:0000}{换行}{END}",
+			"eng":"Head of a cicada that {0xF846}could not sound its{换行}alarm． Supposedly quite {0xF846}mana-conductive．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Klaxon Cicada{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":78,
+			"offset":"4ff2",
+			"length":140,
+			"jpn":"水晶を生やした魔物の{0xF846}体の内部にあった蒼い核{换行}加工温度で硬さが変わるため{0xF846}盾から靴まで幅広く使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アイスクリープ{颜色:0000}{换行}{END}",
+			"eng":"Blue core from the body {0xF846}of a crystalline being．{换行}Its hardness changes {0xF846}according to temperature．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Ice Cryst{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":79,
+			"offset":"507e",
+			"length":144,
+			"jpn":"トカゲの武器の先端に{0xF846}ついていた鉄に似た金属塊{换行}未知の金属で作られているが{0xF846}一般の加工法で加工ができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードハンマー{颜色:0000}{换行}{END}",
+			"eng":"Metal mass from the tip {0xF846}of a reptoid warhammer．{换行}Seems like exotic metal, {0xF846}but it’s still workable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hammer Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":80,
+			"offset":"510e",
+			"length":136,
+			"jpn":"巨大なハンマーを武器に戦う{0xF846}知能を持つトカゲの尻尾{换行}加工はしにくいものの{0xF846}質の良い武具が作れる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードハンマー{颜色:0000}{换行}{END}",
+			"eng":"Tail from a hammer-{0xF846}wielding reptoid． Hard{换行}to process, but makes {0xF846}a high-quality weapon．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hammer Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":81,
+			"offset":"5196",
+			"length":130,
+			"jpn":"凍結し機能を失った{0xF846}トカゲの特殊器官{换行}体内の熱を外へ放出し体温を{0xF846}下げる働きを持つという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：リザードハンマー{颜色:0000}{换行}{END}",
+			"eng":"Unique organ from a {0xF846}reptoid, numbed by{换行}freezing． Seems to {0xF846}regulate body heat．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hammer Saurian{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":82,
+			"offset":"5218",
+			"length":132,
+			"jpn":"樹海に住みつく巨大な亀の{0xF846}とてつもなく硬い甲羅{换行}硬さの割に厚みがなく{0xF846}靴などの補強材にも使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：激昂の要塞{颜色:0000}{换行}{END}",
+			"eng":"Insanely hard shell of {0xF846}a giant forest turtle．{换行}Despite its hardness, {0xF846}it’s not very thick．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Raging Tortoise{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":83,
+			"offset":"529c",
+			"length":144,
+			"jpn":"巨大な青いミミズの口元から{0xF846}抜けた針のように細く鋭い爪{换行}側面は脆いためクセのある{0xF846}素材として職人の間で有名{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：残響に集う蟲{颜色:0000}{换行}{END}",
+			"eng":"Needles from the mouth {0xF846}of a giant blue worm．{换行}Famous among craftsmen {0xF846}for their fragility．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Sonar Worm{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":84,
+			"offset":"532c",
+			"length":140,
+			"jpn":"晶穴内に棲息する魔獣から{0xF846}刈り取ったフサフサの毛皮{换行}他の動物に比べて毛は重いが{0xF846}通気性がよい特徴がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：双頭の追撃者{颜色:0000}{换行}{END}",
+			"eng":"Bushy fur from a {0xF846}canine of the crystal{换行}caverns． It’s thick, {0xF846}but breathable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hellhound{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":85,
+			"offset":"53b8",
+			"length":132,
+			"jpn":"雷を受けることで指から{0xF846}抜け落ちた魔獣の鉤爪{换行}金属成分を多く含んでおり{0xF846}武具や金具の材料になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：双頭の追撃者{颜色:0000}{换行}{END}",
+			"eng":"Claw detached from a {0xF846}devildog by lightning．{换行}It’s rich in metal {0xF846}and other elements．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hellhound{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":86,
+			"offset":"543c",
+			"length":122,
+			"jpn":"黒と白で構成される体が{0xF846}特徴的な昆虫の足{换行}外骨部分が強固なため{0xF846}武具などの素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：パンダアント{颜色:0000}{换行}{END}",
+			"eng":"Leg of a monochromatic {0xF846}insect． The exoskeleton{换行}is tough, so it’s {0xF846}often used for weaponry．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Panda Ant{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":87,
+			"offset":"54b6",
+			"length":128,
+			"jpn":"氷を撃ち出す小動物の{0xF846}触り心地の良い尻尾{换行}棘がたくさんついている方が{0xF846}希少価値が高いと噂がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：氷雪リス{颜色:0000}{换行}{END}",
+			"eng":"Soft tail of a rodent {0xF846}that shoots ice． They{换行}say more thorns on it {0xF846}means a higher price．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Ice Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":88,
+			"offset":"5536",
+			"length":140,
+			"jpn":"鉄のような硬さを持つ{0xF846}ドングリから剥ぎ取った殻斗{换行}剥ぐ際に力を込めすぎて{0xF846}ひどく歪んでしまっている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アイアンドングリ{颜色:0000}{换行}{END}",
+			"eng":"Shell from an acorn as {0xF846}tough as steel． The{换行}severe impact has left {0xF846}it badly deformed．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Steel Acorn{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":89,
+			"offset":"55c2",
+			"length":134,
+			"jpn":"葉でできた剣を巧みに操る{0xF846}昆虫の枝のように細い腕{换行}武具だけでなく手袋などの{0xF846}日用品の素材にもなる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オオナナフシ{颜色:0000}{换行}{END}",
+			"eng":"Thin, twiglike arm of a {0xF846}sword-wielding insect．{换行}Can be used for a variety {0xF846}of crafting projects．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Bladed Phasmid{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":90,
+			"offset":"5648",
+			"length":140,
+			"jpn":"焼かれたにも関わらず{0xF846}炭にならなかった葉製の剣{换行}火による加工ができないため{0xF846}職人に嫌がられる素材らしい{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オオナナフシ{颜色:0000}{换行}{END}",
+			"eng":"A leaf sword that {0xF846}survived a fiery blast．{换行}Can’t work with fire, {0xF846}so craftsmen dislike it．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Bladed Phasmid{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":91,
+			"offset":"56d4",
+			"length":144,
+			"jpn":"冒険者を痺れさせてくる{0xF846}深紅の獣の柔らかい肉球{换行}緩衝材として利用できるため{0xF846}防具の素材に利用されている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ベニイロカラカル{颜色:0000}{换行}{END}",
+			"eng":"Paw of a crimson beast {0xF846}with paralytic powers．{换行}Used as cushioning for {0xF846}protective gear．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Crimson Caracal{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":92,
+			"offset":"5764",
+			"length":128,
+			"jpn":"動物を模した姿をした{0xF846}石でできた人形の耳{换行}魔力が通りやすい材質なため{0xF846}色々な道具の素材になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：暴れる石馬{颜色:0000}{换行}{END}",
+			"eng":"Ear of a stone doll that {0xF846}looks like an animal．{换行}Conducts mana well, so {0xF846}it’s used to make tools．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stone Steed{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":93,
+			"offset":"57e4",
+			"length":126,
+			"jpn":"魔法の力で動いていた{0xF846}不思議な人形の足{换行}金属と混ぜると封じた魔力を{0xF846}最大限に活かせるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：暴れる石馬{颜色:0000}{换行}{END}",
+			"eng":"Hoof of a strange doll {0xF846}that moved due to magic．{换行}Adding metal activates {0xF846}the dormant mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stone Steed{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":94,
+			"offset":"5862",
+			"length":126,
+			"jpn":"冒険者を呪いさ迷う{0xF846}黒いヤギの禍々しい角{换行}柔らかいためナイフで{0xF846}簡単に加工ができてしまう{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ロストゴート{颜色:0000}{换行}{END}",
+			"eng":"Ominous horn of a goat {0xF846}that curses passersby．{换行}It’s soft enough that it {0xF846}can be cut with a knife．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cursed Capra{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":95,
+			"offset":"58e0",
+			"length":136,
+			"jpn":"力強い突進で樹海を駆け巡る{0xF846}獰猛なイノシシの牙{换行}金属成分を多く含んでおり{0xF846}刃物の素材にも利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ワイルドボア{颜色:0000}{换行}{END}",
+			"eng":"Tusk of a rampaging {0xF846}boar． Since it contains{换行}various metals, it’s {0xF846}used to make cutlery．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Battering Boar{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":96,
+			"offset":"5968",
+			"length":134,
+			"jpn":"炎を吐き散らす昆虫の{0xF846}頭部についている顎刃{换行}耐熱性に優れているため{0xF846}武具への加工によく使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ファイアアント{颜色:0000}{换行}{END}",
+			"eng":"Jaw blade from a fire-{0xF846}spewing insect． It’s{换行}used to make weapons, {0xF846}as it’s heat-resistant．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Fire Ant{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":97,
+			"offset":"59ee",
+			"length":140,
+			"jpn":"弾力性の強いプディングの{0xF846}体内にあった黄色い核{换行}簡単に潰れてしまうため{0xF846}注意して持ち歩く必要がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：バッドプディング{颜色:0000}{换行}{END}",
+			"eng":"Yellow core from a {0xF846}particularly tough Gel．{换行}It’s quite delicate, and {0xF846}must be carried carefully．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Horned Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":98,
+			"offset":"5a7a",
+			"length":138,
+			"jpn":"核ごと貫かれて穴が開いた{0xF846}プディングの柔らかい体{换行}液体に近い質感なため{0xF846}何かに入れて持ち運びたい{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：バッドプディング{颜色:0000}{换行}{END}",
+			"eng":"Soft, coreless body of {0xF846}a Gel． It has a liquid{换行}consistency, and needs a {0xF846}vessel to carry it in．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Horned Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":99,
+			"offset":"5b04",
+			"length":132,
+			"jpn":"獣のような見た目と動きの{0xF846}石製の人形の破片{换行}割れ方で運勢を占うことが{0xF846}できると冒険者の中では有名{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：災いの石馬{颜色:0000}{换行}{END}",
+			"eng":"Fragment of an equine {0xF846}stone doll． They say you{换行}can tell your fortune {0xF846}by how it’s broken．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hex Steed{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":100,
+			"offset":"5b88",
+			"length":142,
+			"jpn":"幾多の冒険者を刈り取って{0xF846}きた巨大な魔物の鎌{换行}刃を濡らす血が魔物のものか{0xF846}冒険者のものか知る術はない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：万物を刈りしもの{颜色:0000}{换行}{END}",
+			"eng":"Sickle of a monster that {0xF846}cuts down adventurers．{换行}Is that blood yours {0xF846}or the enemy’s．．．？{换行}{0xF846}{F854}0500}{颜色:0C00}From： Harvester{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":101,
+			"offset":"5c16",
+			"length":140,
+			"jpn":"多くの命を弄んだ鎌を携えた{0xF846}魔物の退化した翅{换行}透き通るような美しさの中に{0xF846}どこか儚さを感じてしまう{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：万物を刈りしもの{颜色:0000}{换行}{END}",
+			"eng":"Degenerated wings of the {0xF846}mythical Mantis Princess．{换行}The transparent fragility {0xF846}has a strange beauty to it．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Harvester{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":102,
+			"offset":"5ca2",
+			"length":126,
+			"jpn":"丸い体の小鳥が全身から{0xF846}生やしていた鋭利な棘{换行}ひびが入ってはいるが{0xF846}鋭さと硬さは健在である{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：反骨の針雀{颜色:0000}{换行}{END}",
+			"eng":"Pointy quills from a {0xF846}small bird’s body．{换行}Cracked, but still {0xF846}sharp and dense．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Puffer Sparrow{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":103,
+			"offset":"5d20",
+			"length":136,
+			"jpn":"冒険者を追いかける不気味な{0xF846}魔物の全身を包んでいた体毛{换行}束ねることで強靭性が{0xF846}増すという性質がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：災厄へ至る病{颜色:0000}{换行}{END}",
+			"eng":"Mane hairs from a fiend {0xF846}that chases adventurers．{换行}They’re tougher when {0xF846}bunched up together．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Plague Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":104,
+			"offset":"5da8",
+			"length":126,
+			"jpn":"呪い殺された魔物の{0xF846}怨念がこもった腹部の爪{换行}不気味な形だが万病を{0xF846}退ける効果があるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：災厄へ至る病{颜色:0000}{换行}{END}",
+			"eng":"Dark claws of a monster {0xF846}that was cursed to death．{换行}They look fearsome, but {0xF846}have curative properties．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Plague Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":105,
+			"offset":"5e26",
+			"length":132,
+			"jpn":"樹海深部に住まう魔人の{0xF846}腕に棘のようについた板{换行}放熱に使われているのか{0xF846}温かさがまだ残っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：打擲の剛撃手{颜色:0000}{换行}{END}",
+			"eng":"Spikes on the arms of a {0xF846}demon of the labyrinth．{换行}Possibly used for heat, {0xF846}as they’re still warm．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Clawed Fiend{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":106,
+			"offset":"5eaa",
+			"length":146,
+			"jpn":"頭部に王冠のような飾りを{0xF846}した黒鳥のフサフサした尾{换行}身につけることでやる気が{0xF846}満ち溢れる効果があるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：コウテイハヤブサ{颜色:0000}{换行}{END}",
+			"eng":"Pointy tail of a bird {0xF846}with a crownlike crest．{换行}Supposedly boosts your {0xF846}determination．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Emperor Falcon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":107,
+			"offset":"5f3c",
+			"length":136,
+			"jpn":"落ちて動かなくなった{0xF846}金属成分を含んだ流星の体{换行}愛らしい見た目から人形や{0xF846}置物としても売られている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：スターダスト{颜色:0000}{换行}{END}",
+			"eng":"Chunk of a fallen {0xF846}meteorite, full of{换行}metals． Often sold as {0xF846}decoration or jewelry．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stardust{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":108,
+			"offset":"5fc4",
+			"length":136,
+			"jpn":"一撃で仕留めることで糖分が{0xF846}凝縮された流星の核{换行}味にくせがないため飲料用の{0xF846}砂糖代わりにも使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：スターダスト{颜色:0000}{换行}{END}",
+			"eng":"Core of a meteorite that {0xF846}was destroyed in one hit．{换行}Can be added to drinks {0xF846}for a sweet, crisp taste．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Stardust{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":109,
+			"offset":"604c",
+			"length":136,
+			"jpn":"複数の脚を持つ魔物の{0xF846}先端にトゲがついた触手{换行}非常に柔軟な性質を持ち{0xF846}身につける素材に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：シールオクトパス{颜色:0000}{换行}{END}",
+			"eng":"Spiked tentacle from a {0xF846}many-limbed monster．{换行}It’s flexible, and often {0xF846}used to make accessories．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Xenopod{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":110,
+			"offset":"60d4",
+			"length":136,
+			"jpn":"常闇の宙を悠然と泳ぐ{0xF846}白い怪魚のよくしなる軟骨{换行}野外活動で使われる道具に{0xF846}広く利用されているという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ソラトビエイ{颜色:0000}{换行}{END}",
+			"eng":"Cartilage of a strange {0xF846}white fish that swims{换行}through the void in {0xF846}perpetual darkness．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Dreamray{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":111,
+			"offset":"615c",
+			"length":140,
+			"jpn":"いたずら好きな小悪魔が{0xF846}背中に生やしている翼{换行}翼角の先から硬く鋭くなって{0xF846}いるため扱いには注意が必要{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：無邪気な小悪魔{颜色:0000}{换行}{END}",
+			"eng":"Wings from the back of {0xF846}a mischievous imp．{换行}Surprisingly sharp, so {0xF846}handle with caution．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Alluring Imp{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":112,
+			"offset":"61e8",
+			"length":142,
+			"jpn":"混乱した悪魔からくり抜いた{0xF846}赤く不気味に輝く目玉{换行}武具の素材には使えないが{0xF846}研究の材料として重宝される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：無邪気な小悪魔{颜色:0000}{换行}{END}",
+			"eng":"Glowing eyeball gouged {0xF846}from a confused demon．{换行}More valuable for {0xF846}research than smithing．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Alluring Imp{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":113,
+			"offset":"6276",
+			"length":128,
+			"jpn":"三つの頭を持つ魔獣の{0xF846}鋭く尖った犬歯{换行}金属と混ぜ合わせることで{0xF846}鋭い刃物を作ることができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：グリムドッグ{颜色:0000}{换行}{END}",
+			"eng":"Razor-sharp canine of a {0xF846}three-headed hound．{换行}It can be used to make {0xF846}fine cutlery．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Cerberus{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":114,
+			"offset":"62f6",
+			"length":144,
+			"jpn":"過酷な環境を生き抜いてきた{0xF846}よく鳴き叫ぶ昆虫の大きな翅{换行}燃えにくく柔軟な性質から{0xF846}防具の素材に使われている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アシュラゼミ{颜色:0000}{换行}{END}",
+			"eng":"Large wing from an {0xF846}insect that dwells in{换行}harsh environments． {0xF846}Used for protective gear．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Asura Cicada{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":115,
+			"offset":"6386",
+			"length":138,
+			"jpn":"全身の自由を奪われた{0xF846}巨大なセミの足についた針{换行}非常に脆いため取扱いには{0xF846}細心の注意を払う必要がある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アシュラゼミ{颜色:0000}{换行}{END}",
+			"eng":"Needle from the foot of {0xF846}an immobile cicada．{换行}It breaks easily, so {0xF846}handle it gently．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Asura Cicada{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":116,
+			"offset":"6410",
+			"length":136,
+			"jpn":"冒険者を嘲るような巨鳥の{0xF846}湾曲した見た目の嘴{换行}金属を突き破っても傷一つ{0xF846}つかないほどの硬さを持つ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：トリックオウム{颜色:0000}{换行}{END}",
+			"eng":"Curved beak of a bird {0xF846}that ridicules passersby．{换行}It can pierce metal {0xF846}without a scratch．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Wily Parrot{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":117,
+			"offset":"6498",
+			"length":140,
+			"jpn":"細い指から生えている{0xF846}獲物を狩るのに適した鉤爪{换行}日頃から丁寧に研がれている{0xF846}のか非常に鋭くなっている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ミラーアイアイ{颜色:0000}{换行}{END}",
+			"eng":"Claws from slender hands, {0xF846}suitable for hunting{换行}prey． It seems to have {0xF846}been carefully polished．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Mimic Aye-Aye{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":118,
+			"offset":"6524",
+			"length":134,
+			"jpn":"人を模した姿をした魔物が{0xF846}手にしていた金属製の杖{换行}魔力が通しやすく魔法を{0xF846}使った加工に適している{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ナイトレディ{颜色:0000}{换行}{END}",
+			"eng":"Metal staff wielded by a {0xF846}humanoid monster． It’s{换行}suitable for processing {0xF846}that involves magic．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Night Witch{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":119,
+			"offset":"65aa",
+			"length":130,
+			"jpn":"魔力が大量に蓄積された{0xF846}爛々と輝いている結晶体{换行}魔導補助を目的とした{0xF846}装飾品の素材に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ナイトレディ{颜色:0000}{换行}{END}",
+			"eng":"Ominous crystal infused {0xF846}with a flood of mana．{换行}It’s used in making {0xF846}magic accessories．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Night Witch{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":120,
+			"offset":"662c",
+			"length":136,
+			"jpn":"ほっそりとした魔物の{0xF846}肩についた奇妙な物体{换行}衝撃に強い性質から中を{0xF846}くり抜いて鞄にする者もいる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：スレンダーデビル{颜色:0000}{换行}{END}",
+			"eng":"Odd pauldron on a thin {0xF846}monster’s shoulder． Some{换行}hollow it out to make{0xF846}shock-resistant shoes．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Slender Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":121,
+			"offset":"66b4",
+			"length":140,
+			"jpn":"無理な力で大きくひしゃげた{0xF846}細身の悪魔の紐のような腕{换行}魔力加工を施すことで{0xF846}武器を作ることができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：スレンダーデビル{颜色:0000}{换行}{END}",
+			"eng":"Ribbony arm of a thin {0xF846}monster, crushed from{换行}excessive force． Can be {0xF846}processed with mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Slender Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":122,
+			"offset":"6740",
+			"length":128,
+			"jpn":"悪魔のような姿をした{0xF846}魔物の不気味に歪んだ角{换行}角には生臭い鉄の臭いが{0xF846}染みついているようだ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゼノライオン{颜色:0000}{换行}{END}",
+			"eng":"The warped, ebony horn {0xF846}of a vaguely lion-like{换行}life form． Seems to be {0xF846}coated with brimstone．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Xenolion{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":123,
+			"offset":"67c0",
+			"length":138,
+			"jpn":"おぞましい姿の魔物の{0xF846}ぐにゃぐにゃと歪み曲がる指{换行}魔力を込めると硬度が変わる{0xF846}奇妙な性質を持っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：増殖する悪夢{颜色:0000}{换行}{END}",
+			"eng":"Crooked fingers from {0xF846}a hideous monster．{换行}Application of mana can {0xF846}make them more pliable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Mounting Horror{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":124,
+			"offset":"684a",
+			"length":132,
+			"jpn":"冒険者を死の淵へと誘う{0xF846}凶悪な魔物の後ろ髪{换行}悪夢のものとは思えないほど{0xF846}肌触りが良く髪は美しい{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：増殖する悪夢{颜色:0000}{换行}{END}",
+			"eng":"Long hair of a vicious {0xF846}demon that lures{换行}adventurers to their {0xF846}deaths． Oddly beautiful．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Mounting Horror{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":125,
+			"offset":"68ce",
+			"length":134,
+			"jpn":"大柄な姿をした魔物の{0xF846}反発力が非常に強い腕{换行}綺麗な筒形をしているため{0xF846}砲の型に使われることがある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：圧迫の牛魔人{颜色:0000}{换行}{END}",
+			"eng":"The arm of a large {0xF846}monster． Being neatly{换行}cylindrical, it’s used as {0xF846}a model for gun barrels．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Taurus Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":126,
+			"offset":"6954",
+			"length":126,
+			"jpn":"ふくよかな体を持つ魔物の{0xF846}表面が石化した角{换行}表面を割ると金属成分が{0xF846}濃縮された角が現れる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：圧迫の牛魔人{颜色:0000}{换行}{END}",
+			"eng":"Petrified monster horn． {0xF846}If you can break its{换行}surface, the core within {0xF846}is rich in metal．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Taurus Demon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":127,
+			"offset":"69d2",
+			"length":140,
+			"jpn":"プディングから無理矢理{0xF846}切り取った柔らかく美しい脚{换行}温度で性質が変わることから{0xF846}職人の腕が問われる素材{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：栄耀の潜航者{颜色:0000}{换行}{END}",
+			"eng":"Soft limb cut from a {0xF846}Gel． Working with this{换行}is a true test of a {0xF846}craftsman’s skill．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Prosperous Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":128,
+			"offset":"6a5e",
+			"length":128,
+			"jpn":"冒険者によりデコボコに{0xF846}なったゲル状の生物の核{换行}魔力を増幅させる効果が{0xF846}あると言われている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：栄耀の潜航者{颜色:0000}{换行}{END}",
+			"eng":"Core of a gelatinous {0xF846}monster, deformed from{换行}adventurers’ beatings． {0xF846}Can increase one’s mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Prosperous Gel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":129,
+			"offset":"6ade",
+			"length":138,
+			"jpn":"草木に潜んで獲物を狙う{0xF846}知恵の働く犬の大きな牙{换行}肉に食い込ませることに{0xF846}特化させたのか非常に鋭い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ビクトリードッグ{颜色:0000}{换行}{END}",
+			"eng":"Fang of a crafty, {0xF846}carnivorous dog that{换行}hides behind plants to {0xF846}ambush its prey．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Camo Dog{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":130,
+			"offset":"6b68",
+			"length":132,
+			"jpn":"盾を構えて身を守る{0xF846}騎士道精神溢れる虫の大盾{换行}衝撃や魔力を受け流す{0xF846}特殊な性質を持っている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オオタテナナフシ{颜色:0000}{换行}{END}",
+			"eng":"Shield of an insect with {0xF846}a chivalrous spirit．{换行}Interestingly, it can {0xF846}parry shocks and mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Shielded Phasmid{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":131,
+			"offset":"6bec",
+			"length":128,
+			"jpn":"冒険者の命綱を燃やそうと{0xF846}してくる極悪な獣の角{换行}魔力が伝わりやすく武器の{0xF846}素材としても使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：火炎リス{颜色:0000}{换行}{END}",
+			"eng":"Horn of a feisty rodent {0xF846}that tries to burn{换行}adventurers． It’s a good {0xF846}conductor of mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Fire Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":132,
+			"offset":"6c6c",
+			"length":126,
+			"jpn":"全身を封じられたリスの{0xF846}複数個棘のついた尻尾{换行}毛並みが痛んでおらず{0xF846}最高級の装備の素材になる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：火炎リス{颜色:0000}{换行}{END}",
+			"eng":"Thorny tail of an {0xF846}entirely bound squirrel．{换行}The fur is undamaged, {0xF846}and suitable for crafting．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Fire Squirrel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":133,
+			"offset":"6cea",
+			"length":142,
+			"jpn":"暗闇から襲い来る車輪の{0xF846}ような魔物の持つ弧状の刃{换行}素材そのものを活かした{0xF846}商品に加工されることが多い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドゥームホイール{颜色:0000}{换行}{END}",
+			"eng":"Arcing blade of a wheel-{0xF846}like monster that attacks{换行}from darkness． Usually {0xF846}heavily processed．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Doom Wheel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":134,
+			"offset":"6d78",
+			"length":140,
+			"jpn":"こちらを見据える目を持つ{0xF846}車輪の不気味な目玉{换行}視界を奪うことで瞼に邪魔を{0xF846}されずに取ることができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドゥームホイール{颜色:0000}{换行}{END}",
+			"eng":"Eerie eyeball of an all-{0xF846}seeing wheel． In taking{换行}its sight, the eyelid is {0xF846}no longer an obstacle．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Doom Wheel{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":135,
+			"offset":"6e04",
+			"length":134,
+			"jpn":"致死性の高い毒針を持つ{0xF846}巨大な虫の尾側の針{换行}こちらには毒性がないため{0xF846}安全に持ち帰ることができる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：イビルワーム{颜色:0000}{换行}{END}",
+			"eng":"Tail needle of a giant {0xF846}venomous worm． This one{换行}has no toxins, and can {0xF846}be brought back safely．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Dread Worm{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":136,
+			"offset":"6e8a",
+			"length":134,
+			"jpn":"魔虫が痺れを解くために{0xF846}必死に脱ごうとした体皮{换行}脱ぎたてなために柔らかく{0xF846}防具の素材に利用される{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：イビルワーム{颜色:0000}{换行}{END}",
+			"eng":"Skin shed in desperation {0xF846}by a stunned worm．{换行}As it’s freshly shed, {0xF846}it’s still quite soft．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Dread Worm{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":137,
+			"offset":"6f10",
+			"length":132,
+			"jpn":"災厄の稲妻を放ってくる{0xF846}危険な動く人形のコア{换行}他の金属と混ぜることで{0xF846}丈夫な合金が作られるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：災いの石馬{颜色:0000}{换行}{END}",
+			"eng":"The core of a moving {0xF846}statue that releases{换行}cursed lightning． Mix it {0xF846}to make a sturdy alloy．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hex Steed{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":138,
+			"offset":"6f94",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":139,
+			"offset":"6fa2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":140,
+			"offset":"6fb0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":141,
+			"offset":"6fbe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":142,
+			"offset":"6fcc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":143,
+			"offset":"6fda",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":144,
+			"offset":"6fe8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":145,
+			"offset":"6ff6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":146,
+			"offset":"7004",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":147,
+			"offset":"7012",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":148,
+			"offset":"7020",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":149,
+			"offset":"702e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":150,
+			"offset":"703c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":151,
+			"offset":"704a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":152,
+			"offset":"7058",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":153,
+			"offset":"7066",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":154,
+			"offset":"7074",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":155,
+			"offset":"7082",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":156,
+			"offset":"7090",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":157,
+			"offset":"709e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":158,
+			"offset":"70ac",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":159,
+			"offset":"70ba",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":160,
+			"offset":"70c8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":161,
+			"offset":"70d6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":162,
+			"offset":"70e4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":163,
+			"offset":"70f2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":164,
+			"offset":"7100",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":165,
+			"offset":"710e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":166,
+			"offset":"711c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":167,
+			"offset":"712a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":168,
+			"offset":"7138",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":169,
+			"offset":"7146",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":170,
+			"offset":"7154",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":171,
+			"offset":"7162",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":172,
+			"offset":"7170",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":173,
+			"offset":"717e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":174,
+			"offset":"718c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":175,
+			"offset":"719a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":176,
+			"offset":"71a8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":177,
+			"offset":"71b6",
+			"length":124,
+			"jpn":"遥か昔より樹海を守り{0xF846}続けていた結界の一部{换行}とても魔力が伝わりやすく{0xF846}魔導武器の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゴーレム{颜色:0000}{换行}{END}",
+			"eng":"Part of a barrier that {0xF846}protected the forest．{换行}The material is very {0xF846}conductive of mana．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Amalgolem{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":178,
+			"offset":"7232",
+			"length":130,
+			"jpn":"高地を統べるヒポグリフの{0xF846}拳にもなる巨大な翼{换行}飛翔にも使われるためか{0xF846}見た目に反してとても軽い{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ヒポグリフ{颜色:0000}{换行}{END}",
+			"eng":"A giant wing from the {0xF846}Hippogryph that rules the{换行}highlands． It’s massive, {0xF846}but very light．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hippogryph{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":179,
+			"offset":"72b4",
+			"length":142,
+			"jpn":"死人の戦士達を操っていた{0xF846}アンデッドキングの顔面{换行}死してなお不気味な笑みを{0xF846}浮かべているように見える{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アンデッドキング{颜色:0000}{换行}{END}",
+			"eng":"The death mask of the {0xF846}nefarious Undead King．{换行}Its eerie smile lingers {0xF846}even beyond death．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Undead King{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":180,
+			"offset":"7342",
+			"length":136,
+			"jpn":"洞窟深部に住まう巨大な竜の{0xF846}水晶でできた三日月状の角{换行}とても澄んだ色をしており{0xF846}弾くと綺麗な音色を奏でる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：水晶竜{颜色:0000}{换行}{END}",
+			"eng":"A crystal crescent horn {0xF846}from a cave-dwelling{换行}dragon． It’s translucent, {0xF846}and chimes when tapped．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Crystal Dragon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":181,
+			"offset":"73ca",
+			"length":140,
+			"jpn":"美しい自然にそぐわない{0xF846}姿をした巨竜の邪悪な背鰭{换行}その不気味さと禍々しさは{0xF846}死者の世界を彷彿させる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：幽冥なる原初の主{颜色:0000}{换行}{END}",
+			"eng":"Dorsal fin of a massive {0xF846}shadow． Its malevolent{换行}aura seems more fit for {0xF846}the underworld．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Eternal Tyrant{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":182,
+			"offset":"7456",
+			"length":128,
+			"jpn":"幾多の文明を滅ぼしたという{0xF846}異形の怪物が持つ球体核{换行}生命の息吹を全く感じない{0xF846}硬く冷たい感触がする{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：星喰{颜色:0000}{换行}{END}",
+			"eng":"The spherical core of an {0xF846}abomination said to have{换行}been the end of countless {0xF846}civilizations．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Star Devourer{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":183,
+			"offset":"74d6",
+			"length":124,
+			"jpn":"ドリアードの蔓についた{0xF846}大きく妖艶な花の蕾{换行}数々の冒険者を欺いてきた{0xF846}残酷な擬餌でもある{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドリアード{颜色:0000}{换行}{END}",
+			"eng":"The blossoming bud of a {0xF846}carnivorous plant that{换行}lures in live prey with {0xF846}a pseudo-humanoid form．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Dryad{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":184,
+			"offset":"7552",
+			"length":128,
+			"jpn":"巨象が頭に載せている{0xF846}飾りのつけられた冠{换行}苔がこびりついてはいるが{0xF846}金属としての劣化はない{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オリファント{颜色:0000}{换行}{END}",
+			"eng":"An ornate crown from the {0xF846}head of a giant elephant．{换行}The metal is mossy, but {0xF846}without tarnish or flaw．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Primordiphant{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":185,
+			"offset":"75d2",
+			"length":128,
+			"jpn":"生ける屍と化した竜の{0xF846}翼を支えている太い骨{换行}他の部位に比べて密が高く{0xF846}最も硬い部分である{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドラゴンゾンビ{颜色:0000}{换行}{END}",
+			"eng":"Thick bone from the wing {0xF846}of an undead dragon．{换行}Denser than most bones, {0xF846}and nigh-unbreakable．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Zombie Dragon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":186,
+			"offset":"7652",
+			"length":128,
+			"jpn":"ラミアが手足のように操る{0xF846}巨大な体躯をした蛇{换行}蔓ごとに育ちが違うらしく{0xF846}強度や毒性も別物だという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ラミア{颜色:0000}{换行}{END}",
+			"eng":"Giant snake that Lamia {0xF846}controls like a limb．{换行}Each has its own length, {0xF846}strength, and toxicity．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Lamia{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":187,
+			"offset":"76d2",
+			"length":132,
+			"jpn":"美しい森を守り続けている{0xF846}かつて結界だったもの{换行}表面に描かれた縞模様には{0xF846}安らぎの意味があるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ゴーレム{颜色:0000}{换行}{END}",
+			"eng":"Once part of a barrier {0xF846}that kept the forest safe．{换行}The striped pattern is {0xF846}meant to signify peace．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Amalgolem{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":188,
+			"offset":"7756",
+			"length":134,
+			"jpn":"鋭く長い返しのついた{0xF846}ヒポグリフの鶴嘴状の爪{换行}素早く倒さないと傷つき、{0xF846}素材に使えなくなってしまう{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ヒポグリフ{颜色:0000}{换行}{END}",
+			"eng":"Barbed talon of the {0xF846}mighty Hippogryph．{换行}It rarely breaks cleanly {0xF846}unless defeated quickly．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Hippogryph{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":189,
+			"offset":"77dc",
+			"length":134,
+			"jpn":"死者を自在に操る暴君が{0xF846}身につけていた腰巻{换行}表面には恨み辛みの呪言が{0xF846}ぎっしりと書かれている{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：アンデッドキング{颜色:0000}{换行}{END}",
+			"eng":"Loincloth worn by the {0xF846}puppeteer of the dead．{换行}Imbued with foul curses {0xF846}and a powerful hatred．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Undead King{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":190,
+			"offset":"7862",
+			"length":134,
+			"jpn":"神々しさをふりまく竜の{0xF846}象徴とも呼ぶべき水晶の羽根{换行}翼への魔力を絶たないと{0xF846}絶命時に砕けてしまうという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：水晶竜{颜色:0000}{换行}{END}",
+			"eng":"Crystal wing with the {0xF846}godly aura of a dragon．{换行}Unless drained of mana, {0xF846}it shatters upon death．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Crystal Dragon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":191,
+			"offset":"78e8",
+			"length":130,
+			"jpn":"毒に冒されて倒れた{0xF846}強大な樹霊のビロード{换行}生地が非常に薄く見えるが{0xF846}身を守るに十分な強度を持つ{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドリアード{颜色:0000}{换行}{END}",
+			"eng":"Fabric from a sprite, {0xF846}after being tainted by{换行}poison． It looks wispy, {0xF846}but it’s quite strong．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Dryad{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":192,
+			"offset":"796a",
+			"length":144,
+			"jpn":"険しい岩山に住まう巨象の{0xF846}大樹のようにたくましい脚{换行}表面の皮の頑丈さを利用して{0xF846}特殊な防具が作られるという{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：オリファント{颜色:0000}{换行}{END}",
+			"eng":"Robust leg of a giant {0xF846}elephant living in the{换行}craggy mountains． Thick {0xF846}as a tree trunk．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Primordiphant{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":193,
+			"offset":"79fa",
+			"length":128,
+			"jpn":"体が朽ちても戦い続けた{0xF846}凶暴な腐竜の背骨{换行}耐久性に優れており{0xF846}特別な武器の素材に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ドラゴンゾンビ{颜色:0000}{换行}{END}",
+			"eng":"Spine of the ferocious {0xF846}Zombie Dragon, whose{换行}body fought even beyond {0xF846}the bounds of death．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Zombie Dragon{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":194,
+			"offset":"7a7a",
+			"length":132,
+			"jpn":"近くにあるものに絡みついて{0xF846}離れないほど強靭な赤髪{换行}元の美しい髪に戻ることは{0xF846}もう二度とないのだろう{换行}{0xF846}{F854}0500}{颜色:0C00}討伐：ラミア{颜色:0000}{换行}{END}",
+			"eng":"Red tresses so snarled {0xF846}that they can never{换行}be separated from {0xF846}anything in their tangles．{换行}{0xF846}{F854}0500}{颜色:0C00}From： Lamia{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":195,
+			"offset":"7afe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":196,
+			"offset":"7b0c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":197,
+			"offset":"7b1a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":198,
+			"offset":"7b28",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":199,
+			"offset":"7b36",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":200,
+			"offset":"7b44",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":201,
+			"offset":"7b52",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":202,
+			"offset":"7b60",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":203,
+			"offset":"7b6e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":204,
+			"offset":"7b7c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":205,
+			"offset":"7b8a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":206,
+			"offset":"7b98",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":207,
+			"offset":"7ba6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":208,
+			"offset":"7bb4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":209,
+			"offset":"7bc2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":210,
+			"offset":"7bd0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":211,
+			"offset":"7bde",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":212,
+			"offset":"7bec",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":213,
+			"offset":"7bfa",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":214,
+			"offset":"7c08",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":215,
+			"offset":"7c16",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":216,
+			"offset":"7c24",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":217,
+			"offset":"7c32",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":218,
+			"offset":"7c40",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":219,
+			"offset":"7c4e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":220,
+			"offset":"7c5c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":221,
+			"offset":"7c6a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":222,
+			"offset":"7c78",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":223,
+			"offset":"7c86",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":224,
+			"offset":"7c94",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":225,
+			"offset":"7ca2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":226,
+			"offset":"7cb0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":227,
+			"offset":"7cbe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":228,
+			"offset":"7ccc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":229,
+			"offset":"7cda",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":230,
+			"offset":"7ce8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":231,
+			"offset":"7cf6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":232,
+			"offset":"7d04",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":233,
+			"offset":"7d12",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":234,
+			"offset":"7d20",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":235,
+			"offset":"7d2e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":236,
+			"offset":"7d3c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":237,
+			"offset":"7d4a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":238,
+			"offset":"7d58",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":239,
+			"offset":"7d66",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":240,
+			"offset":"7d74",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":241,
+			"offset":"7d82",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":242,
+			"offset":"7d90",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":243,
+			"offset":"7d9e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":244,
+			"offset":"7dac",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":245,
+			"offset":"7dba",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":246,
+			"offset":"7dc8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":247,
+			"offset":"7dd6",
+			"length":116,
+			"jpn":"いつの時期からあるのか{0xF846}不明な程、苔が生えた鉱石{换行}火を入れれば{0xF846}良質な金属になる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"Ore mossy enough to tell {0xF846}you it’s been here for{换行}a long time． If cleaned, {0xF846}it ends up good metal．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":248,
+			"offset":"7e4a",
+			"length":114,
+			"jpn":"欠けた部分から覗く、{0xF846}幾重の層の中には{换行}金属が多く含まれ{0xF846}武具の作成に役立つ岩{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"Between the cracks of {0xF846}overlapping layers, you{换行}can see many metals {0xF846}useful for smithing．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":249,
+			"offset":"7ebc",
+			"length":118,
+			"jpn":"磨くと透明度が増して{0xF846}美しく輝き出す石{换行}装飾品として加工される事が{0xF846}多く人気が高い{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"A stone that gleams {0xF846}prettily when polished．{换行}Often processed into {0xF846}popular accessories．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":250,
+			"offset":"7f32",
+			"length":118,
+			"jpn":"軟らかく欠けやすい{0xF846}透明度が高い黄色の鉱物{换行}加工幅が広く{0xF846}武具や接着剤の材料になる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"A soft yellow ore of {0xF846}high clarity． It can{换行}be processed to make {0xF846}weapons or bonding agents．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":251,
+			"offset":"7fa8",
+			"length":132,
+			"jpn":"角ばった部分の切れ味が{0xF846}良い事から名づけられた{换行}加工せずとも鉄を真っ二つに{0xF846}できると噂されている{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"Named because of the {0xF846}sharp edge of the{换行}rock’s angle． It’s said {0xF846}to cut through metal．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":252,
+			"offset":"802c",
+			"length":114,
+			"jpn":"高い硬度を誇る{0xF846}表面がピンク色の鉱石{换行}鉱石内が白いほど{0xF846}希少価値が高いとされる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"A hard pink ore． It’s {0xF846}said that the more{换行}white is on the inside, {0xF846}the rarer it is．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":253,
+			"offset":"809e",
+			"length":124,
+			"jpn":"地面に埋まっていた{0xF846}朽ち果てた金属の板{换行}溶かして加工し直すことで{0xF846}再利用することができる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A rusty metallic plate {0xF846}found in the ground．{换行}Once melted down, the {0xF846}metal can be recycled．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":254,
+			"offset":"811a",
+			"length":132,
+			"jpn":"割ると鋭い断面になりやすい{0xF846}透明な質感の黒色鉱石{换行}加工性に非常に優れており{0xF846}日用品にも利用される{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A dark transparent ore {0xF846}that breaks into very{换行}sharp shards． Used in {0xF846}making daily items．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":255,
+			"offset":"819e",
+			"length":134,
+			"jpn":"金属で叩くと火花が散る{0xF846}という性質を持つ立方体の石{换行}冒険者以外にも魔除石として{0xF846}広く親しまれている{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A hard quartz that sparks {0xF846}if struck against steel．{换行}Civilians have taken to {0xF846}lighting fires with it．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":256,
+			"offset":"8224",
+			"length":134,
+			"jpn":"透き通って見えるほどの{0xF846}透明さが特徴的な鉱物{换行}粉状にして加工に使うため{0xF846}色々な武具の素材にしやすい{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"An almost completely-{0xF846}transparent ore． After{换行}refining into a powder, {0xF846}it’s used in weaponmaking．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":257,
+			"offset":"82aa",
+			"length":130,
+			"jpn":"多彩な色を示すことがある{0xF846}柔らかい金属鉱石{换行}熱による加工がしやすいため{0xF846}様々な武具の素材になる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"A soft metal ore that {0xF846}reflects many colors．{换行}Heat makes it easier {0xF846}to process．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":258,
+			"offset":"832c",
+			"length":132,
+			"jpn":"不思議な色の模様が特徴の{0xF846}とても硬い鉱物結晶{换行}中心部に隙間があるため{0xF846}加工自体は難しくないという{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"A crystallized mineral {0xF846}with strange, distinct{换行}coloring． It’s hollow, {0xF846}and easy to process．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":259,
+			"offset":"83b0",
+			"length":130,
+			"jpn":"緻密で硬い性質を持つ{0xF846}白く濁った見た目の石材{换行}加工法で表面の滑らかさが{0xF846}大きく変わってしまう{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"A dull white stone of {0xF846}notable hardness． The{换行}right processing method {0xF846}can make it smoother．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":260,
+			"offset":"8432",
+			"length":140,
+			"jpn":"夜になると描かれた紋様が{0xF846}薄く光り出す不思議な板{换行}金属と溶かし合わせることで{0xF846}加工しやすい合金にできる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"A thin, mysterious plate {0xF846}emblazoned with a pattern{换行}that glows in the dark． {0xF846}Can be made into an alloy．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":261,
+			"offset":"84be",
+			"length":134,
+			"jpn":"表面に独特の光沢を持ち{0xF846}様々な色合いを見せる結晶{换行}鉄よりも硬いため加工には{0xF846}職人の腕が必要となる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"A crystal with a {0xF846}multicolored gleam． It’s{换行}harder than iron, and {0xF846}needs a craftsman’s touch．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":262,
+			"offset":"8544",
+			"length":128,
+			"jpn":"複数の金属からなる{0xF846}不揃いな形状の岩石{换行}加工法により性質の異なる{0xF846}合金を作ることができる{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"An uneven rock made from {0xF846}a jumble of metals．{换行}Its properties vary when {0xF846}processed differently．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":263,
+			"offset":"85c4",
+			"length":140,
+			"jpn":"白の格子模様が描かれた{0xF846}表面がつるりとした黒い板{换行}光を当てることで魔力を作る{0xF846}特殊な性質を持っている{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A slick black plate with {0xF846}white grill patterns．{换行}It emanates mana under {0xF846}light．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":264,
+			"offset":"8650",
+			"length":136,
+			"jpn":"水浴びに使われていたと{0xF846}思われる半透明の青い雫{换行}金属成分を多く含んだ{0xF846}稀少な物として知られている{换行}{0xF846}{F854}0500}{颜色:0C00}採掘：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A translucent blue drop {0xF846}thought to be used for{换行}hygiene． It’s filled with {0xF846}metallic components．{换行}{0xF846}{F854}0500}{颜色:0C00}Mine： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":265,
+			"offset":"86d8",
+			"length":136,
+			"jpn":"樹海入口付近によく見られる{0xF846}養分を蓄えた植物の根っこ{换行}滋養強壮に効果があり{0xF846}昔からよく薬に用いられる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"A nutrient-filled root {0xF846}noted for analeptic{换行}properties． A classic {0xF846}medicinal ingredient．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":266,
+			"offset":"8760",
+			"length":130,
+			"jpn":"水辺に浮く草のよく熟した{0xF846}蜂の巣状の実{换行}絞った果汁は体力を回復する{0xF846}効果が得られる薬に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"The hive-shaped fruit of {0xF846}a floating plant．{换行}Its juice is widely {0xF846}used in restoratives．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":267,
+			"offset":"87e2",
+			"length":132,
+			"jpn":"人が座禅を組んだかのように{0xF846}見える不思議な形の赤い花{换行}薬品として加工されるが{0xF846}独特の臭いがキツイ{换行}{0xF846}{F854}0500}{颜色:0C00}採取：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"An enigmatic red plant {0xF846}with a meditative air．{换行}It’s used in medicines, {0xF846}but it smells awful．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":268,
+			"offset":"8866",
+			"length":114,
+			"jpn":"虫と蜜が入った{0xF846}栄養豊富なこぶ状の茎{换行}こぶの部分を切ると{0xF846}虫と蜜がデロリと出る{换行}{0xF846}{F854}0500}{颜色:0C00}採取：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"A gall-shaped stalk {0xF846}containing an insect{换行}and nutritious honey． {0xF846}Once cut, they seep out．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":269,
+			"offset":"88d8",
+			"length":118,
+			"jpn":"岩場にまだらに生える{0xF846}独特な良い香りの苔{换行}香りが良いことから{0xF846}食品や薬の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"Fragrant moss found in {0xF846}patches on rocky areas．{换行}The soothing scent is {0xF846}used for food and medicine．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":270,
+			"offset":"894e",
+			"length":134,
+			"jpn":"光の当て方で色が変わる{0xF846}とても不思議な果実{换行}色によって果実に魔法保存が{0xF846}可能で起動符用の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"A mysterious fruit that {0xF846}changes color in light．{换行}It can preserve magic, {0xF846}and is used for jars．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":271,
+			"offset":"89d4",
+			"length":130,
+			"jpn":"周りの植物を駆逐してまで{0xF846}繁殖する不気味な草{换行}精分を抽出することで{0xF846}薬品に利用することができる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"Eerie grass that spreads {0xF846}with abandon, killing{换行}all other plants around {0xF846}it． Used in medicine．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":272,
+			"offset":"8a56",
+			"length":128,
+			"jpn":"ゾンビの手かと思うほどに{0xF846}不気味な形のキノコ{换行}見た目とは裏腹に栄養があり{0xF846}強化薬の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"Eerie mushroom that {0xF846}looks like a zombified{换行}hand． Looks nasty, but {0xF846}high in nutrients．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":273,
+			"offset":"8ad6",
+			"length":132,
+			"jpn":"空気中の水分を霧状にして{0xF846}溜めこむ性質を持つ花{换行}魔法質の空気も霧にでき、{0xF846}ミスト系商品に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A flower that stores {0xF846}water in the air as vapor．{换行}Given its capabilities, {0xF846}it’s used for mists．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":274,
+			"offset":"8b5a",
+			"length":134,
+			"jpn":"強い粘着力で壁や床に{0xF846}くっついている緑色の苔{换行}心を落ち着かせる効果があり{0xF846}薬品の素材として使われる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"Green fungi that sticks {0xF846}firmly to walls and the{换行}ground． It has a calming {0xF846}effect on the mind．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":275,
+			"offset":"8be0",
+			"length":140,
+			"jpn":"光を当てると銀色の反射を{0xF846}見せる青白い色をした植物{换行}体には良いがとても不味く{0xF846}薬以外にはあまり使われない{换行}{0xF846}{F854}0500}{颜色:0C00}採取：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"Bluish white plant that {0xF846}looks silver in the light．{换行}Very healthy, but tastes {0xF846}absolutely disgusting．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":276,
+			"offset":"8c6c",
+			"length":136,
+			"jpn":"結晶でできた花弁を複数持つ{0xF846}不気味だが美しい花{换行}衝撃ではじける性質の花弁は{0xF846}特殊な起動符の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"An eerily beautiful bloom {0xF846}with crystalline petals．{换行}The petals are used to {0xF846}make special jars．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":277,
+			"offset":"8cf4",
+			"length":126,
+			"jpn":"硬い外皮の下にゼリー状の{0xF846}葉肉を持つ植物の茎{换行}非常に栄養価が高く、{0xF846}高価な薬の材料となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"Stalk of a plant with a {0xF846}gelatinous mesophyll under{换行}its outer surface． Used {0xF846}in expensive medicines．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":278,
+			"offset":"8d72",
+			"length":124,
+			"jpn":"特殊な環境で育てられた{0xF846}独特の芳香が特徴的な草{换行}香りを利用したミスト商品の{0xF846}材料となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"An herb with a distinct {0xF846}fragrance due to its{换行}environment． Used for {0xF846}making mist products．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":279,
+			"offset":"8dee",
+			"length":144,
+			"jpn":"時間によって花弁の開き方が{0xF846}変わっていくという珍しい花{换行}魔力を蓄積できる性質から{0xF846}上級起動符用の素材となる{换行}{0xF846}{F854}0500}{颜色:0C00}採取：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"A rare flower that blooms {0xF846}according to the time．{换行}It stores mana, so it’s {0xF846}made into powerful jars．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":280,
+			"offset":"8e7e",
+			"length":126,
+			"jpn":"過酷な環境でも優雅に咲く{0xF846}白く光り輝く花{换行}その昔、食べると{0xF846}不死になると信じられていた{换行}{0xF846}{F854}0500}{颜色:0C00}採取：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A brilliant white flower {0xF846}that blooms in harsh{换行}environments． Once thought {0xF846}to grant immortality．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":281,
+			"offset":"8efc",
+			"length":138,
+			"jpn":"中心に向かって渦巻いて{0xF846}見える模様が特徴的な黒い花{换行}独特の甘い香りを持ち{0xF846}薬の素材にも使われている{换行}{0xF846}{F854}0500}{颜色:0C00}採取：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A black flower with a {0xF846}swirling pattern at its{换行}center． Distinctly sweet, {0xF846}and used for medicines．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":282,
+			"offset":"8f86",
+			"length":132,
+			"jpn":"星のような見た目をした{0xF846}爽やかな味のする果実{换行}稀少なために食材として{0xF846}一般に出回ることはない{换行}{0xF846}{F854}0500}{颜色:0C00}採取：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"Star-shaped fruit with a {0xF846}refreshing taste． Being{换行}so rare, it’s usually {0xF846}beyond commoners’ reach．{换行}{0xF846}{F854}0500}{颜色:0C00}Take： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":283,
+			"offset":"900a",
+			"length":132,
+			"jpn":"木や草などところ構わず{0xF846}纏わり付いているツタ{换行}しっかり加工すると驚くほど{0xF846}丈夫でなかなか切れない{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"A vine that coils around {0xF846}anything, from trees to{换行}bushes． After refining, {0xF846}it becomes quite sturdy．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":284,
+			"offset":"908e",
+			"length":122,
+			"jpn":"蔦の巻き付いた痕の残る{0xF846}引き締まった樹皮{换行}その硬さを活かして{0xF846}防具が作られることが多い{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"Bark with visible marks {0xF846}from ivy bindings．{换行}Its hardness makes it {0xF846}good for armorcrafting．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":285,
+			"offset":"9108",
+			"length":122,
+			"jpn":"樹海入口付近の湿地帯に{0xF846}自生している年数を経た木{换行}長い年月を経て{0xF846}霊的なものさえ感じる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：鎮守ノ樹海{颜色:0000}{换行}{END}",
+			"eng":"An old tree from the {0xF846}wetlands near the forest{换行}entrance． Something about {0xF846}it seems incorporeal．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Tutelary Forest{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":286,
+			"offset":"9182",
+			"length":120,
+			"jpn":"細い見た目に反して{0xF846}驚くほど丈夫な枝{换行}力を込めても折れないため{0xF846}加工には切断器が必要{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"Despite its thinness, {0xF846}this branch is sturdy．{换行}You’ll need a precision {0xF846}cutting tool to get it．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":287,
+			"offset":"91fa",
+			"length":134,
+			"jpn":"ドロドロとしているが{0xF846}火であぶると硬化する樹脂{换行}鉱物のように硬くなるため{0xF846}武具の素材によく使われる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"Thick sap that hardens {0xF846}when heated over a fire．{换行}With metal-like hardness, {0xF846}it’s used for weaponry．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":288,
+			"offset":"9280",
+			"length":132,
+			"jpn":"大地から飛び出していた{0xF846}大きく曲がり狂った木の根{换行}弾力性に富んだ性質を持ち{0xF846}靴や家具に利用される{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：奇岩ノ山道{颜色:0000}{换行}{END}",
+			"eng":"Twisted tree root that {0xF846}jutted from the ground．{换行}Highly pliable, it’s used {0xF846}for shoes and furniture．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Jagged Reach{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":289,
+			"offset":"9304",
+			"length":138,
+			"jpn":"木目がドクロ模様に見える{0xF846}不気味な雰囲気の木材{换行}模様が日用品に使い辛いため{0xF846}武器や防具の素材に使われる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"Unsettling wood with {0xF846}skull-like patterns in{换行}the grain． Used for {0xF846}weapons and armor, mostly．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":290,
+			"offset":"938e",
+			"length":142,
+			"jpn":"動物に寄生することで住処を{0xF846}移動する寄生型のツタ植物{换行}宿主を殺すことはないため{0xF846}寄生に気付かない動物もいる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A parasitic vine plant {0xF846}that uses animals as{换行}hosts． Most wildlife {0xF846}barely even notices it．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":291,
+			"offset":"941c",
+			"length":138,
+			"jpn":"生まれて数年ほどではあるが{0xF846}しっかり大地に根差した若木{换行}硬くしっかりしており{0xF846}日用品に多く使われている{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：晦冥ノ墓所{颜色:0000}{换行}{END}",
+			"eng":"A fairly recent sapling {0xF846}that nevertheless had{换行}fully rooted． It’s hard {0xF846}and sturdy．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Fetid Necropolis{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":292,
+			"offset":"94a6",
+			"length":128,
+			"jpn":"長い年月をかけて鉱石と{0xF846}一体化した樹木の皮{换行}まだ木としての性質が強く{0xF846}刃物で簡単に切り取れる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"Bark that merged with {0xF846}ore over countless years．{换行}Still, it feels the {0xF846}same as normal wood．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":293,
+			"offset":"9526",
+			"length":130,
+			"jpn":"表面を結晶のような皮で{0xF846}覆われた大きなタケノコ{换行}硬い外皮を利用して{0xF846}武器や防具が作られるという{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"A large bamboo shoot {0xF846}encased in crystal．{换行}The outer shell can be {0xF846}used for metalwork．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":294,
+			"offset":"95a8",
+			"length":126,
+			"jpn":"水晶のような半透明の幹を{0xF846}持つ柱のような樹木{换行}年季が入ったものほど{0xF846}高い透明度を持つという{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：虹霓ノ晶洞{颜色:0000}{换行}{END}",
+			"eng":"Pillar-like tree with a {0xF846}clear, crystalline root．{换行}Seems to gain more {0xF846}clarity with age．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Lucent Hollows{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":295,
+			"offset":"9626",
+			"length":132,
+			"jpn":"倒木から削り取った{0xF846}半透明の柔らかい表皮{换行}火であぶると燃えずに溶ける{0xF846}という不思議な性質がある{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"Translucent bark scraped {0xF846}off a fallen tree．{换行}Oddly, exposure to fire {0xF846}causes it to melt．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":296,
+			"offset":"96aa",
+			"length":134,
+			"jpn":"並大抵の力では決して{0xF846}曲がらない立派な木の枝{换行}特殊な加工により初めて{0xF846}素材として使えるようになる{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"A fine branch that {0xF846}resists being bent． It{换行}takes hard work, but {0xF846}it can be crafted with．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":297,
+			"offset":"9730",
+			"length":132,
+			"jpn":"薄い青みを帯びた白色の{0xF846}表面が特徴的な木材{换行}正しく加工すると丈夫で{0xF846}長持ちな製品が作れるという{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：円環ノ原生林{颜色:0000}{换行}{END}",
+			"eng":"Distinct white wood with {0xF846}an alien bluish tinge．{换行}It can be processed into {0xF846}long-lasting woodwork．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Untamed Garden{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":298,
+			"offset":"97b4",
+			"length":132,
+			"jpn":"巨大な笠状の花が{0xF846}先端についている枝{换行}めしべの先から魔力を出して{0xF846}仲間と交信をしているようだ{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A branch with a capped {0xF846}flower at its tip．{换行}It communicates with other {0xF846}plants through mana．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":299,
+			"offset":"9838",
+			"length":148,
+			"jpn":"幹が途中で三又になっている{0xF846}のが特徴的な杉に似た植物{换行}見た目は異質だが他の木材と{0xF846}同様の加工法が使えるという{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A tree similar to cedar {0xF846}where the trunk splits{换行}into three． It looks {0xF846}odd, but can be processed．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":300,
+			"offset":"98cc",
+			"length":140,
+			"jpn":"上下逆に生えているように{0xF846}見える不思議な形の樹木{换行}星を破壊するほどに凶悪な{0xF846}巨木になると言われている{换行}{0xF846}{F854}0500}{颜色:0C00}伐採：赤方偏移ノ回廊{颜色:0000}{换行}{END}",
+			"eng":"A bizarre tree that {0xF846}seems to grow upside-{换行}down． Said to grow into {0xF846}a destroyer of stars．{换行}{0xF846}{F854}0500}{颜色:0C00}Cut： Empyreal Bridge{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":301,
+			"offset":"9958",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":302,
+			"offset":"9966",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":303,
+			"offset":"9974",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":304,
+			"offset":"9982",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":305,
+			"offset":"9990",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":306,
+			"offset":"999e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":307,
+			"offset":"99ac",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":308,
+			"offset":"99ba",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":309,
+			"offset":"99c8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":310,
+			"offset":"99d6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":311,
+			"offset":"99e4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":312,
+			"offset":"99f2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":313,
+			"offset":"9a00",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":314,
+			"offset":"9a0e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":315,
+			"offset":"9a1c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":316,
+			"offset":"9a2a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":317,
+			"offset":"9a38",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":318,
+			"offset":"9a46",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":319,
+			"offset":"9a54",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":320,
+			"offset":"9a62",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":321,
+			"offset":"9a70",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":322,
+			"offset":"9a7e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":323,
+			"offset":"9a8c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":324,
+			"offset":"9a9a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":325,
+			"offset":"9aa8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":326,
+			"offset":"9ab6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":327,
+			"offset":"9ac4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":328,
+			"offset":"9ad2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":329,
+			"offset":"9ae0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":330,
+			"offset":"9aee",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":331,
+			"offset":"9afc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":332,
+			"offset":"9b0a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":333,
+			"offset":"9b18",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":334,
+			"offset":"9b26",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":335,
+			"offset":"9b34",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":336,
+			"offset":"9b42",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":337,
+			"offset":"9b50",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":338,
+			"offset":"9b5e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":339,
+			"offset":"9b6c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":340,
+			"offset":"9b7a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":341,
+			"offset":"9b88",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":342,
+			"offset":"9b96",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":343,
+			"offset":"9ba4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":344,
+			"offset":"9bb2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":345,
+			"offset":"9bc0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":346,
+			"offset":"9bce",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":347,
+			"offset":"9bdc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":348,
+			"offset":"9bea",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":349,
+			"offset":"9bf8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":350,
+			"offset":"9c06",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":351,
+			"offset":"9c14",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":352,
+			"offset":"9c22",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":353,
+			"offset":"9c30",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":354,
+			"offset":"9c3e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":355,
+			"offset":"9c4c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":356,
+			"offset":"9c5a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":357,
+			"offset":"9c68",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":358,
+			"offset":"9c76",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":359,
+			"offset":"9c84",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":360,
+			"offset":"9c92",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":361,
+			"offset":"9ca0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":362,
+			"offset":"9cae",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":363,
+			"offset":"9cbc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":364,
+			"offset":"9cca",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":365,
+			"offset":"9cd8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":366,
+			"offset":"9ce6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":367,
+			"offset":"9cf4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":368,
+			"offset":"9d02",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":369,
+			"offset":"9d10",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":370,
+			"offset":"9d1e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":371,
+			"offset":"9d2c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":372,
+			"offset":"9d3a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":373,
+			"offset":"9d48",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":374,
+			"offset":"9d56",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":375,
+			"offset":"9d64",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":376,
+			"offset":"9d72",
+			"length":60,
+			"jpn":"ルナリア族が古代に作った銀貨{换行}美しい装飾が施されている品{换行}{END}",
+			"eng":"A silver coin made by Celestrians long ago．{换行}It’s decorated beautifully．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":377,
+			"offset":"9dae",
+			"length":76,
+			"jpn":"セリアン族の住む山都で用いられる銅貨{换行}古い貨幣で価値は高くない庶民的な品{换行}{END}",
+			"eng":"A copper coin used in the Therian mountain{换行}city． Old, common, and not too valuable．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":378,
+			"offset":"9dfa",
+			"length":82,
+			"jpn":"ブラニー族の隊商が集う{换行}大市ゼファーリアで生まれた大型の銀貨{换行}珍しく価値が高い{换行}{END}",
+			"eng":"A large silver coin found at the Zepheria{换行}Exchange where Brouni merchants gather．{换行}It’s quite rare, and valuable besides．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":379,
+			"offset":"9e4c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":380,
+			"offset":"9e5a",
+			"length":80,
+			"jpn":"水晶竜の鱗の破片と石英が{换行}混じり合って結晶化した{换行}六角柱状のとても珍しい鉱石{换行}{END}",
+			"eng":"A hexagonal pillar of quartz formed{换行}from the crystallization of a Crystal{换行}Dragon’s mineral-rich scale shards．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":381,
+			"offset":"9eaa",
+			"length":118,
+			"jpn":"ラズベリー色をしていることからラズベリル{换行}とも呼ばれる鉱石　大型で透明度が高い鉱石は{换行}好事家の間で高値で取引される{换行}{END}",
+			"eng":"A raspberry beryl called pezzottaite．{换行}Especially large or pure samples of{换行}this mineral are prized by collectors．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":382,
+			"offset":"9f20",
+			"length":86,
+			"jpn":"水晶竜の鱗の破片と石英が混じり合って{换行}結晶化した六角柱状の{换行}とても珍しい鉱石の欠片{换行}{END}",
+			"eng":"A shard of very rare quartz． Originally{换行}formed from the crystallized shards of{换行}a Crystal Dragon’s mineral-rich scales．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":383,
+			"offset":"9f76",
+			"length":66,
+			"jpn":"ミスリルと呼ばれる金属の塊{换行}灰色に輝く未知の金属で最高級のもの{换行}{END}",
+			"eng":"Chunk of silvery metal known as mythril．{换行}It’s enigmatic, but of the highest quality．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":384,
+			"offset":"9fb8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":385,
+			"offset":"9fc6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":386,
+			"offset":"9fd4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":387,
+			"offset":"9fe2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":388,
+			"offset":"9ff0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":389,
+			"offset":"9ffe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":390,
+			"offset":"a00c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":391,
+			"offset":"a01a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":392,
+			"offset":"a028",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":393,
+			"offset":"a036",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":394,
+			"offset":"a044",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":395,
+			"offset":"a052",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":396,
+			"offset":"a060",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":397,
+			"offset":"a06e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":398,
+			"offset":"a07c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":399,
+			"offset":"a08a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":400,
+			"offset":"a098",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":401,
+			"offset":"a0a6",
+			"length":62,
+			"jpn":"苦みの強い草の汁を煮出して作った回復薬{换行}ＨＰが少し回復する{换行}{END}",
+			"eng":"Medicine made of boiled herbs．{换行}Slightly restores HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":402,
+			"offset":"a0e4",
+			"length":54,
+			"jpn":"熟した蓮実を絞り作った回復薬{换行}ＨＰが中程度回復する{换行}{END}",
+			"eng":"Medicine made from Lotus Fruits．{换行}Moderately restores HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":403,
+			"offset":"a11a",
+			"length":66,
+			"jpn":"クチクソウの生命力を利用して作った回復薬{换行}ＨＰが大きく回復する{换行}{END}",
+			"eng":"Medicine made from Bane Weed．{换行}Greatly restores HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":404,
+			"offset":"a15c",
+			"length":60,
+			"jpn":"乾燥させた渦花を煎じて作った回復薬{换行}ＨＰを物凄く回復する{换行}{END}",
+			"eng":"Medicine made from Vortex Flowers．{换行}Fully restores HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":405,
+			"offset":"a198",
+			"length":60,
+			"jpn":"とても甘い糖核を煮込んで作った回復薬{换行}ＴＰが少し回復する{换行}{END}",
+			"eng":"Tonic stewed from Inert Sugarcores．{换行}Restores slight TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":406,
+			"offset":"a1d4",
+			"length":66,
+			"jpn":"くせの少ない味の糖星で香りづけした精神薬{换行}ＴＰが中程度回復する{换行}{END}",
+			"eng":"Tonic scented with Starstruck Sugar．{换行}Moderately restores TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":407,
+			"offset":"a216",
+			"length":66,
+			"jpn":"薬草を虫コブの蜜で漬け込んだ回復薬{换行}ＨＰとＴＰが中程度回復する{换行}{END}",
+			"eng":"Potion made by soaking herbs in Cecidium．{换行}Moderately restores HP and TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":408,
+			"offset":"a258",
+			"length":64,
+			"jpn":"アンブロシアを使って作った回復薬{换行}ＨＰとＴＰが大きく回復する{换行}{END}",
+			"eng":"Potion made from heavenly Ambrosia．{换行}Greatly restores HP and TP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":409,
+			"offset":"a298",
+			"length":76,
+			"jpn":"とても不味い珪酸華を素材に作られた回復薬{换行}味方全体のＨＰが中程度回復する{换行}{END}",
+			"eng":"Potion made from the vile Igneous Herb．{换行}Moderately restores party HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":410,
+			"offset":"a2e4",
+			"length":68,
+			"jpn":"魚類の軟骨を粉にして入れた回復薬{换行}味方全体のＨＰが大きく回復する{换行}{END}",
+			"eng":"Potion made of crushed Space Cartilage．{换行}Greatly restores party HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":411,
+			"offset":"a328",
+			"length":70,
+			"jpn":"ザゼンソウの蜜で作った簡易的な蘇生薬{换行}戦闘不能者を小ＨＰで蘇生する{换行}{END}",
+			"eng":"Revival elixir made of Skunk Cabbage．{换行}Revives a party member with low HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":412,
+			"offset":"a36e",
+			"length":66,
+			"jpn":"流星の果実を煮詰めて作った蘇生薬{换行}戦闘不能者を中ＨＰで蘇生する{换行}{END}",
+			"eng":"Revival elixir from a rare Starfall Fruit．{换行}Revives with a moderate amount of HP．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":413,
+			"offset":"a3b0",
+			"length":50,
+			"jpn":"褐色の塊茎を煮込んだ状態回復薬{换行}封じを回復する{换行}{END}",
+			"eng":"Panacea made from stewed Brown Tubers．{换行}Removes bindings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":414,
+			"offset":"a3e2",
+			"length":62,
+			"jpn":"褐色の塊茎を煮立たせて作った状態回復薬{换行}状態異常を回復する{换行}{END}",
+			"eng":"Potion made from stewed Brown Tubers．{换行}Removes ailments．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":415,
+			"offset":"a420",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":416,
+			"offset":"a42e",
+			"length":82,
+			"jpn":"味方全体に散布し熱効果を和らげるミスト{换行}５ターンの間、炎属性ダメージを軽減する{换行}{END}",
+			"eng":"A mist that absorbs extreme heat．{换行}Lessens fire damage for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":417,
+			"offset":"a480",
+			"length":82,
+			"jpn":"味方全体に散布し氷効果を和らげるミスト{换行}５ターンの間、氷属性ダメージを軽減する{换行}{END}",
+			"eng":"A mist that absorbs extreme cold．{换行}Lessens ice damage for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":418,
+			"offset":"a4d2",
+			"length":82,
+			"jpn":"味方全体に散布し雷効果を和らげるミスト{换行}５ターンの間、雷属性ダメージを軽減する{换行}{END}",
+			"eng":"A mist that mitigates electrical charge．{换行}Lessens volt damage for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":419,
+			"offset":"a524",
+			"length":84,
+			"jpn":"吸い込むタイプの味方全体の魔法緩和ミスト{换行}５ターンの間、炎氷雷ダメージを軽減する{换行}{END}",
+			"eng":"A mist that counteracts all elements．{换行}The effect lasts for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":420,
+			"offset":"a578",
+			"length":86,
+			"jpn":"すり潰したアロマゴケを煎じて作った強化薬{换行}５ターンの間、斬突壊属性攻撃力が上昇する{换行}{END}",
+			"eng":"Enhancement potion of brewed Aromatic Moss．{换行}Increases attack for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":421,
+			"offset":"a5ce",
+			"length":84,
+			"jpn":"ゾンビダケを特殊な薬に漬け込んだ強化薬{换行}５ターンの間、斬突壊属性防御力が上昇する{换行}{END}",
+			"eng":"Enhancement potion made of Zombie Shrooms．{换行}Increases defense for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":422,
+			"offset":"a622",
+			"length":78,
+			"jpn":"武器に塗りつけると炎を生ずるオイル{换行}５ターンの間、武器属性に炎が追加される{换行}{END}",
+			"eng":"Oil that imbues a weapon with the element{换行}of fire． The effect lasts for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":423,
+			"offset":"a670",
+			"length":78,
+			"jpn":"武器に塗りつけると氷を生ずるオイル{换行}５ターンの間、武器属性に氷が追加される{换行}{END}",
+			"eng":"Oil that imbues a weapon with the element{换行}of ice． The effect lasts for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":424,
+			"offset":"a6be",
+			"length":78,
+			"jpn":"武器に塗りつけると雷を生ずるオイル{换行}５ターンの間、武器属性に雷が追加される{换行}{END}",
+			"eng":"Oil that imbues a weapon with the element{换行}of lightning． The effect lasts for ５ turns．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":425,
+			"offset":"a70c",
+			"length":72,
+			"jpn":"肉厚な茎から作られた対象の戦意を削ぐ薬{换行}敵全体の強化・弱体を打ち消す{换行}{END}",
+			"eng":"Neurotoxin extracted from a Thick Stalk．{换行}Neutralizes an enemy’s status boosts．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":426,
+			"offset":"a754",
+			"length":62,
+			"jpn":"ネバリゴケを煎じて作った薬{换行}味方全体の強化・弱体を打ち消す{换行}{END}",
+			"eng":"Paste made of boiled Ooze Mushrooms．{换行}Returns all allies to normal status．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":427,
+			"offset":"a792",
+			"length":70,
+			"jpn":"硬質化した鎧から作られた綺麗な箱{换行}使用した戦闘の経験値がアップする{换行}{END}",
+			"eng":"A beautiful box made from hardened armor．{换行}Increases experience gained in one battle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":428,
+			"offset":"a7d8",
+			"length":80,
+			"jpn":"樹海で採れる鉱石を磨いて作った眼鏡{换行}使用した敵の情報を一時的に図鑑に登録する{换行}{END}",
+			"eng":"Glasses made from a polished forest ore．{换行}Temporarily adds an enemy to the codex．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":429,
+			"offset":"a828",
+			"length":70,
+			"jpn":"特殊な石から作られた不快な音色を出す鈴{换行}樹海での敵遭遇率が低下する{换行}{END}",
+			"eng":"Made from a special ore, its repellent chime{换行}decreases the enemy encounter rate．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":430,
+			"offset":"a86e",
+			"length":74,
+			"jpn":"プリンの核を溶かして作った獣が好む音色の鈴{换行}迷宮での敵遭遇率が上昇する{换行}{END}",
+			"eng":"Made from Gelatinous Cores, its attractive {换行}chime increases the enemy encounter rate．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":431,
+			"offset":"a8b8",
+			"length":58,
+			"jpn":"使用すると街まで戻る事ができる{换行}迷宮探索に欠かせない糸{换行}{END}",
+			"eng":"Thread used to return to town．{换行}Necessary for venturing into the Labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":432,
+			"offset":"a8f2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":433,
+			"offset":"a900",
+			"length":92,
+			"jpn":"軽い骨を素材とした靴で、使用すると一定歩数{换行}フィールド上で発生するダメージ全般を軽減する{换行}{END}",
+			"eng":"Insoles made from light bones that lowers{换行}damage from harmful floors．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":434,
+			"offset":"a95c",
+			"length":74,
+			"jpn":"研究用に開発された液体。使用ターンに{换行}倒した魔物の素材を全て入手できる{换行}{END}",
+			"eng":"Use in battle to gain all materials from{换行}enemies slain that turn．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":435,
+			"offset":"a9a6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":436,
+			"offset":"a9b4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":437,
+			"offset":"a9c2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":438,
+			"offset":"a9d0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":439,
+			"offset":"a9de",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":440,
+			"offset":"a9ec",
+			"length":84,
+			"jpn":"虹色果実から作られた火球が放たれる護符{换行}敵１体に遠隔炎属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Rainbow Fruit． Open to unleash{换行}a ranged ball of fire at one enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":441,
+			"offset":"aa40",
+			"length":84,
+			"jpn":"虹色果実から作られた氷槍が放たれる護符{换行}敵１体に遠隔氷属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Rainbow Fruit． Open to unleash{换行}a ranged spear of ice at one enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":442,
+			"offset":"aa94",
+			"length":84,
+			"jpn":"虹色果実から作られた雷弾が放たれる護符{换行}敵１体に遠隔雷属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Rainbow Fruit． Open to unleash{换行}a ranged bolt of lightning at one enemy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":443,
+			"offset":"aae8",
+			"length":88,
+			"jpn":"トケイバナから作った辺りを火の海にする護符{换行}敵全体に遠隔炎属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Clock Flowers． Open to unleash{换行}a wave of flames against all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":444,
+			"offset":"ab40",
+			"length":88,
+			"jpn":"トケイバナから作った辺りを氷漬けにする護符{换行}敵全体に遠隔氷属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Clock Flowers． Open to unleash{换行}a cold snap against all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":445,
+			"offset":"ab98",
+			"length":86,
+			"jpn":"トケイバナから作った雷撃がほとばしる護符{换行}敵全体に遠隔雷属性によるダメージを与える{换行}{END}",
+			"eng":"Made from Clock Flowers． Open to unleash{换行}a lightning storm against all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":446,
+			"offset":"abee",
+			"length":56,
+			"jpn":"使うと催涙性の霧を散布する香{换行}敵全体に盲目を付与する{换行}{END}",
+			"eng":"A dark gas that blinds all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":447,
+			"offset":"ac26",
+			"length":48,
+			"jpn":"使うと毒霧を散布する香{换行}敵全体に毒を付与する{换行}{END}",
+			"eng":"A toxic gas that poisons all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":448,
+			"offset":"ac56",
+			"length":52,
+			"jpn":"使うと麻痺毒を散布する香{换行}敵全体に麻痺を付与する{换行}{END}",
+			"eng":"An anesthetic gas that paralyzes all {换行}enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":449,
+			"offset":"ac8a",
+			"length":60,
+			"jpn":"使うと思考が乱れる霧を散布する香{换行}敵全体に混乱を付与する{换行}{END}",
+			"eng":"A mesmerizing gas that causes all enemies to{换行}panic．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":450,
+			"offset":"acc6",
+			"length":52,
+			"jpn":"使うと謎の霧を散布する香{换行}敵全体に呪いを付与する{换行}{END}",
+			"eng":"A demonic gas that curses all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":451,
+			"offset":"acfa",
+			"length":58,
+			"jpn":"使うと眠気を誘う霧を散布する香{换行}敵全体に睡眠を付与する{换行}{END}",
+			"eng":"A soporific gas that puts all enemies to{换行}sleep．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":452,
+			"offset":"ad34",
+			"length":68,
+			"jpn":"使うと体の自由を奪う神経毒が含まれる糸{换行}敵全体に頭封じを付与する{换行}{END}",
+			"eng":"A thread coated with disabling toxins．{换行}Binds all enemy heads．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":453,
+			"offset":"ad78",
+			"length":68,
+			"jpn":"使うと体の自由を奪う神経毒が含まれる糸{换行}敵全体に腕封じを付与する{换行}{END}",
+			"eng":"A thread coated with disabling toxins．{换行}Binds all enemy arms．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":454,
+			"offset":"adbc",
+			"length":68,
+			"jpn":"使うと体の自由を奪う神経毒が含まれる糸{换行}敵全体に脚封じを付与する{换行}{END}",
+			"eng":"A thread coated with disabling toxins．{换行}Binds all enemy legs．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":455,
+			"offset":"ae00",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":456,
+			"offset":"ae0e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":457,
+			"offset":"ae1c",
+			"length":88,
+			"jpn":"魔晶花から作ったカマイタチを発生させる護符{换行}敵全体に遠隔斬攻撃によるダメージを与える{换行}{END}",
+			"eng":"Made from the mana of a Crystal Flower．{换行}Open to unleash a Cut attack on all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":458,
+			"offset":"ae74",
+			"length":84,
+			"jpn":"魔晶花から作った重力場を発生させる護符{换行}敵全体に遠隔壊攻撃によるダメージを与える{换行}{END}",
+			"eng":"Made from the mana of a Crystal Flower．{换行}Open to unleash a Bash attack on all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":459,
+			"offset":"aec8",
+			"length":84,
+			"jpn":"魔晶花から作った鋭い水晶が乱れ飛ぶ護符{换行}敵全体に遠隔突攻撃によるダメージを与える{换行}{END}",
+			"eng":"Made from the mana of a Crystal Flower．{换行}Open to unleash a Stab attack on all enemies．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":460,
+			"offset":"af1c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":461,
+			"offset":"af2a",
+			"length":62,
+			"jpn":"使うと体の自由を奪う霧を散布する香{换行}敵全体に石化を付与する{换行}{END}",
+			"eng":"A petrifying gas that causes all enemies to{换行}become petrified．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":462,
+			"offset":"af68",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":463,
+			"offset":"af76",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":464,
+			"offset":"af84",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":465,
+			"offset":"af92",
+			"length":76,
+			"jpn":"周囲の宝箱、隠し通路、階段、ＦＯＥ{换行}採集ポイント、釣りポイントを表示する{换行}{END}",
+			"eng":"Use to show nearby enemies, paths, stairs,{换行}FOEs, gather points, and fishing points．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":466,
+			"offset":"afde",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":467,
+			"offset":"afec",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":468,
+			"offset":"affa",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":469,
+			"offset":"b008",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":470,
+			"offset":"b016",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":471,
+			"offset":"b024",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":472,
+			"offset":"b032",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":473,
+			"offset":"b040",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":474,
+			"offset":"b04e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":475,
+			"offset":"b05c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":476,
+			"offset":"b06a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":477,
+			"offset":"b078",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":478,
+			"offset":"b086",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":479,
+			"offset":"b094",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":480,
+			"offset":"b0a2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":481,
+			"offset":"b0b0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":482,
+			"offset":"b0be",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":483,
+			"offset":"b0cc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":484,
+			"offset":"b0da",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":485,
+			"offset":"b0e8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":486,
+			"offset":"b0f6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":487,
+			"offset":"b104",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":488,
+			"offset":"b112",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":489,
+			"offset":"b120",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":490,
+			"offset":"b12e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":491,
+			"offset":"b13c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":492,
+			"offset":"b14a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":493,
+			"offset":"b158",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":494,
+			"offset":"b166",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":495,
+			"offset":"b174",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":496,
+			"offset":"b182",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":497,
+			"offset":"b190",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":498,
+			"offset":"b19e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":499,
+			"offset":"b1ac",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":500,
+			"offset":"b1ba",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":501,
+			"offset":"b1c8",
+			"length":44,
+			"jpn":"世界樹の迷宮で地図を描くための羊皮紙{换行}　{换行}{END}",
+			"eng":"Parchment used to map the interior of the{换行}Yggdrasil Labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":502,
+			"offset":"b1f4",
+			"length":40,
+			"jpn":"世界樹から生えている巨大な木の根{换行}　{换行}{END}",
+			"eng":"Piece of a giant root growing from Yggdrasil．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":503,
+			"offset":"b21c",
+			"length":72,
+			"jpn":"樹海の第一階層で入手した土。黒色土と{换行}呼ばれ黒褐色で腐植に富んでいる{换行}{END}",
+			"eng":"Soil obtained from the １st Stratum．{换行}It’s called black soil, and is rich in humus．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":504,
+			"offset":"b264",
+			"length":44,
+			"jpn":"樹海に生息する鵜{换行}大きな魚も丸呑みにする{换行}{END}",
+			"eng":"A chicken that lives in the labyrinth．{换行}It can even swallow a large fish whole．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":505,
+			"offset":"b290",
+			"length":84,
+			"jpn":"セリクからもらった非常に重いツルハシ{换行}扱いづらく、何かの破壊にしか使えそうにない{换行}{END}",
+			"eng":"An extremely heavy pickaxe given by Syrik．{换行}It’s hard to use, and seems to only be{换行}useful for destroying things．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":506,
+			"offset":"b2e4",
+			"length":68,
+			"jpn":"封印の施された扉を開けるための鍵{换行}鍵全体からほのかな魔力を感じる{换行}{END}",
+			"eng":"A key used to open sealed doors．{换行}One can sense faint traces of mana from it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":507,
+			"offset":"b328",
+			"length":98,
+			"jpn":"{道具:2E07}を作るための小瓶{换行}小さいので携行するのに適している{换行}料理必要食材：{颜色:0500}{道具:0207}　{道具:FD06}　{道具:2B07}{颜色:0000}{换行}{END}",
+			"eng":"Small bottle used for making {道具:2E07}．{换行}Because it’s small, it’s easy to carry around．{换行}Need： {颜色:0500}{道具:0207}, {道具:FD06}, {道具:2B07}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":508,
+			"offset":"b38a",
+			"length":78,
+			"jpn":"ブラニー族の花屋の店主が家の蔵で見つけた種{换行}紫色で大きく、表面はかなり固い{换行}{END}",
+			"eng":"Seed found in the storage of a Brouni florist．{换行}It’s purple, large, and has a hard surface．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":509,
+			"offset":"b3d8",
+			"length":94,
+			"jpn":"１３階に向かって戻って来ない衛兵隊への支援物資{换行}水、食料に加えてアリアドネの糸が入っている{换行}{END}",
+			"eng":"Supplies for the Guard Corps that went{换行}missing around １３F． Water, food, and{换行}Ariadne Threads are packed inside it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":510,
+			"offset":"b436",
+			"length":82,
+			"jpn":"依頼人が祖母からもらったというお守り{换行}宝石が埋め込まれており、意外と高価そうだ{换行}{END}",
+			"eng":"A charm from the client’s grandmother．{换行}It’s embedded with a lustrous gem, and{换行}looks rather expensive．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":511,
+			"offset":"b488",
+			"length":82,
+			"jpn":"表紙も中身もボロボロになっている本{换行}古い言語で書かれており、読むことができない{换行}{END}",
+			"eng":"A dusty, worn-out book, ragged from its{换行}cover to the inside pages． It’s written in{换行}an ancient script and therefore illegible．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":512,
+			"offset":"b4da",
+			"length":68,
+			"jpn":"結婚指輪の材料にすると幸福になると{换行}言われている太陽によく似た石{换行}{END}",
+			"eng":"A gemstone that glows like the sun．{换行}It’s said that using it in a wedding ring{换行}promises a happy future together．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":513,
+			"offset":"b51e",
+			"length":66,
+			"jpn":"結婚指輪の材料にすると幸福になると{换行}言われている月によく似た石{换行}{END}",
+			"eng":"A gemstone that glows like the moon．{换行}It’s said that using it in a wedding ring{换行}promises a happy future together．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":514,
+			"offset":"b560",
+			"length":66,
+			"jpn":"依頼人の娘が使っていたという兜{换行}グリフォンの紋章が描かれている{换行}{END}",
+			"eng":"A helm that was worn by the client’s daughter．{换行}A heraldic gryphon emblem is depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":515,
+			"offset":"b5a2",
+			"length":60,
+			"jpn":"魔物の巣を破壊するための爆弾{换行}小さい割にはずっしりと重い{换行}{END}",
+			"eng":"Bomb for destroying a monster’s nest．{换行}Despite its small size, it’s very heavy．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":516,
+			"offset":"b5de",
+			"length":78,
+			"jpn":"角を含めた全長が１８０ＭＭを超える{换行}世界樹の迷宮で最大といわれるカブトムシ{换行}{END}",
+			"eng":"A mighty beetle that measures nearly{换行}a foot long, when you include its horns．{换行}The biggest battle bug in the labyrinth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":517,
+			"offset":"b62c",
+			"length":72,
+			"jpn":"太長の大角と６本の小角が特徴のカブトムシ{换行}力は強いが温厚な個体が多い{换行}{END}",
+			"eng":"A beetle with an eponymously big horn{换行}and six smaller horns． It’s strong, but it{换行}tends to be mild in disposition．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":518,
+			"offset":"b674",
+			"length":76,
+			"jpn":"乾燥地帯に生息する小型のクワガタ{换行}大人しく育てやすいため飼育初心者に人気{换行}{END}",
+			"eng":"A small beetle that lives in dry areas．{换行}Because it’s docile and easy to raise,{换行}it’s popular as a beginner’s battle bug．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":519,
+			"offset":"b6c0",
+			"length":62,
+			"jpn":"痛みを感じない注射針を使用した注射器{换行}小さな子どもでも安心{换行}{END}",
+			"eng":"Medical syringe with a painless needle．{换行}Even small children won’t feel a thing．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":520,
+			"offset":"b6fe",
+			"length":38,
+			"jpn":"大サソリの尻尾から抽出した毒素{换行}　{换行}{END}",
+			"eng":"Venom extracted from a scorpion monster．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":521,
+			"offset":"b724",
+			"length":70,
+			"jpn":"表面全てが砂糖などで塗り固められたパン{换行}触れると手がべたべたになる{换行}{END}",
+			"eng":"Bread hardened with sugar on the outside．{换行}Touching it makes one’s hands sticky．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":522,
+			"offset":"b76a",
+			"length":60,
+			"jpn":"生地そのものが真っ赤に染まったパン{换行}臭いも辛い感じがする{换行}{END}",
+			"eng":"Bread spiced up with a vivid red crust．{换行}It even smells too hot to handle．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":523,
+			"offset":"b7a6",
+			"length":106,
+			"jpn":"{道具:2D07}を焼くための平鍋{换行}持ち運びにちょうど良い大きさと重さの逸品{换行}料理必要食材：{颜色:0500}{道具:F406}　{道具:FE06}　{道具:FD06}{颜色:0000}{换行}{END}",
+			"eng":"Flat pot for grilling {道具:2D07}．{换行}Of perfect size, weight, and overall portability．{换行}Need： {颜色:0500}{道具:F406}, {道具:FE06}, {道具:FD06}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":524,
+			"offset":"b810",
+			"length":102,
+			"jpn":"{道具:2F07}を作るための皮袋{换行}{道具:0807}を入れ定温保存でヨーグルトになる{换行}料理必要食材：{颜色:0500}{道具:0807}　{道具:2807}　{道具:2B07}{颜色:0000}{换行}{END}",
+			"eng":"Leather pouch for making {道具:2F07}．{换行}Pour in {道具:0807} and preserve at a set heat．{换行}Need： {颜色:0500}{道具:0807}, {道具:2807}, {道具:2B07}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":525,
+			"offset":"b876",
+			"length":80,
+			"jpn":"ジェネッタが宿泊客の行き先を記したメモ{换行}『４かいでつり。ざりがにがあぶない』{换行}{END}",
+			"eng":"Memo from Jenetta’s Inn regarding a guest．{换行}”Fishing on ４F． Beware of selfish shellfish．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":526,
+			"offset":"b8c6",
+			"length":64,
+			"jpn":"ジェネッタが宿泊客の行き先を記したメモ{换行}『１０かいのかじや』{换行}{END}",
+			"eng":"Memo from Jenetta’s Inn regarding a guest．{换行}”Blacksmith on １０F． Strike while iron’s hot．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":527,
+			"offset":"b906",
+			"length":68,
+			"jpn":"ジェネッタが宿泊客の行き先を記したメモ{换行}『１３かいのすずきさん』{换行}{END}",
+			"eng":"Memo from Jenetta’s Inn regarding a guest．{换行}”Mr． Suzuki on １３F． What kinda name is that？”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":528,
+			"offset":"b94a",
+			"length":74,
+			"jpn":"ジェネッタが宿泊客の行き先を記したメモ{换行}『すいしょうびっしりのとまと』{换行}{END}",
+			"eng":"Memo from Jenetta’s Inn regarding a guest．{换行}”Tons of tomatoes with a side of crystals．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":529,
+			"offset":"b994",
+			"length":64,
+			"jpn":"宿屋で配っている手製の弁当{换行}毎日食べたくなる家庭的な味らしい{换行}{END}",
+			"eng":"Memo from Jenetta’s Inn regarding a guest．{换行}”The soothing taste reminds one of home．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":530,
+			"offset":"b9d4",
+			"length":52,
+			"jpn":"非常に硬いツルハシでどんなものでも砕けそうだ{换行}　{换行}{END}",
+			"eng":"An extremely hard pickaxe that could{换行}seemingly shatter just about anything．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":531,
+			"offset":"ba08",
+			"length":74,
+			"jpn":"樹海の石灰水で洗浄した動物の毛皮{换行}艶やかな光沢と滑らかな手触りが魅力的{换行}{END}",
+			"eng":"Fur cleaned with forest lime water．{换行}Its shine and slick texture are oddly{换行}charming．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":532,
+			"offset":"ba52",
+			"length":72,
+			"jpn":"水晶の根元に咲いていた赤く鮮やかな花{换行}逞しく凛とした佇まいをしている{换行}{END}",
+			"eng":"A vibrant red flower blooming at the base{换行}of a bed of crystals． Has a curious dignity．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":533,
+			"offset":"ba9a",
+			"length":62,
+			"jpn":"水の中で咲いていた青い花{换行}水中で揺らめく花弁が優雅で美しい{换行}{END}",
+			"eng":"A blue flower blooming in the water． Its{换行}aquatic petals have an elegance to them．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":534,
+			"offset":"bad8",
+			"length":70,
+			"jpn":"水晶の中に閉じ込められている花{换行}いつ頃咲いていたものかは分からない{换行}{END}",
+			"eng":"A flower encapsulated in a crystal．{换行}It’s unknown when it had blossomed．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":535,
+			"offset":"bb1e",
+			"length":62,
+			"jpn":"旅商人セリクが発明した魔物捕獲器{换行}別名、自立移動式麻酔砲台{换行}{END}",
+			"eng":"Syrik’s monster-capturing device． AKA：{换行}The Autonomous Anesthesia Armament．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":536,
+			"offset":"bb5c",
+			"length":56,
+			"jpn":"身動きのとれないハリセンスズメから{换行}抜いた１枚の羽根{换行}{END}",
+			"eng":"A feather plucked from a Puffer Sparrow{换行}that could not move．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":537,
+			"offset":"bb94",
+			"length":76,
+			"jpn":"「春を告げる花」と言われている白い花{换行}人に贈る場合に花言葉の意味が変わる{换行}{END}",
+			"eng":"A white flower said to herald spring． Its{换行}symbolism changes when given as a gift．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":538,
+			"offset":"bbe0",
+			"length":74,
+			"jpn":"陽の当たらない場所で進化したムカデ{换行}酒場で誰かが興味を持つかもしれない{换行}{END}",
+			"eng":"A centipede that evolved in a sunless place．{换行}Maybe someone at the tavern would want it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":539,
+			"offset":"bc2a",
+			"length":60,
+			"jpn":"魔力を秘めた青い水晶{换行}酒場で誰かが興味を持つかもしれない{换行}{END}",
+			"eng":"An azure mineral imbued with mana．{换行}Someone at the tavern may be interested．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":540,
+			"offset":"bc66",
+			"length":60,
+			"jpn":"樹海で見つけたウサギ{换行}酒場で誰かが興味を持つかもしれない{换行}{END}",
+			"eng":"A non-killer rabbit found in the labyrinth．{换行}Someone at the tavern may be interested．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":541,
+			"offset":"bca2",
+			"length":60,
+			"jpn":"樹海で捕まえたオウム{换行}酒場で誰かが興味を持つかもしれない{换行}{END}",
+			"eng":"A parrot you caught in the labyrinth．{换行}Someone at the tavern may be interested．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":542,
+			"offset":"bcde",
+			"length":74,
+			"jpn":"亡者の樹海で見つけた真鍮製のナイフ{换行}美しい一角獣の姿が彫り込まれている{换行}{END}",
+			"eng":"A brass knife from the abyssal graveyard．{换行}Engraved with a beautiful, one-horned beast．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":543,
+			"offset":"bd28",
+			"length":70,
+			"jpn":"素材には使えそうにない小さな水晶{换行}贈り物としてなら価値がありそうだ{换行}{END}",
+			"eng":"Small crystal with no crafting applicability．{换行}It may be worth giving as a gift, though．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":544,
+			"offset":"bd6e",
+			"length":70,
+			"jpn":"樹海の５階で巣を作ってしまった魔物を{换行}おびき出すために用意された肉{换行}{END}",
+			"eng":"Meat prepared to lure out the monsters{换行}that built a nest on ５F．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":545,
+			"offset":"bdb4",
+			"length":62,
+			"jpn":"第六階層で見つけた赤く小さな鉄板{换行}炎を吹く筒が描かれている{换行}{END}",
+			"eng":"Small red plate found in the ６th Stratum．{换行}A flame-spewing cylinder is depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":546,
+			"offset":"bdf2",
+			"length":76,
+			"jpn":"第六階層で見つけた青く小さな鉄板{换行}虫のような左脚と刀剣の絵が描かれている{换行}{END}",
+			"eng":"Small blue plate found in the ６th Stratum．{换行}A left leg and a blade are depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":547,
+			"offset":"be3e",
+			"length":78,
+			"jpn":"第六階層で見つけた黄色く小さな鉄板{换行}虫のような右脚と刀剣の絵が描かれている{换行}{END}",
+			"eng":"Small yellow plate found in the ６th Stratum．{换行}A right leg and a blade are depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":548,
+			"offset":"be8c",
+			"length":70,
+			"jpn":"第六階層で見つけた緑色の小さな鉄板{换行}輪を放つ円柱の絵が描かれている{换行}{END}",
+			"eng":"Small green plate found in the ６th Stratum．{换行}A ring-emitting pillar is depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":549,
+			"offset":"bed2",
+			"length":70,
+			"jpn":"第六階層で見つけた白く小さな鉄板{换行}幾つもの太い管の絵が描かれている{换行}{END}",
+			"eng":"Small white plate found in the ６th Stratum．{换行}Many short, thick tubes are depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":550,
+			"offset":"bf18",
+			"length":78,
+			"jpn":"第六階層で見つけた黒い小さな鉄板{换行}箱から細長い筒が放たれた絵が描かれている{换行}{END}",
+			"eng":"Small black plate found in the ６th Stratum．{换行}A cube with long, thin tubes is depicted on it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":551,
+			"offset":"bf66",
+			"length":72,
+			"jpn":"依頼用に支給されたアリアドネの糸{换行}自分のために使用することはできない{换行}{END}",
+			"eng":"Ariadne Thread supplied for the request．{换行}It cannot be used for yourself．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":552,
+			"offset":"bfae",
+			"length":52,
+			"jpn":"魔法陣の罠を探すための機械{换行}検知の精度はいまいち{换行}{END}",
+			"eng":"A machine for locating rune circle traps．{换行}Its detecting precision is mediocre at best．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":553,
+			"offset":"bfe2",
+			"length":68,
+			"jpn":"魔法陣の罠を解除するためのお札{换行}安全に罠を解除するには必須のもの{换行}{END}",
+			"eng":"A charm needed to disable rune circle traps．{换行}A necessity for safely extracting their mana．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":554,
+			"offset":"c026",
+			"length":60,
+			"jpn":"黒く輝く真珠　元は乳白色をしていたが{换行}魚の体内で変色した{换行}{END}",
+			"eng":"A shining black pearl． Being inside a{换行}fish took away its previous white luster．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":555,
+			"offset":"c062",
+			"length":74,
+			"jpn":"樹海で採れる素材で作る{换行}{道具:0007}のレシピ{换行}料理必要食材：{颜色:0500}{道具:F406}　{道具:FE06}{颜色:0000}{换行}{END}",
+			"eng":"Recipe for {道具:0007} made with{换行}ingredients found in the forest．{换行}Need： {颜色:0500}{道具:F406}, {道具:FE06}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":556,
+			"offset":"c0ac",
+			"length":64,
+			"jpn":"ルナリアの薬剤師が探していた花びら{换行}人を癒す効果を秘めている{换行}{END}",
+			"eng":"Petal that the Celestrian apothecary was{换行}searching for． Carries healing properties．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":557,
+			"offset":"c0ec",
+			"length":62,
+			"jpn":"樹海烏骨鶏というニワトリ{换行}新鮮なタマゴが採れるかもしれない{换行}{END}",
+			"eng":"A wild chicken also known as Nugget．{换行}You may be able to get eggs from it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":558,
+			"offset":"c12a",
+			"length":52,
+			"jpn":"樹海で育った牛{换行}新鮮なミルクが採れるかもしれない{换行}{END}",
+			"eng":"A cow that grew up in the labyrinth．{换行}You may be able to get milk from it．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":559,
+			"offset":"c15e",
+			"length":58,
+			"jpn":"黄金で作られた美しい角杯{换行}とても高価で高い価値のある品{换行}{END}",
+			"eng":"An ornate drinking horn of solid gold．{换行}A very expensive and valuable item．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":560,
+			"offset":"c198",
+			"length":100,
+			"jpn":"１２階の北西に隠した遺品の在りかが記されている{换行}『毒の沼地で四方が囲まれた浮き地に反応有』とある{换行}{END}",
+			"eng":"Directions to find gear in northwest １２F．{换行}It says, ”Reading came from an island{换行}surrounded on all sides by toxic waste．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":561,
+			"offset":"c1fc",
+			"length":94,
+			"jpn":"１２階の北東に隠した遺品の在りかが記されている{换行}『目に映らぬ秘密の通路の先に反応有』とある{换行}{END}",
+			"eng":"Directions to find gear in northeast １２F．{换行}It says, ”Reading came from beyond the{换行}secret passage, hidden to the naked eye．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":562,
+			"offset":"c25a",
+			"length":106,
+			"jpn":"１２階の南西に隠した遺品の在りかが記されている{换行}『大きな広間を抜けた先、小道の突き当りに反応有』とある{换行}{END}",
+			"eng":"Directions to find gear in southwest １２F．{换行}It says, ”Reading came from the dead end{换行}of a narrow path out beyond a larger hall．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":563,
+			"offset":"c2c4",
+			"length":98,
+			"jpn":"１２階の南東に隠した遺品の在りかが記されている{换行}『大広間の端に位置する大木の洞に反応有』とある{换行}{END}",
+			"eng":"Directions to find gear in southeast １２F．{换行}It says, ”Reading came from within a hollow{换行}in a large tree at the edge of the great hall．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":564,
+			"offset":"c326",
+			"length":78,
+			"jpn":"{道具:F706}を作る際に使う{换行}携行しやすい小型の鍋{换行}料理必要食材：{颜色:0500}{道具:0807}　{道具:F506}{颜色:0000}{换行}{END}",
+			"eng":"Used for cooking {道具:F706}．{换行}A small pot that’s easy to carry around．{换行}Need： {颜色:0500}{道具:0807}, {道具:F506}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":565,
+			"offset":"c374",
+			"length":84,
+			"jpn":"{道具:F806}を作る際に使う土鍋{换行}山都から取り寄せた逸品{换行}料理必要食材：{颜色:0500}{道具:F006}　{道具:2C07}{颜色:0000}{换行}{END}",
+			"eng":"Earthen pot used for cooking {道具:F806}s．{换行}A masterpiece ordered from a Therian city．{换行}Need： {颜色:0500}{道具:F006}, {道具:2C07}{颜色:0000}{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":566,
+			"offset":"c3c8",
+			"length":138,
+			"jpn":"様々な職業の達人たちが書き残した書物{换行}古い時代の文字で書かれているため解読の必要があるが{换行}その内容を把握した者は達人に匹敵する力を得る{换行}{END}",
+			"eng":"Document left by masters of various classes．{换行}The ancient script needs to be deciphered, but{换行}those who read it gain a true master’s power．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":567,
+			"offset":"c452",
+			"length":86,
+			"jpn":"魚を釣るための道具{换行}竿と糸の素材はかなりしっかりしており{换行}大物が相手でも戦えそうだ{换行}{END}",
+			"eng":"Tool for fishing． The line and pole are very{换行}high-quality, so go for big game．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":568,
+			"offset":"c4a8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":569,
+			"offset":"c4b6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":570,
+			"offset":"c4c4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":571,
+			"offset":"c4d2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":572,
+			"offset":"c4e0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":573,
+			"offset":"c4ee",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":574,
+			"offset":"c4fc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":575,
+			"offset":"c50a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":576,
+			"offset":"c518",
+			"length":54,
+			"jpn":"刀身が赤く錆びている剣{换行}野菜を切ることすらできない{换行}{END}",
+			"eng":"Sword with a blade that’s rusted red．{换行}It can’t even cut vegetables．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":577,
+			"offset":"c54e",
+			"length":56,
+			"jpn":"赤く錆びたナックル{换行}無理に使おうとすると突き指になる{换行}{END}",
+			"eng":"Knuckle guard that’s rusted red． If you try to{换行}use it, you’ll probably sprain your fingers．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":578,
+			"offset":"c586",
+			"length":58,
+			"jpn":"錆びて二本に折れてしまった杖{换行}肩を叩くことすらできない{换行}{END}",
+			"eng":"Staff that’s rusted and snapped in half．{换行}Not a great back massager, either．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":579,
+			"offset":"c5c0",
+			"length":64,
+			"jpn":"赤く錆びて刀身が欠けている刀{换行}鞘から抜いただけで折れてしまう{换行}{END}",
+			"eng":"Katana that’s rusted and chipped． If you{换行}try to draw it, it may very well break．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":580,
+			"offset":"c600",
+			"length":66,
+			"jpn":"錆びて二つに折れた弓{换行}意中の異性の心を射止めることすらできない{换行}{END}",
+			"eng":"Bow that’s rusted and broken in half．{换行}Don’t go playing Cupid with this．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":581,
+			"offset":"c642",
+			"length":58,
+			"jpn":"赤く錆びて刃が丸くなってしまった鎌{换行}バナナより切れない{换行}{END}",
+			"eng":"A scythe with a blade dull from rust． You{换行}might as well try to cut with a banana．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":582,
+			"offset":"c67c",
+			"length":46,
+			"jpn":"銃身が赤く錆びてしまった銃{换行}水鉄砲にはなる{换行}{END}",
+			"eng":"A gun with a barrel that’s rusted red．{换行}At least it still works as a water gun．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":583,
+			"offset":"c6aa",
+			"length":66,
+			"jpn":"錆びてぼろぼろになった籠手{换行}無理に使おうとすると青あざができる{换行}{END}",
+			"eng":"A gauntlet that is rusting away． If you{换行}try to use it, you’ll get bruises．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":584,
+			"offset":"c6ec",
+			"length":50,
+			"jpn":"死者の魂を救済するための詞が{换行}書かれた羊皮紙。{换行}{END}",
+			"eng":"Parchment inscribed with a song that{换行}saves the souls of the deceased．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":585,
+			"offset":"c71e",
+			"length":70,
+			"jpn":"盗賊オスカーが墓を荒らして入手した盗品{换行}元の場所へと返す必要がある{换行}{END}",
+			"eng":"Items taken from a tomb by Oscar．{换行}They belong in their rightful place．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":586,
+			"offset":"c764",
+			"length":40,
+			"jpn":"息子が母を想って書いた最後の手紙{换行}　{换行}{END}",
+			"eng":"Last words from a son to his mother．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":587,
+			"offset":"c78c",
+			"length":78,
+			"jpn":"有害な毒を持つが治療にも使われる赤い花{换行}彼岸の頃がやってくると花を咲かせる{换行}{END}",
+			"eng":"A toxic red flower used in medicines．{换行}Blooms around the spring equinox．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":588,
+			"offset":"c7da",
+			"length":58,
+			"jpn":"巨大な芋虫の巣から採取した糸{换行}シルクの素材に用いられる{换行}{END}",
+			"eng":"Thread taken from a giant caterpillar{换行}monster’s nest． Used to make silk．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":589,
+			"offset":"c814",
+			"length":56,
+			"jpn":"ルナリアとセリアンの男女が{换行}大戦中に交わしていた手紙{换行}{END}",
+			"eng":"A letter between a Celestrian man and{换行}a Therian woman during the great war．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":590,
+			"offset":"c84c",
+			"length":56,
+			"jpn":"ルナリアとセリアンの男女が{换行}大戦中に交わしていた手紙{换行}{END}",
+			"eng":"A letter between a Celestrian man and{换行}a Therian woman during the great war．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":591,
+			"offset":"c884",
+			"length":56,
+			"jpn":"ルナリアとセリアンの男女が{换行}大戦中に交わしていた手紙{换行}{END}",
+			"eng":"A letter between a Celestrian man and{换行}a Therian woman during the great war．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":592,
+			"offset":"c8bc",
+			"length":56,
+			"jpn":"ルナリアとセリアンの男女が{换行}大戦中に交わしていた手紙{换行}{END}",
+			"eng":"A letter between a Celestrian man and{换行}a Therian woman during the great war．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":593,
+			"offset":"c8f4",
+			"length":56,
+			"jpn":"ルナリアとセリアンの男女が{换行}大戦中に交わしていた手紙{换行}{END}",
+			"eng":"A letter between a Celestrian man and{换行}a Therian woman during the great war．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":594,
+			"offset":"c92c",
+			"length":52,
+			"jpn":"怪我で身動きのとれない冒険者が{换行}仲間にあてた手紙{换行}{END}",
+			"eng":"A letter written by an injured{换行}adventurer to a fellow explorer．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":595,
+			"offset":"c960",
+			"length":58,
+			"jpn":"土の中に埋もれていた銃{换行}どの程度の価値があるのかは不明{换行}{END}",
+			"eng":"A gun that was buried in the ground．{换行}Its worth is unknown．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":596,
+			"offset":"c99a",
+			"length":70,
+			"jpn":"苔の付着した表面がどこか儚げな大盾{换行}どの程度の価値があるのかは不明{换行}{END}",
+			"eng":"A large, seemingly fragile moss-caked{换行}shield． Its worth is unknown．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":597,
+			"offset":"c9e0",
+			"length":76,
+			"jpn":"石板の近くの地面に埋められていた大きな鎧{换行}どの程度の価値があるのかは不明{换行}{END}",
+			"eng":"Grand armor that was buried near the{换行}stone monument． Its worth is unknown．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":598,
+			"offset":"ca2c",
+			"length":60,
+			"jpn":"洞の中に安置されていた兜{换行}どの程度の価値があるのかは不明{换行}{END}",
+			"eng":"A helm that was enshrined in a crevice．{换行}Its worth is unknown．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":599,
+			"offset":"ca68",
+			"length":66,
+			"jpn":"陽の当たる場所で発見した鉱石{换行}夜になると太陽の様に眩く発光する{换行}{END}",
+			"eng":"Ore found where the sunlight shines．{换行}At night, it glows as bright as a sun．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":600,
+			"offset":"caaa",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":601,
+			"offset":"cab8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":602,
+			"offset":"cac6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":603,
+			"offset":"cad4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":604,
+			"offset":"cae2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":605,
+			"offset":"caf0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":606,
+			"offset":"cafe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":607,
+			"offset":"cb0c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":608,
+			"offset":"cb1a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":609,
+			"offset":"cb28",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":610,
+			"offset":"cb36",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":611,
+			"offset":"cb44",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":612,
+			"offset":"cb52",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":613,
+			"offset":"cb60",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":614,
+			"offset":"cb6e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":615,
+			"offset":"cb7c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":616,
+			"offset":"cb8a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":617,
+			"offset":"cb98",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":618,
+			"offset":"cba6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":619,
+			"offset":"cbb4",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":620,
+			"offset":"cbc2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":621,
+			"offset":"cbd0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":622,
+			"offset":"cbde",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":623,
+			"offset":"cbec",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":624,
+			"offset":"cbfa",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":625,
+			"offset":"cc08",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":626,
+			"offset":"cc16",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":627,
+			"offset":"cc24",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":628,
+			"offset":"cc32",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":629,
+			"offset":"cc40",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":630,
+			"offset":"cc4e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":631,
+			"offset":"cc5c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":632,
+			"offset":"cc6a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":633,
+			"offset":"cc78",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":634,
+			"offset":"cc86",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":635,
+			"offset":"cc94",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":636,
+			"offset":"cca2",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":637,
+			"offset":"ccb0",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":638,
+			"offset":"ccbe",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":639,
+			"offset":"cccc",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":640,
+			"offset":"ccda",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":641,
+			"offset":"cce8",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":642,
+			"offset":"ccf6",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":643,
+			"offset":"cd04",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":644,
+			"offset":"cd12",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":645,
+			"offset":"cd20",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":646,
+			"offset":"cd2e",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":647,
+			"offset":"cd3c",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":648,
+			"offset":"cd4a",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":649,
+			"offset":"cd58",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		},
+		{
+			"id":650,
+			"offset":"cd66",
+			"length":14,
+			"jpn":"ダミー{换行}　{换行}{END}",
+			"eng":"Dummy{换行} {换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,557 @@
+{
+	"fileName":"FACILITYGUILDTEXT.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"470",
+			"length":34,
+			"jpn":"{主角姓名}に{换行}新しい冒険者を登録します{换行}{END}",
+			"eng":"Add a new adventurer to{换行}{主角姓名}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"492",
+			"length":60,
+			"jpn":"{主角姓名}メンバーの{换行}転職や引退、休養、抹消、名前変更ができます{换行}{END}",
+			"eng":"Allow a member of {主角姓名}{换行}to leave, retire, or rest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"4ce",
+			"length":50,
+			"jpn":"{主角姓名}のパーティ編成と{换行}登録順番の入れ替えをします{换行}{END}",
+			"eng":"Form an adventuring party from the{换行}members of {主角姓名}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"500",
+			"length":22,
+			"jpn":"ギルド長と話します{换行}{END}",
+			"eng":"Talk to the Guildmaster．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"516",
+			"length":18,
+			"jpn":"広場へ戻ります{换行}{END}",
+			"eng":"Return to the town square．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"528",
+			"length":52,
+			"jpn":"誰を管理しますか？{换行}登録者数{文本11:0000}人：残り枠{文本11:0100}人{换行}{END}",
+			"eng":"Which adventurer will you work with？{换行}(Registered： {文本11:0000}, Slots left： {文本11:0100}){换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"55c",
+			"length":56,
+			"jpn":"冒険者がギルドを去り、{换行}少し優秀な新人を連れて来ます{换行}{END}",
+			"eng":"The adventurer’s spot in the guild{换行}will be filled by an enhanced recruit．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"594",
+			"length":62,
+			"jpn":"スキルポイントを振り直します{换行}代償としてＬＶが２下がります{换行}{END}",
+			"eng":"Reset Skill Points at the cost of{换行}losing ２ levels．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"5d2",
+			"length":34,
+			"jpn":"冒険者の情報を完全に消去します{换行}{END}",
+			"eng":"The adventurer will leave the guild{换行}immediately．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"5f4",
+			"length":44,
+			"jpn":"冒険者の名前を、{换行}つけ直すことができます{换行}{END}",
+			"eng":"Rename an adventurer．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"620",
+			"length":30,
+			"jpn":"『{文本11:0000}』に休養させますか？{换行}{END}",
+			"eng":"Let {文本11:0000} rest？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"63e",
+			"length":34,
+			"jpn":"本当に休養させてもいいですか？{换行}{END}",
+			"eng":"Are you certain you want to{换行}give this adventurer a rest？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"660",
+			"length":30,
+			"jpn":"『{文本11:0000}』を引退させますか？{换行}{END}",
+			"eng":"Retire {文本11:0000}？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"67e",
+			"length":34,
+			"jpn":"本当に引退させてもいいですか？{换行}{END}",
+			"eng":"Are you certain you want to{换行}retire this adventurer？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"6a0",
+			"length":36,
+			"jpn":"同時に現在の装備品も消去されます{换行}{END}",
+			"eng":"Any equipment the adventurer{换行}is wearing will also be lost．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"6c4",
+			"length":28,
+			"jpn":"『{文本11:0000}』を抹消しますか？{换行}{END}",
+			"eng":"Dismiss {文本11:0000}？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"6e0",
+			"length":32,
+			"jpn":"本当に抹消してもいいですか？{换行}{END}",
+			"eng":"Are you certain you want to{换行}dismiss this adventurer？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"700",
+			"length":58,
+			"jpn":"名前変更に１０００エン{换行}かかりますが、よろしいですか？{换行}{END}",
+			"eng":"The fee to change your registered{换行}name is １０００en． Are you certain？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"73a",
+			"length":22,
+			"jpn":"お金が足りません！{换行}{END}",
+			"eng":"You don’t have enough money！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"750",
+			"length":54,
+			"jpn":"{主角姓名}のパーティの編成と、{换行}登録順番の入れ替えをします{换行}{END}",
+			"eng":"Form an adventuring party from the{换行}members of {主角姓名}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"786",
+			"length":48,
+			"jpn":"『{文本11:0000}』は引退し{换行}後継の新人がやってきました{换行}{END}",
+			"eng":"After {文本11:0000} retired, an{换行}apprentice stepped in．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"7b6",
+			"length":28,
+			"jpn":"『{文本11:0000}』は{换行}休養しました{换行}{END}",
+			"eng":"{文本11:0000} has rested．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"7d2",
+			"length":28,
+			"jpn":"『{文本11:0000}』を{换行}抹消しました{换行}{END}",
+			"eng":"{文本11:0000} has been dismissed．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"7ee",
+			"length":48,
+			"jpn":"『{文本11:0000}』の育てた{换行}若き冒険者、その名は・・・{换行}{END}",
+			"eng":"The new recruit is named．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"81e",
+			"length":28,
+			"jpn":"この編成に決定しますか？{换行}{END}",
+			"eng":"Is this the party you wish？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"83a",
+			"length":22,
+			"jpn":"登録者がいません！{换行}{END}",
+			"eng":"No one is registered{换行}in {主角姓名}！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":27,
+			"offset":"850",
+			"length":48,
+			"jpn":"『{文本11:0000}』にこれ以上{换行}冒険者を登録できません！{换行}{END}",
+			"eng":"{文本11:0000}’s roster is full！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":28,
+			"offset":"880",
+			"length":62,
+			"jpn":"所持品が一杯で装備が外せません！{换行}所持品を整理してください{换行}{END}",
+			"eng":"Your inventory is too full to{换行}remove any equipment！ Please{换行}discard some of your belongings．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":29,
+			"offset":"8be",
+			"length":60,
+			"jpn":"全員が死亡になるため、{换行}引退／抹消することができません！{换行}{END}",
+			"eng":"Dead adventurers cannot be{换行}retired or dismissed！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":30,
+			"offset":"8fa",
+			"length":26,
+			"jpn":"サブクラスを習得します{换行}{END}",
+			"eng":"Assign a subclass．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":31,
+			"offset":"914",
+			"length":28,
+			"jpn":"{主角姓名}のパーティを編成します{换行}{END}",
+			"eng":"Form {主角姓名}’s party．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":32,
+			"offset":"930",
+			"length":30,
+			"jpn":"{主角姓名}のメンバーを並べ替えます{换行}{END}",
+			"eng":"Rearrange the members{换行}of {主角姓名}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":33,
+			"offset":"94e",
+			"length":40,
+			"jpn":"{主角姓名}のパーティを{换行}お気に入り登録します{换行}{END}",
+			"eng":"Reassume a favorite party{换行}formation．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":34,
+			"offset":"976",
+			"length":42,
+			"jpn":"{主角姓名}のお気に入りパーティを{换行}呼び出します{换行}{END}",
+			"eng":"Call up a predetermined party from{换行}{主角姓名}’s ranks．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":35,
+			"offset":"9a0",
+			"length":110,
+			"jpn":"この冒険者が去り、代わりにステータスと{换行}スキルポイントにボーナスの付いた{换行}レベル{文本11:0100}の冒険者が登録できます{换行}{END}",
+			"eng":"This adventurer will leave, and a new{换行}level {文本11:0100} adventurer with extra stats{换行}and Skill Points will join the guild．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":40,
+			"offset":"a0e",
+			"length":66,
+			"jpn":"有効なパーティがありません！{换行}パーティの登録を確認してください{换行}{END}",
+			"eng":"There are no squads to choose from！{换行}Check the registered squads．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":41,
+			"offset":"a50",
+			"length":34,
+			"jpn":"このパーティを呼び出しますか？{换行}{END}",
+			"eng":"Call up this party？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":42,
+			"offset":"a72",
+			"length":46,
+			"jpn":"パーティにキャラクターを設定してください！{换行}{END}",
+			"eng":"Set characters in the party！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":43,
+			"offset":"aa0",
+			"length":54,
+			"jpn":"このキャラクターは{换行}既にサブクラスを習得しています{换行}{END}",
+			"eng":"This character has already been{换行}assigned a subclass．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":44,
+			"offset":"ad6",
+			"length":94,
+			"jpn":"このキャラクターは{主角姓名}の{换行}正式なメンバーではないため{换行}サブクラスを習得させることはできません{换行}{END}",
+			"eng":"Since this character is not an{换行}official member of {主角姓名}, they{换行}cannot be assigned a subclass．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":45,
+			"offset":"b34",
+			"length":60,
+			"jpn":"現在のパーティをセット{文本11:0000}に登録します{换行}よろしいですか？{换行}{END}",
+			"eng":"Register the current party to Set {文本11:0000}？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":46,
+			"offset":"b70",
+			"length":26,
+			"jpn":"パーティを登録しました{换行}{END}",
+			"eng":"Party successfully registered．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":47,
+			"offset":"b8a",
+			"length":72,
+			"jpn":"外見とパラメータは現在の職業のまま{换行}新たな職業のスキルが使用できます{换行}{END}",
+			"eng":"You may select a new class’ skills, while{换行}keeping the current appearance and stats．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":48,
+			"offset":"bd2",
+			"length":96,
+			"jpn":"『{文本11:0000}』のレベルが５下がる代わりに{换行}外見とパラメータをそのままで{换行}新たな職に就く事ができます{换行}{END}",
+			"eng":"By dropping {文本11:0000}’s level by five,{换行}the adventurer can assume a new class{换行}with bonus stats and Skill Points．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":49,
+			"offset":"c32",
+			"length":30,
+			"jpn":"『{文本11:0000}』を転職させますか？{换行}{END}",
+			"eng":"Will you change {文本11:0000}’s class？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":50,
+			"offset":"c50",
+			"length":34,
+			"jpn":"本当に転職させてもいいですか？{换行}{END}",
+			"eng":"Are you certain？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":51,
+			"offset":"c72",
+			"length":44,
+			"jpn":"『{文本11:0000}』は転職し{换行}新たな道を歩み始めます{换行}{END}",
+			"eng":"{文本11:0000} will now change classes{换行}and begin a new life as an adventurer．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":52,
+			"offset":"c9e",
+			"length":44,
+			"jpn":"『{文本11:0000}』の新たなる道{换行}その職業名は・・・{换行}{END}",
+			"eng":"{文本11:0000}’s new path is．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":53,
+			"offset":"cca",
+			"length":44,
+			"jpn":"{主角姓名}メンバーの{换行}修行・転職・休養ができます{换行}{END}",
+			"eng":"You can have guild members train,{换行}change classes, or rest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":54,
+			"offset":"cf6",
+			"length":48,
+			"jpn":"修行を行うことで{换行}新たな力を得る事ができます{换行}{END}",
+			"eng":"By training, you can earn new powers．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":55,
+			"offset":"d26",
+			"length":76,
+			"jpn":"『{文本11:0000}』のレベルが２下がる代わりに{换行}スキルポイントを振り直す事ができます{换行}{END}",
+			"eng":"If {文本11:0000}’s level drops by two,{换行}the adventurer will be able to reallocate{换行}Skill Points．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":56,
+			"offset":"d72",
+			"length":102,
+			"jpn":"『{文本11:0000}』のレベルが{文本11:0100}になる{换行}代わりにステータスとスキルポイントに{换行}ボーナスが付いた状態となります{换行}{END}",
+			"eng":"If {文本11:0000} reverts to level {文本11:0100},{换行}the adventurer will assume a new class{换行}with bonus stats and Skill Points．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":57,
+			"offset":"dd8",
+			"length":32,
+			"jpn":"『{文本11:0000}』の修行を行いますか？{换行}{END}",
+			"eng":"Train{换行}{文本11:0000}？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":58,
+			"offset":"df8",
+			"length":28,
+			"jpn":"本当に修行を行いますか？{换行}{END}",
+			"eng":"Are you sure？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":59,
+			"offset":"e14",
+			"length":42,
+			"jpn":"『{文本11:0000}』は修行を行い{换行}新たな力を得た！{换行}{END}",
+			"eng":"{文本11:0000}{换行}trained and earned new powers！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":60,
+			"offset":"e3e",
+			"length":30,
+			"jpn":"この職業でよろしいですか？{换行}{END}",
+			"eng":"Is this the class you want？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":61,
+			"offset":"e5c",
+			"length":26,
+			"jpn":"この職業に転職しました{换行}{END}",
+			"eng":"Class changed．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":62,
+			"offset":"e76",
+			"length":30,
+			"jpn":"この二つ名を習得しますか？{换行}{END}",
+			"eng":"Use this legendary title？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":63,
+			"offset":"e94",
+			"length":46,
+			"jpn":"『{文本11:0000}』は二つ名を習得し{换行}新たな力を得た！{换行}{END}",
+			"eng":"{文本11:0000} acquired a legendary title, {换行}and gained new powers！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":64,
+			"offset":"ec2",
+			"length":148,
+			"jpn":"現在のパーティメンバーに{换行}フレンドキャラがいます{换行}{换页}パーティセットにはフレンドキャラは{换行}登録できません{换行}{换页}パーティメンバーを編成し直してください{换行}{END}",
+			"eng":"There’s a guest currently in your party．{换行}{换页}Guests cannot be included in party sets．{换行}{换页}Please form a different party set．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":65,
+			"offset":"f56",
+			"length":28,
+			"jpn":"二つ名を名付けてください{换行}{END}",
+			"eng":"Enter legendary title．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":66,
+			"offset":"f72",
+			"length":126,
+			"jpn":"アイテム最大所持数が変化して{换行}最大所持数を超えてしまうため{换行}引退／休養／転職／抹消が行えません{换行}{换页}所持品を整理してください{换行}{END}",
+			"eng":"Performing Retire／Rest／Change Class／Dismiss{换行}will exceed inventory capacity．{换行}{换页}Please free up inventory space first．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":67,
+			"offset":"ff0",
+			"length":108,
+			"jpn":"アイテム最大所持数が変化して{换行}最大所持数を超えてしまうため{换行}編成が行えません{换行}{换页}所持品を整理してください{换行}{END}",
+			"eng":"Party formation will exceed inventory capacity．{换行}{换页}Please free up inventory space first．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":68,
+			"offset":"105c",
+			"length":106,
+			"jpn":"アイテム最大所持数が変化して{换行}最大所持数を超えてしまうため{换行}呼び出せません{换行}{换页}所持品を整理してください{换行}{END}",
+			"eng":"Cannot rally party without exceeding {换行}inventory capacity．{换行}{换页}Please free up inventory space first．{换行}{END}",
+			"zh":""
+		}
+	]
+}

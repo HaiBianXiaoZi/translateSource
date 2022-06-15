@@ -1,0 +1,221 @@
+{
+	"fileName":"BAR_15.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"1d0",
+			"length":556,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/REIG02\u0000あ、みんなー。{换行}ふふふ、依頼を受けてくれたんだよね。{换行}ありがとう～。{换行}{换页}みんながさっき五階層の伐採物持ってたのを{换行}見て、ピーンと来ちゃったんだぁ。{换行}{换页}{0xF81B}VCA_0/ATES_S_EF01\u0000私、ソロルにプレゼントをしたいのです！{换行}{换页}普段からお世話になりっぱなしだし、{换行}こういうことでもしないと、{换行}恩を返せないんだもん。{换行}{换页}それでそのプレゼントに{换行}使えそうな木材を{颜色:0500}五階層で伐採{颜色:0000}して{换行}持って帰ってきて欲しいの！{换行}{换页}いい？　{颜色:0500}木材{颜色:0000}だからね？{换行}でないと、ちゃんとしたものを作れない{换行}かもしれないからよろしくね。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/REIG02\u0000Oh, hi everyone！ Thanks for taking my request！{换行}{换页}An idea hit me when I saw you hauling back{换行}materials the other day．{换行}{换页}{0xF81B}VCA_0/ATES_S_EF01\u0000I want to give Solor a present！{换行}{换页}She’s so good to me, it’s the least I can do．{换行}{换页}That’s where you come in． I’d like you to{换行}collect {颜色:0500}wood from the ５th Stratum{颜色:0000} so that{换行}I can craft a gift out of it！{换行}{换页}Got that？ {颜色:0500}I need wood{颜色:0000}． But if I go{换行}and get it myself, it’ll be obvious．{换行}So don’t tell Solor, all right？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"3fc",
+			"length":106,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/REIG04\u0000あ、みんなー。{换行}どうどう？　五階層で木材は{换行}伐採してきてくれた？{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/REIG04\u0000Everyone！ How’d it go in the ５th Stratum？{换行}Got any wood from the Untamed Garden？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"466",
+			"length":50,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}伐採してきた{换行}まだだ{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}”We got wood．”{换行}”No wood yet．．．”{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"498",
+			"length":112,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/1\u0000やったぁ。{换行}それじゃあ、どうかこの私めに{换行}木材のお恵みをお願いしまーす。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/1\u0000Woohoo！ Well, what’ve you got for me？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":13,
+			"offset":"508",
+			"length":84,
+			"jpn":"{颜色:0500}どれを渡しますか？{颜色:0000}{换行}{数字:0000}を渡す{换行}{数字:0100}を渡す{换行}{数字:0200}を渡す{换行}やっぱり渡さない{换行}{END}",
+			"eng":"{颜色:0500}Which will you give？{颜色:0000}{换行}Hand over {数字:0000}{换行}Hand over {数字:0100}{换行}Hand over {数字:0200}{换行}Actually, never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":14,
+			"offset":"55c",
+			"length":72,
+			"jpn":"{颜色:0500}どれを渡しますか？{颜色:0000}{换行}{数字:0000}を渡す{换行}{数字:0100}を渡す{换行}やっぱり渡さない{换行}{END}",
+			"eng":"{颜色:0500}Which will you give？{颜色:0000}{换行}Hand over {数字:0000}{换行}Hand over {数字:0100}{换行}Actually, never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":15,
+			"offset":"5a4",
+			"length":60,
+			"jpn":"{颜色:0500}どれを渡しますか？{颜色:0000}{换行}{数字:0000}を渡す{换行}やっぱり渡さない{换行}{END}",
+			"eng":"{颜色:0500}Which will you give？{颜色:0000}{换行}Hand over {数字:0000}{换行}Actually, never mind{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":16,
+			"offset":"5e0",
+			"length":352,
+			"jpn":"{NPC:0700}うんうん、そうそう。{换行}この樹皮をこうソロルの顔にぺたーっと{换行}貼ってですね…。{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000って、ダメだよ～。{换行}そんなことしたらソロルに{换行}怒られちゃうよ～。{换行}{换页}っていうか、私が欲しいって言ったのは{换行}樹皮じゃなくて{颜色:0500}木材{颜色:0000}だよ～。{换行}{换页}全くもう。依頼なんだから{换行}次はちゃーんと五階層で伐採できる{换行}{颜色:0500}木材{颜色:0000}を持ってきてね？{换行}{END}",
+			"eng":"{NPC:0700}Yep． Just what I wanted． Some bark．．． for Solor．{换行}I guess I could make a creepy mask out of it．．．？{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000．．．Thanks, but no thanks！ I don’t think she’d get{换行}the joke, and her bite is worse than this bark．{换行}{换页}I said {颜色:0500}I need wood{颜色:0000}． If you think this would make{换行}a nice gift, you’re barking up the wrong tree．{换行}{换页}．．．That was a good goof, but this is an official{换行}request． Next time you go to the ５th Stratum,{换行}please bring me back some actual {颜色:0500}wood{颜色:0000}, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":17,
+			"offset":"740",
+			"length":360,
+			"jpn":"{NPC:0700}あー、これだよこれ。{换行}この枝をソロルが持って、{换行}その枝に私がぶら下がって…。{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000って、違う～。{换行}絶対ソロルは途中で枝を離すから、{换行}私が落っこちちゃうよ～。{换行}{换页}っていうか、私が欲しいって言ったのは{换行}枝じゃなくて{颜色:0500}木材{颜色:0000}だよ～。{换行}{换页}全くもう。依頼なんだから{换行}次はちゃーんと五階層で伐採できる{换行}{颜色:0500}木材{颜色:0000}を持ってきてね？{换行}{END}",
+			"eng":"{NPC:0700}Yep． Just what I wanted． A branch．．． for Solor．{换行}What am I supposed to do with it, spank her．．．？{换行}{换页}{0xF81B}VCA_0/VN/EEA/0\u0000．．．This conversation branched out in an{换行}awkward direction pretty quickly, didn’t it．{换行}{换页}I’ll go out on a limb here and remind you{换行}that {颜色:0500}I asked for wood{颜色:0000}, not a branch．{换行}{换页}．．．That was a good goof, but this is an official{换行}request． Next time you go to the ５th Stratum,{换行}please bring me back some actual {颜色:0500}wood{颜色:0000}, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":18,
+			"offset":"8a8",
+			"length":344,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/1\u0000あっ、これこれ、こういうのが{换行}欲しかったんだよ、ありがとう～。{换行}{换页}これがあれば、ばっちり木彫りの像が{换行}作れるよ～。こう見えても私、こういうの{换行}得意なんだよ？　すごいでしょ～。{换行}{换页}あー、でも一つ考えてなかったなぁ。{换行}木彫りの像って言っても、{换行}何を彫ればソロルは喜ぶかなぁ？{换行}{换页}ねえ、みんなは何がいいと思う？{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/1\u0000Oh, this is it！ Just what I was looking for！{换行}I am truly grateful．{换行}{换页}This would be perfect for carving a statue！{换行}I may not look it, but I’m quite the whittler．{换行}I know, pretty random hobby, right？{换行}{换页}Hmm, but there’s one thing I didn’t consider．{换行}What kind of statue would Solor even like？{换行}{换页}Hey, what do you think I should carve？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":19,
+			"offset":"a00",
+			"length":154,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000あれ？　もしかして今は都合悪かったかな？{换行}それじゃあ、よきタイミングが見つかったら{换行}また声かけてもらってもいーい？{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000Huh？ Did I catch you at a bad time？ Uhh, okay．．．{换行}Well, let me know when you’re ready, all right？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":20,
+			"offset":"a9a",
+			"length":70,
+			"jpn":"{颜色:0500}何と答えますか？{颜色:0000}{换行}クマ{换行}ゴーレム像{换行}リリ{换行}自分で考えるべき{换行}{END}",
+			"eng":"{颜色:0500}What will you say？{颜色:0000}{换行}A little ducky{换行}A golem statue{换行}A model of Lili{换行}Tell her she should think herself{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":21,
+			"offset":"ae0",
+			"length":332,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000なるほど、クマさんかぁ。{换行}確かにクマさんかわいいもんねぇ。{换行}うん、わかった、そうするよ。{换行}{换页}えへへ、必要な素材だけじゃなくて{换行}アドバイスまでもらえちゃった～。{换行}みんな、本当にありがとう。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000報酬はメリーナさんに報告して{换行}受け取ってくれる？{换行}それじゃあまたね～。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000．．．A duck, huh？ Simple, yet adorable． And great{换行}for bathtime！ All right, a little duck statue it is！{换行}{换页}Not only did you bring the material I requested,{换行}I got a free consultation． Hehehe！ But seriously,{换行}thank you all so much．{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Report back to Miss Mirina for your reward．{换行}You’ve earned it． Anyway, see you later！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":22,
+			"offset":"c2c",
+			"length":342,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000ゴーレム像って一階層にあるあれ？{换行}確かに愛嬌ある顔してるもんねぇ。{换行}うんうん、いいかもしれないね。{换行}{换页}えへへ、必要な素材だけじゃなくて{换行}アドバイスまでもらえちゃった～。{换行}みんな、本当にありがとう。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000報酬はメリーナさんに報告して{换行}受け取ってくれる？{换行}それじゃあまたね～。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000You mean the statues around the １st Stratum？{换行}True, they ARE pretty cute--especially their itty{换行}bitty butts！ Makes you just wanna spank them！{换行}{换页}Not only did you bring the material I requested,{换行}I got a free consultation． Hehehe！ But seriously,{换行}thank you all so much．{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Report back to Miss Mirina for your reward．{换行}You’ve earned it． Anyway, see you later！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":23,
+			"offset":"d82",
+			"length":344,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000ええっ？　私の木彫りの像？{换行}そんなの喜ぶかなぁ？{换行}{换页}でも、みんなが言うんだし、{换行}喜んでくれるのかも…。{换行}{换页}…ちょっと考えてみるよ。{换行}{换页}それはともかく今回はいろいろ{换行}ありがとうね。すごーく助かったよ。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000報酬はメリーナさんに報告して{换行}受け取ってくれる？{换行}それじゃあまたね～。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000A wooden statue of．．． me？{换行}Would she be into that？{换行}{换页}Then again, if you think so, maybe she would．．．{换行}{换页}．．．I’ll give it some thought．{换行}{换页}Either way, thank you so much for everything．{换行}You were super helpful．{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Report back to Miss Mirina for your reward．{换行}You’ve earned it． Anyway, see you later！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":24,
+			"offset":"eda",
+			"length":348,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000確かにそこは自分で考えた方がいいかぁ。{换行}私が言いだしたことなんだし、そこは{换行}しっかり決めなきゃだよねぇ。{换行}{换页}えへへ、必要な素材だけじゃなくて{换行}アドバイスまでもらえちゃった～。{换行}みんな、本当にありがとう。{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000報酬はメリーナさんに報告して{换行}受け取ってくれる？{换行}それじゃあまたね～。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000True, I guess it’s better if I decide for myself．{换行}I’m the one making it and giving it to Solor．．．{换行}So it should come from the heart, right？{换行}{换页}Not only did you bring the material I requested,{换行}I got a free consultation． Hehehe！ But seriously,{换行}thank you all so much．{换行}{换页}{0xF81B}VCA_0/VN/EEA/1\u0000Report back to Miss Mirina for your reward．{换行}You’ve earned it． Anyway, see you later！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":25,
+			"offset":"1036",
+			"length":384,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000あれ？　でも、みんなの荷物に{换行}それっぽいものがないような…？{换行}あっ、もしかして～。{换行}{换页}もー、ダメだよ、みんな。{换行}そういうのをキョギノシンセーって{换行}言うんだからね！{换行}{换页}私が相手だからいいものの、これが{换行}ソロル相手だったら、とっても痛い{换行}チョップが飛んでくるんだから。{换行}{换页}そういうわけだから、ちゃーんと{换行}五階層で伐採して、木材の確保を{换行}よろしくね？{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000Huh？ But I don’t see anything like that here．．．{换行}Oh, wait！ A-Are you just messing with me？{换行}{换页}Just because you say it, doesn’t make it true！{换行}C’mon, didn’t your mama teach you not to lie！？{换行}{换页}I’ll let it slide, but if you try pulling that kind of{换行}goof on Solor, you’ll end up in a world of hurt！{换行}{换页}Just go get some wood from the{换行}５th Stratum and bring it here, okay？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":26,
+			"offset":"11b6",
+			"length":128,
+			"jpn":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000オッケーだよ～。{换行}それじゃあ私まだここで待ってるから{换行}五階層での木材伐採がんばってね～。{换行}{END}",
+			"eng":"{NPC:0700}{0xF81B}VCA_0/VN/EEA/0\u0000Okay, no problem！ I’ve got some work to do{换行}here, so I’ll be waiting for you to come back{换行}from the ５th Stratum with wood． Good luck！{换行}{END}",
+			"zh":""
+		}
+	]
+}

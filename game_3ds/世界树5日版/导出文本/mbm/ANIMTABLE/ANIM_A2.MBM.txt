@@ -1,0 +1,85 @@
+{
+	"fileName":"ANIM_A2.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"c0",
+			"length":32,
+			"jpn":"ここは　緑も枯れた寂しい山道{换行}{END}",
+			"eng":"Woods fade into a lonely mountain pass．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"e0",
+			"length":38,
+			"jpn":"むき出しの岩肌と激しい風が吹き荒ぶ{换行}{END}",
+			"eng":"It is a most stark and desolate ridge,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"106",
+			"length":14,
+			"jpn":"荒野の大地{换行}{END}",
+			"eng":"carved from barren rock by violent wind．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"114",
+			"length":34,
+			"jpn":"そこに乱立する奇妙な岩を横目に{换行}{END}",
+			"eng":"Through the craggy maze of broken earth,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"136",
+			"length":32,
+			"jpn":"今日も冒険者たちが歩いてくる{换行}{END}",
+			"eng":"the explorers boldly journey forth．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"156",
+			"length":38,
+			"jpn":"だけど　奇妙な岩には気をつけなさい{换行}{END}",
+			"eng":"But beware the huge, rough-hewn pillars．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"17c",
+			"length":36,
+			"jpn":"岩影には恐ろしい魔物が潜んでいる{换行}{END}",
+			"eng":"A primeval beast lurks in their shadows．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1a0",
+			"length":40,
+			"jpn":"岩が崩れる音がした時　君たちの冒険は{换行}{END}",
+			"eng":"The telltale sound of crumbling boulders{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1c8",
+			"length":38,
+			"jpn":"終わりを告げるかもしれないのだから{换行}{END}",
+			"eng":"may signal the end of your adventure．{换行}{END}",
+			"zh":""
+		}
+	]
+}

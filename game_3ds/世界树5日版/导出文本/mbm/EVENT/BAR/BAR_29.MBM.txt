@@ -1,0 +1,101 @@
+{
+	"fileName":"BAR_29.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"e0",
+			"length":66,
+			"jpn":"{F812}農家のマーティン\u0000おっす、{主角姓名}！{换行}今{道具:2807}を売ってる最中なんだ。{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000Hey there, {主角姓名} Guild． {换行}I’m sellin’ some {道具:2807}．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"122",
+			"length":64,
+			"jpn":"{F812}農家のマーティン\u0000２個で１００エン！{换行}どうだ、買ってくか？{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000I’m selling two for １００en！{换行}How’s that sound？ Wanna buy？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"162",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:2807}２個を１００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:2807} x２ for １００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"1a6",
+			"length":64,
+			"jpn":"{F812}農家のマーティン\u0000３個で１５０エン！{换行}どうだ、買ってくか？{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000I’m selling three for １５０en！{换行}How’s that sound？ Wanna buy？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"1e6",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:2807}３個を１５０エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:2807} x３ for １５０en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"22a",
+			"length":64,
+			"jpn":"{F812}農家のマーティン\u0000４個で２００エン！{换行}どうだ、買ってくか？{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000I’m selling four for ２００en！{换行}How’s that sound？ Wanna buy？{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"26a",
+			"length":68,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}{道具:2807}４個を２００エン払って買う{换行}買わない{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Buy {道具:2807} x４ for ２００en{换行}Don’t buy{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"2ae",
+			"length":54,
+			"jpn":"{F812}農家のマーティン\u0000おっ、サンキュー！{换行}ほいこれ。{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000Thanks a bunch！ Here you go．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"2e4",
+			"length":118,
+			"jpn":"{F812}農家のマーティン\u0000うっしゃ！　ノルマ達成。{换行}じゃあ次の場所に行きますかっと。{换行}また会ったら、そん時もよろしくな！{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000That takes care of my quota． Time to find{换行}someplace new to peddle my wares． Hope{换行}to do business with ya again sometime！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"35a",
+			"length":106,
+			"jpn":"{F812}農家のマーティン\u0000毎度あり！　と思ったけど持ち物が{换行}いっぱいだぞ？　買う前に整理を{换行}した方がいいぜ。{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000I’d sure like to thank you for the purchase,{换行}but your bag’s mighty full． You need to make{换行}some space before you can buy these．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"3c4",
+			"length":104,
+			"jpn":"{F812}農家のマーティン\u0000毎度あり！　と思ったけど代金{换行}持ってないみてぇだぞ？{换行}残念だけど、また今度だな！{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000I’d sure like to thank you for the purchase,{换行}but you don’t got enough money, honey！{换行}Come see me again when you do！{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"42c",
+			"length":76,
+			"jpn":"{F812}農家のマーティン\u0000そんじゃしゃあねーわな。{换行}次あった時こそよろしくな！{换行}{END}",
+			"eng":"{F812}Marten the Farmer\u0000Well, them’s the breaks． Maybe next time．{换行}Be seein’ ya！{换行}{END}",
+			"zh":""
+		}
+	]
+}

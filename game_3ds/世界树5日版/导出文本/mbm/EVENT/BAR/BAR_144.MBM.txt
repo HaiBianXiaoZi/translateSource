@@ -1,0 +1,45 @@
+{
+	"fileName":"BAR_144.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"70",
+			"length":350,
+			"jpn":"{F812}太った収集家の男\u0000おや、君たちが持っているその虫…、{换行}なんだか珍しいね！{换行}目のない虫なんて見たことがないよ！{换行}{换页}う～んどうしよう…、{换行}ボク、どうしても{换行}その虫が欲しくなっちゃったぞ？{换行}{换页}君たちさえ良かったら、{换行}その虫をボクの持ち物と交換してほしいぞ？{换行}{换页}う～ん、でもボクが君たちに渡せる物なんて{换行}店の外に繋いである{颜色:0500}牛{颜色:0000}ぐらいしかないし…。{换行}{END}",
+			"eng":"{F812}Bug-eyed Cowherd\u0000Ooh, that bug you have there．．．{换行}That looks rare！ In all my days,{换行}I’ve never seen an eyeless bug！{换行}{换页}Now I want it, no matter what！{换行}Hm, what to do, what to do．．．{换行}{换页}Would you be willing to trade{换行}with me for that eyeless bug？{换行}{换页}I mean, all I have to offer you{换行}is the {颜色:0500}cow{颜色:0000} I’ve got hitched to{换行}a post outside of this tavern．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"1ce",
+			"length":52,
+			"jpn":"{颜色:0500}どうしますか？{颜色:0000}{换行}牛と交換する{换行}やめておく{换行}{END}",
+			"eng":"{颜色:0500}What will you do？{颜色:0000}{换行}Trade a bug for a cow{换行}Decline the trade offer{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"202",
+			"length":146,
+			"jpn":"{F812}太った収集家の男\u0000ほ、本当かい！？{换行}ありがとう！{换行}{换页}それじゃ、早速虫はいただくよ。{换行}牛は外に繋いであるから、{换行}連れて行ってくれて構わないよ。{换行}{END}",
+			"eng":"{F812}Bug-eyed Cowherd\u0000I-Is that so？ Thank you！{换行}{换页}Well then, I’ll be taking that bug．{换行}Your new cow is tied up outside,{换行}so feel free to take her with you．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"294",
+			"length":200,
+			"jpn":"{F812}太った収集家の男\u0000そうだよな…いくらなんでも、{换行}虫と牛を交換なんて、君たちには{换行}割に合わない話だよな。{换行}{换页}あいや、無理を言って悪かったね。{换行}でも、もし気が変わったら{换行}ボクに話しかけてくれるかい？{换行}{END}",
+			"eng":"{F812}Bug-eyed Cowherd\u0000I thought so．．． I guess a bug is WAY{换行}more valuable than a dairy cow, huh？{换行}{换页}Anyway, I’m sorry for proposing such{换行}an unreasonable trade． But if you do{换行}change you mind, please come back．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"35c",
+			"length":168,
+			"jpn":"{F812}太った収集家の男\u0000おや、君たちは例の虫の。{换行}{换页}もしや、君たちが持っている珍しい虫と、{换行}ボクが今日たまたま酒場に連れてきている{换行}牛を、交換してくれる気になったとか？{换行}{END}",
+			"eng":"{F812}Bug-eyed Cowherd\u0000Oh, you’re the adventurers{换行}with that rare, eyeless bug．{换行}{换页}Could it be that you’re willing to trade{换行}your bug for the cow I hitched outside？{换行}{END}",
+			"zh":""
+		}
+	]
+}

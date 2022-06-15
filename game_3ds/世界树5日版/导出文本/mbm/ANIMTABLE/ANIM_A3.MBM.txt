@@ -1,0 +1,85 @@
+{
+	"fileName":"ANIM_A3.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"c0",
+			"length":40,
+			"jpn":"古き伝承を知る　語り部の老婆が告げる{换行}{END}",
+			"eng":"The elders still whisper a half-remembered history：{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"e8",
+			"length":44,
+			"jpn":"遥か昔　ここでは恐ろしい戦争があったのだ{换行}{END}",
+			"eng":"Of a terrible war waged across the land．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"114",
+			"length":42,
+			"jpn":"以来そこは　昼でも暗い死者たちの森へと{换行}{END}",
+			"eng":"Of the land itself, corrupted over time,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"13e",
+			"length":26,
+			"jpn":"姿を変えてしまった　と{换行}{END}",
+			"eng":"twisted by darkness and death．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"158",
+			"length":40,
+			"jpn":"古き伝承を知る　語り部の老婆は告げる{换行}{END}",
+			"eng":"The children still whisper a half-forgotten ghost story：{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"180",
+			"length":26,
+			"jpn":"もしあの森に行くのなら{换行}{END}",
+			"eng":"If you ever get lost in the graveyard．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"19a",
+			"length":38,
+			"jpn":"空を見上げて太陽の日差しを探すのだ{换行}{END}",
+			"eng":"look to the sky, and seek the sunlight．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"1c0",
+			"length":28,
+			"jpn":"でないと君たちの背後には{换行}{END}",
+			"eng":"But keep moving, and don’t look back．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1dc",
+			"length":40,
+			"jpn":"気付けば死霊が忍びよっているだろうと{换行}{END}",
+			"eng":"because the dead are right behind you．{换行}{END}",
+			"zh":""
+		}
+	]
+}

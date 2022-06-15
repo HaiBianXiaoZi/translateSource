@@ -1,0 +1,13 @@
+{
+	"fileName":"BAR_127.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"30",
+			"length":318,
+			"jpn":"{F812}凍土魔術師の青年\u0000まさかあなた達は第四階層に行った{换行}{主角姓名}…さんですよね？{换行}お会いできて光栄です！{换行}{换页}ウチのギルドに、おバカなセスタスが{换行}いるんですが、みなさんの爪の垢を{换行}煎じて飲ませたいくらい向こう見ずで…。{换行}{换页}時としてそこが頼もしいのですが{换行}一人で突っ走ってどこかにいく癖は{换行}なんとかして欲しいものです…はぁ…。{换行}{END}",
+			"eng":"{F812}Young Frost Mage\u0000Are you {主角姓名} Guild？ The ones who {换行}went to the ４th Stratum？ It’s an honor to {换行}meet you！{换行}{换页}There’s a reckless, muscle-brained Pugilist{换行}in our guild I wish would learn a thing or {换行}two from a guild like yours．{换行}{换页}Recklessness is all well and fine sometimes,{换行}but he needs to stop rushing in alone so much．．．{换行}{END}",
+			"zh":""
+		}
+	]
+}

@@ -1,0 +1,109 @@
+{
+	"fileName":"MISSION_COMPLETE.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"f0",
+			"length":58,
+			"jpn":"迷宮１階の地図を作成し、世界樹の根と{换行}土壌を持ち帰る。{换行}{END}",
+			"eng":"Create a map of the labyrinth’s １F, and{换行}bring back Yggdrasil root and soil sample．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"12a",
+			"length":36,
+			"jpn":"ルナリア族の魔法結界を解除する。{换行}{END}",
+			"eng":"Disable the Celestrian’s magical barrier．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"14e",
+			"length":38,
+			"jpn":"オリファントの生息地域を調査する。{换行}{END}",
+			"eng":"Investigate where the Primordiphant dwells．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"174",
+			"length":26,
+			"jpn":"魔獣ヒポグリフの討伐。{换行}{END}",
+			"eng":"Slay the Hippogryph．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"18e",
+			"length":64,
+			"jpn":"{颜色:0500}１２階{颜色:0000}に眠る英雄の遺品を集め、{换行}評議会へと持ち帰る。{换行}{END}",
+			"eng":"Find the effects of the legendary hero who died {换行}on {颜色:0500}１２F{颜色:0000} and bring them back to the Council．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"1ce",
+			"length":66,
+			"jpn":"二人組の冒険者ソロルとリリに{换行}助力し、彼女たちの目的を果たせ。{换行}{END}",
+			"eng":"Assist Solor and Lili with their personal quest．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"210",
+			"length":58,
+			"jpn":"第四階層の奥にいるという水晶竜を{换行}見つけ出し討伐せよ。{换行}{END}",
+			"eng":"Find and slay the Crystal Dragon rumored {换行}to prowl the depths of the ４th Stratum．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"24a",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"254",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"25e",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":10,
+			"offset":"268",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":11,
+			"offset":"272",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":12,
+			"offset":"27c",
+			"length":10,
+			"jpn":"未実装{换行}{END}",
+			"eng":"Not used{换行}{END}",
+			"zh":""
+		}
+	]
+}

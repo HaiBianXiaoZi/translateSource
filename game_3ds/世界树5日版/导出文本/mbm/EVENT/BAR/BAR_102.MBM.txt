@@ -1,0 +1,21 @@
+{
+	"fileName":"BAR_102.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"40",
+			"length":320,
+			"jpn":"{F812}義足の壮年紳士\u0000おや…。失礼ですが、貴方達はこの街に{换行}来たばかりの冒険者ですかな？{换行}{换页}私はコニッサという者です。{换行}この場では生き字引などと言う者も{换行}いますが、唯の死に損ないですよ。{换行}{换页}{F812}生き字引のコニッサ\u0000もし何か分からないことがあったら{换行}お聞きください。先達として答えられる{换行}限りでお答えしますよ。元ですけどね。{换行}{END}",
+			"eng":"{F812}Gentleman with an Artificial Leg\u0000Pardon me, are you adventurers {换行}new to the city？{换行}{换页}My name’s Conissa． People call me {换行}the Walking Encyclopedia, but I’m just {换行}an old relic, really．{换行}{换页}{F812}Conissa the Walking Encyclopedia\u0000If there’s anything you need to know, give me a{换行}holler． My adventurin’ days might be behind me,{换行}but I’ve picked up a thing or two in my years．{换行}{END}",
+			"zh":""
+		}
+	]
+}

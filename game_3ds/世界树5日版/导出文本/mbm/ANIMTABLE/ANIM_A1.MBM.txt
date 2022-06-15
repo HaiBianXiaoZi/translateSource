@@ -1,0 +1,85 @@
+{
+	"fileName":"ANIM_A1.MBM",
+	"sentenceList":[
+		{
+			"id":0,
+			"offset":"0",
+			"length":0,
+			"jpn":"",
+			"eng":"",
+			"zh":""
+		},
+		{
+			"id":1,
+			"offset":"c0",
+			"length":36,
+			"jpn":"この樹海の美しい木々の向こうには{换行}{END}",
+			"eng":"Hidden by the trees of these old woods,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":2,
+			"offset":"e4",
+			"length":26,
+			"jpn":"魔法の石像があると言う{换行}{END}",
+			"eng":"ancient stone guardians stand watch．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":3,
+			"offset":"fe",
+			"length":26,
+			"jpn":"その石像は人々を惑わせ{换行}{END}",
+			"eng":"They are deemed enemies by adventurers,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":4,
+			"offset":"118",
+			"length":30,
+			"jpn":"行く手を遮ると言われている{换行}{END}",
+			"eng":"for they block the roads less traveled．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":5,
+			"offset":"136",
+			"length":40,
+			"jpn":"今日もまた樹海へ挑む冒険者たちの前に{换行}{END}",
+			"eng":"Today, new explorers brave this maze,{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":6,
+			"offset":"15e",
+			"length":40,
+			"jpn":"物言わぬ小さな石像たちが　立ち塞がる{换行}{END}",
+			"eng":"but the statues will stand in their way．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":7,
+			"offset":"186",
+			"length":22,
+			"jpn":"でも　私は思うのだ{换行}{END}",
+			"eng":"Yet I see it all in a different light．．．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":8,
+			"offset":"19c",
+			"length":44,
+			"jpn":"石像はいつもジッとその場に立っているだけ{换行}{END}",
+			"eng":"A lifeless statue knows no malice．{换行}{END}",
+			"zh":""
+		},
+		{
+			"id":9,
+			"offset":"1c8",
+			"length":40,
+			"jpn":"惑いは人にあり　石像にはないのではと{换行}{END}",
+			"eng":"The adventurers merely shift the blame．{换行}{END}",
+			"zh":""
+		}
+	]
+}
