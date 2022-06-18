@@ -9,51 +9,51 @@
 		"zh":""
 	},{
 		"id":1,
-		"offset":"68",
-		"length":10,
-		"jpn":"ジェネッタ",
+		"offset":"70",
+		"length":14,
+		"jpn":"Ｊｅｎｅｔｔａ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":2,
-		"offset":"c0",
-		"length":4,
-		"jpn":"リリ",
+		"offset":"d0",
+		"length":8,
+		"jpn":"Ｌｉｌｉ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":3,
-		"offset":"118",
+		"offset":"130",
 		"length":8,
-		"jpn":"エドガー",
+		"jpn":"Ｅｇａｒ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":4,
-		"offset":"170",
-		"length":10,
-		"jpn":"ジェネッタ",
+		"offset":"190",
+		"length":14,
+		"jpn":"Ｊｅｎｅｔｔａ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":5,
-		"offset":"1c8",
-		"length":6,
-		"jpn":"ソロル",
+		"offset":"1f0",
+		"length":10,
+		"jpn":"Ｓｏｌｏｒ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":6,
-		"offset":"220",
-		"length":8,
-		"jpn":"メリーナ",
+		"offset":"250",
+		"length":12,
+		"jpn":"Ｍｉｒｉｎａ",
 		"eng":"",
 		"zh":""
 	},{
 		"id":7,
-		"offset":"278",
-		"length":6,
-		"jpn":"ソロル",
+		"offset":"2b0",
+		"length":10,
+		"jpn":"Ｓｏｌｏｒ",
 		"eng":"",
 		"zh":""
 	}]
