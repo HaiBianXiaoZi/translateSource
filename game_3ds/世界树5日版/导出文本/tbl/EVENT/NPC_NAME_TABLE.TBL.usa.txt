@@ -1,0 +1,193 @@
+{
+	"fileName":"NPC_NAME_TABLE.TBL",
+	"sentenceList":[{
+		"id":0,
+		"offset":"38",
+		"length":10,
+		"jpn":"Ｄｕｍｍｙ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":1,
+		"offset":"43",
+		"length":14,
+		"jpn":"Ｊｅｎｅｔｔａ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":2,
+		"offset":"52",
+		"length":10,
+		"jpn":"Ｓｙｒｉｋ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":3,
+		"offset":"5d",
+		"length":12,
+		"jpn":"Ｍｉｒｉｎａ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":4,
+		"offset":"6a",
+		"length":8,
+		"jpn":"Ｅｇａｒ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":5,
+		"offset":"73",
+		"length":10,
+		"jpn":"Ｒａｍｕｓ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":6,
+		"offset":"7e",
+		"length":10,
+		"jpn":"Ｓｏｌｏｒ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":7,
+		"offset":"89",
+		"length":8,
+		"jpn":"Ｌｉｌｉ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":8,
+		"offset":"92",
+		"length":10,
+		"jpn":"Ａｒｋｅｎ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":9,
+		"offset":"9d",
+		"length":10,
+		"jpn":"Ｇｕａｒｄ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":10,
+		"offset":"a8",
+		"length":20,
+		"jpn":"Ｔｏｗｎ　Ｃｒｉｅｒ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":11,
+		"offset":"bd",
+		"length":32,
+		"jpn":"Ｂｌａｃｋ　Ｂａｃｋｇｒｏｕｎｄ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":12,
+		"offset":"de",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":13,
+		"offset":"ef",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":14,
+		"offset":"100",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":15,
+		"offset":"111",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":16,
+		"offset":"122",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":17,
+		"offset":"133",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":18,
+		"offset":"144",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":19,
+		"offset":"155",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":20,
+		"offset":"166",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":21,
+		"offset":"177",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":22,
+		"offset":"188",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":23,
+		"offset":"199",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":24,
+		"offset":"1aa",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":25,
+		"offset":"1bb",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	},{
+		"id":26,
+		"offset":"1cc",
+		"length":16,
+		"jpn":"ＮＯＴ　ＵＳＥＤ",
+		"eng":"",
+		"zh":""
+	}]
+}
