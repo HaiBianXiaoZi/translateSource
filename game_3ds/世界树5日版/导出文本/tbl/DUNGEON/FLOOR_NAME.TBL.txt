@@ -7,7 +7,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":""
+			"zh":"虚拟"
 		},
 		{
 			"id":1,
@@ -15,7 +15,7 @@
 			"length":30,
 			"jpn":"伝説を追いし冒険の始まりの大地",
 			"eng":"Pursuing an Old Legend",
-			"zh":""
+			"zh":"追逐传奇的冒险开始之地"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":28,
 			"jpn":"炎を囲み調理をした小さな広場",
 			"eng":"Around the Campfire",
-			"zh":""
+			"zh":"围着火焰烹饪的小广场"
 		},
 		{
 			"id":3,
@@ -31,7 +31,7 @@
 			"length":26,
 			"jpn":"木立の奥で徘徊せし危険な獣",
 			"eng":"What Lurks behind the Trees",
-			"zh":""
+			"zh":"树丛深处徘徊的危险野兽"
 		},
 		{
 			"id":4,

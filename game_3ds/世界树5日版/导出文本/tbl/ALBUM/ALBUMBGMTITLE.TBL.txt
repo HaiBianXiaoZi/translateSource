@@ -7,7 +7,7 @@
 			"length":8,
 			"jpn":"タイトル",
 			"eng":"Title Screen",
-			"zh":""
+			"zh":"标题"
 		},
 		{
 			"id":1,
@@ -15,7 +15,7 @@
 			"length":16,
 			"jpn":"街·冒険者ギルド",
 			"eng":"Explorers Guild",
-			"zh":""
+			"zh":"城·冒险者公会"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":18,
 			"jpn":"街·広場·昼／宿屋",
 			"eng":"Town Square： Day／Inn",
-			"zh":""
+			"zh":"城·广场·昼／旅馆"
 		},
 		{
 			"id":3,
@@ -31,7 +31,7 @@
 			"length":24,
 			"jpn":"街·広場·夜／商店／酒場",
 			"eng":"Town Square： Night／Market／Tavern",
-			"zh":""
+			"zh":"城·广场·昼／商店／酒馆"
 		},
 		{
 			"id":4,
@@ -39,7 +39,7 @@
 			"length":10,
 			"jpn":"街·評議会",
 			"eng":"Town Square： Council Hall",
-			"zh":""
+			"zh":"城·评议会"
 		},
 		{
 			"id":5,
@@ -47,7 +47,7 @@
 			"length":12,
 			"jpn":"イベント真理",
 			"eng":"The Truth",
-			"zh":""
+			"zh":"事件真理"
 		},
 		{
 			"id":6,
@@ -55,7 +55,7 @@
 			"length":12,
 			"jpn":"イベント恐慌",
 			"eng":"Fear",
-			"zh":""
+			"zh":"事件恐慌"
 		},
 		{
 			"id":7,
@@ -63,7 +63,7 @@
 			"length":14,
 			"jpn":"イベントテーマ",
 			"eng":"Theme Song",
-			"zh":""
+			"zh":"事件主题"
 		},
 		{
 			"id":8,
@@ -71,7 +71,7 @@
 			"length":22,
 			"jpn":"ダンジョン　１Ｆ～５Ｆ",
 			"eng":"Dungeon, １F-５F",
-			"zh":""
+			"zh":"迷宫　１Ｆ～５Ｆ"
 		},
 		{
 			"id":9,
@@ -79,7 +79,7 @@
 			"length":24,
 			"jpn":"ダンジョン　６Ｆ～１０Ｆ",
 			"eng":"Dungeon, ６F-１０F",
-			"zh":""
+			"zh":"迷宫　６F-１０F"
 		},
 		{
 			"id":10,
@@ -87,7 +87,7 @@
 			"length":26,
 			"jpn":"ダンジョン　１１Ｆ～１５Ｆ",
 			"eng":"Dungeon, １１F-１５F",
-			"zh":""
+			"zh":"迷宫　１１Ｆ～１５Ｆ"
 		},
 		{
 			"id":11,
@@ -95,7 +95,7 @@
 			"length":26,
 			"jpn":"ダンジョン　１６Ｆ～２０Ｆ",
 			"eng":"Dungeon, １６F-２０F",
-			"zh":""
+			"zh":"迷宫　１６F-２０F"
 		},
 		{
 			"id":12,
@@ -103,7 +103,7 @@
 			"length":26,
 			"jpn":"ダンジョン　２１Ｆ～２５Ｆ",
 			"eng":"Dungeon, ２１F-２５F",
-			"zh":""
+			"zh":"迷宫　２１Ｆ～２５Ｆ"
 		},
 		{
 			"id":13,
@@ -111,7 +111,7 @@
 			"length":26,
 			"jpn":"ダンジョン　２６Ｆ～３０Ｆ",
 			"eng":"Dungeon, ２６F-３０F",
-			"zh":""
+			"zh":"迷宫　２６Ｆ～３０Ｆ"
 		},
 		{
 			"id":14,
@@ -119,7 +119,7 @@
 			"length":16,
 			"jpn":"通常バトル　前編",
 			"eng":"Eager Adventurers",
-			"zh":""
+			"zh":"通常战斗　前篇"
 		},
 		{
 			"id":15,
@@ -127,7 +127,7 @@
 			"length":20,
 			"jpn":"通常バトル先制　前編",
 			"eng":"Lucky Adventurers",
-			"zh":""
+			"zh":"通常战斗先制　前篇"
 		},
 		{
 			"id":16,
@@ -135,7 +135,7 @@
 			"length":20,
 			"jpn":"通常バトル奇襲　前編",
 			"eng":"Unlucky Adventurers",
-			"zh":""
+			"zh":"通常战斗奇袭　前篇"
 		},
 		{
 			"id":17,
@@ -143,7 +143,7 @@
 			"length":16,
 			"jpn":"通常バトル　後編",
 			"eng":"Seasoned Veterans",
-			"zh":""
+			"zh":"通常战斗　后篇"
 		},
 		{
 			"id":18,
@@ -151,7 +151,7 @@
 			"length":20,
 			"jpn":"通常バトル先制　後編",
 			"eng":"Lucky Veterans",
-			"zh":""
+			"zh":"通常战斗先制　后篇"
 		},
 		{
 			"id":19,
@@ -159,7 +159,7 @@
 			"length":20,
 			"jpn":"通常バトル奇襲　後編",
 			"eng":"Unlucky Veterans",
-			"zh":""
+			"zh":"通常战斗奇袭　后篇"
 		},
 		{
 			"id":20,
@@ -167,7 +167,7 @@
 			"length":18,
 			"jpn":"通常バトル　最終層",
 			"eng":"Resolved Warriors",
-			"zh":""
+			"zh":"通常战斗　最终"
 		},
 		{
 			"id":21,
@@ -175,7 +175,7 @@
 			"length":22,
 			"jpn":"通常バトル先制　最終層",
 			"eng":"Lucky Warriors",
-			"zh":""
+			"zh":"通常战斗先制　最终"
 		},
 		{
 			"id":22,
@@ -183,7 +183,7 @@
 			"length":22,
 			"jpn":"通常バトル奇襲　最終層",
 			"eng":"Unlucky Warriors",
-			"zh":""
+			"zh":"通常战斗奇袭　最终"
 		},
 		{
 			"id":23,
@@ -191,7 +191,7 @@
 			"length":18,
 			"jpn":"Ｆ．Ｏ．Ｅ　バトル",
 			"eng":"Formido Oppugnatura Exsequens",
-			"zh":""
+			"zh":"Ｆ．Ｏ．Ｅ　战斗"
 		},
 		{
 			"id":24,
@@ -199,7 +199,7 @@
 			"length":10,
 			"jpn":"ボスバトル",
 			"eng":"Dread Battle",
-			"zh":""
+			"zh":"ＢＯＳＳ战"
 		},
 		{
 			"id":25,
@@ -207,7 +207,7 @@
 			"length":16,
 			"jpn":"ラストボスバトル",
 			"eng":"Seeds of Truth",
-			"zh":""
+			"zh":"最终ＢＯＳＳ战"
 		},
 		{
 			"id":26,
@@ -215,7 +215,7 @@
 			"length":18,
 			"jpn":"ラストボスバトル２",
 			"eng":"A Legend Is Born",
-			"zh":""
+			"zh":"最终ＢＯＳＳ战２"
 		},
 		{
 			"id":27,
@@ -223,7 +223,7 @@
 			"length":14,
 			"jpn":"隠しボスバトル",
 			"eng":"Hidden Threats",
-			"zh":""
+			"zh":"隐藏ＢＯＳＳ战"
 		},
 		{
 			"id":28,
@@ -231,7 +231,7 @@
 			"length":10,
 			"jpn":"バトル終了",
 			"eng":"Victory Fanfare",
-			"zh":""
+			"zh":"战斗结束"
 		},
 		{
 			"id":29,
@@ -239,7 +239,7 @@
 			"length":14,
 			"jpn":"ゲームオーバー",
 			"eng":"Fallen Heroes",
-			"zh":""
+			"zh":"游戏结束"
 		},
 		{
 			"id":30,
@@ -247,7 +247,7 @@
 			"length":16,
 			"jpn":"エンディング　１",
 			"eng":"Adventure’s End",
-			"zh":""
+			"zh":"结局　１"
 		},
 		{
 			"id":31,
@@ -255,7 +255,7 @@
 			"length":16,
 			"jpn":"エンディング　２",
 			"eng":"Adventure’s Finale",
-			"zh":""
+			"zh":"结局　２"
 		},
 		{
 			"id":32,
@@ -263,7 +263,7 @@
 			"length":24,
 			"jpn":"ジングル　イベントクリア",
 			"eng":"Task Complete",
-			"zh":""
+			"zh":"任务　完成"
 		}
 	]
 }
