@@ -7,8 +7,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0900"
+			"zh":""
 		},
 		{
 			"id":1,
@@ -16,8 +15,7 @@
 			"length":8,
 			"jpn":"アタック",
 			"eng":"Attack",
-			"zh":"",
-			"exten":"1200"
+			"zh":""
 		},
 		{
 			"id":2,
@@ -25,8 +23,7 @@
 			"length":8,
 			"jpn":"絡みつき",
 			"eng":"Stomp",
-			"zh":"",
-			"exten":"1b00"
+			"zh":""
 		},
 		{
 			"id":3,
@@ -34,8 +31,7 @@
 			"length":10,
 			"jpn":"風船落とし",
 			"eng":"Balloon Drop",
-			"zh":"",
-			"exten":"2600"
+			"zh":""
 		},
 		{
 			"id":4,
@@ -43,8 +39,7 @@
 			"length":4,
 			"jpn":"威嚇",
 			"eng":"Threaten",
-			"zh":"",
-			"exten":"2b00"
+			"zh":""
 		},
 		{
 			"id":5,
@@ -52,8 +47,7 @@
 			"length":4,
 			"jpn":"冷波",
 			"eng":"Cold Front",
-			"zh":"",
-			"exten":"3000"
+			"zh":""
 		},
 		{
 			"id":6,
@@ -61,8 +55,7 @@
 			"length":10,
 			"jpn":"石化の胞子",
 			"eng":"Calcify Spores",
-			"zh":"",
-			"exten":"3b00"
+			"zh":""
 		},
 		{
 			"id":7,
@@ -70,8 +63,7 @@
 			"length":10,
 			"jpn":"甲羅の守り",
 			"eng":"Shell Guard",
-			"zh":"",
-			"exten":"4600"
+			"zh":""
 		},
 		{
 			"id":8,
@@ -79,8 +71,7 @@
 			"length":8,
 			"jpn":"猪突猛進",
 			"eng":"Headlong Rush",
-			"zh":"",
-			"exten":"4f00"
+			"zh":""
 		},
 		{
 			"id":9,
@@ -88,8 +79,7 @@
 			"length":4,
 			"jpn":"蛭毒",
 			"eng":"Leech Poison",
-			"zh":"",
-			"exten":"5400"
+			"zh":""
 		},
 		{
 			"id":10,
@@ -97,8 +87,7 @@
 			"length":10,
 			"jpn":"食いちぎり",
 			"eng":"Bite Off",
-			"zh":"",
-			"exten":"5f00"
+			"zh":""
 		},
 		{
 			"id":11,
@@ -106,8 +95,7 @@
 			"length":8,
 			"jpn":"斬り払い",
 			"eng":"Slash Sweep",
-			"zh":"",
-			"exten":"6800"
+			"zh":""
 		},
 		{
 			"id":12,
@@ -115,8 +103,7 @@
 			"length":6,
 			"jpn":"大絡み",
 			"eng":"Great Bind",
-			"zh":"",
-			"exten":"6f00"
+			"zh":""
 		},
 		{
 			"id":13,
@@ -124,8 +111,7 @@
 			"length":6,
 			"jpn":"力溜め",
 			"eng":"Power Save",
-			"zh":"",
-			"exten":"7600"
+			"zh":""
 		},
 		{
 			"id":14,
@@ -133,8 +119,7 @@
 			"length":4,
 			"jpn":"毒牙",
 			"eng":"Poison Fang",
-			"zh":"",
-			"exten":"7b00"
+			"zh":""
 		},
 		{
 			"id":15,
@@ -142,8 +127,7 @@
 			"length":12,
 			"jpn":"フクロウの眼",
 			"eng":"Owl Eyes",
-			"zh":"",
-			"exten":"8800"
+			"zh":""
 		},
 		{
 			"id":16,
@@ -151,8 +135,7 @@
 			"length":10,
 			"jpn":"ベアハッグ",
 			"eng":"Bear Hug",
-			"zh":"",
-			"exten":"9300"
+			"zh":""
 		},
 		{
 			"id":17,
@@ -160,8 +143,7 @@
 			"length":16,
 			"jpn":"アイススライサー",
 			"eng":"Ice Slicer",
-			"zh":"",
-			"exten":"a400"
+			"zh":""
 		},
 		{
 			"id":18,
@@ -169,8 +151,7 @@
 			"length":8,
 			"jpn":"飛び蹴り",
 			"eng":"Jump Kick",
-			"zh":"",
-			"exten":"ad00"
+			"zh":""
 		},
 		{
 			"id":19,
@@ -178,8 +159,7 @@
 			"length":14,
 			"jpn":"ガードウィング",
 			"eng":"Guard Wing",
-			"zh":"",
-			"exten":"bc00"
+			"zh":""
 		},
 		{
 			"id":20,
@@ -187,8 +167,7 @@
 			"length":4,
 			"jpn":"雷撃",
 			"eng":"Volt Strike",
-			"zh":"",
-			"exten":"c100"
+			"zh":""
 		},
 		{
 			"id":21,
@@ -196,8 +175,7 @@
 			"length":14,
 			"jpn":"ボディアタック",
 			"eng":"Body Attack",
-			"zh":"",
-			"exten":"d000"
+			"zh":""
 		},
 		{
 			"id":22,
@@ -205,8 +183,7 @@
 			"length":16,
 			"jpn":"パニックアサルト",
 			"eng":"Panic Assault",
-			"zh":"",
-			"exten":"e100"
+			"zh":""
 		},
 		{
 			"id":23,
@@ -214,8 +191,7 @@
 			"length":14,
 			"jpn":"バインドアーム",
 			"eng":"Bind Arm",
-			"zh":"",
-			"exten":"f000"
+			"zh":""
 		},
 		{
 			"id":24,
@@ -223,8 +199,7 @@
 			"length":8,
 			"jpn":"武器折り",
 			"eng":"Weapon Break",
-			"zh":"",
-			"exten":"f900"
+			"zh":""
 		},
 		{
 			"id":25,
@@ -232,8 +207,7 @@
 			"length":14,
 			"jpn":"パワースイープ",
 			"eng":"Power Sweep",
-			"zh":"",
-			"exten":"0801"
+			"zh":""
 		},
 		{
 			"id":26,
@@ -241,8 +215,7 @@
 			"length":14,
 			"jpn":"バインドメイス",
 			"eng":"Bind Mace",
-			"zh":"",
-			"exten":"1701"
+			"zh":""
 		},
 		{
 			"id":27,
@@ -250,8 +223,7 @@
 			"length":10,
 			"jpn":"テングの拳",
 			"eng":"Tengu Fist",
-			"zh":"",
-			"exten":"2201"
+			"zh":""
 		},
 		{
 			"id":28,
@@ -259,8 +231,7 @@
 			"length":16,
 			"jpn":"ギガントハンマー",
 			"eng":"Giant Hammer",
-			"zh":"",
-			"exten":"3301"
+			"zh":""
 		},
 		{
 			"id":29,
@@ -268,8 +239,7 @@
 			"length":6,
 			"jpn":"目潰し",
 			"eng":"Eye Stab",
-			"zh":"",
-			"exten":"3a01"
+			"zh":""
 		},
 		{
 			"id":30,
@@ -277,8 +247,7 @@
 			"length":10,
 			"jpn":"死者の魔眼",
 			"eng":"Baneful Gaze",
-			"zh":"",
-			"exten":"4501"
+			"zh":""
 		},
 		{
 			"id":31,
@@ -286,8 +255,7 @@
 			"length":4,
 			"jpn":"剛矢",
 			"eng":"Vicious Arrow",
-			"zh":"",
-			"exten":"4a01"
+			"zh":""
 		},
 		{
 			"id":32,
@@ -295,8 +263,7 @@
 			"length":10,
 			"jpn":"火炎大回転",
 			"eng":"Fire Spin",
-			"zh":"",
-			"exten":"5501"
+			"zh":""
 		},
 		{
 			"id":33,
@@ -304,8 +271,7 @@
 			"length":10,
 			"jpn":"首絡みつき",
 			"eng":"Neck Grip",
-			"zh":"",
-			"exten":"6001"
+			"zh":""
 		},
 		{
 			"id":34,
@@ -313,8 +279,7 @@
 			"length":6,
 			"jpn":"毒噛み",
 			"eng":"Poison Bite",
-			"zh":"",
-			"exten":"6701"
+			"zh":""
 		},
 		{
 			"id":35,
@@ -322,8 +287,7 @@
 			"length":8,
 			"jpn":"踏み潰し",
 			"eng":"Stampede",
-			"zh":"",
-			"exten":"7001"
+			"zh":""
 		},
 		{
 			"id":36,
@@ -331,8 +295,7 @@
 			"length":8,
 			"jpn":"呪いの炎",
 			"eng":"Cursed Flame",
-			"zh":"",
-			"exten":"7901"
+			"zh":""
 		},
 		{
 			"id":37,
@@ -340,8 +303,7 @@
 			"length":10,
 			"jpn":"死者の凶眼",
 			"eng":"Baneful Glare",
-			"zh":"",
-			"exten":"8401"
+			"zh":""
 		},
 		{
 			"id":38,
@@ -349,8 +311,7 @@
 			"length":10,
 			"jpn":"亡者の行進",
 			"eng":"Death March",
-			"zh":"",
-			"exten":"8f01"
+			"zh":""
 		},
 		{
 			"id":39,
@@ -358,8 +319,7 @@
 			"length":8,
 			"jpn":"外道の刃",
 			"eng":"Fiendish Blade",
-			"zh":"",
-			"exten":"9801"
+			"zh":""
 		},
 		{
 			"id":40,
@@ -367,8 +327,7 @@
 			"length":12,
 			"jpn":"踏み込み斬り",
 			"eng":"Step Slash",
-			"zh":"",
-			"exten":"a501"
+			"zh":""
 		},
 		{
 			"id":41,
@@ -376,8 +335,7 @@
 			"length":12,
 			"jpn":"ヘルファイア",
 			"eng":"Hellfire",
-			"zh":"",
-			"exten":"b201"
+			"zh":""
 		},
 		{
 			"id":42,
@@ -385,8 +343,7 @@
 			"length":8,
 			"jpn":"かち割り",
 			"eng":"Crusher",
-			"zh":"",
-			"exten":"bb01"
+			"zh":""
 		},
 		{
 			"id":43,
@@ -394,8 +351,7 @@
 			"length":16,
 			"jpn":"スピットサンダー",
 			"eng":"Thunder Spit",
-			"zh":"",
-			"exten":"cc01"
+			"zh":""
 		},
 		{
 			"id":44,
@@ -403,8 +359,7 @@
 			"length":6,
 			"jpn":"催眠波",
 			"eng":"Hypnotic Wave",
-			"zh":"",
-			"exten":"d301"
+			"zh":""
 		},
 		{
 			"id":45,
@@ -412,8 +367,7 @@
 			"length":4,
 			"jpn":"吸血",
 			"eng":"Blood Drain",
-			"zh":"",
-			"exten":"d801"
+			"zh":""
 		},
 		{
 			"id":46,
@@ -421,8 +375,7 @@
 			"length":8,
 			"jpn":"真空斬り",
 			"eng":"Aerial Slash",
-			"zh":"",
-			"exten":"e101"
+			"zh":""
 		},
 		{
 			"id":47,
@@ -430,8 +383,7 @@
 			"length":16,
 			"jpn":"スピットファイア",
 			"eng":"Fire Spit",
-			"zh":"",
-			"exten":"f201"
+			"zh":""
 		},
 		{
 			"id":48,
@@ -439,8 +391,7 @@
 			"length":8,
 			"jpn":"心臓突き",
 			"eng":"Heart Strike",
-			"zh":"",
-			"exten":"fb01"
+			"zh":""
 		},
 		{
 			"id":49,
@@ -448,8 +399,7 @@
 			"length":16,
 			"jpn":"アタックウィング",
 			"eng":"Assault Wing",
-			"zh":"",
-			"exten":"0c02"
+			"zh":""
 		},
 		{
 			"id":50,
@@ -457,8 +407,7 @@
 			"length":16,
 			"jpn":"スピットフリーズ",
 			"eng":"Ice Spit",
-			"zh":"",
-			"exten":"1d02"
+			"zh":""
 		},
 		{
 			"id":51,
@@ -466,8 +415,7 @@
 			"length":8,
 			"jpn":"頭蓋割り",
 			"eng":"Skullcrusher",
-			"zh":"",
-			"exten":"2602"
+			"zh":""
 		},
 		{
 			"id":52,
@@ -475,8 +423,7 @@
 			"length":10,
 			"jpn":"土竜の豪爪",
 			"eng":"Mole Claws",
-			"zh":"",
-			"exten":"3102"
+			"zh":""
 		},
 		{
 			"id":53,
@@ -484,8 +431,7 @@
 			"length":14,
 			"jpn":"甲羅の守り・改",
 			"eng":"Shell Guard EX",
-			"zh":"",
-			"exten":"4002"
+			"zh":""
 		},
 		{
 			"id":54,
@@ -493,8 +439,7 @@
 			"length":4,
 			"jpn":"尾撃",
 			"eng":"Tail Whip",
-			"zh":"",
-			"exten":"4502"
+			"zh":""
 		},
 		{
 			"id":55,
@@ -502,8 +447,7 @@
 			"length":8,
 			"jpn":"捕食の針",
 			"eng":"Devourer Needle",
-			"zh":"",
-			"exten":"4e02"
+			"zh":""
 		},
 		{
 			"id":56,
@@ -511,8 +455,7 @@
 			"length":14,
 			"jpn":"パニックボイス",
 			"eng":"Panic Voice",
-			"zh":"",
-			"exten":"5d02"
+			"zh":""
 		},
 		{
 			"id":57,
@@ -520,8 +463,7 @@
 			"length":6,
 			"jpn":"牙の檻",
 			"eng":"Fang Cage",
-			"zh":"",
-			"exten":"6402"
+			"zh":""
 		},
 		{
 			"id":58,
@@ -529,8 +471,7 @@
 			"length":12,
 			"jpn":"レッグバイト",
 			"eng":"Leg Bite",
-			"zh":"",
-			"exten":"7102"
+			"zh":""
 		},
 		{
 			"id":59,
@@ -538,8 +479,7 @@
 			"length":12,
 			"jpn":"ダブルバイト",
 			"eng":"Double Bite",
-			"zh":"",
-			"exten":"7e02"
+			"zh":""
 		},
 		{
 			"id":60,
@@ -547,8 +487,7 @@
 			"length":6,
 			"jpn":"虚弱酸",
 			"eng":"Numbing Acid",
-			"zh":"",
-			"exten":"8502"
+			"zh":""
 		},
 		{
 			"id":61,
@@ -556,8 +495,7 @@
 			"length":6,
 			"jpn":"散氷撃",
 			"eng":"Ice Shatter",
-			"zh":"",
-			"exten":"8c02"
+			"zh":""
 		},
 		{
 			"id":62,
@@ -565,8 +503,7 @@
 			"length":6,
 			"jpn":"封足剣",
 			"eng":"Shin Slash",
-			"zh":"",
-			"exten":"9302"
+			"zh":""
 		},
 		{
 			"id":63,
@@ -574,8 +511,7 @@
 			"length":8,
 			"jpn":"麻痺蹴り",
 			"eng":"Paralysis Kick",
-			"zh":"",
-			"exten":"9c02"
+			"zh":""
 		},
 		{
 			"id":64,
@@ -583,8 +519,7 @@
 			"length":14,
 			"jpn":"カースアサルト",
 			"eng":"Cursed Assault",
-			"zh":"",
-			"exten":"ab02"
+			"zh":""
 		},
 		{
 			"id":65,
@@ -592,8 +527,7 @@
 			"length":10,
 			"jpn":"灼熱の劫火",
 			"eng":"Infernal Blaze",
-			"zh":"",
-			"exten":"b602"
+			"zh":""
 		},
 		{
 			"id":66,
@@ -601,8 +535,7 @@
 			"length":8,
 			"jpn":"災界招雷",
 			"eng":"Hellish Bolt",
-			"zh":"",
-			"exten":"bf02"
+			"zh":""
 		},
 		{
 			"id":67,
@@ -610,8 +543,7 @@
 			"length":10,
 			"jpn":"完封の大鎌",
 			"eng":"Snaring Scythe",
-			"zh":"",
-			"exten":"ca02"
+			"zh":""
 		},
 		{
 			"id":68,
@@ -619,8 +551,7 @@
 			"length":8,
 			"jpn":"斬刃乱舞",
 			"eng":"Slash Dance",
-			"zh":"",
-			"exten":"d302"
+			"zh":""
 		},
 		{
 			"id":69,
@@ -628,8 +559,7 @@
 			"length":6,
 			"jpn":"針千弾",
 			"eng":"Thousand Needles",
-			"zh":"",
-			"exten":"da02"
+			"zh":""
 		},
 		{
 			"id":70,
@@ -637,8 +567,7 @@
 			"length":14,
 			"jpn":"アームクラック",
 			"eng":"Arm Breaker",
-			"zh":"",
-			"exten":"e902"
+			"zh":""
 		},
 		{
 			"id":71,
@@ -646,8 +575,7 @@
 			"length":10,
 			"jpn":"禍事の稲妻",
 			"eng":"Doom Lightning",
-			"zh":"",
-			"exten":"f402"
+			"zh":""
 		},
 		{
 			"id":72,
@@ -655,8 +583,7 @@
 			"length":6,
 			"jpn":"斬鎧拳",
 			"eng":"Armor Slicer",
-			"zh":"",
-			"exten":"fb02"
+			"zh":""
 		},
 		{
 			"id":73,
@@ -664,8 +591,7 @@
 			"length":6,
 			"jpn":"放熱弾",
 			"eng":"Radiation Shot",
-			"zh":"",
-			"exten":"0203"
+			"zh":""
 		},
 		{
 			"id":74,
@@ -673,8 +599,7 @@
 			"length":10,
 			"jpn":"穿通する嘴",
 			"eng":"Piercing Beak",
-			"zh":"",
-			"exten":"0d03"
+			"zh":""
 		},
 		{
 			"id":75,
@@ -682,8 +607,7 @@
 			"length":10,
 			"jpn":"躱避の闇翼",
 			"eng":"Dark Wingbeat",
-			"zh":"",
-			"exten":"1803"
+			"zh":""
 		},
 		{
 			"id":76,
@@ -691,8 +615,7 @@
 			"length":14,
 			"jpn":"苛立たしい鳴声",
 			"eng":"Grating Cry",
-			"zh":"",
-			"exten":"2703"
+			"zh":""
 		},
 		{
 			"id":77,
@@ -700,8 +623,7 @@
 			"length":12,
 			"jpn":"幽々たる息吹",
 			"eng":"Ghastly Breath",
-			"zh":"",
-			"exten":"3403"
+			"zh":""
 		},
 		{
 			"id":78,
@@ -709,8 +631,7 @@
 			"length":8,
 			"jpn":"絆し乱舞",
 			"eng":"Restraint Dance",
-			"zh":"",
-			"exten":"3d03"
+			"zh":""
 		},
 		{
 			"id":79,
@@ -718,8 +639,7 @@
 			"length":4,
 			"jpn":"挑発",
 			"eng":"Taunt",
-			"zh":"",
-			"exten":"4203"
+			"zh":""
 		},
 		{
 			"id":80,
@@ -727,8 +647,7 @@
 			"length":6,
 			"jpn":"豪氷尾",
 			"eng":"Glacial Tail",
-			"zh":"",
-			"exten":"4903"
+			"zh":""
 		},
 		{
 			"id":81,
@@ -736,8 +655,7 @@
 			"length":10,
 			"jpn":"脆弱な雄心",
 			"eng":"Enfeeble Mind",
-			"zh":"",
-			"exten":"5403"
+			"zh":""
 		},
 		{
 			"id":82,
@@ -745,8 +663,7 @@
 			"length":12,
 			"jpn":"撃砕する上肢",
 			"eng":"Crushing Limb",
-			"zh":"",
-			"exten":"6103"
+			"zh":""
 		},
 		{
 			"id":83,
@@ -754,8 +671,7 @@
 			"length":10,
 			"jpn":"悪魔の眼光",
 			"eng":"Demon’s Glare",
-			"zh":"",
-			"exten":"6c03"
+			"zh":""
 		},
 		{
 			"id":84,
@@ -763,8 +679,7 @@
 			"length":16,
 			"jpn":"ワルプルギスの夜",
 			"eng":"Walpurgisnacht",
-			"zh":"",
-			"exten":"7d03"
+			"zh":""
 		},
 		{
 			"id":85,
@@ -772,8 +687,7 @@
 			"length":14,
 			"jpn":"ポイズンバイト",
 			"eng":"Poison Bite",
-			"zh":"",
-			"exten":"8c03"
+			"zh":""
 		},
 		{
 			"id":86,
@@ -781,8 +695,7 @@
 			"length":12,
 			"jpn":"アームバイト",
 			"eng":"Arm Bite",
-			"zh":"",
-			"exten":"9903"
+			"zh":""
 		},
 		{
 			"id":87,
@@ -790,8 +703,7 @@
 			"length":12,
 			"jpn":"インフェルノ",
 			"eng":"Inferno",
-			"zh":"",
-			"exten":"a603"
+			"zh":""
 		},
 		{
 			"id":88,
@@ -799,8 +711,7 @@
 			"length":10,
 			"jpn":"アイシクル",
 			"eng":"Icicle",
-			"zh":"",
-			"exten":"b103"
+			"zh":""
 		},
 		{
 			"id":89,
@@ -808,8 +719,7 @@
 			"length":12,
 			"jpn":"ライトニング",
 			"eng":"Lightning",
-			"zh":"",
-			"exten":"be03"
+			"zh":""
 		},
 		{
 			"id":90,
@@ -817,8 +727,7 @@
 			"length":14,
 			"jpn":"ネイルハンマー",
 			"eng":"Nail Hammer",
-			"zh":"",
-			"exten":"cd03"
+			"zh":""
 		},
 		{
 			"id":91,
@@ -826,8 +735,7 @@
 			"length":10,
 			"jpn":"ぶちかまし",
 			"eng":"Rampage",
-			"zh":"",
-			"exten":"d803"
+			"zh":""
 		},
 		{
 			"id":92,
@@ -835,8 +743,7 @@
 			"length":14,
 			"jpn":"ヘビードロップ",
 			"eng":"Heavy Drop",
-			"zh":"",
-			"exten":"e703"
+			"zh":""
 		},
 		{
 			"id":93,
@@ -844,8 +751,7 @@
 			"length":4,
 			"jpn":"吸収",
 			"eng":"Absorb",
-			"zh":"",
-			"exten":"ec03"
+			"zh":""
 		},
 		{
 			"id":94,
@@ -853,8 +759,7 @@
 			"length":12,
 			"jpn":"凱旋の雄叫び",
 			"eng":"Roar of Triumph",
-			"zh":"",
-			"exten":"f903"
+			"zh":""
 		},
 		{
 			"id":95,
@@ -862,8 +767,7 @@
 			"length":16,
 			"jpn":"ビクトリータスク",
 			"eng":"Victory Tusk",
-			"zh":"",
-			"exten":"0a04"
+			"zh":""
 		},
 		{
 			"id":96,
@@ -871,8 +775,7 @@
 			"length":6,
 			"jpn":"爆炎槍",
 			"eng":"Explosive Spear",
-			"zh":"",
-			"exten":"1104"
+			"zh":""
 		},
 		{
 			"id":97,
@@ -880,8 +783,7 @@
 			"length":8,
 			"jpn":"幻影の煙",
 			"eng":"Illusive Smoke",
-			"zh":"",
-			"exten":"1a04"
+			"zh":""
 		},
 		{
 			"id":98,
@@ -889,8 +791,7 @@
 			"length":10,
 			"jpn":"復仇大回転",
 			"eng":"Vengeance Spin",
-			"zh":"",
-			"exten":"2504"
+			"zh":""
 		},
 		{
 			"id":99,
@@ -898,8 +799,7 @@
 			"length":10,
 			"jpn":"惨劇の針雨",
 			"eng":"Carnage Rain",
-			"zh":"",
-			"exten":"3004"
+			"zh":""
 		},
 		{
 			"id":100,
@@ -907,8 +807,7 @@
 			"length":8,
 			"jpn":"英雄殺し",
 			"eng":"Hero Killer",
-			"zh":"",
-			"exten":"3904"
+			"zh":""
 		},
 		{
 			"id":101,
@@ -916,8 +815,7 @@
 			"length":8,
 			"jpn":"死の大針",
 			"eng":"Deathly Needle",
-			"zh":"",
-			"exten":"4204"
+			"zh":""
 		},
 		{
 			"id":102,
@@ -925,8 +823,7 @@
 			"length":6,
 			"jpn":"暴れ拳",
 			"eng":"Raging Fist",
-			"zh":"",
-			"exten":"4904"
+			"zh":""
 		},
 		{
 			"id":103,
@@ -934,8 +831,7 @@
 			"length":8,
 			"jpn":"怒りの拳",
 			"eng":"Angry Fist",
-			"zh":"",
-			"exten":"5204"
+			"zh":""
 		},
 		{
 			"id":104,
@@ -943,8 +839,7 @@
 			"length":10,
 			"jpn":"怒竜の惨爪",
 			"eng":"Mole Slash",
-			"zh":"",
-			"exten":"5d04"
+			"zh":""
 		},
 		{
 			"id":105,
@@ -952,8 +847,7 @@
 			"length":10,
 			"jpn":"惑乱の炎油",
 			"eng":"Mindburn Oil",
-			"zh":"",
-			"exten":"6804"
+			"zh":""
 		},
 		{
 			"id":106,
@@ -961,8 +855,7 @@
 			"length":10,
 			"jpn":"ネッキング",
 			"eng":"Crushing Neck",
-			"zh":"",
-			"exten":"7304"
+			"zh":""
 		},
 		{
 			"id":107,
@@ -970,8 +863,7 @@
 			"length":6,
 			"jpn":"羽休め",
 			"eng":"Wing Rest",
-			"zh":"",
-			"exten":"7a04"
+			"zh":""
 		},
 		{
 			"id":108,
@@ -979,8 +871,7 @@
 			"length":6,
 			"jpn":"しぼむ",
 			"eng":"Shrivel",
-			"zh":"",
-			"exten":"8104"
+			"zh":""
 		},
 		{
 			"id":109,
@@ -988,8 +879,7 @@
 			"length":16,
 			"jpn":"フィックスレイン",
 			"eng":"Fixative Rain",
-			"zh":"",
-			"exten":"9204"
+			"zh":""
 		},
 		{
 			"id":110,
@@ -997,8 +887,7 @@
 			"length":16,
 			"jpn":"アイアンバレット",
 			"eng":"Iron Bullets",
-			"zh":"",
-			"exten":"a304"
+			"zh":""
 		},
 		{
 			"id":111,
@@ -1006,8 +895,7 @@
 			"length":8,
 			"jpn":"毒手打ち",
 			"eng":"Poison Slap",
-			"zh":"",
-			"exten":"ac04"
+			"zh":""
 		},
 		{
 			"id":112,
@@ -1015,8 +903,7 @@
 			"length":16,
 			"jpn":"フレアロブサイト",
 			"eng":"Dazzle Flare",
-			"zh":"",
-			"exten":"bd04"
+			"zh":""
 		},
 		{
 			"id":113,
@@ -1024,8 +911,7 @@
 			"length":14,
 			"jpn":"ハードブレイク",
 			"eng":"Hard Break",
-			"zh":"",
-			"exten":"cc04"
+			"zh":""
 		},
 		{
 			"id":114,
@@ -1033,8 +919,7 @@
 			"length":8,
 			"jpn":"真空一閃",
 			"eng":"Vaccuum Slash",
-			"zh":"",
-			"exten":"d504"
+			"zh":""
 		},
 		{
 			"id":115,
@@ -1042,8 +927,7 @@
 			"length":16,
 			"jpn":"ダイナモサンダー",
 			"eng":"Dynamo Thunder",
-			"zh":"",
-			"exten":"e604"
+			"zh":""
 		},
 		{
 			"id":116,
@@ -1051,8 +935,7 @@
 			"length":6,
 			"jpn":"身構え",
 			"eng":"Square Up",
-			"zh":"",
-			"exten":"ed04"
+			"zh":""
 		},
 		{
 			"id":117,
@@ -1060,8 +943,7 @@
 			"length":14,
 			"jpn":"オルタネーター",
 			"eng":"Alternator",
-			"zh":"",
-			"exten":"fc04"
+			"zh":""
 		},
 		{
 			"id":118,
@@ -1069,8 +951,7 @@
 			"length":24,
 			"jpn":"身構え（ナイトレディ用）",
 			"eng":"Square Up",
-			"zh":"",
-			"exten":"1505"
+			"zh":""
 		},
 		{
 			"id":119,
@@ -1078,8 +959,7 @@
 			"length":16,
 			"jpn":"クラッシュブロー",
 			"eng":"Crushing Blow",
-			"zh":"",
-			"exten":"2605"
+			"zh":""
 		},
 		{
 			"id":120,
@@ -1087,8 +967,7 @@
 			"length":10,
 			"jpn":"首領の一喝",
 			"eng":"Leader’s Roar",
-			"zh":"",
-			"exten":"3105"
+			"zh":""
 		},
 		{
 			"id":121,
@@ -1096,8 +975,7 @@
 			"length":10,
 			"jpn":"惑乱の炎油",
 			"eng":"Mindburn Oil",
-			"zh":"",
-			"exten":"3c05"
+			"zh":""
 		},
 		{
 			"id":122,
@@ -1105,8 +983,7 @@
 			"length":4,
 			"jpn":"挑発",
 			"eng":"Taunt",
-			"zh":"",
-			"exten":"4105"
+			"zh":""
 		},
 		{
 			"id":123,
@@ -1114,8 +991,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4a05"
+			"zh":""
 		},
 		{
 			"id":124,
@@ -1123,8 +999,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5305"
+			"zh":""
 		},
 		{
 			"id":125,
@@ -1132,8 +1007,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5c05"
+			"zh":""
 		},
 		{
 			"id":126,
@@ -1141,8 +1015,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6505"
+			"zh":""
 		},
 		{
 			"id":127,
@@ -1150,8 +1023,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6e05"
+			"zh":""
 		},
 		{
 			"id":128,
@@ -1159,8 +1031,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7705"
+			"zh":""
 		},
 		{
 			"id":129,
@@ -1168,8 +1039,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"7c05"
+			"zh":""
 		},
 		{
 			"id":130,
@@ -1177,8 +1047,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"8105"
+			"zh":""
 		},
 		{
 			"id":131,
@@ -1186,8 +1055,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"8605"
+			"zh":""
 		},
 		{
 			"id":132,
@@ -1195,8 +1063,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"8b05"
+			"zh":""
 		},
 		{
 			"id":133,
@@ -1204,8 +1071,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"9005"
+			"zh":""
 		},
 		{
 			"id":134,
@@ -1213,8 +1079,7 @@
 			"length":4,
 			"jpn":"再生",
 			"eng":"Regeneration",
-			"zh":"",
-			"exten":"9505"
+			"zh":""
 		},
 		{
 			"id":135,
@@ -1222,8 +1087,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"9a05"
+			"zh":""
 		},
 		{
 			"id":136,
@@ -1231,8 +1095,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"9f05"
+			"zh":""
 		},
 		{
 			"id":137,
@@ -1240,8 +1103,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"a405"
+			"zh":""
 		},
 		{
 			"id":138,
@@ -1249,8 +1111,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"a905"
+			"zh":""
 		},
 		{
 			"id":139,
@@ -1258,8 +1119,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"ae05"
+			"zh":""
 		},
 		{
 			"id":140,
@@ -1267,8 +1127,7 @@
 			"length":4,
 			"jpn":"破壊",
 			"eng":"Destruction",
-			"zh":"",
-			"exten":"b305"
+			"zh":""
 		},
 		{
 			"id":141,
@@ -1276,8 +1135,7 @@
 			"length":12,
 			"jpn":"フルバースト",
 			"eng":"Full Burst",
-			"zh":"",
-			"exten":"c005"
+			"zh":""
 		},
 		{
 			"id":142,
@@ -1285,8 +1143,7 @@
 			"length":8,
 			"jpn":"高速移動",
 			"eng":"Sonic Mirage",
-			"zh":"",
-			"exten":"c905"
+			"zh":""
 		},
 		{
 			"id":143,
@@ -1294,8 +1151,7 @@
 			"length":12,
 			"jpn":"エグゾースト",
 			"eng":"Exhaust",
-			"zh":"",
-			"exten":"d605"
+			"zh":""
 		},
 		{
 			"id":144,
@@ -1303,8 +1159,7 @@
 			"length":4,
 			"jpn":"放熱",
 			"eng":"Heat Field",
-			"zh":"",
-			"exten":"db05"
+			"zh":""
 		},
 		{
 			"id":145,
@@ -1312,8 +1167,7 @@
 			"length":8,
 			"jpn":"薙ぎ払い",
 			"eng":"Swipe",
-			"zh":"",
-			"exten":"e405"
+			"zh":""
 		},
 		{
 			"id":146,
@@ -1321,8 +1175,7 @@
 			"length":16,
 			"jpn":"ソニックスラスト",
 			"eng":"Sonic Thrust",
-			"zh":"",
-			"exten":"f505"
+			"zh":""
 		},
 		{
 			"id":147,
@@ -1330,8 +1183,7 @@
 			"length":8,
 			"jpn":"パリング",
 			"eng":"Parry",
-			"zh":"",
-			"exten":"fe05"
+			"zh":""
 		},
 		{
 			"id":148,
@@ -1339,8 +1191,7 @@
 			"length":14,
 			"jpn":"ストームエッジ",
 			"eng":"Storm Edge",
-			"zh":"",
-			"exten":"0d06"
+			"zh":""
 		},
 		{
 			"id":149,
@@ -1348,8 +1199,7 @@
 			"length":8,
 			"jpn":"叩きつけ",
 			"eng":"Slam",
-			"zh":"",
-			"exten":"1606"
+			"zh":""
 		},
 		{
 			"id":150,
@@ -1357,8 +1207,7 @@
 			"length":16,
 			"jpn":"ブレイクブレイド",
 			"eng":"Blade Break",
-			"zh":"",
-			"exten":"2706"
+			"zh":""
 		},
 		{
 			"id":151,
@@ -1366,8 +1215,7 @@
 			"length":6,
 			"jpn":"怪音波",
 			"eng":"Eerie Siren",
-			"zh":"",
-			"exten":"2e06"
+			"zh":""
 		},
 		{
 			"id":152,
@@ -1375,8 +1223,7 @@
 			"length":14,
 			"jpn":"リリーフエコー",
 			"eng":"Relief Echo",
-			"zh":"",
-			"exten":"3d06"
+			"zh":""
 		},
 		{
 			"id":153,
@@ -1384,8 +1231,7 @@
 			"length":12,
 			"jpn":"クリアノイズ",
 			"eng":"Clear Noise",
-			"zh":"",
-			"exten":"4a06"
+			"zh":""
 		},
 		{
 			"id":154,
@@ -1393,8 +1239,7 @@
 			"length":14,
 			"jpn":"エネルギー充填",
 			"eng":"Energy Feed",
-			"zh":"",
-			"exten":"5906"
+			"zh":""
 		},
 		{
 			"id":155,
@@ -1402,8 +1247,7 @@
 			"length":10,
 			"jpn":"強壮剤注入",
 			"eng":"Tonic Injection",
-			"zh":"",
-			"exten":"6406"
+			"zh":""
 		},
 		{
 			"id":156,
@@ -1411,8 +1255,7 @@
 			"length":10,
 			"jpn":"硬化剤注入",
 			"eng":"Cure Injection",
-			"zh":"",
-			"exten":"6f06"
+			"zh":""
 		},
 		{
 			"id":157,
@@ -1420,8 +1263,7 @@
 			"length":6,
 			"jpn":"爆裂弾",
 			"eng":"Explosive Shot",
-			"zh":"",
-			"exten":"7606"
+			"zh":""
 		},
 		{
 			"id":158,
@@ -1429,8 +1271,7 @@
 			"length":6,
 			"jpn":"雷撃弾",
 			"eng":"Volt Shot",
-			"zh":"",
-			"exten":"7d06"
+			"zh":""
 		},
 		{
 			"id":159,
@@ -1438,8 +1279,7 @@
 			"length":16,
 			"jpn":"エレメントデコイ",
 			"eng":"Elemental Decoy",
-			"zh":"",
-			"exten":"8e06"
+			"zh":""
 		},
 		{
 			"id":160,
@@ -1447,8 +1287,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9706"
+			"zh":""
 		},
 		{
 			"id":161,
@@ -1456,8 +1295,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a006"
+			"zh":""
 		},
 		{
 			"id":162,
@@ -1465,8 +1303,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a906"
+			"zh":""
 		},
 		{
 			"id":163,
@@ -1474,8 +1311,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b206"
+			"zh":""
 		},
 		{
 			"id":164,
@@ -1483,8 +1319,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"bb06"
+			"zh":""
 		},
 		{
 			"id":165,
@@ -1492,8 +1327,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c406"
+			"zh":""
 		},
 		{
 			"id":166,
@@ -1501,8 +1335,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cd06"
+			"zh":""
 		},
 		{
 			"id":167,
@@ -1510,8 +1343,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d606"
+			"zh":""
 		},
 		{
 			"id":168,
@@ -1519,8 +1351,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"df06"
+			"zh":""
 		},
 		{
 			"id":169,
@@ -1528,8 +1359,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e806"
+			"zh":""
 		},
 		{
 			"id":170,
@@ -1537,8 +1367,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f106"
+			"zh":""
 		},
 		{
 			"id":171,
@@ -1546,8 +1375,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fa06"
+			"zh":""
 		},
 		{
 			"id":172,
@@ -1555,8 +1383,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0307"
+			"zh":""
 		},
 		{
 			"id":173,
@@ -1564,8 +1391,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0c07"
+			"zh":""
 		},
 		{
 			"id":174,
@@ -1573,8 +1399,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1507"
+			"zh":""
 		},
 		{
 			"id":175,
@@ -1582,8 +1407,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1e07"
+			"zh":""
 		},
 		{
 			"id":176,
@@ -1591,8 +1415,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2707"
+			"zh":""
 		},
 		{
 			"id":177,
@@ -1600,8 +1423,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3007"
+			"zh":""
 		},
 		{
 			"id":178,
@@ -1609,8 +1431,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3907"
+			"zh":""
 		},
 		{
 			"id":179,
@@ -1618,8 +1439,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4207"
+			"zh":""
 		},
 		{
 			"id":180,
@@ -1627,8 +1447,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4b07"
+			"zh":""
 		},
 		{
 			"id":181,
@@ -1636,8 +1455,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5407"
+			"zh":""
 		},
 		{
 			"id":182,
@@ -1645,8 +1463,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5d07"
+			"zh":""
 		},
 		{
 			"id":183,
@@ -1654,8 +1471,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6607"
+			"zh":""
 		},
 		{
 			"id":184,
@@ -1663,8 +1479,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6f07"
+			"zh":""
 		},
 		{
 			"id":185,
@@ -1672,8 +1487,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7807"
+			"zh":""
 		},
 		{
 			"id":186,
@@ -1681,8 +1495,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8107"
+			"zh":""
 		},
 		{
 			"id":187,
@@ -1690,8 +1503,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8a07"
+			"zh":""
 		},
 		{
 			"id":188,
@@ -1699,8 +1511,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9307"
+			"zh":""
 		},
 		{
 			"id":189,
@@ -1708,8 +1519,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9c07"
+			"zh":""
 		},
 		{
 			"id":190,
@@ -1717,8 +1527,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a507"
+			"zh":""
 		},
 		{
 			"id":191,
@@ -1726,8 +1535,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ae07"
+			"zh":""
 		},
 		{
 			"id":192,
@@ -1735,8 +1543,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b707"
+			"zh":""
 		},
 		{
 			"id":193,
@@ -1744,8 +1551,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c007"
+			"zh":""
 		},
 		{
 			"id":194,
@@ -1753,8 +1559,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c907"
+			"zh":""
 		},
 		{
 			"id":195,
@@ -1762,8 +1567,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d207"
+			"zh":""
 		},
 		{
 			"id":196,
@@ -1771,8 +1575,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"db07"
+			"zh":""
 		},
 		{
 			"id":197,
@@ -1780,8 +1583,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e407"
+			"zh":""
 		},
 		{
 			"id":198,
@@ -1789,8 +1591,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ed07"
+			"zh":""
 		},
 		{
 			"id":199,
@@ -1798,8 +1599,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f607"
+			"zh":""
 		},
 		{
 			"id":200,
@@ -1807,8 +1607,7 @@
 			"length":8,
 			"jpn":"仲間呼び",
 			"eng":"Summon Ally",
-			"zh":"",
-			"exten":"ff07"
+			"zh":""
 		},
 		{
 			"id":201,
@@ -1816,8 +1615,7 @@
 			"length":8,
 			"jpn":"仲間指示",
 			"eng":"Command Ally",
-			"zh":"",
-			"exten":"0808"
+			"zh":""
 		},
 		{
 			"id":202,
@@ -1825,8 +1623,7 @@
 			"length":8,
 			"jpn":"脆弱の息",
 			"eng":"Daunting Breath",
-			"zh":"",
-			"exten":"1108"
+			"zh":""
 		},
 		{
 			"id":203,
@@ -1834,8 +1631,7 @@
 			"length":10,
 			"jpn":"石化ブレス",
 			"eng":"Stone Breath",
-			"zh":"",
-			"exten":"1c08"
+			"zh":""
 		},
 		{
 			"id":204,
@@ -1843,8 +1639,7 @@
 			"length":8,
 			"jpn":"炎の掌打",
 			"eng":"Flame Strike",
-			"zh":"",
-			"exten":"2508"
+			"zh":""
 		},
 		{
 			"id":205,
@@ -1852,8 +1647,7 @@
 			"length":6,
 			"jpn":"氷掌拳",
 			"eng":"Ice Strike",
-			"zh":"",
-			"exten":"2c08"
+			"zh":""
 		},
 		{
 			"id":206,
@@ -1861,8 +1655,7 @@
 			"length":12,
 			"jpn":"ストンピング",
 			"eng":"Stomp",
-			"zh":"",
-			"exten":"3908"
+			"zh":""
 		},
 		{
 			"id":207,
@@ -1870,8 +1663,7 @@
 			"length":14,
 			"jpn":"特殊待機スタン",
 			"eng":"Special Stun",
-			"zh":"",
-			"exten":"4808"
+			"zh":""
 		},
 		{
 			"id":208,
@@ -1879,8 +1671,7 @@
 			"length":8,
 			"jpn":"四股ふみ",
 			"eng":"Stomp Crush",
-			"zh":"",
-			"exten":"5108"
+			"zh":""
 		},
 		{
 			"id":209,
@@ -1888,8 +1679,7 @@
 			"length":4,
 			"jpn":"爆発",
 			"eng":"Explode",
-			"zh":"",
-			"exten":"5608"
+			"zh":""
 		},
 		{
 			"id":210,
@@ -1897,8 +1687,7 @@
 			"length":4,
 			"jpn":"合体",
 			"eng":"Fuse",
-			"zh":"",
-			"exten":"5b08"
+			"zh":""
 		},
 		{
 			"id":211,
@@ -1906,8 +1695,7 @@
 			"length":8,
 			"jpn":"稲妻乱舞",
 			"eng":"Lightning Storm",
-			"zh":"",
-			"exten":"6408"
+			"zh":""
 		},
 		{
 			"id":212,
@@ -1915,8 +1703,7 @@
 			"length":12,
 			"jpn":"バックキック",
 			"eng":"Back Kick",
-			"zh":"",
-			"exten":"7108"
+			"zh":""
 		},
 		{
 			"id":213,
@@ -1924,8 +1711,7 @@
 			"length":14,
 			"jpn":"バインドクロー",
 			"eng":"Bind Claw",
-			"zh":"",
-			"exten":"8008"
+			"zh":""
 		},
 		{
 			"id":214,
@@ -1933,8 +1719,7 @@
 			"length":12,
 			"jpn":"狂乱の眼差し",
 			"eng":"Panic Glare",
-			"zh":"",
-			"exten":"8d08"
+			"zh":""
 		},
 		{
 			"id":215,
@@ -1942,8 +1727,7 @@
 			"length":12,
 			"jpn":"スカイダイブ",
 			"eng":"Sky Dive",
-			"zh":"",
-			"exten":"9a08"
+			"zh":""
 		},
 		{
 			"id":216,
@@ -1951,8 +1735,7 @@
 			"length":4,
 			"jpn":"休息",
 			"eng":"Rest",
-			"zh":"",
-			"exten":"9f08"
+			"zh":""
 		},
 		{
 			"id":217,
@@ -1960,8 +1743,7 @@
 			"length":16,
 			"jpn":"ウイングシールド",
 			"eng":"Wing Shield",
-			"zh":"",
-			"exten":"b008"
+			"zh":""
 		},
 		{
 			"id":218,
@@ -1969,8 +1751,7 @@
 			"length":20,
 			"jpn":"ウイングシールド解除",
 			"eng":"Wing Shield Down",
-			"zh":"",
-			"exten":"c508"
+			"zh":""
 		},
 		{
 			"id":219,
@@ -1978,8 +1759,7 @@
 			"length":8,
 			"jpn":"死霊乱舞",
 			"eng":"Wraith Dance",
-			"zh":"",
-			"exten":"ce08"
+			"zh":""
 		},
 		{
 			"id":220,
@@ -1987,8 +1767,7 @@
 			"length":4,
 			"jpn":"墓穴",
 			"eng":"Grave",
-			"zh":"",
-			"exten":"d308"
+			"zh":""
 		},
 		{
 			"id":221,
@@ -1996,8 +1775,7 @@
 			"length":14,
 			"jpn":"ゾンビシールド",
 			"eng":"Undead Shield",
-			"zh":"",
-			"exten":"e208"
+			"zh":""
 		},
 		{
 			"id":222,
@@ -2005,8 +1783,7 @@
 			"length":10,
 			"jpn":"死霊大爆発",
 			"eng":"Wraith Explosion",
-			"zh":"",
-			"exten":"ed08"
+			"zh":""
 		},
 		{
 			"id":223,
@@ -2014,8 +1791,7 @@
 			"length":6,
 			"jpn":"パージ",
 			"eng":"Purge",
-			"zh":"",
-			"exten":"f408"
+			"zh":""
 		},
 		{
 			"id":224,
@@ -2023,8 +1799,7 @@
 			"length":8,
 			"jpn":"呪氷爆弾",
 			"eng":"Black Ice Bomb",
-			"zh":"",
-			"exten":"fd08"
+			"zh":""
 		},
 		{
 			"id":225,
@@ -2032,8 +1807,7 @@
 			"length":6,
 			"jpn":"毒爆弾",
 			"eng":"Poison Bomb",
-			"zh":"",
-			"exten":"0409"
+			"zh":""
 		},
 		{
 			"id":226,
@@ -2041,8 +1815,7 @@
 			"length":8,
 			"jpn":"生の代償",
 			"eng":"Life Compensation",
-			"zh":"",
-			"exten":"0d09"
+			"zh":""
 		},
 		{
 			"id":227,
@@ -2050,8 +1823,7 @@
 			"length":8,
 			"jpn":"死霊召喚",
 			"eng":"Summon Wraith",
-			"zh":"",
-			"exten":"1609"
+			"zh":""
 		},
 		{
 			"id":228,
@@ -2059,8 +1831,7 @@
 			"length":10,
 			"jpn":"ドッキング",
 			"eng":"Dock",
-			"zh":"",
-			"exten":"2109"
+			"zh":""
 		},
 		{
 			"id":229,
@@ -2068,8 +1839,7 @@
 			"length":14,
 			"jpn":"パワーブレイク",
 			"eng":"Power Break",
-			"zh":"",
-			"exten":"3009"
+			"zh":""
 		},
 		{
 			"id":230,
@@ -2077,8 +1847,7 @@
 			"length":8,
 			"jpn":"防御陣形",
 			"eng":"Shield Formation",
-			"zh":"",
-			"exten":"3909"
+			"zh":""
 		},
 		{
 			"id":231,
@@ -2086,8 +1855,7 @@
 			"length":12,
 			"jpn":"ハヤブサ駆け",
 			"eng":"Falcon Rush",
-			"zh":"",
-			"exten":"4609"
+			"zh":""
 		},
 		{
 			"id":232,
@@ -2095,8 +1863,7 @@
 			"length":14,
 			"jpn":"アームスナイプ",
 			"eng":"Arm Snipe",
-			"zh":"",
-			"exten":"5509"
+			"zh":""
 		},
 		{
 			"id":233,
@@ -2104,8 +1871,7 @@
 			"length":12,
 			"jpn":"キングプレス",
 			"eng":"Emperor Strike",
-			"zh":"",
-			"exten":"6209"
+			"zh":""
 		},
 		{
 			"id":234,
@@ -2113,8 +1879,7 @@
 			"length":6,
 			"jpn":"牙刺し",
 			"eng":"Fang Skewer",
-			"zh":"",
-			"exten":"6909"
+			"zh":""
 		},
 		{
 			"id":235,
@@ -2122,8 +1887,7 @@
 			"length":16,
 			"jpn":"レッグバインダー",
 			"eng":"Leg Binder",
-			"zh":"",
-			"exten":"7a09"
+			"zh":""
 		},
 		{
 			"id":236,
@@ -2131,8 +1895,7 @@
 			"length":10,
 			"jpn":"皇帝の威光",
 			"eng":"King’s Grace",
-			"zh":"",
-			"exten":"8509"
+			"zh":""
 		},
 		{
 			"id":237,
@@ -2140,8 +1903,7 @@
 			"length":10,
 			"jpn":"皇帝の威光",
 			"eng":"King’s Grace",
-			"zh":"",
-			"exten":"9009"
+			"zh":""
 		},
 		{
 			"id":238,
@@ -2149,8 +1911,7 @@
 			"length":12,
 			"jpn":"ダークヒール",
 			"eng":"Dark Heal",
-			"zh":"",
-			"exten":"9d09"
+			"zh":""
 		},
 		{
 			"id":239,
@@ -2158,8 +1919,7 @@
 			"length":14,
 			"jpn":"ポイズンレイン",
 			"eng":"Poison Rain",
-			"zh":"",
-			"exten":"ac09"
+			"zh":""
 		},
 		{
 			"id":240,
@@ -2167,8 +1927,7 @@
 			"length":12,
 			"jpn":"カースレイン",
 			"eng":"Cursed Rain",
-			"zh":"",
-			"exten":"b909"
+			"zh":""
 		},
 		{
 			"id":241,
@@ -2176,8 +1935,7 @@
 			"length":16,
 			"jpn":"ドラゴンクエイク",
 			"eng":"Dragon Quake",
-			"zh":"",
-			"exten":"ca09"
+			"zh":""
 		},
 		{
 			"id":242,
@@ -2185,8 +1943,7 @@
 			"length":10,
 			"jpn":"踏み鳴らし",
 			"eng":"Loud Stomping",
-			"zh":"",
-			"exten":"d509"
+			"zh":""
 		},
 		{
 			"id":243,
@@ -2194,8 +1951,7 @@
 			"length":8,
 			"jpn":"噛み砕き",
 			"eng":"Crushing Bite",
-			"zh":"",
-			"exten":"de09"
+			"zh":""
 		},
 		{
 			"id":244,
@@ -2203,8 +1959,7 @@
 			"length":16,
 			"jpn":"アイスクラッシュ",
 			"eng":"Ice Crush",
-			"zh":"",
-			"exten":"ef09"
+			"zh":""
 		},
 		{
 			"id":245,
@@ -2212,8 +1967,7 @@
 			"length":14,
 			"jpn":"ファイアブレス",
 			"eng":"Fire Breath",
-			"zh":"",
-			"exten":"fe09"
+			"zh":""
 		},
 		{
 			"id":246,
@@ -2221,8 +1975,7 @@
 			"length":12,
 			"jpn":"ダークブレス",
 			"eng":"Dark Breath",
-			"zh":"",
-			"exten":"0b0a"
+			"zh":""
 		},
 		{
 			"id":247,
@@ -2230,8 +1983,7 @@
 			"length":4,
 			"jpn":"誘爆",
 			"eng":"Explosion",
-			"zh":"",
-			"exten":"100a"
+			"zh":""
 		},
 		{
 			"id":248,
@@ -2239,8 +1991,7 @@
 			"length":12,
 			"jpn":"ダークブレス",
 			"eng":"Dark Breath",
-			"zh":"",
-			"exten":"1d0a"
+			"zh":""
 		},
 		{
 			"id":249,
@@ -2248,8 +1999,7 @@
 			"length":12,
 			"jpn":"ダークヒール",
 			"eng":"Dark Heal",
-			"zh":"",
-			"exten":"2a0a"
+			"zh":""
 		},
 		{
 			"id":250,
@@ -2257,8 +2007,7 @@
 			"length":12,
 			"jpn":"ダークヒール",
 			"eng":"Dark Heal",
-			"zh":"",
-			"exten":"370a"
+			"zh":""
 		},
 		{
 			"id":251,
@@ -2266,8 +2015,7 @@
 			"length":14,
 			"jpn":"ノーズウイップ",
 			"eng":"Trunk Whip",
-			"zh":"",
-			"exten":"460a"
+			"zh":""
 		},
 		{
 			"id":252,
@@ -2275,8 +2023,7 @@
 			"length":14,
 			"jpn":"結晶化する凍息",
 			"eng":"Frostcoat Breath",
-			"zh":"",
-			"exten":"550a"
+			"zh":""
 		},
 		{
 			"id":253,
@@ -2284,8 +2031,7 @@
 			"length":10,
 			"jpn":"拘束の雷息",
 			"eng":"Lockvolt Breath",
-			"zh":"",
-			"exten":"600a"
+			"zh":""
 		},
 		{
 			"id":254,
@@ -2293,8 +2039,7 @@
 			"length":10,
 			"jpn":"衰弱の燃息",
 			"eng":"Banefire Breath",
-			"zh":"",
-			"exten":"6b0a"
+			"zh":""
 		},
 		{
 			"id":255,
@@ -2302,8 +2047,7 @@
 			"length":10,
 			"jpn":"連携用待機",
 			"eng":"Combo Pause",
-			"zh":"",
-			"exten":"760a"
+			"zh":""
 		},
 		{
 			"id":256,
@@ -2311,8 +2055,7 @@
 			"length":12,
 			"jpn":"クリアブレス",
 			"eng":"Clear Breath",
-			"zh":"",
-			"exten":"830a"
+			"zh":""
 		},
 		{
 			"id":257,
@@ -2320,8 +2063,7 @@
 			"length":12,
 			"jpn":"プリズム光線",
 			"eng":"Prism Laser",
-			"zh":"",
-			"exten":"900a"
+			"zh":""
 		},
 		{
 			"id":258,
@@ -2329,8 +2071,7 @@
 			"length":14,
 			"jpn":"モードチェンジ",
 			"eng":"Mode Change",
-			"zh":"",
-			"exten":"9f0a"
+			"zh":""
 		},
 		{
 			"id":259,
@@ -2338,8 +2079,7 @@
 			"length":14,
 			"jpn":"ソニックブロー",
 			"eng":"Sonic Blow",
-			"zh":"",
-			"exten":"ae0a"
+			"zh":""
 		},
 		{
 			"id":260,
@@ -2347,8 +2087,7 @@
 			"length":14,
 			"jpn":"ロックバレッド",
 			"eng":"Rock Bullet",
-			"zh":"",
-			"exten":"bd0a"
+			"zh":""
 		},
 		{
 			"id":261,
@@ -2356,8 +2095,7 @@
 			"length":12,
 			"jpn":"切り裂く鋭爪",
 			"eng":"Rending Claws",
-			"zh":"",
-			"exten":"ca0a"
+			"zh":""
 		},
 		{
 			"id":262,
@@ -2365,8 +2103,7 @@
 			"length":10,
 			"jpn":"悠久の嘶き",
 			"eng":"Eternal Lament",
-			"zh":"",
-			"exten":"d50a"
+			"zh":""
 		},
 		{
 			"id":263,
@@ -2374,8 +2111,7 @@
 			"length":12,
 			"jpn":"プリズム光線",
 			"eng":"Prism Laser",
-			"zh":"",
-			"exten":"e20a"
+			"zh":""
 		},
 		{
 			"id":264,
@@ -2383,8 +2119,7 @@
 			"length":16,
 			"jpn":"メッセージ付待機",
 			"eng":"Message Standby",
-			"zh":"",
-			"exten":"f30a"
+			"zh":""
 		},
 		{
 			"id":265,
@@ -2392,8 +2127,7 @@
 			"length":14,
 			"jpn":"モードチェンジ",
 			"eng":"Mode Change",
-			"zh":"",
-			"exten":"020b"
+			"zh":""
 		},
 		{
 			"id":266,
@@ -2401,8 +2135,7 @@
 			"length":12,
 			"jpn":"瘴気が晴れた",
 			"eng":"Miasma Fade",
-			"zh":"",
-			"exten":"0f0b"
+			"zh":""
 		},
 		{
 			"id":267,
@@ -2410,8 +2143,7 @@
 			"length":12,
 			"jpn":"ブルウイップ",
 			"eng":"Bull Whip",
-			"zh":"",
-			"exten":"1c0b"
+			"zh":""
 		},
 		{
 			"id":268,
@@ -2419,8 +2151,7 @@
 			"length":16,
 			"jpn":"ブラックポーレン",
 			"eng":"Black Pollen",
-			"zh":"",
-			"exten":"2d0b"
+			"zh":""
 		},
 		{
 			"id":269,
@@ -2428,8 +2159,7 @@
 			"length":14,
 			"jpn":"ダブルフレイム",
 			"eng":"Double Flame",
-			"zh":"",
-			"exten":"3c0b"
+			"zh":""
 		},
 		{
 			"id":270,
@@ -2437,8 +2167,7 @@
 			"length":16,
 			"jpn":"トライアイシクル",
 			"eng":"Icicle Triad",
-			"zh":"",
-			"exten":"4d0b"
+			"zh":""
 		},
 		{
 			"id":271,
@@ -2446,8 +2175,7 @@
 			"length":14,
 			"jpn":"サンダーボルト",
 			"eng":"Thunderbolt",
-			"zh":"",
-			"exten":"5c0b"
+			"zh":""
 		},
 		{
 			"id":272,
@@ -2455,8 +2183,7 @@
 			"length":10,
 			"jpn":"八つ当たり",
 			"eng":"Rage Vent",
-			"zh":"",
-			"exten":"670b"
+			"zh":""
 		},
 		{
 			"id":273,
@@ -2464,8 +2191,7 @@
 			"length":16,
 			"jpn":"フォームチェンジ",
 			"eng":"Form Change",
-			"zh":"",
-			"exten":"780b"
+			"zh":""
 		},
 		{
 			"id":274,
@@ -2473,8 +2199,7 @@
 			"length":10,
 			"jpn":"大地の癒し",
 			"eng":"Earth’s Heal",
-			"zh":"",
-			"exten":"830b"
+			"zh":""
 		},
 		{
 			"id":275,
@@ -2482,8 +2207,7 @@
 			"length":8,
 			"jpn":"体勢崩れ",
 			"eng":"Lose Stance",
-			"zh":"",
-			"exten":"8c0b"
+			"zh":""
 		},
 		{
 			"id":276,
@@ -2491,8 +2215,7 @@
 			"length":14,
 			"jpn":"ダブルフレイム",
 			"eng":"Double Flame",
-			"zh":"",
-			"exten":"9b0b"
+			"zh":""
 		},
 		{
 			"id":277,
@@ -2500,8 +2223,7 @@
 			"length":16,
 			"jpn":"トライアイシクル",
 			"eng":"Icicle Triad",
-			"zh":"",
-			"exten":"ac0b"
+			"zh":""
 		},
 		{
 			"id":278,
@@ -2509,8 +2231,7 @@
 			"length":16,
 			"jpn":"トライアイシクル",
 			"eng":"Icicle Triad",
-			"zh":"",
-			"exten":"bd0b"
+			"zh":""
 		},
 		{
 			"id":279,
@@ -2518,8 +2239,7 @@
 			"length":10,
 			"jpn":"大地の癒し",
 			"eng":"Earth’s Heal",
-			"zh":"",
-			"exten":"c80b"
+			"zh":""
 		},
 		{
 			"id":280,
@@ -2527,8 +2247,7 @@
 			"length":10,
 			"jpn":"大地の癒し",
 			"eng":"Earth’s Heal",
-			"zh":"",
-			"exten":"d30b"
+			"zh":""
 		},
 		{
 			"id":281,
@@ -2536,8 +2255,7 @@
 			"length":10,
 			"jpn":"大地の癒し",
 			"eng":"Earth’s Heal",
-			"zh":"",
-			"exten":"de0b"
+			"zh":""
 		},
 		{
 			"id":282,
@@ -2545,8 +2263,7 @@
 			"length":8,
 			"jpn":"締め上げ",
 			"eng":"Squeeze Grip",
-			"zh":"",
-			"exten":"e70b"
+			"zh":""
 		},
 		{
 			"id":283,
@@ -2554,8 +2271,7 @@
 			"length":14,
 			"jpn":"テイルウイップ",
 			"eng":"Tail Whip",
-			"zh":"",
-			"exten":"f60b"
+			"zh":""
 		},
 		{
 			"id":284,
@@ -2563,8 +2279,7 @@
 			"length":10,
 			"jpn":"蟒蛇の怨恨",
 			"eng":"Serpent’s Curse",
-			"zh":"",
-			"exten":"010c"
+			"zh":""
 		},
 		{
 			"id":285,
@@ -2572,8 +2287,7 @@
 			"length":16,
 			"jpn":"ポイズンフレイム",
 			"eng":"Poison Flame",
-			"zh":"",
-			"exten":"120c"
+			"zh":""
 		},
 		{
 			"id":286,
@@ -2581,8 +2295,7 @@
 			"length":4,
 			"jpn":"邪眼",
 			"eng":"Evil Eye",
-			"zh":"",
-			"exten":"170c"
+			"zh":""
 		},
 		{
 			"id":287,
@@ -2590,8 +2303,7 @@
 			"length":8,
 			"jpn":"死の抱擁",
 			"eng":"Death’s Embrace",
-			"zh":"",
-			"exten":"200c"
+			"zh":""
 		},
 		{
 			"id":288,
@@ -2599,8 +2311,7 @@
 			"length":12,
 			"jpn":"魅惑のボディ",
 			"eng":"Alluring Body",
-			"zh":"",
-			"exten":"2d0c"
+			"zh":""
 		},
 		{
 			"id":289,
@@ -2608,8 +2319,7 @@
 			"length":10,
 			"jpn":"ファミリア",
 			"eng":"Familiar",
-			"zh":"",
-			"exten":"380c"
+			"zh":""
 		},
 		{
 			"id":290,
@@ -2617,8 +2327,7 @@
 			"length":6,
 			"jpn":"頭絡み",
 			"eng":"Head Bind",
-			"zh":"",
-			"exten":"3f0c"
+			"zh":""
 		},
 		{
 			"id":291,
@@ -2626,8 +2335,7 @@
 			"length":6,
 			"jpn":"腕絡み",
 			"eng":"Arm Bind",
-			"zh":"",
-			"exten":"460c"
+			"zh":""
 		},
 		{
 			"id":292,
@@ -2635,8 +2343,7 @@
 			"length":6,
 			"jpn":"脚絡み",
 			"eng":"Leg Bind",
-			"zh":"",
-			"exten":"4d0c"
+			"zh":""
 		},
 		{
 			"id":293,
@@ -2644,8 +2351,7 @@
 			"length":12,
 			"jpn":"巻き付き乱舞",
 			"eng":"Binding Thrash",
-			"zh":"",
-			"exten":"5a0c"
+			"zh":""
 		},
 		{
 			"id":294,
@@ -2653,8 +2359,7 @@
 			"length":10,
 			"jpn":"蟒蛇の怨恨",
 			"eng":"Serpent’s Curse",
-			"zh":"",
-			"exten":"650c"
+			"zh":""
 		},
 		{
 			"id":295,
@@ -2662,8 +2367,7 @@
 			"length":14,
 			"jpn":"ドミネイション",
 			"eng":"Domination",
-			"zh":"",
-			"exten":"740c"
+			"zh":""
 		},
 		{
 			"id":296,
@@ -2671,8 +2375,7 @@
 			"length":6,
 			"jpn":"逆切れ",
 			"eng":"Mindless Rage",
-			"zh":"",
-			"exten":"7b0c"
+			"zh":""
 		},
 		{
 			"id":297,
@@ -2680,8 +2383,7 @@
 			"length":12,
 			"jpn":"マリオネット",
 			"eng":"Marionette",
-			"zh":"",
-			"exten":"880c"
+			"zh":""
 		},
 		{
 			"id":298,
@@ -2689,8 +2391,7 @@
 			"length":16,
 			"jpn":"突貫のフラメンコ",
 			"eng":"Charge Flamenco",
-			"zh":"",
-			"exten":"990c"
+			"zh":""
 		},
 		{
 			"id":299,
@@ -2698,8 +2399,7 @@
 			"length":12,
 			"jpn":"防円のワルツ",
 			"eng":"Guard Waltz",
-			"zh":"",
-			"exten":"a60c"
+			"zh":""
 		},
 		{
 			"id":300,
@@ -2707,8 +2407,7 @@
 			"length":10,
 			"jpn":"算測のジグ",
 			"eng":"Calculated Jig",
-			"zh":"",
-			"exten":"b10c"
+			"zh":""
 		},
 		{
 			"id":301,
@@ -2716,8 +2415,7 @@
 			"length":14,
 			"jpn":"誘避のマズルカ",
 			"eng":"Dodge Mazurka",
-			"zh":"",
-			"exten":"c00c"
+			"zh":""
 		},
 		{
 			"id":302,
@@ -2725,8 +2423,7 @@
 			"length":16,
 			"jpn":"変則のクレズマー",
 			"eng":"Aberrant Klezmer",
-			"zh":"",
-			"exten":"d10c"
+			"zh":""
 		},
 		{
 			"id":303,
@@ -2734,8 +2431,7 @@
 			"length":14,
 			"jpn":"コンビクション",
 			"eng":"Conviction",
-			"zh":"",
-			"exten":"e00c"
+			"zh":""
 		},
 		{
 			"id":304,
@@ -2743,8 +2439,7 @@
 			"length":10,
 			"jpn":"哀艶の冷気",
 			"eng":"Boreal Wind",
-			"zh":"",
-			"exten":"eb0c"
+			"zh":""
 		},
 		{
 			"id":305,
@@ -2752,8 +2447,7 @@
 			"length":16,
 			"jpn":"グロリアスフレア",
 			"eng":"Glorious Flare",
-			"zh":"",
-			"exten":"fc0c"
+			"zh":""
 		},
 		{
 			"id":306,
@@ -2761,8 +2455,7 @@
 			"length":12,
 			"jpn":"ディシプリン",
 			"eng":"Discipline",
-			"zh":"",
-			"exten":"090d"
+			"zh":""
 		},
 		{
 			"id":307,
@@ -2770,8 +2463,7 @@
 			"length":12,
 			"jpn":"インフレイム",
 			"eng":"Inflame",
-			"zh":"",
-			"exten":"160d"
+			"zh":""
 		},
 		{
 			"id":308,
@@ -2779,8 +2471,7 @@
 			"length":24,
 			"jpn":"通常攻撃（エンプーサ用）",
 			"eng":"Normal Attack",
-			"zh":"",
-			"exten":"2f0d"
+			"zh":""
 		},
 		{
 			"id":309,
@@ -2788,8 +2479,7 @@
 			"length":8,
 			"jpn":"瘴気の刃",
 			"eng":"Miasma Blade",
-			"zh":"",
-			"exten":"380d"
+			"zh":""
 		},
 		{
 			"id":310,
@@ -2797,8 +2487,7 @@
 			"length":10,
 			"jpn":"怨嗟の瘴気",
 			"eng":"Grudge Miasma",
-			"zh":"",
-			"exten":"430d"
+			"zh":""
 		},
 		{
 			"id":311,
@@ -2806,8 +2495,7 @@
 			"length":8,
 			"jpn":"瘴気吸収",
 			"eng":"Miasma Drain",
-			"zh":"",
-			"exten":"4c0d"
+			"zh":""
 		},
 		{
 			"id":312,
@@ -2815,8 +2503,7 @@
 			"length":10,
 			"jpn":"瘴気の黒炎",
 			"eng":"Burning Miasma",
-			"zh":"",
-			"exten":"570d"
+			"zh":""
 		},
 		{
 			"id":313,
@@ -2824,8 +2511,7 @@
 			"length":10,
 			"jpn":"破滅の咆哮",
 			"eng":"Ruinous Roar",
-			"zh":"",
-			"exten":"620d"
+			"zh":""
 		},
 		{
 			"id":314,
@@ -2833,8 +2519,7 @@
 			"length":14,
 			"jpn":"サンダーハウル",
 			"eng":"Thunder Howl",
-			"zh":"",
-			"exten":"710d"
+			"zh":""
 		},
 		{
 			"id":315,
@@ -2842,8 +2527,7 @@
 			"length":14,
 			"jpn":"フリーズブレス",
 			"eng":"Freeze Breath",
-			"zh":"",
-			"exten":"800d"
+			"zh":""
 		},
 		{
 			"id":316,
@@ -2851,8 +2535,7 @@
 			"length":12,
 			"jpn":"ダーククロー",
 			"eng":"Dark Claw",
-			"zh":"",
-			"exten":"8d0d"
+			"zh":""
 		},
 		{
 			"id":317,
@@ -2860,8 +2543,7 @@
 			"length":10,
 			"jpn":"圧潰の双鋏",
 			"eng":"Crushing Claws",
-			"zh":"",
-			"exten":"980d"
+			"zh":""
 		},
 		{
 			"id":318,
@@ -2869,8 +2551,7 @@
 			"length":16,
 			"jpn":"パニックラッシュ",
 			"eng":"Panic Crush",
-			"zh":"",
-			"exten":"a90d"
+			"zh":""
 		},
 		{
 			"id":319,
@@ -2878,8 +2559,7 @@
 			"length":6,
 			"jpn":"逆切れ",
 			"eng":"Mindless Rage",
-			"zh":"",
-			"exten":"b00d"
+			"zh":""
 		},
 		{
 			"id":320,
@@ -2887,8 +2567,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b90d"
+			"zh":""
 		},
 		{
 			"id":321,
@@ -2896,8 +2575,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c20d"
+			"zh":""
 		},
 		{
 			"id":322,
@@ -2905,8 +2583,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cb0d"
+			"zh":""
 		},
 		{
 			"id":323,
@@ -2914,8 +2591,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d40d"
+			"zh":""
 		},
 		{
 			"id":324,
@@ -2923,8 +2599,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"dd0d"
+			"zh":""
 		},
 		{
 			"id":325,
@@ -2932,8 +2607,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e60d"
+			"zh":""
 		},
 		{
 			"id":326,
@@ -2941,8 +2615,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ef0d"
+			"zh":""
 		},
 		{
 			"id":327,
@@ -2950,8 +2623,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f80d"
+			"zh":""
 		},
 		{
 			"id":328,
@@ -2959,8 +2631,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"010e"
+			"zh":""
 		},
 		{
 			"id":329,
@@ -2968,8 +2639,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0a0e"
+			"zh":""
 		},
 		{
 			"id":330,
@@ -2977,8 +2647,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"130e"
+			"zh":""
 		},
 		{
 			"id":331,
@@ -2986,8 +2655,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1c0e"
+			"zh":""
 		},
 		{
 			"id":332,
@@ -2995,8 +2663,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"250e"
+			"zh":""
 		},
 		{
 			"id":333,
@@ -3004,8 +2671,7 @@
 			"length":6,
 			"jpn":"悪化脚",
 			"eng":"Corrosion Kick",
-			"zh":"",
-			"exten":"2c0e"
+			"zh":""
 		},
 		{
 			"id":334,
@@ -3013,8 +2679,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"350e"
+			"zh":""
 		},
 		{
 			"id":335,
@@ -3022,8 +2687,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3e0e"
+			"zh":""
 		},
 		{
 			"id":336,
@@ -3031,8 +2695,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"470e"
+			"zh":""
 		},
 		{
 			"id":337,
@@ -3040,8 +2703,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"500e"
+			"zh":""
 		},
 		{
 			"id":338,
@@ -3049,8 +2711,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"590e"
+			"zh":""
 		},
 		{
 			"id":339,
@@ -3058,8 +2719,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"620e"
+			"zh":""
 		},
 		{
 			"id":340,
@@ -3067,8 +2727,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6b0e"
+			"zh":""
 		},
 		{
 			"id":341,
@@ -3076,8 +2735,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"740e"
+			"zh":""
 		},
 		{
 			"id":342,
@@ -3085,8 +2743,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7d0e"
+			"zh":""
 		},
 		{
 			"id":343,
@@ -3094,8 +2751,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"860e"
+			"zh":""
 		},
 		{
 			"id":344,
@@ -3103,8 +2759,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8f0e"
+			"zh":""
 		},
 		{
 			"id":345,
@@ -3112,8 +2767,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"980e"
+			"zh":""
 		},
 		{
 			"id":346,
@@ -3121,8 +2775,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a10e"
+			"zh":""
 		},
 		{
 			"id":347,
@@ -3130,8 +2783,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"aa0e"
+			"zh":""
 		},
 		{
 			"id":348,
@@ -3139,8 +2791,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b30e"
+			"zh":""
 		},
 		{
 			"id":349,
@@ -3148,8 +2799,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"bc0e"
+			"zh":""
 		},
 		{
 			"id":350,
@@ -3157,8 +2807,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c50e"
+			"zh":""
 		},
 		{
 			"id":351,
@@ -3166,8 +2815,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ce0e"
+			"zh":""
 		},
 		{
 			"id":352,
@@ -3175,8 +2823,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d70e"
+			"zh":""
 		},
 		{
 			"id":353,
@@ -3184,8 +2831,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e00e"
+			"zh":""
 		},
 		{
 			"id":354,
@@ -3193,8 +2839,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e90e"
+			"zh":""
 		},
 		{
 			"id":355,
@@ -3202,8 +2847,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f20e"
+			"zh":""
 		},
 		{
 			"id":356,
@@ -3211,8 +2855,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fb0e"
+			"zh":""
 		},
 		{
 			"id":357,
@@ -3220,8 +2863,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"040f"
+			"zh":""
 		},
 		{
 			"id":358,
@@ -3229,8 +2871,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0d0f"
+			"zh":""
 		},
 		{
 			"id":359,
@@ -3238,8 +2879,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"160f"
+			"zh":""
 		},
 		{
 			"id":360,
@@ -3247,8 +2887,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1f0f"
+			"zh":""
 		},
 		{
 			"id":361,
@@ -3256,8 +2895,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"280f"
+			"zh":""
 		},
 		{
 			"id":362,
@@ -3265,8 +2903,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"310f"
+			"zh":""
 		},
 		{
 			"id":363,
@@ -3274,8 +2911,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3a0f"
+			"zh":""
 		},
 		{
 			"id":364,
@@ -3283,8 +2919,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"430f"
+			"zh":""
 		},
 		{
 			"id":365,
@@ -3292,8 +2927,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4c0f"
+			"zh":""
 		},
 		{
 			"id":366,
@@ -3301,8 +2935,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"550f"
+			"zh":""
 		},
 		{
 			"id":367,
@@ -3310,8 +2943,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5e0f"
+			"zh":""
 		},
 		{
 			"id":368,
@@ -3319,8 +2951,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"670f"
+			"zh":""
 		},
 		{
 			"id":369,
@@ -3328,8 +2959,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"700f"
+			"zh":""
 		},
 		{
 			"id":370,
@@ -3337,8 +2967,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"790f"
+			"zh":""
 		},
 		{
 			"id":371,
@@ -3346,8 +2975,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"820f"
+			"zh":""
 		},
 		{
 			"id":372,
@@ -3355,8 +2983,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8b0f"
+			"zh":""
 		},
 		{
 			"id":373,
@@ -3364,8 +2991,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"940f"
+			"zh":""
 		},
 		{
 			"id":374,
@@ -3373,8 +2999,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9d0f"
+			"zh":""
 		},
 		{
 			"id":375,
@@ -3382,8 +3007,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a60f"
+			"zh":""
 		},
 		{
 			"id":376,
@@ -3391,8 +3015,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"af0f"
+			"zh":""
 		},
 		{
 			"id":377,
@@ -3400,8 +3023,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b80f"
+			"zh":""
 		},
 		{
 			"id":378,
@@ -3409,8 +3031,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c10f"
+			"zh":""
 		},
 		{
 			"id":379,
@@ -3418,8 +3039,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ca0f"
+			"zh":""
 		},
 		{
 			"id":380,
@@ -3427,8 +3047,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d30f"
+			"zh":""
 		},
 		{
 			"id":381,
@@ -3436,8 +3055,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"dc0f"
+			"zh":""
 		},
 		{
 			"id":382,
@@ -3445,8 +3063,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e50f"
+			"zh":""
 		},
 		{
 			"id":383,
@@ -3454,8 +3071,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ee0f"
+			"zh":""
 		},
 		{
 			"id":384,
@@ -3463,8 +3079,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f70f"
+			"zh":""
 		},
 		{
 			"id":385,
@@ -3472,8 +3087,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0010"
+			"zh":""
 		},
 		{
 			"id":386,
@@ -3481,8 +3095,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0910"
+			"zh":""
 		},
 		{
 			"id":387,
@@ -3490,8 +3103,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1210"
+			"zh":""
 		},
 		{
 			"id":388,
@@ -3499,8 +3111,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1b10"
+			"zh":""
 		},
 		{
 			"id":389,
@@ -3508,8 +3119,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2410"
+			"zh":""
 		},
 		{
 			"id":390,
@@ -3517,8 +3127,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2d10"
+			"zh":""
 		},
 		{
 			"id":391,
@@ -3526,8 +3135,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3610"
+			"zh":""
 		},
 		{
 			"id":392,
@@ -3535,8 +3143,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3f10"
+			"zh":""
 		},
 		{
 			"id":393,
@@ -3544,8 +3151,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4810"
+			"zh":""
 		},
 		{
 			"id":394,
@@ -3553,8 +3159,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5110"
+			"zh":""
 		},
 		{
 			"id":395,
@@ -3562,8 +3167,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5a10"
+			"zh":""
 		},
 		{
 			"id":396,
@@ -3571,8 +3175,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6310"
+			"zh":""
 		},
 		{
 			"id":397,
@@ -3580,8 +3183,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6c10"
+			"zh":""
 		},
 		{
 			"id":398,
@@ -3589,8 +3191,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7510"
+			"zh":""
 		},
 		{
 			"id":399,
@@ -3598,8 +3199,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7e10"
+			"zh":""
 		},
 		{
 			"id":400,
@@ -3607,8 +3207,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8710"
+			"zh":""
 		},
 		{
 			"id":401,
@@ -3616,8 +3215,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9010"
+			"zh":""
 		},
 		{
 			"id":402,
@@ -3625,8 +3223,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9910"
+			"zh":""
 		},
 		{
 			"id":403,
@@ -3634,8 +3231,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a210"
+			"zh":""
 		},
 		{
 			"id":404,
@@ -3643,8 +3239,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ab10"
+			"zh":""
 		},
 		{
 			"id":405,
@@ -3652,8 +3247,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b410"
+			"zh":""
 		},
 		{
 			"id":406,
@@ -3661,8 +3255,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"bd10"
+			"zh":""
 		},
 		{
 			"id":407,
@@ -3670,8 +3263,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c610"
+			"zh":""
 		},
 		{
 			"id":408,
@@ -3679,8 +3271,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cf10"
+			"zh":""
 		},
 		{
 			"id":409,
@@ -3688,8 +3279,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d810"
+			"zh":""
 		},
 		{
 			"id":410,
@@ -3697,8 +3287,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e110"
+			"zh":""
 		},
 		{
 			"id":411,
@@ -3706,8 +3295,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ea10"
+			"zh":""
 		},
 		{
 			"id":412,
@@ -3715,8 +3303,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f310"
+			"zh":""
 		},
 		{
 			"id":413,
@@ -3724,8 +3311,7 @@
 			"length":6,
 			"jpn":"暴れ拳",
 			"eng":"Raging Fist",
-			"zh":"",
-			"exten":"fa10"
+			"zh":""
 		},
 		{
 			"id":414,
@@ -3733,8 +3319,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0311"
+			"zh":""
 		},
 		{
 			"id":415,
@@ -3742,8 +3327,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0c11"
+			"zh":""
 		},
 		{
 			"id":416,
@@ -3751,8 +3335,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1511"
+			"zh":""
 		},
 		{
 			"id":417,
@@ -3760,8 +3343,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1e11"
+			"zh":""
 		},
 		{
 			"id":418,
@@ -3769,8 +3351,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2711"
+			"zh":""
 		},
 		{
 			"id":419,
@@ -3778,8 +3359,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3011"
+			"zh":""
 		},
 		{
 			"id":420,
@@ -3787,8 +3367,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3911"
+			"zh":""
 		},
 		{
 			"id":421,
@@ -3796,8 +3375,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4211"
+			"zh":""
 		},
 		{
 			"id":422,
@@ -3805,8 +3383,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4b11"
+			"zh":""
 		},
 		{
 			"id":423,
@@ -3814,8 +3391,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5411"
+			"zh":""
 		},
 		{
 			"id":424,
@@ -3823,8 +3399,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5d11"
+			"zh":""
 		},
 		{
 			"id":425,
@@ -3832,8 +3407,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6611"
+			"zh":""
 		},
 		{
 			"id":426,
@@ -3841,8 +3415,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6f11"
+			"zh":""
 		},
 		{
 			"id":427,
@@ -3850,8 +3423,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7811"
+			"zh":""
 		},
 		{
 			"id":428,
@@ -3859,8 +3431,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8111"
+			"zh":""
 		},
 		{
 			"id":429,
@@ -3868,8 +3439,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8a11"
+			"zh":""
 		},
 		{
 			"id":430,
@@ -3877,8 +3447,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9311"
+			"zh":""
 		},
 		{
 			"id":431,
@@ -3886,8 +3455,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9c11"
+			"zh":""
 		},
 		{
 			"id":432,
@@ -3895,8 +3463,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a511"
+			"zh":""
 		},
 		{
 			"id":433,
@@ -3904,8 +3471,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ae11"
+			"zh":""
 		},
 		{
 			"id":434,
@@ -3913,8 +3479,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b711"
+			"zh":""
 		},
 		{
 			"id":435,
@@ -3922,8 +3487,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c011"
+			"zh":""
 		},
 		{
 			"id":436,
@@ -3931,8 +3495,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c911"
+			"zh":""
 		},
 		{
 			"id":437,
@@ -3940,8 +3503,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d211"
+			"zh":""
 		},
 		{
 			"id":438,
@@ -3949,8 +3511,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"db11"
+			"zh":""
 		},
 		{
 			"id":439,
@@ -3958,8 +3519,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e411"
+			"zh":""
 		},
 		{
 			"id":440,
@@ -3967,8 +3527,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ed11"
+			"zh":""
 		},
 		{
 			"id":441,
@@ -3976,8 +3535,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f611"
+			"zh":""
 		},
 		{
 			"id":442,
@@ -3985,8 +3543,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ff11"
+			"zh":""
 		},
 		{
 			"id":443,
@@ -3994,8 +3551,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0812"
+			"zh":""
 		},
 		{
 			"id":444,
@@ -4003,8 +3559,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1112"
+			"zh":""
 		},
 		{
 			"id":445,
@@ -4012,8 +3567,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1a12"
+			"zh":""
 		},
 		{
 			"id":446,
@@ -4021,8 +3575,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2312"
+			"zh":""
 		},
 		{
 			"id":447,
@@ -4030,8 +3583,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2c12"
+			"zh":""
 		},
 		{
 			"id":448,
@@ -4039,8 +3591,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3512"
+			"zh":""
 		},
 		{
 			"id":449,
@@ -4048,8 +3599,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3e12"
+			"zh":""
 		},
 		{
 			"id":450,
@@ -4057,8 +3607,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4712"
+			"zh":""
 		},
 		{
 			"id":451,
@@ -4066,8 +3615,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5012"
+			"zh":""
 		},
 		{
 			"id":452,
@@ -4075,8 +3623,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5912"
+			"zh":""
 		},
 		{
 			"id":453,
@@ -4084,8 +3631,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6212"
+			"zh":""
 		},
 		{
 			"id":454,
@@ -4093,8 +3639,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6b12"
+			"zh":""
 		},
 		{
 			"id":455,
@@ -4102,8 +3647,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7412"
+			"zh":""
 		},
 		{
 			"id":456,
@@ -4111,8 +3655,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7d12"
+			"zh":""
 		},
 		{
 			"id":457,
@@ -4120,8 +3663,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8612"
+			"zh":""
 		},
 		{
 			"id":458,
@@ -4129,8 +3671,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8f12"
+			"zh":""
 		},
 		{
 			"id":459,
@@ -4138,8 +3679,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9812"
+			"zh":""
 		},
 		{
 			"id":460,
@@ -4147,8 +3687,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a112"
+			"zh":""
 		},
 		{
 			"id":461,
@@ -4156,8 +3695,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"aa12"
+			"zh":""
 		},
 		{
 			"id":462,
@@ -4165,8 +3703,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b312"
+			"zh":""
 		},
 		{
 			"id":463,
@@ -4174,8 +3711,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"bc12"
+			"zh":""
 		},
 		{
 			"id":464,
@@ -4183,8 +3719,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c512"
+			"zh":""
 		},
 		{
 			"id":465,
@@ -4192,8 +3727,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ce12"
+			"zh":""
 		},
 		{
 			"id":466,
@@ -4201,8 +3735,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d712"
+			"zh":""
 		},
 		{
 			"id":467,
@@ -4210,8 +3743,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e012"
+			"zh":""
 		},
 		{
 			"id":468,
@@ -4219,8 +3751,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e912"
+			"zh":""
 		},
 		{
 			"id":469,
@@ -4228,8 +3759,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f212"
+			"zh":""
 		},
 		{
 			"id":470,
@@ -4237,8 +3767,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fb12"
+			"zh":""
 		},
 		{
 			"id":471,
@@ -4246,8 +3775,7 @@
 			"length":6,
 			"jpn":"猿真似",
 			"eng":"Copycat",
-			"zh":"",
-			"exten":"0213"
+			"zh":""
 		},
 		{
 			"id":472,
@@ -4255,8 +3783,7 @@
 			"length":8,
 			"jpn":"仲間食い",
 			"eng":"Ally Devour",
-			"zh":"",
-			"exten":"0b13"
+			"zh":""
 		},
 		{
 			"id":473,
@@ -4264,8 +3791,7 @@
 			"length":10,
 			"jpn":"投げ飛ばし",
 			"eng":"Throw",
-			"zh":"",
-			"exten":"1613"
+			"zh":""
 		},
 		{
 			"id":474,
@@ -4273,8 +3799,7 @@
 			"length":4,
 			"jpn":"合体",
 			"eng":"Fuse",
-			"zh":"",
-			"exten":"1b13"
+			"zh":""
 		},
 		{
 			"id":475,
@@ -4282,8 +3807,7 @@
 			"length":8,
 			"jpn":"仲間食い",
 			"eng":"Ally Devour",
-			"zh":"",
-			"exten":"2413"
+			"zh":""
 		},
 		{
 			"id":476,
@@ -4291,8 +3815,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2d13"
+			"zh":""
 		},
 		{
 			"id":477,
@@ -4300,8 +3823,7 @@
 			"length":12,
 			"jpn":"召喚で使用：",
 			"eng":"Summon",
-			"zh":"",
-			"exten":"3a13"
+			"zh":""
 		},
 		{
 			"id":478,
@@ -4309,8 +3831,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4313"
+			"zh":""
 		},
 		{
 			"id":479,
@@ -4318,8 +3839,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4c13"
+			"zh":""
 		},
 		{
 			"id":480,
@@ -4327,8 +3847,7 @@
 			"length":6,
 			"jpn":"断末魔",
 			"eng":"Death Cry",
-			"zh":"",
-			"exten":"5313"
+			"zh":""
 		},
 		{
 			"id":481,
@@ -4336,8 +3855,7 @@
 			"length":6,
 			"jpn":"もぐる",
 			"eng":"Burrow",
-			"zh":"",
-			"exten":"5a13"
+			"zh":""
 		},
 		{
 			"id":482,
@@ -4345,8 +3863,7 @@
 			"length":10,
 			"jpn":"土竜の烈爪",
 			"eng":"Mole Slash",
-			"zh":"",
-			"exten":"6513"
+			"zh":""
 		},
 		{
 			"id":483,
@@ -4354,8 +3871,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"7013"
+			"zh":""
 		},
 		{
 			"id":484,
@@ -4363,8 +3879,7 @@
 			"length":6,
 			"jpn":"替え玉",
 			"eng":"Decoy",
-			"zh":"",
-			"exten":"7713"
+			"zh":""
 		},
 		{
 			"id":485,
@@ -4372,8 +3887,7 @@
 			"length":4,
 			"jpn":"憑依",
 			"eng":"Possession",
-			"zh":"",
-			"exten":"7c13"
+			"zh":""
 		},
 		{
 			"id":486,
@@ -4381,8 +3895,7 @@
 			"length":14,
 			"jpn":"フレイムサイン",
 			"eng":"Flame Sign",
-			"zh":"",
-			"exten":"8b13"
+			"zh":""
 		},
 		{
 			"id":487,
@@ -4390,8 +3903,7 @@
 			"length":10,
 			"jpn":"焦熱の怒り",
 			"eng":"Scorching Anger",
-			"zh":"",
-			"exten":"9613"
+			"zh":""
 		},
 		{
 			"id":488,
@@ -4399,8 +3911,7 @@
 			"length":8,
 			"jpn":"惨殺の斧",
 			"eng":"Carnage Axe",
-			"zh":"",
-			"exten":"9f13"
+			"zh":""
 		},
 		{
 			"id":489,
@@ -4408,8 +3919,7 @@
 			"length":16,
 			"jpn":"チェイスマジック",
 			"eng":"Spell Chaser",
-			"zh":"",
-			"exten":"b013"
+			"zh":""
 		},
 		{
 			"id":490,
@@ -4417,8 +3927,7 @@
 			"length":4,
 			"jpn":"風車",
 			"eng":"Windmill",
-			"zh":"",
-			"exten":"b513"
+			"zh":""
 		},
 		{
 			"id":491,
@@ -4426,8 +3935,7 @@
 			"length":8,
 			"jpn":"水晶粉塵",
 			"eng":"Crystal Dust",
-			"zh":"",
-			"exten":"be13"
+			"zh":""
 		},
 		{
 			"id":492,
@@ -4435,8 +3943,7 @@
 			"length":6,
 			"jpn":"大警報",
 			"eng":"Loud Alarm",
-			"zh":"",
-			"exten":"c513"
+			"zh":""
 		},
 		{
 			"id":493,
@@ -4444,8 +3951,7 @@
 			"length":10,
 			"jpn":"激昂の尾撃",
 			"eng":"Furious Tailslam",
-			"zh":"",
-			"exten":"d013"
+			"zh":""
 		},
 		{
 			"id":494,
@@ -4453,8 +3959,7 @@
 			"length":16,
 			"jpn":"エコーエフェクト",
 			"eng":"Echo Effect",
-			"zh":"",
-			"exten":"e113"
+			"zh":""
 		},
 		{
 			"id":495,
@@ -4462,8 +3967,7 @@
 			"length":16,
 			"jpn":"ジェイルブレイク",
 			"eng":"Jail Break",
-			"zh":"",
-			"exten":"f213"
+			"zh":""
 		},
 		{
 			"id":496,
@@ -4471,8 +3975,7 @@
 			"length":4,
 			"jpn":"風車",
 			"eng":"Windmill",
-			"zh":"",
-			"exten":"f713"
+			"zh":""
 		},
 		{
 			"id":497,
@@ -4480,8 +3983,7 @@
 			"length":4,
 			"jpn":"風車",
 			"eng":"Windmill",
-			"zh":"",
-			"exten":"fc13"
+			"zh":""
 		},
 		{
 			"id":498,
@@ -4489,8 +3991,7 @@
 			"length":8,
 			"jpn":"死霊乱舞",
 			"eng":"Wraith Dance",
-			"zh":"",
-			"exten":"0514"
+			"zh":""
 		},
 		{
 			"id":499,
@@ -4498,8 +3999,7 @@
 			"length":4,
 			"jpn":"墓穴",
 			"eng":"Grave",
-			"zh":"",
-			"exten":"0a14"
+			"zh":""
 		},
 		{
 			"id":500,
@@ -4507,8 +4007,7 @@
 			"length":4,
 			"jpn":"墓穴",
 			"eng":"Grave",
-			"zh":"",
-			"exten":"0f14"
+			"zh":""
 		},
 		{
 			"id":501,
@@ -4516,8 +4015,7 @@
 			"length":14,
 			"jpn":"バッドアタック",
 			"eng":"Bad Attack",
-			"zh":"",
-			"exten":"1e14"
+			"zh":""
 		},
 		{
 			"id":502,
@@ -4525,8 +4023,7 @@
 			"length":4,
 			"jpn":"針山",
 			"eng":"Pincushion",
-			"zh":"",
-			"exten":"2314"
+			"zh":""
 		},
 		{
 			"id":503,
@@ -4534,8 +4031,7 @@
 			"length":4,
 			"jpn":"針山",
 			"eng":"Pincushion",
-			"zh":"",
-			"exten":"2814"
+			"zh":""
 		},
 		{
 			"id":504,
@@ -4543,8 +4039,7 @@
 			"length":10,
 			"jpn":"怨恨の針撃",
 			"eng":"Grudge Pierce",
-			"zh":"",
-			"exten":"3314"
+			"zh":""
 		},
 		{
 			"id":505,
@@ -4552,8 +4047,7 @@
 			"length":4,
 			"jpn":"厄退",
 			"eng":"Repel Calamity",
-			"zh":"",
-			"exten":"3814"
+			"zh":""
 		},
 		{
 			"id":506,
@@ -4561,8 +4055,7 @@
 			"length":12,
 			"jpn":"フルスイング",
 			"eng":"Full Swing",
-			"zh":"",
-			"exten":"4514"
+			"zh":""
 		},
 		{
 			"id":507,
@@ -4570,8 +4063,7 @@
 			"length":8,
 			"jpn":"猿走高飛",
 			"eng":"Lemur Leap",
-			"zh":"",
-			"exten":"4e14"
+			"zh":""
 		},
 		{
 			"id":508,
@@ -4579,8 +4071,7 @@
 			"length":12,
 			"jpn":"絶息の大暴れ",
 			"eng":"Death Rampage",
-			"zh":"",
-			"exten":"5b14"
+			"zh":""
 		},
 		{
 			"id":509,
@@ -4588,8 +4079,7 @@
 			"length":12,
 			"jpn":"冥暗への誘い",
 			"eng":"Grim Invitation",
-			"zh":"",
-			"exten":"6814"
+			"zh":""
 		},
 		{
 			"id":510,
@@ -4597,8 +4087,7 @@
 			"length":16,
 			"jpn":"小悪魔のいたずら",
 			"eng":"Devilish Trick",
-			"zh":"",
-			"exten":"7914"
+			"zh":""
 		},
 		{
 			"id":511,
@@ -4606,8 +4095,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"8414"
+			"zh":""
 		},
 		{
 			"id":512,
@@ -4615,8 +4103,7 @@
 			"length":6,
 			"jpn":"魂喰い",
 			"eng":"Soul Devour",
-			"zh":"",
-			"exten":"8b14"
+			"zh":""
 		},
 		{
 			"id":513,
@@ -4624,8 +4111,7 @@
 			"length":12,
 			"jpn":"悪魔のビンタ",
 			"eng":"Demon Slap",
-			"zh":"",
-			"exten":"9814"
+			"zh":""
 		},
 		{
 			"id":514,
@@ -4633,8 +4119,7 @@
 			"length":8,
 			"jpn":"穢い液汁",
 			"eng":"Foul Liquid",
-			"zh":"",
-			"exten":"a114"
+			"zh":""
 		},
 		{
 			"id":515,
@@ -4642,8 +4127,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"aa14"
+			"zh":""
 		},
 		{
 			"id":516,
@@ -4651,8 +4135,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b314"
+			"zh":""
 		},
 		{
 			"id":517,
@@ -4660,8 +4143,7 @@
 			"length":10,
 			"jpn":"迎撃の草盾",
 			"eng":"Grass Guard",
-			"zh":"",
-			"exten":"be14"
+			"zh":""
 		},
 		{
 			"id":518,
@@ -4669,8 +4151,7 @@
 			"length":10,
 			"jpn":"怨讐の大盾",
 			"eng":"Grudge Shield",
-			"zh":"",
-			"exten":"c914"
+			"zh":""
 		},
 		{
 			"id":519,
@@ -4678,8 +4159,7 @@
 			"length":6,
 			"jpn":"燃糸炎",
 			"eng":"Burning Thread",
-			"zh":"",
-			"exten":"d014"
+			"zh":""
 		},
 		{
 			"id":520,
@@ -4687,8 +4167,7 @@
 			"length":12,
 			"jpn":"ペトラボマー",
 			"eng":"Petra Bomber",
-			"zh":"",
-			"exten":"dd14"
+			"zh":""
 		},
 		{
 			"id":521,
@@ -4696,8 +4175,7 @@
 			"length":12,
 			"jpn":"悪化脚（未）",
 			"eng":"Corrosion Kick",
-			"zh":"",
-			"exten":"ea14"
+			"zh":""
 		},
 		{
 			"id":522,
@@ -4705,8 +4183,7 @@
 			"length":6,
 			"jpn":"岩突砕",
 			"eng":"Boulder Crush",
-			"zh":"",
-			"exten":"f114"
+			"zh":""
 		},
 		{
 			"id":523,
@@ -4714,8 +4191,7 @@
 			"length":6,
 			"jpn":"悪化脚",
 			"eng":"Corrosion Kick",
-			"zh":"",
-			"exten":"f814"
+			"zh":""
 		},
 		{
 			"id":524,
@@ -4723,8 +4199,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0115"
+			"zh":""
 		},
 		{
 			"id":525,
@@ -4732,8 +4207,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0a15"
+			"zh":""
 		},
 		{
 			"id":526,
@@ -4741,8 +4215,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1315"
+			"zh":""
 		},
 		{
 			"id":527,
@@ -4750,8 +4223,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1c15"
+			"zh":""
 		},
 		{
 			"id":528,
@@ -4759,8 +4231,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2515"
+			"zh":""
 		},
 		{
 			"id":529,
@@ -4768,8 +4239,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2e15"
+			"zh":""
 		},
 		{
 			"id":530,
@@ -4777,8 +4247,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3715"
+			"zh":""
 		},
 		{
 			"id":531,
@@ -4786,8 +4255,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4015"
+			"zh":""
 		},
 		{
 			"id":532,
@@ -4795,8 +4263,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4915"
+			"zh":""
 		},
 		{
 			"id":533,
@@ -4804,8 +4271,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5215"
+			"zh":""
 		},
 		{
 			"id":534,
@@ -4813,8 +4279,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5b15"
+			"zh":""
 		},
 		{
 			"id":535,
@@ -4822,8 +4287,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6415"
+			"zh":""
 		},
 		{
 			"id":536,
@@ -4831,8 +4295,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6d15"
+			"zh":""
 		},
 		{
 			"id":537,
@@ -4840,8 +4303,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7615"
+			"zh":""
 		},
 		{
 			"id":538,
@@ -4849,8 +4311,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7f15"
+			"zh":""
 		},
 		{
 			"id":539,
@@ -4858,8 +4319,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8815"
+			"zh":""
 		},
 		{
 			"id":540,
@@ -4867,8 +4327,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9115"
+			"zh":""
 		},
 		{
 			"id":541,
@@ -4876,8 +4335,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9a15"
+			"zh":""
 		},
 		{
 			"id":542,
@@ -4885,8 +4343,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a315"
+			"zh":""
 		},
 		{
 			"id":543,
@@ -4894,8 +4351,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ac15"
+			"zh":""
 		},
 		{
 			"id":544,
@@ -4903,8 +4359,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b515"
+			"zh":""
 		},
 		{
 			"id":545,
@@ -4912,8 +4367,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"be15"
+			"zh":""
 		},
 		{
 			"id":546,
@@ -4921,8 +4375,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c715"
+			"zh":""
 		},
 		{
 			"id":547,
@@ -4930,8 +4383,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d015"
+			"zh":""
 		},
 		{
 			"id":548,
@@ -4939,8 +4391,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d915"
+			"zh":""
 		},
 		{
 			"id":549,
@@ -4948,8 +4399,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e215"
+			"zh":""
 		},
 		{
 			"id":550,
@@ -4957,8 +4407,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"eb15"
+			"zh":""
 		},
 		{
 			"id":551,
@@ -4966,8 +4415,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f415"
+			"zh":""
 		},
 		{
 			"id":552,
@@ -4975,8 +4423,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fd15"
+			"zh":""
 		},
 		{
 			"id":553,
@@ -4984,8 +4431,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0616"
+			"zh":""
 		},
 		{
 			"id":554,
@@ -4993,8 +4439,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0f16"
+			"zh":""
 		},
 		{
 			"id":555,
@@ -5002,8 +4447,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1816"
+			"zh":""
 		},
 		{
 			"id":556,
@@ -5011,8 +4455,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2116"
+			"zh":""
 		},
 		{
 			"id":557,
@@ -5020,8 +4463,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2a16"
+			"zh":""
 		},
 		{
 			"id":558,
@@ -5029,8 +4471,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3316"
+			"zh":""
 		},
 		{
 			"id":559,
@@ -5038,8 +4479,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3c16"
+			"zh":""
 		},
 		{
 			"id":560,
@@ -5047,8 +4487,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4516"
+			"zh":""
 		},
 		{
 			"id":561,
@@ -5056,8 +4495,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4e16"
+			"zh":""
 		},
 		{
 			"id":562,
@@ -5065,8 +4503,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5716"
+			"zh":""
 		},
 		{
 			"id":563,
@@ -5074,8 +4511,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6016"
+			"zh":""
 		},
 		{
 			"id":564,
@@ -5083,8 +4519,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6916"
+			"zh":""
 		},
 		{
 			"id":565,
@@ -5092,8 +4527,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7216"
+			"zh":""
 		},
 		{
 			"id":566,
@@ -5101,8 +4535,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7b16"
+			"zh":""
 		},
 		{
 			"id":567,
@@ -5110,8 +4543,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8416"
+			"zh":""
 		},
 		{
 			"id":568,
@@ -5119,8 +4551,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8d16"
+			"zh":""
 		},
 		{
 			"id":569,
@@ -5128,8 +4559,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9616"
+			"zh":""
 		},
 		{
 			"id":570,
@@ -5137,8 +4567,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9f16"
+			"zh":""
 		},
 		{
 			"id":571,
@@ -5146,8 +4575,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a816"
+			"zh":""
 		},
 		{
 			"id":572,
@@ -5155,8 +4583,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b116"
+			"zh":""
 		},
 		{
 			"id":573,
@@ -5164,8 +4591,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ba16"
+			"zh":""
 		},
 		{
 			"id":574,
@@ -5173,8 +4599,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c316"
+			"zh":""
 		},
 		{
 			"id":575,
@@ -5182,8 +4607,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cc16"
+			"zh":""
 		},
 		{
 			"id":576,
@@ -5191,8 +4615,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d516"
+			"zh":""
 		},
 		{
 			"id":577,
@@ -5200,8 +4623,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"de16"
+			"zh":""
 		},
 		{
 			"id":578,
@@ -5209,8 +4631,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e716"
+			"zh":""
 		},
 		{
 			"id":579,
@@ -5218,8 +4639,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f016"
+			"zh":""
 		},
 		{
 			"id":580,
@@ -5227,8 +4647,7 @@
 			"length":10,
 			"jpn":"怨讐の大盾",
 			"eng":"Grudge Shield",
-			"zh":"",
-			"exten":"fb16"
+			"zh":""
 		},
 		{
 			"id":581,
@@ -5236,8 +4655,7 @@
 			"length":10,
 			"jpn":"迎撃の草盾",
 			"eng":"Grass Guard",
-			"zh":"",
-			"exten":"0617"
+			"zh":""
 		},
 		{
 			"id":582,
@@ -5245,8 +4663,7 @@
 			"length":10,
 			"jpn":"怨讐の大盾",
 			"eng":"Grudge Shield",
-			"zh":"",
-			"exten":"1117"
+			"zh":""
 		},
 		{
 			"id":583,
@@ -5254,8 +4671,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"1c17"
+			"zh":""
 		},
 		{
 			"id":584,
@@ -5263,8 +4679,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"2717"
+			"zh":""
 		},
 		{
 			"id":585,
@@ -5272,8 +4687,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"3217"
+			"zh":""
 		},
 		{
 			"id":586,
@@ -5281,8 +4695,7 @@
 			"length":12,
 			"jpn":"絶息の大暴れ",
 			"eng":"Death Rampage",
-			"zh":"",
-			"exten":"3f17"
+			"zh":""
 		},
 		{
 			"id":587,
@@ -5290,8 +4703,7 @@
 			"length":4,
 			"jpn":"厄退",
 			"eng":"Repel Calamity",
-			"zh":"",
-			"exten":"4417"
+			"zh":""
 		},
 		{
 			"id":588,
@@ -5299,8 +4711,7 @@
 			"length":6,
 			"jpn":"移り香",
 			"eng":"Passing Scent",
-			"zh":"",
-			"exten":"4b17"
+			"zh":""
 		},
 		{
 			"id":589,
@@ -5308,8 +4719,7 @@
 			"length":16,
 			"jpn":"チェイスマジック",
 			"eng":"Spell Chaser",
-			"zh":"",
-			"exten":"5c17"
+			"zh":""
 		},
 		{
 			"id":590,
@@ -5317,8 +4727,7 @@
 			"length":6,
 			"jpn":"断末魔",
 			"eng":"Death Cry",
-			"zh":"",
-			"exten":"6317"
+			"zh":""
 		},
 		{
 			"id":591,
@@ -5326,8 +4735,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"6e17"
+			"zh":""
 		},
 		{
 			"id":592,
@@ -5335,8 +4743,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"7917"
+			"zh":""
 		},
 		{
 			"id":593,
@@ -5344,8 +4751,7 @@
 			"length":10,
 			"jpn":"オウム返し",
 			"eng":"Mimic",
-			"zh":"",
-			"exten":"8417"
+			"zh":""
 		},
 		{
 			"id":594,
@@ -5353,8 +4759,7 @@
 			"length":10,
 			"jpn":"もぐる実体",
 			"eng":"Burrow",
-			"zh":"",
-			"exten":"8f17"
+			"zh":""
 		},
 		{
 			"id":595,
@@ -5362,8 +4767,7 @@
 			"length":10,
 			"jpn":"焦熱の怒り",
 			"eng":"Scorching Anger",
-			"zh":"",
-			"exten":"9a17"
+			"zh":""
 		},
 		{
 			"id":596,
@@ -5371,8 +4775,7 @@
 			"length":4,
 			"jpn":"憑依",
 			"eng":"Possession",
-			"zh":"",
-			"exten":"9f17"
+			"zh":""
 		},
 		{
 			"id":597,
@@ -5380,8 +4783,7 @@
 			"length":8,
 			"jpn":"水晶粉塵",
 			"eng":"Crystal Dust",
-			"zh":"",
-			"exten":"a817"
+			"zh":""
 		},
 		{
 			"id":598,
@@ -5389,8 +4791,7 @@
 			"length":10,
 			"jpn":"激昂の尾撃",
 			"eng":"Furious Tailslam",
-			"zh":"",
-			"exten":"b317"
+			"zh":""
 		},
 		{
 			"id":599,
@@ -5398,8 +4799,7 @@
 			"length":8,
 			"jpn":"水晶粉塵",
 			"eng":"Crystal Dust",
-			"zh":"",
-			"exten":"bc17"
+			"zh":""
 		},
 		{
 			"id":600,
@@ -5407,8 +4807,7 @@
 			"length":8,
 			"jpn":"水晶粉塵",
 			"eng":"Crystal Dust",
-			"zh":"",
-			"exten":"c517"
+			"zh":""
 		}
 	]
 }

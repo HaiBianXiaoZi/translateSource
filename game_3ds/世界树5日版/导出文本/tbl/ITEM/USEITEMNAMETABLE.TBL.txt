@@ -7,8 +7,7 @@
 			"length":6,
 			"jpn":"素材１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0700"
+			"zh":""
 		},
 		{
 			"id":1,
@@ -16,8 +15,7 @@
 			"length":10,
 			"jpn":"硬質な殻斗",
 			"eng":"Hard Cupule",
-			"zh":"",
-			"exten":"1200"
+			"zh":""
 		},
 		{
 			"id":2,
@@ -25,8 +23,7 @@
 			"length":10,
 			"jpn":"割れた堅果",
 			"eng":"Cracked Nut",
-			"zh":"",
-			"exten":"1d00"
+			"zh":""
 		},
 		{
 			"id":3,
@@ -34,8 +31,7 @@
 			"length":12,
 			"jpn":"棘付きのツタ",
 			"eng":"Thorny Vine",
-			"zh":"",
-			"exten":"2a00"
+			"zh":""
 		},
 		{
 			"id":4,
@@ -43,8 +39,7 @@
 			"length":14,
 			"jpn":"フカフカな襟巻",
 			"eng":"Fluffy Muffler",
-			"zh":"",
-			"exten":"3900"
+			"zh":""
 		},
 		{
 			"id":5,
@@ -52,8 +47,7 @@
 			"length":12,
 			"jpn":"円錐形の重牙",
 			"eng":"Conical Canine",
-			"zh":"",
-			"exten":"4600"
+			"zh":""
 		},
 		{
 			"id":6,
@@ -61,8 +55,7 @@
 			"length":10,
 			"jpn":"冷たい翼膜",
 			"eng":"Cold Patagium",
-			"zh":"",
-			"exten":"5100"
+			"zh":""
 		},
 		{
 			"id":7,
@@ -70,8 +63,7 @@
 			"length":16,
 			"jpn":"突き落とされた牙",
 			"eng":"Dislodged Fang",
-			"zh":"",
-			"exten":"6200"
+			"zh":""
 		},
 		{
 			"id":8,
@@ -79,8 +71,7 @@
 			"length":12,
 			"jpn":"重厚な石突き",
 			"eng":"Heavy Ferrule",
-			"zh":"",
-			"exten":"6f00"
+			"zh":""
 		},
 		{
 			"id":9,
@@ -88,8 +79,7 @@
 			"length":12,
 			"jpn":"欠けた亀甲羅",
 			"eng":"Shattered Shell",
-			"zh":"",
-			"exten":"7c00"
+			"zh":""
 		},
 		{
 			"id":10,
@@ -97,8 +87,7 @@
 			"length":16,
 			"jpn":"焼入れられた甲羅",
 			"eng":"Tempered Shell",
-			"zh":"",
-			"exten":"8d00"
+			"zh":""
 		},
 		{
 			"id":11,
@@ -106,8 +95,7 @@
 			"length":14,
 			"jpn":"枝分かれした牙",
 			"eng":"Forked Tusk",
-			"zh":"",
-			"exten":"9c00"
+			"zh":""
 		},
 		{
 			"id":12,
@@ -115,8 +103,7 @@
 			"length":14,
 			"jpn":"ブヨブヨの表皮",
 			"eng":"Spongy Epidermis",
-			"zh":"",
-			"exten":"ab00"
+			"zh":""
 		},
 		{
 			"id":13,
@@ -124,8 +111,7 @@
 			"length":8,
 			"jpn":"素材１４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b400"
+			"zh":""
 		},
 		{
 			"id":14,
@@ -133,8 +119,7 @@
 			"length":10,
 			"jpn":"曲がった爪",
 			"eng":"Curved Claw",
-			"zh":"",
-			"exten":"bf00"
+			"zh":""
 		},
 		{
 			"id":15,
@@ -142,8 +127,7 @@
 			"length":10,
 			"jpn":"鋼質な兎牙",
 			"eng":"Steely Bucktooth",
-			"zh":"",
-			"exten":"ca00"
+			"zh":""
 		},
 		{
 			"id":16,
@@ -151,8 +135,7 @@
 			"length":8,
 			"jpn":"太いツタ",
 			"eng":"Thick Vine",
-			"zh":"",
-			"exten":"d300"
+			"zh":""
 		},
 		{
 			"id":17,
@@ -160,8 +143,7 @@
 			"length":14,
 			"jpn":"封じられたツタ",
 			"eng":"Bound Vine",
-			"zh":"",
-			"exten":"e200"
+			"zh":""
 		},
 		{
 			"id":18,
@@ -169,8 +151,7 @@
 			"length":10,
 			"jpn":"芋虫の鉄角",
 			"eng":"Metal Pincer",
-			"zh":"",
-			"exten":"ed00"
+			"zh":""
 		},
 		{
 			"id":19,
@@ -178,8 +159,7 @@
 			"length":10,
 			"jpn":"熊鳥の羽根",
 			"eng":"Bear Feather",
-			"zh":"",
-			"exten":"f800"
+			"zh":""
 		},
 		{
 			"id":20,
@@ -187,8 +167,7 @@
 			"length":12,
 			"jpn":"真紅の頭胸甲",
 			"eng":"Scarlet Carapace",
-			"zh":"",
-			"exten":"0501"
+			"zh":""
 		},
 		{
 			"id":21,
@@ -196,8 +175,7 @@
 			"length":16,
 			"jpn":"切り落とされた鋏",
 			"eng":"Cut-off Claw",
-			"zh":"",
-			"exten":"1601"
+			"zh":""
 		},
 		{
 			"id":22,
@@ -205,8 +183,7 @@
 			"length":10,
 			"jpn":"薄茶色の翅",
 			"eng":"Brown Wing",
-			"zh":"",
-			"exten":"2101"
+			"zh":""
 		},
 		{
 			"id":23,
@@ -214,8 +191,7 @@
 			"length":12,
 			"jpn":"子猫の三角耳",
 			"eng":"Feline Ear",
-			"zh":"",
-			"exten":"2e01"
+			"zh":""
 		},
 		{
 			"id":24,
@@ -223,8 +199,7 @@
 			"length":12,
 			"jpn":"警戒鳥の尾羽",
 			"eng":"Turkey Feather",
-			"zh":"",
-			"exten":"3b01"
+			"zh":""
 		},
 		{
 			"id":25,
@@ -232,8 +207,7 @@
 			"length":10,
 			"jpn":"折れた鋭爪",
 			"eng":"Broken Claw",
-			"zh":"",
-			"exten":"4601"
+			"zh":""
 		},
 		{
 			"id":26,
@@ -241,8 +215,7 @@
 			"length":12,
 			"jpn":"ネズミの尾棘",
 			"eng":"Rodent Tailthorn",
-			"zh":"",
-			"exten":"5301"
+			"zh":""
 		},
 		{
 			"id":27,
@@ -250,8 +223,7 @@
 			"length":14,
 			"jpn":"曲がった電気角",
 			"eng":"Electric Horn",
-			"zh":"",
-			"exten":"6201"
+			"zh":""
 		},
 		{
 			"id":28,
@@ -259,8 +231,7 @@
 			"length":10,
 			"jpn":"プリンの核",
 			"eng":"Gelatinous Core",
-			"zh":"",
-			"exten":"6d01"
+			"zh":""
 		},
 		{
 			"id":29,
@@ -268,8 +239,7 @@
 			"length":14,
 			"jpn":"毒々しいプリン",
 			"eng":"Toxic Gelatin",
-			"zh":"",
-			"exten":"7c01"
+			"zh":""
 		},
 		{
 			"id":30,
@@ -277,8 +247,7 @@
 			"length":12,
 			"jpn":"欠けた山羊角",
 			"eng":"Shattered Horn",
-			"zh":"",
-			"exten":"8901"
+			"zh":""
 		},
 		{
 			"id":31,
@@ -286,8 +255,7 @@
 			"length":12,
 			"jpn":"封じられた蹄",
 			"eng":"Bound Hoof",
-			"zh":"",
-			"exten":"9601"
+			"zh":""
 		},
 		{
 			"id":32,
@@ -295,8 +263,7 @@
 			"length":14,
 			"jpn":"浮遊魚の尾ヒレ",
 			"eng":"Flying Tailfin",
-			"zh":"",
-			"exten":"a501"
+			"zh":""
 		},
 		{
 			"id":33,
@@ -304,8 +271,7 @@
 			"length":12,
 			"jpn":"冠羽鳥の片翼",
 			"eng":"Crested Wing",
-			"zh":"",
-			"exten":"b201"
+			"zh":""
 		},
 		{
 			"id":34,
@@ -313,8 +279,7 @@
 			"length":12,
 			"jpn":"オウムの王冠",
 			"eng":"Colorful Crest",
-			"zh":"",
-			"exten":"bf01"
+			"zh":""
 		},
 		{
 			"id":35,
@@ -322,8 +287,7 @@
 			"length":14,
 			"jpn":"電気を帯びた嘴",
 			"eng":"Electrified Beak",
-			"zh":"",
-			"exten":"ce01"
+			"zh":""
 		},
 		{
 			"id":36,
@@ -331,8 +295,7 @@
 			"length":10,
 			"jpn":"巨大な腕骨",
 			"eng":"Giant Humerus",
-			"zh":"",
-			"exten":"d901"
+			"zh":""
 		},
 		{
 			"id":37,
@@ -340,8 +303,7 @@
 			"length":10,
 			"jpn":"焦げた胸袋",
 			"eng":"Burnt Airsac",
-			"zh":"",
-			"exten":"e401"
+			"zh":""
 		},
 		{
 			"id":38,
@@ -349,8 +311,7 @@
 			"length":10,
 			"jpn":"猛犬の下顎",
 			"eng":"Canine Jawbone",
-			"zh":"",
-			"exten":"ef01"
+			"zh":""
 		},
 		{
 			"id":39,
@@ -358,8 +319,7 @@
 			"length":12,
 			"jpn":"黒ずんだ鉤爪",
 			"eng":"Black Dewclaw",
-			"zh":"",
-			"exten":"fc01"
+			"zh":""
 		},
 		{
 			"id":40,
@@ -367,8 +327,7 @@
 			"length":10,
 			"jpn":"鋭利な大鋏",
 			"eng":"Sharp Pincer",
-			"zh":"",
-			"exten":"0702"
+			"zh":""
 		},
 		{
 			"id":41,
@@ -376,8 +335,7 @@
 			"length":12,
 			"jpn":"石化した結晶",
 			"eng":"Scorpion Crystal",
-			"zh":"",
-			"exten":"1402"
+			"zh":""
 		},
 		{
 			"id":42,
@@ -385,8 +343,7 @@
 			"length":12,
 			"jpn":"首長獣の体毛",
 			"eng":"Giraffe Fur",
-			"zh":"",
-			"exten":"2102"
+			"zh":""
 		},
 		{
 			"id":43,
@@ -394,8 +351,7 @@
 			"length":12,
 			"jpn":"テングの長鼻",
 			"eng":"Long Nose",
-			"zh":"",
-			"exten":"2e02"
+			"zh":""
 		},
 		{
 			"id":44,
@@ -403,8 +359,7 @@
 			"length":12,
 			"jpn":"プニプニの足",
 			"eng":"Squishy Leg",
-			"zh":"",
-			"exten":"3b02"
+			"zh":""
 		},
 		{
 			"id":45,
@@ -412,8 +367,7 @@
 			"length":10,
 			"jpn":"浮き頭頂骨",
 			"eng":"Floating Cranium",
-			"zh":"",
-			"exten":"4602"
+			"zh":""
 		},
 		{
 			"id":46,
@@ -421,8 +375,7 @@
 			"length":12,
 			"jpn":"薄汚れた矢筒",
 			"eng":"Dirty Quiver",
-			"zh":"",
-			"exten":"5302"
+			"zh":""
 		},
 		{
 			"id":47,
@@ -430,8 +383,7 @@
 			"length":10,
 			"jpn":"犀利な外輪",
 			"eng":"Sharpened Rim",
-			"zh":"",
-			"exten":"5e02"
+			"zh":""
 		},
 		{
 			"id":48,
@@ -439,8 +391,7 @@
 			"length":12,
 			"jpn":"伸縮する腕蔓",
 			"eng":"Elastic Vine",
-			"zh":"",
-			"exten":"6b02"
+			"zh":""
 		},
 		{
 			"id":49,
@@ -448,8 +399,7 @@
 			"length":12,
 			"jpn":"腐犬のあばら",
 			"eng":"Rotting Dogbone",
-			"zh":"",
-			"exten":"7802"
+			"zh":""
 		},
 		{
 			"id":50,
@@ -457,8 +407,7 @@
 			"length":10,
 			"jpn":"困惑の頭針",
 			"eng":"Confused Needle",
-			"zh":"",
-			"exten":"8302"
+			"zh":""
 		},
 		{
 			"id":51,
@@ -466,8 +415,7 @@
 			"length":8,
 			"jpn":"黒い巨尾",
 			"eng":"Black Tail",
-			"zh":"",
-			"exten":"8c02"
+			"zh":""
 		},
 		{
 			"id":52,
@@ -475,8 +423,7 @@
 			"length":12,
 			"jpn":"壊死した巨指",
 			"eng":"Necrotic Finger",
-			"zh":"",
-			"exten":"9902"
+			"zh":""
 		},
 		{
 			"id":53,
@@ -484,8 +431,7 @@
 			"length":8,
 			"jpn":"真白の袋",
 			"eng":"Ivory Sack",
-			"zh":"",
-			"exten":"a202"
+			"zh":""
 		},
 		{
 			"id":54,
@@ -493,8 +439,7 @@
 			"length":10,
 			"jpn":"強靭な飛膜",
 			"eng":"Tough Membrane",
-			"zh":"",
-			"exten":"ad02"
+			"zh":""
 		},
 		{
 			"id":55,
@@ -502,8 +447,7 @@
 			"length":10,
 			"jpn":"吸血鬼の冠",
 			"eng":"Vampire Crown",
-			"zh":"",
-			"exten":"b802"
+			"zh":""
 		},
 		{
 			"id":56,
@@ -511,8 +455,7 @@
 			"length":14,
 			"jpn":"封じられた魔石",
 			"eng":"Bound Manastone",
-			"zh":"",
-			"exten":"c702"
+			"zh":""
 		},
 		{
 			"id":57,
@@ -520,8 +463,7 @@
 			"length":12,
 			"jpn":"ドクロの黒角",
 			"eng":"Blackened Horn",
-			"zh":"",
-			"exten":"d402"
+			"zh":""
 		},
 		{
 			"id":58,
@@ -529,8 +471,7 @@
 			"length":10,
 			"jpn":"凍結した魂",
 			"eng":"Frozen Chunk",
-			"zh":"",
-			"exten":"df02"
+			"zh":""
 		},
 		{
 			"id":59,
@@ -538,8 +479,7 @@
 			"length":8,
 			"jpn":"空虚な棺",
 			"eng":"Empty Casket",
-			"zh":"",
-			"exten":"e802"
+			"zh":""
 		},
 		{
 			"id":60,
@@ -547,8 +487,7 @@
 			"length":8,
 			"jpn":"錆びた剣",
 			"eng":"Rusty Blade",
-			"zh":"",
-			"exten":"f102"
+			"zh":""
 		},
 		{
 			"id":61,
@@ -556,8 +495,7 @@
 			"length":8,
 			"jpn":"幻影の布",
 			"eng":"Illusory Cloth",
-			"zh":"",
-			"exten":"fa02"
+			"zh":""
 		},
 		{
 			"id":62,
@@ -565,8 +503,7 @@
 			"length":10,
 			"jpn":"漆黒の鎧板",
 			"eng":"Ebon Breastplate",
-			"zh":"",
-			"exten":"0503"
+			"zh":""
 		},
 		{
 			"id":63,
@@ -574,8 +511,7 @@
 			"length":16,
 			"jpn":"燃え尽きた肩当て",
 			"eng":"Burnt Pauldron",
-			"zh":"",
-			"exten":"1603"
+			"zh":""
 		},
 		{
 			"id":64,
@@ -583,8 +519,7 @@
 			"length":8,
 			"jpn":"歪な雷石",
 			"eng":"Warped Voltstone",
-			"zh":"",
-			"exten":"1f03"
+			"zh":""
 		},
 		{
 			"id":65,
@@ -592,8 +527,7 @@
 			"length":10,
 			"jpn":"痺れた糖核",
 			"eng":"Inert Sugarcore",
-			"zh":"",
-			"exten":"2a03"
+			"zh":""
 		},
 		{
 			"id":66,
@@ -601,8 +535,7 @@
 			"length":14,
 			"jpn":"コウモリの突牙",
 			"eng":"Sharp Batfang",
-			"zh":"",
-			"exten":"3903"
+			"zh":""
 		},
 		{
 			"id":67,
@@ -610,8 +543,7 @@
 			"length":14,
 			"jpn":"モチモチの蛭皮",
 			"eng":"Elastic Wormskin",
-			"zh":"",
-			"exten":"4803"
+			"zh":""
 		},
 		{
 			"id":68,
@@ -619,8 +551,7 @@
 			"length":16,
 			"jpn":"刃こぼれした刀身",
 			"eng":"Chipped Blade",
-			"zh":"",
-			"exten":"5903"
+			"zh":""
 		},
 		{
 			"id":69,
@@ -628,8 +559,7 @@
 			"length":10,
 			"jpn":"尖鋭な王爪",
 			"eng":"Imperial Talon",
-			"zh":"",
-			"exten":"6403"
+			"zh":""
 		},
 		{
 			"id":70,
@@ -637,8 +567,7 @@
 			"length":12,
 			"jpn":"半透明な紅殻",
 			"eng":"Redglass Shell",
-			"zh":"",
-			"exten":"7103"
+			"zh":""
 		},
 		{
 			"id":71,
@@ -646,8 +575,7 @@
 			"length":10,
 			"jpn":"淀んだ結晶",
 			"eng":"Cloudy Crystal",
-			"zh":"",
-			"exten":"7c03"
+			"zh":""
 		},
 		{
 			"id":72,
@@ -655,8 +583,7 @@
 			"length":10,
 			"jpn":"猛獣の腕膜",
 			"eng":"Primate Patagium",
-			"zh":"",
-			"exten":"8703"
+			"zh":""
 		},
 		{
 			"id":73,
@@ -664,8 +591,7 @@
 			"length":12,
 			"jpn":"棘つきの肩甲",
 			"eng":"Thorny Scapula",
-			"zh":"",
-			"exten":"9403"
+			"zh":""
 		},
 		{
 			"id":74,
@@ -673,8 +599,7 @@
 			"length":14,
 			"jpn":"斬り飛んだ刃先",
 			"eng":"Cut-off Blade",
-			"zh":"",
-			"exten":"a303"
+			"zh":""
 		},
 		{
 			"id":75,
@@ -682,8 +607,7 @@
 			"length":10,
 			"jpn":"深紅の鶏冠",
 			"eng":"Crimson Coxcomb",
-			"zh":"",
-			"exten":"ae03"
+			"zh":""
 		},
 		{
 			"id":76,
@@ -691,8 +615,7 @@
 			"length":10,
 			"jpn":"虚蝉の赤翅",
 			"eng":"Red Forewings",
-			"zh":"",
-			"exten":"b903"
+			"zh":""
 		},
 		{
 			"id":77,
@@ -700,8 +623,7 @@
 			"length":16,
 			"jpn":"鳴らないサイレン",
 			"eng":"Silenced Siren",
-			"zh":"",
-			"exten":"ca03"
+			"zh":""
 		},
 		{
 			"id":78,
@@ -709,8 +631,7 @@
 			"length":12,
 			"jpn":"蒼色の水晶核",
 			"eng":"Azure Core",
-			"zh":"",
-			"exten":"d703"
+			"zh":""
 		},
 		{
 			"id":79,
@@ -718,8 +639,7 @@
 			"length":10,
 			"jpn":"鈍色の鉄塊",
 			"eng":"Dull Metal",
-			"zh":"",
-			"exten":"e203"
+			"zh":""
 		},
 		{
 			"id":80,
@@ -727,8 +647,7 @@
 			"length":14,
 			"jpn":"トカゲのしっぽ",
 			"eng":"Lizard Tail",
-			"zh":"",
-			"exten":"f103"
+			"zh":""
 		},
 		{
 			"id":81,
@@ -736,8 +655,7 @@
 			"length":14,
 			"jpn":"凍てつく放熱翼",
 			"eng":"Frozen Wing",
-			"zh":"",
-			"exten":"0004"
+			"zh":""
 		},
 		{
 			"id":82,
@@ -745,8 +663,7 @@
 			"length":10,
 			"jpn":"強剛な甲羅",
 			"eng":"Rigid Shell",
-			"zh":"",
-			"exten":"0b04"
+			"zh":""
 		},
 		{
 			"id":83,
@@ -754,8 +671,7 @@
 			"length":10,
 			"jpn":"巨虫の爪針",
 			"eng":"Tremor Needles",
-			"zh":"",
-			"exten":"1604"
+			"zh":""
 		},
 		{
 			"id":84,
@@ -763,8 +679,7 @@
 			"length":12,
 			"jpn":"双頭獣の毛皮",
 			"eng":"Orthrus Fur",
-			"zh":"",
-			"exten":"2304"
+			"zh":""
 		},
 		{
 			"id":85,
@@ -772,8 +687,7 @@
 			"length":10,
 			"jpn":"魔獣の雷爪",
 			"eng":"Zapped Dewclaw",
-			"zh":"",
-			"exten":"2e04"
+			"zh":""
 		},
 		{
 			"id":86,
@@ -781,8 +695,7 @@
 			"length":10,
 			"jpn":"黒白の節足",
 			"eng":"Monochrome Leg",
-			"zh":"",
-			"exten":"3904"
+			"zh":""
 		},
 		{
 			"id":87,
@@ -790,8 +703,7 @@
 			"length":14,
 			"jpn":"モコモコの尻尾",
 			"eng":"Fluffy Coldtail",
-			"zh":"",
-			"exten":"4804"
+			"zh":""
 		},
 		{
 			"id":88,
@@ -799,8 +711,7 @@
 			"length":10,
 			"jpn":"頑強な鉄殻",
 			"eng":"Metal Nutshell",
-			"zh":"",
-			"exten":"5304"
+			"zh":""
 		},
 		{
 			"id":89,
@@ -808,8 +719,7 @@
 			"length":10,
 			"jpn":"剣虫の細枝",
 			"eng":"Stickbug Switch",
-			"zh":"",
-			"exten":"5e04"
+			"zh":""
 		},
 		{
 			"id":90,
@@ -817,8 +727,7 @@
 			"length":14,
 			"jpn":"焼け焦げた葉刃",
 			"eng":"Burnt Leafblade",
-			"zh":"",
-			"exten":"6d04"
+			"zh":""
 		},
 		{
 			"id":91,
@@ -826,8 +735,7 @@
 			"length":10,
 			"jpn":"赤猫の掌球",
 			"eng":"Red Catspaw",
-			"zh":"",
-			"exten":"7804"
+			"zh":""
 		},
 		{
 			"id":92,
@@ -835,8 +743,7 @@
 			"length":10,
 			"jpn":"石製の獣耳",
 			"eng":"Rockhorse Ear",
-			"zh":"",
-			"exten":"8304"
+			"zh":""
 		},
 		{
 			"id":93,
@@ -844,8 +751,7 @@
 			"length":14,
 			"jpn":"封じられた石脚",
 			"eng":"Bound Horseshoe",
-			"zh":"",
-			"exten":"9204"
+			"zh":""
 		},
 		{
 			"id":94,
@@ -853,8 +759,7 @@
 			"length":12,
 			"jpn":"黒山羊の禍角",
 			"eng":"Twisted Horn",
-			"zh":"",
-			"exten":"9f04"
+			"zh":""
 		},
 		{
 			"id":95,
@@ -862,8 +767,7 @@
 			"length":12,
 			"jpn":"猛々しい猪牙",
 			"eng":"Jagged Tusk",
-			"zh":"",
-			"exten":"ac04"
+			"zh":""
 		},
 		{
 			"id":96,
@@ -871,8 +775,7 @@
 			"length":10,
 			"jpn":"火蟻の鋭顎",
 			"eng":"Sharp Mandibles",
-			"zh":"",
-			"exten":"b704"
+			"zh":""
 		},
 		{
 			"id":97,
@@ -880,8 +783,7 @@
 			"length":12,
 			"jpn":"柔らかな黄核",
 			"eng":"Soft Yellow Core",
-			"zh":"",
-			"exten":"c404"
+			"zh":""
 		},
 		{
 			"id":98,
@@ -889,8 +791,7 @@
 			"length":12,
 			"jpn":"穴あきプリン",
 			"eng":"Holey Gelatin",
-			"zh":"",
-			"exten":"d104"
+			"zh":""
 		},
 		{
 			"id":99,
@@ -898,8 +799,7 @@
 			"length":12,
 			"jpn":"石人形の破片",
 			"eng":"Statue Shard",
-			"zh":"",
-			"exten":"de04"
+			"zh":""
 		},
 		{
 			"id":100,
@@ -907,8 +807,7 @@
 			"length":10,
 			"jpn":"鮮血の大鎌",
 			"eng":"Bloody Sickle",
-			"zh":"",
-			"exten":"e904"
+			"zh":""
 		},
 		{
 			"id":101,
@@ -916,8 +815,7 @@
 			"length":14,
 			"jpn":"眠れる鎌姫の翅",
 			"eng":"Goddess Wings",
-			"zh":"",
-			"exten":"f804"
+			"zh":""
 		},
 		{
 			"id":102,
@@ -925,8 +823,7 @@
 			"length":14,
 			"jpn":"ひび入りの針棘",
 			"eng":"Cracked Spike",
-			"zh":"",
-			"exten":"0705"
+			"zh":""
 		},
 		{
 			"id":103,
@@ -934,8 +831,7 @@
 			"length":10,
 			"jpn":"悪魔の毛皮",
 			"eng":"Fiendish Mane",
-			"zh":"",
-			"exten":"1205"
+			"zh":""
 		},
 		{
 			"id":104,
@@ -943,8 +839,7 @@
 			"length":10,
 			"jpn":"呪殺の魔爪",
 			"eng":"Accursed Talon",
-			"zh":"",
-			"exten":"1d05"
+			"zh":""
 		},
 		{
 			"id":105,
@@ -952,8 +847,7 @@
 			"length":12,
 			"jpn":"魔人の腕突板",
 			"eng":"Wicked Armspikes",
-			"zh":"",
-			"exten":"2a05"
+			"zh":""
 		},
 		{
 			"id":106,
@@ -961,8 +855,7 @@
 			"length":14,
 			"jpn":"フサフサの獄尾",
 			"eng":"Imperious Tail",
-			"zh":"",
-			"exten":"3905"
+			"zh":""
 		},
 		{
 			"id":107,
@@ -970,8 +863,7 @@
 			"length":10,
 			"jpn":"落ちた星屑",
 			"eng":"Fallen Stardust",
-			"zh":"",
-			"exten":"4405"
+			"zh":""
 		},
 		{
 			"id":108,
@@ -979,8 +871,7 @@
 			"length":10,
 			"jpn":"一撃の糖星",
 			"eng":"Starstruck Sugar",
-			"zh":"",
-			"exten":"4f05"
+			"zh":""
 		},
 		{
 			"id":109,
@@ -988,8 +879,7 @@
 			"length":10,
 			"jpn":"平たい触手",
 			"eng":"Alien Tentacle",
-			"zh":"",
-			"exten":"5a05"
+			"zh":""
 		},
 		{
 			"id":110,
@@ -997,8 +887,7 @@
 			"length":10,
 			"jpn":"宙魚の軟骨",
 			"eng":"Space Cartilage",
-			"zh":"",
-			"exten":"6505"
+			"zh":""
 		},
 		{
 			"id":111,
@@ -1006,8 +895,7 @@
 			"length":12,
 			"jpn":"小悪魔の鋭翼",
 			"eng":"Impish Wing",
-			"zh":"",
-			"exten":"7205"
+			"zh":""
 		},
 		{
 			"id":112,
@@ -1015,8 +903,7 @@
 			"length":10,
 			"jpn":"昏迷の紅珠",
 			"eng":"Stupefied Orb",
-			"zh":"",
-			"exten":"7d05"
+			"zh":""
 		},
 		{
 			"id":113,
@@ -1024,8 +911,7 @@
 			"length":12,
 			"jpn":"三頭獣の犬歯",
 			"eng":"Devildog Fang",
-			"zh":"",
-			"exten":"8a05"
+			"zh":""
 		},
 		{
 			"id":114,
@@ -1033,8 +919,7 @@
 			"length":10,
 			"jpn":"獄蝉の双翅",
 			"eng":"Hellish Hindwing",
-			"zh":"",
-			"exten":"9505"
+			"zh":""
 		},
 		{
 			"id":115,
@@ -1042,8 +927,7 @@
 			"length":10,
 			"jpn":"完封の魔針",
 			"eng":"Bound Needle",
-			"zh":"",
-			"exten":"a005"
+			"zh":""
 		},
 		{
 			"id":116,
@@ -1051,8 +935,7 @@
 			"length":8,
 			"jpn":"硬質な嘴",
 			"eng":"Hard Beak",
-			"zh":"",
-			"exten":"a905"
+			"zh":""
 		},
 		{
 			"id":117,
@@ -1060,8 +943,7 @@
 			"length":12,
 			"jpn":"研がれた鉤爪",
 			"eng":"Pointed Claw",
-			"zh":"",
-			"exten":"b605"
+			"zh":""
 		},
 		{
 			"id":118,
@@ -1069,8 +951,7 @@
 			"length":12,
 			"jpn":"禍々しい杖剣",
 			"eng":"Dread Canesword",
-			"zh":"",
-			"exten":"c305"
+			"zh":""
 		},
 		{
 			"id":119,
@@ -1078,8 +959,7 @@
 			"length":12,
 			"jpn":"充足の魔力晶",
 			"eng":"Fullmana Gem",
-			"zh":"",
-			"exten":"d005"
+			"zh":""
 		},
 		{
 			"id":120,
@@ -1087,8 +967,7 @@
 			"length":12,
 			"jpn":"湾曲した肩部",
 			"eng":"Eyeball Pauldron",
-			"zh":"",
-			"exten":"dd05"
+			"zh":""
 		},
 		{
 			"id":121,
@@ -1096,8 +975,7 @@
 			"length":14,
 			"jpn":"ひしゃげた紐腕",
 			"eng":"Crushed Ribbon",
-			"zh":"",
-			"exten":"ec05"
+			"zh":""
 		},
 		{
 			"id":122,
@@ -1105,8 +983,7 @@
 			"length":10,
 			"jpn":"漆黒の歪角",
 			"eng":"Warped Ebonhorn",
-			"zh":"",
-			"exten":"f705"
+			"zh":""
 		},
 		{
 			"id":123,
@@ -1114,8 +991,7 @@
 			"length":10,
 			"jpn":"狂逸の魔指",
 			"eng":"Freakish Finger",
-			"zh":"",
-			"exten":"0206"
+			"zh":""
 		},
 		{
 			"id":124,
@@ -1123,8 +999,7 @@
 			"length":10,
 			"jpn":"悪夢の後髪",
 			"eng":"Nightmare Hair",
-			"zh":"",
-			"exten":"0d06"
+			"zh":""
 		},
 		{
 			"id":125,
@@ -1132,8 +1007,7 @@
 			"length":14,
 			"jpn":"タプタプの筒腕",
 			"eng":"Flabby Arm",
-			"zh":"",
-			"exten":"1c06"
+			"zh":""
 		},
 		{
 			"id":126,
@@ -1141,8 +1015,7 @@
 			"length":12,
 			"jpn":"硬化した角芯",
 			"eng":"Hardened Horn",
-			"zh":"",
-			"exten":"2906"
+			"zh":""
 		},
 		{
 			"id":127,
@@ -1150,8 +1023,7 @@
 			"length":12,
 			"jpn":"ゲル質の美脚",
 			"eng":"Gelatinous Leg",
-			"zh":"",
-			"exten":"3606"
+			"zh":""
 		},
 		{
 			"id":128,
@@ -1159,8 +1031,7 @@
 			"length":12,
 			"jpn":"ひずみの球核",
 			"eng":"Distortion Core",
-			"zh":"",
-			"exten":"4306"
+			"zh":""
 		},
 		{
 			"id":129,
@@ -1168,8 +1039,7 @@
 			"length":12,
 			"jpn":"迷彩犬の大牙",
 			"eng":"Camouflage Fang",
-			"zh":"",
-			"exten":"5006"
+			"zh":""
 		},
 		{
 			"id":130,
@@ -1177,8 +1047,7 @@
 			"length":10,
 			"jpn":"騎虫の大盾",
 			"eng":"Stickbug Shield",
-			"zh":"",
-			"exten":"5b06"
+			"zh":""
 		},
 		{
 			"id":131,
@@ -1186,8 +1055,7 @@
 			"length":10,
 			"jpn":"炎獣の曲角",
 			"eng":"Fiery Horn",
-			"zh":"",
-			"exten":"6606"
+			"zh":""
 		},
 		{
 			"id":132,
@@ -1195,8 +1063,7 @@
 			"length":14,
 			"jpn":"封じられし尻尾",
 			"eng":"Bound Tail",
-			"zh":"",
-			"exten":"7506"
+			"zh":""
 		},
 		{
 			"id":133,
@@ -1204,8 +1071,7 @@
 			"length":10,
 			"jpn":"弧状の輪刃",
 			"eng":"Curved Blade",
-			"zh":"",
-			"exten":"8006"
+			"zh":""
 		},
 		{
 			"id":134,
@@ -1213,8 +1079,7 @@
 			"length":10,
 			"jpn":"盲目の目玉",
 			"eng":"Unseeing Eye",
-			"zh":"",
-			"exten":"8b06"
+			"zh":""
 		},
 		{
 			"id":135,
@@ -1222,8 +1087,7 @@
 			"length":10,
 			"jpn":"魔虫の尾針",
 			"eng":"Direbug Stinger",
-			"zh":"",
-			"exten":"9606"
+			"zh":""
 		},
 		{
 			"id":136,
@@ -1231,8 +1095,7 @@
 			"length":10,
 			"jpn":"痺れた虫皮",
 			"eng":"Stunned Bugmolt",
-			"zh":"",
-			"exten":"a106"
+			"zh":""
 		},
 		{
 			"id":137,
@@ -1240,8 +1103,7 @@
 			"length":12,
 			"jpn":"厄像の金属球",
 			"eng":"Equestrian Orb",
-			"zh":"",
-			"exten":"ae06"
+			"zh":""
 		},
 		{
 			"id":138,
@@ -1249,8 +1111,7 @@
 			"length":10,
 			"jpn":"素材１３９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b906"
+			"zh":""
 		},
 		{
 			"id":139,
@@ -1258,8 +1119,7 @@
 			"length":10,
 			"jpn":"素材１４０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c406"
+			"zh":""
 		},
 		{
 			"id":140,
@@ -1267,8 +1127,7 @@
 			"length":10,
 			"jpn":"素材１４１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"cf06"
+			"zh":""
 		},
 		{
 			"id":141,
@@ -1276,8 +1135,7 @@
 			"length":10,
 			"jpn":"素材１４２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"da06"
+			"zh":""
 		},
 		{
 			"id":142,
@@ -1285,8 +1143,7 @@
 			"length":10,
 			"jpn":"素材１４３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e506"
+			"zh":""
 		},
 		{
 			"id":143,
@@ -1294,8 +1151,7 @@
 			"length":10,
 			"jpn":"素材１４４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f006"
+			"zh":""
 		},
 		{
 			"id":144,
@@ -1303,8 +1159,7 @@
 			"length":10,
 			"jpn":"素材１４５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fb06"
+			"zh":""
 		},
 		{
 			"id":145,
@@ -1312,8 +1167,7 @@
 			"length":10,
 			"jpn":"素材１４６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0607"
+			"zh":""
 		},
 		{
 			"id":146,
@@ -1321,8 +1175,7 @@
 			"length":10,
 			"jpn":"素材１４７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1107"
+			"zh":""
 		},
 		{
 			"id":147,
@@ -1330,8 +1183,7 @@
 			"length":10,
 			"jpn":"素材１４８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1c07"
+			"zh":""
 		},
 		{
 			"id":148,
@@ -1339,8 +1191,7 @@
 			"length":10,
 			"jpn":"素材１４９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2707"
+			"zh":""
 		},
 		{
 			"id":149,
@@ -1348,8 +1199,7 @@
 			"length":10,
 			"jpn":"素材１５０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3207"
+			"zh":""
 		},
 		{
 			"id":150,
@@ -1357,8 +1207,7 @@
 			"length":10,
 			"jpn":"素材１５１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3d07"
+			"zh":""
 		},
 		{
 			"id":151,
@@ -1366,8 +1215,7 @@
 			"length":10,
 			"jpn":"素材１５２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4807"
+			"zh":""
 		},
 		{
 			"id":152,
@@ -1375,8 +1223,7 @@
 			"length":10,
 			"jpn":"素材１５３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5307"
+			"zh":""
 		},
 		{
 			"id":153,
@@ -1384,8 +1231,7 @@
 			"length":10,
 			"jpn":"素材１５４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5e07"
+			"zh":""
 		},
 		{
 			"id":154,
@@ -1393,8 +1239,7 @@
 			"length":10,
 			"jpn":"素材１５５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6907"
+			"zh":""
 		},
 		{
 			"id":155,
@@ -1402,8 +1247,7 @@
 			"length":10,
 			"jpn":"素材１５６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7407"
+			"zh":""
 		},
 		{
 			"id":156,
@@ -1411,8 +1255,7 @@
 			"length":10,
 			"jpn":"素材１５７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7f07"
+			"zh":""
 		},
 		{
 			"id":157,
@@ -1420,8 +1263,7 @@
 			"length":10,
 			"jpn":"素材１５８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8a07"
+			"zh":""
 		},
 		{
 			"id":158,
@@ -1429,8 +1271,7 @@
 			"length":10,
 			"jpn":"素材１５９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9507"
+			"zh":""
 		},
 		{
 			"id":159,
@@ -1438,8 +1279,7 @@
 			"length":10,
 			"jpn":"素材１６０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a007"
+			"zh":""
 		},
 		{
 			"id":160,
@@ -1447,8 +1287,7 @@
 			"length":10,
 			"jpn":"素材１６１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ab07"
+			"zh":""
 		},
 		{
 			"id":161,
@@ -1456,8 +1295,7 @@
 			"length":10,
 			"jpn":"素材１６２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b607"
+			"zh":""
 		},
 		{
 			"id":162,
@@ -1465,8 +1303,7 @@
 			"length":10,
 			"jpn":"素材１６３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c107"
+			"zh":""
 		},
 		{
 			"id":163,
@@ -1474,8 +1311,7 @@
 			"length":10,
 			"jpn":"素材１６４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"cc07"
+			"zh":""
 		},
 		{
 			"id":164,
@@ -1483,8 +1319,7 @@
 			"length":10,
 			"jpn":"素材１６５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d707"
+			"zh":""
 		},
 		{
 			"id":165,
@@ -1492,8 +1327,7 @@
 			"length":10,
 			"jpn":"素材１６６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e207"
+			"zh":""
 		},
 		{
 			"id":166,
@@ -1501,8 +1335,7 @@
 			"length":10,
 			"jpn":"素材１６７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ed07"
+			"zh":""
 		},
 		{
 			"id":167,
@@ -1510,8 +1343,7 @@
 			"length":10,
 			"jpn":"素材１６８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f807"
+			"zh":""
 		},
 		{
 			"id":168,
@@ -1519,8 +1351,7 @@
 			"length":10,
 			"jpn":"素材１６９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0308"
+			"zh":""
 		},
 		{
 			"id":169,
@@ -1528,8 +1359,7 @@
 			"length":10,
 			"jpn":"素材１７０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0e08"
+			"zh":""
 		},
 		{
 			"id":170,
@@ -1537,8 +1367,7 @@
 			"length":10,
 			"jpn":"素材１７１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1908"
+			"zh":""
 		},
 		{
 			"id":171,
@@ -1546,8 +1375,7 @@
 			"length":10,
 			"jpn":"素材１７２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2408"
+			"zh":""
 		},
 		{
 			"id":172,
@@ -1555,8 +1383,7 @@
 			"length":10,
 			"jpn":"素材１７３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2f08"
+			"zh":""
 		},
 		{
 			"id":173,
@@ -1564,8 +1391,7 @@
 			"length":10,
 			"jpn":"素材１７４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3a08"
+			"zh":""
 		},
 		{
 			"id":174,
@@ -1573,8 +1399,7 @@
 			"length":10,
 			"jpn":"素材１７５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4508"
+			"zh":""
 		},
 		{
 			"id":175,
@@ -1582,8 +1407,7 @@
 			"length":10,
 			"jpn":"素材１７６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5008"
+			"zh":""
 		},
 		{
 			"id":176,
@@ -1591,8 +1415,7 @@
 			"length":10,
 			"jpn":"素材１７７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5b08"
+			"zh":""
 		},
 		{
 			"id":177,
@@ -1600,8 +1423,7 @@
 			"length":12,
 			"jpn":"悠久の結界片",
 			"eng":"Stoneguard Shard",
-			"zh":"",
-			"exten":"6808"
+			"zh":""
 		},
 		{
 			"id":178,
@@ -1609,8 +1431,7 @@
 			"length":10,
 			"jpn":"魔獣の翼拳",
 			"eng":"Gryphon Wingpaw",
-			"zh":"",
-			"exten":"7308"
+			"zh":""
 		},
 		{
 			"id":179,
@@ -1618,8 +1439,7 @@
 			"length":16,
 			"jpn":"屍王のデスマスク",
 			"eng":"Royal Deathmask",
-			"zh":"",
-			"exten":"8408"
+			"zh":""
 		},
 		{
 			"id":180,
@@ -1627,8 +1447,7 @@
 			"length":10,
 			"jpn":"蒼龍の晶角",
 			"eng":"Azure Dragonhorn",
-			"zh":"",
-			"exten":"8f08"
+			"zh":""
 		},
 		{
 			"id":181,
@@ -1636,8 +1455,7 @@
 			"length":8,
 			"jpn":"邪の背鰭",
 			"eng":"Shadow Dorsalfin",
-			"zh":"",
-			"exten":"9808"
+			"zh":""
 		},
 		{
 			"id":182,
@@ -1645,8 +1463,7 @@
 			"length":12,
 			"jpn":"侵蝕者の仲核",
 			"eng":"Worldeater Core",
-			"zh":"",
-			"exten":"a508"
+			"zh":""
 		},
 		{
 			"id":183,
@@ -1654,8 +1471,7 @@
 			"length":8,
 			"jpn":"妖華の蕾",
 			"eng":"Bewitching Bud",
-			"zh":"",
-			"exten":"ae08"
+			"zh":""
 		},
 		{
 			"id":184,
@@ -1663,8 +1479,7 @@
 			"length":8,
 			"jpn":"巨象の冠",
 			"eng":"Pachyderm Crown",
-			"zh":"",
-			"exten":"b708"
+			"zh":""
 		},
 		{
 			"id":185,
@@ -1672,8 +1487,7 @@
 			"length":10,
 			"jpn":"腐竜の尺骨",
 			"eng":"Corrupted Ulna",
-			"zh":"",
-			"exten":"c208"
+			"zh":""
 		},
 		{
 			"id":186,
@@ -1681,8 +1495,7 @@
 			"length":10,
 			"jpn":"怪女の蛇蔓",
 			"eng":"Sinister Serpent",
-			"zh":"",
-			"exten":"cd08"
+			"zh":""
 		},
 		{
 			"id":187,
@@ -1690,8 +1503,7 @@
 			"length":10,
 			"jpn":"痺縞の結界",
 			"eng":"Stun Barrier",
-			"zh":"",
-			"exten":"d808"
+			"zh":""
 		},
 		{
 			"id":188,
@@ -1699,8 +1511,7 @@
 			"length":10,
 			"jpn":"刹那の鶴嘴",
 			"eng":"Transient Pick",
-			"zh":"",
-			"exten":"e308"
+			"zh":""
 		},
 		{
 			"id":189,
@@ -1708,8 +1519,7 @@
 			"length":10,
 			"jpn":"呪跡の上布",
 			"eng":"Cursed Loincloth",
-			"zh":"",
-			"exten":"ee08"
+			"zh":""
 		},
 		{
 			"id":190,
@@ -1717,8 +1527,7 @@
 			"length":10,
 			"jpn":"神竜の光翼",
 			"eng":"Draco Lightwing",
-			"zh":"",
-			"exten":"f908"
+			"zh":""
 		},
 		{
 			"id":191,
@@ -1726,8 +1535,7 @@
 			"length":14,
 			"jpn":"樹姫のビロード",
 			"eng":"Treant Velvet",
-			"zh":"",
-			"exten":"0809"
+			"zh":""
 		},
 		{
 			"id":192,
@@ -1735,8 +1543,7 @@
 			"length":10,
 			"jpn":"古象の大樹",
 			"eng":"Primordial Trunk",
-			"zh":"",
-			"exten":"1309"
+			"zh":""
 		},
 		{
 			"id":193,
@@ -1744,8 +1551,7 @@
 			"length":10,
 			"jpn":"自壊の竜骨",
 			"eng":"Dead Dragonbone",
-			"zh":"",
-			"exten":"1e09"
+			"zh":""
 		},
 		{
 			"id":194,
@@ -1753,8 +1559,7 @@
 			"length":14,
 			"jpn":"絡まったおさげ",
 			"eng":"Snakebraid Snarl",
-			"zh":"",
-			"exten":"2d09"
+			"zh":""
 		},
 		{
 			"id":195,
@@ -1762,8 +1567,7 @@
 			"length":10,
 			"jpn":"素材１９６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3809"
+			"zh":""
 		},
 		{
 			"id":196,
@@ -1771,8 +1575,7 @@
 			"length":10,
 			"jpn":"素材１９７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4309"
+			"zh":""
 		},
 		{
 			"id":197,
@@ -1780,8 +1583,7 @@
 			"length":10,
 			"jpn":"素材１９８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4e09"
+			"zh":""
 		},
 		{
 			"id":198,
@@ -1789,8 +1591,7 @@
 			"length":10,
 			"jpn":"素材１９９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5909"
+			"zh":""
 		},
 		{
 			"id":199,
@@ -1798,8 +1599,7 @@
 			"length":10,
 			"jpn":"素材２００",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6409"
+			"zh":""
 		},
 		{
 			"id":200,
@@ -1807,8 +1607,7 @@
 			"length":10,
 			"jpn":"素材２０１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6f09"
+			"zh":""
 		},
 		{
 			"id":201,
@@ -1816,8 +1615,7 @@
 			"length":10,
 			"jpn":"素材２０２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7a09"
+			"zh":""
 		},
 		{
 			"id":202,
@@ -1825,8 +1623,7 @@
 			"length":10,
 			"jpn":"素材２０３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8509"
+			"zh":""
 		},
 		{
 			"id":203,
@@ -1834,8 +1631,7 @@
 			"length":10,
 			"jpn":"素材２０４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9009"
+			"zh":""
 		},
 		{
 			"id":204,
@@ -1843,8 +1639,7 @@
 			"length":10,
 			"jpn":"素材２０５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9b09"
+			"zh":""
 		},
 		{
 			"id":205,
@@ -1852,8 +1647,7 @@
 			"length":10,
 			"jpn":"素材２０６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a609"
+			"zh":""
 		},
 		{
 			"id":206,
@@ -1861,8 +1655,7 @@
 			"length":10,
 			"jpn":"素材２０７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b109"
+			"zh":""
 		},
 		{
 			"id":207,
@@ -1870,8 +1663,7 @@
 			"length":10,
 			"jpn":"素材２０８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"bc09"
+			"zh":""
 		},
 		{
 			"id":208,
@@ -1879,8 +1671,7 @@
 			"length":10,
 			"jpn":"素材２０９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c709"
+			"zh":""
 		},
 		{
 			"id":209,
@@ -1888,8 +1679,7 @@
 			"length":10,
 			"jpn":"素材２１０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d209"
+			"zh":""
 		},
 		{
 			"id":210,
@@ -1897,8 +1687,7 @@
 			"length":10,
 			"jpn":"素材２１１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"dd09"
+			"zh":""
 		},
 		{
 			"id":211,
@@ -1906,8 +1695,7 @@
 			"length":10,
 			"jpn":"素材２１２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e809"
+			"zh":""
 		},
 		{
 			"id":212,
@@ -1915,8 +1703,7 @@
 			"length":10,
 			"jpn":"素材２１３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f309"
+			"zh":""
 		},
 		{
 			"id":213,
@@ -1924,8 +1711,7 @@
 			"length":10,
 			"jpn":"素材２１４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fe09"
+			"zh":""
 		},
 		{
 			"id":214,
@@ -1933,8 +1719,7 @@
 			"length":10,
 			"jpn":"素材２１５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"090a"
+			"zh":""
 		},
 		{
 			"id":215,
@@ -1942,8 +1727,7 @@
 			"length":10,
 			"jpn":"素材２１６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"140a"
+			"zh":""
 		},
 		{
 			"id":216,
@@ -1951,8 +1735,7 @@
 			"length":10,
 			"jpn":"素材２１７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1f0a"
+			"zh":""
 		},
 		{
 			"id":217,
@@ -1960,8 +1743,7 @@
 			"length":10,
 			"jpn":"素材２１８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2a0a"
+			"zh":""
 		},
 		{
 			"id":218,
@@ -1969,8 +1751,7 @@
 			"length":10,
 			"jpn":"素材２１９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"350a"
+			"zh":""
 		},
 		{
 			"id":219,
@@ -1978,8 +1759,7 @@
 			"length":10,
 			"jpn":"素材２２０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"400a"
+			"zh":""
 		},
 		{
 			"id":220,
@@ -1987,8 +1767,7 @@
 			"length":10,
 			"jpn":"素材２２１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4b0a"
+			"zh":""
 		},
 		{
 			"id":221,
@@ -1996,8 +1775,7 @@
 			"length":10,
 			"jpn":"素材２２２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"560a"
+			"zh":""
 		},
 		{
 			"id":222,
@@ -2005,8 +1783,7 @@
 			"length":10,
 			"jpn":"素材２２３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"610a"
+			"zh":""
 		},
 		{
 			"id":223,
@@ -2014,8 +1791,7 @@
 			"length":10,
 			"jpn":"素材２２４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6c0a"
+			"zh":""
 		},
 		{
 			"id":224,
@@ -2023,8 +1799,7 @@
 			"length":10,
 			"jpn":"素材２２５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"770a"
+			"zh":""
 		},
 		{
 			"id":225,
@@ -2032,8 +1807,7 @@
 			"length":10,
 			"jpn":"素材２２６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"820a"
+			"zh":""
 		},
 		{
 			"id":226,
@@ -2041,8 +1815,7 @@
 			"length":10,
 			"jpn":"素材２２７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8d0a"
+			"zh":""
 		},
 		{
 			"id":227,
@@ -2050,8 +1823,7 @@
 			"length":10,
 			"jpn":"素材２２８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"980a"
+			"zh":""
 		},
 		{
 			"id":228,
@@ -2059,8 +1831,7 @@
 			"length":10,
 			"jpn":"素材２２９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a30a"
+			"zh":""
 		},
 		{
 			"id":229,
@@ -2068,8 +1839,7 @@
 			"length":10,
 			"jpn":"素材２３０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ae0a"
+			"zh":""
 		},
 		{
 			"id":230,
@@ -2077,8 +1847,7 @@
 			"length":10,
 			"jpn":"素材２３１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b90a"
+			"zh":""
 		},
 		{
 			"id":231,
@@ -2086,8 +1855,7 @@
 			"length":10,
 			"jpn":"素材２３２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c40a"
+			"zh":""
 		},
 		{
 			"id":232,
@@ -2095,8 +1863,7 @@
 			"length":10,
 			"jpn":"素材２３３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"cf0a"
+			"zh":""
 		},
 		{
 			"id":233,
@@ -2104,8 +1871,7 @@
 			"length":10,
 			"jpn":"素材２３４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"da0a"
+			"zh":""
 		},
 		{
 			"id":234,
@@ -2113,8 +1879,7 @@
 			"length":10,
 			"jpn":"素材２３５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e50a"
+			"zh":""
 		},
 		{
 			"id":235,
@@ -2122,8 +1887,7 @@
 			"length":10,
 			"jpn":"素材２３６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f00a"
+			"zh":""
 		},
 		{
 			"id":236,
@@ -2131,8 +1895,7 @@
 			"length":10,
 			"jpn":"素材２３７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fb0a"
+			"zh":""
 		},
 		{
 			"id":237,
@@ -2140,8 +1903,7 @@
 			"length":10,
 			"jpn":"素材２３８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"060b"
+			"zh":""
 		},
 		{
 			"id":238,
@@ -2149,8 +1911,7 @@
 			"length":10,
 			"jpn":"素材２３９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"110b"
+			"zh":""
 		},
 		{
 			"id":239,
@@ -2158,8 +1919,7 @@
 			"length":10,
 			"jpn":"素材２４０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1c0b"
+			"zh":""
 		},
 		{
 			"id":240,
@@ -2167,8 +1927,7 @@
 			"length":10,
 			"jpn":"素材２４１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"270b"
+			"zh":""
 		},
 		{
 			"id":241,
@@ -2176,8 +1935,7 @@
 			"length":10,
 			"jpn":"素材２４２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"320b"
+			"zh":""
 		},
 		{
 			"id":242,
@@ -2185,8 +1943,7 @@
 			"length":10,
 			"jpn":"素材２４３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3d0b"
+			"zh":""
 		},
 		{
 			"id":243,
@@ -2194,8 +1951,7 @@
 			"length":10,
 			"jpn":"素材２４４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"480b"
+			"zh":""
 		},
 		{
 			"id":244,
@@ -2203,8 +1959,7 @@
 			"length":10,
 			"jpn":"素材２４５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"530b"
+			"zh":""
 		},
 		{
 			"id":245,
@@ -2212,8 +1967,7 @@
 			"length":10,
 			"jpn":"素材２４６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5e0b"
+			"zh":""
 		},
 		{
 			"id":246,
@@ -2221,8 +1975,7 @@
 			"length":10,
 			"jpn":"素材２４７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"690b"
+			"zh":""
 		},
 		{
 			"id":247,
@@ -2230,8 +1983,7 @@
 			"length":12,
 			"jpn":"苔生した鉱石",
 			"eng":"Mossy Ore",
-			"zh":"",
-			"exten":"760b"
+			"zh":""
 		},
 		{
 			"id":248,
@@ -2239,8 +1991,7 @@
 			"length":10,
 			"jpn":"欠けた泥岩",
 			"eng":"Cracked Mudstone",
-			"zh":"",
-			"exten":"810b"
+			"zh":""
 		},
 		{
 			"id":249,
@@ -2248,8 +1999,7 @@
 			"length":12,
 			"jpn":"くすんだ輝石",
 			"eng":"Cloudy Augite",
-			"zh":"",
-			"exten":"8e0b"
+			"zh":""
 		},
 		{
 			"id":250,
@@ -2257,8 +2007,7 @@
 			"length":10,
 			"jpn":"ドロマイト",
 			"eng":"Dolomite",
-			"zh":"",
-			"exten":"990b"
+			"zh":""
 		},
 		{
 			"id":251,
@@ -2266,8 +2015,7 @@
 			"length":12,
 			"jpn":"カミソリ岩石",
 			"eng":"Razor Stone",
-			"zh":"",
-			"exten":"a60b"
+			"zh":""
 		},
 		{
 			"id":252,
@@ -2275,8 +2023,7 @@
 			"length":14,
 			"jpn":"ロザフェルゼン",
 			"eng":"Rose Quartz",
-			"zh":"",
-			"exten":"b50b"
+			"zh":""
 		},
 		{
 			"id":253,
@@ -2284,8 +2031,7 @@
 			"length":12,
 			"jpn":"朽ちた金属板",
 			"eng":"Rusted Metal",
-			"zh":"",
-			"exten":"c20b"
+			"zh":""
 		},
 		{
 			"id":254,
@@ -2293,8 +2039,7 @@
 			"length":14,
 			"jpn":"オブシディアン",
 			"eng":"Obsidian",
-			"zh":"",
-			"exten":"d10b"
+			"zh":""
 		},
 		{
 			"id":255,
@@ -2302,8 +2047,7 @@
 			"length":14,
 			"jpn":"パイロライター",
 			"eng":"Flint",
-			"zh":"",
-			"exten":"e00b"
+			"zh":""
 		},
 		{
 			"id":256,
@@ -2311,8 +2055,7 @@
 			"length":10,
 			"jpn":"セレナイト",
 			"eng":"Selenite",
-			"zh":"",
-			"exten":"eb0b"
+			"zh":""
 		},
 		{
 			"id":257,
@@ -2320,8 +2063,7 @@
 			"length":4,
 			"jpn":"蒼鉛",
 			"eng":"Bismuth",
-			"zh":"",
-			"exten":"f00b"
+			"zh":""
 		},
 		{
 			"id":258,
@@ -2329,8 +2071,7 @@
 			"length":8,
 			"jpn":"アゲート",
 			"eng":"Agate",
-			"zh":"",
-			"exten":"f90b"
+			"zh":""
 		},
 		{
 			"id":259,
@@ -2338,8 +2079,7 @@
 			"length":10,
 			"jpn":"グラナイト",
 			"eng":"Granite",
-			"zh":"",
-			"exten":"040c"
+			"zh":""
 		},
 		{
 			"id":260,
@@ -2347,8 +2087,7 @@
 			"length":4,
 			"jpn":"蛍板",
 			"eng":"Fluorescent Ore",
-			"zh":"",
-			"exten":"090c"
+			"zh":""
 		},
 		{
 			"id":261,
@@ -2356,8 +2095,7 @@
 			"length":6,
 			"jpn":"金紅石",
 			"eng":"Rutile",
-			"zh":"",
-			"exten":"100c"
+			"zh":""
 		},
 		{
 			"id":262,
@@ -2365,8 +2103,7 @@
 			"length":6,
 			"jpn":"隕星石",
 			"eng":"Meteorite",
-			"zh":"",
-			"exten":"170c"
+			"zh":""
 		},
 		{
 			"id":263,
@@ -2374,8 +2111,7 @@
 			"length":14,
 			"jpn":"格子模様の黒板",
 			"eng":"Checkered Board",
-			"zh":"",
-			"exten":"260c"
+			"zh":""
 		},
 		{
 			"id":264,
@@ -2383,8 +2119,7 @@
 			"length":8,
 			"jpn":"青碧の露",
 			"eng":"Azure Dew",
-			"zh":"",
-			"exten":"2f0c"
+			"zh":""
 		},
 		{
 			"id":265,
@@ -2392,8 +2127,7 @@
 			"length":10,
 			"jpn":"褐色の塊茎",
 			"eng":"Brown Tuber",
-			"zh":"",
-			"exten":"3a0c"
+			"zh":""
 		},
 		{
 			"id":266,
@@ -2401,8 +2135,7 @@
 			"length":10,
 			"jpn":"熟した蓮実",
 			"eng":"Lotus Fruit",
-			"zh":"",
-			"exten":"450c"
+			"zh":""
 		},
 		{
 			"id":267,
@@ -2410,8 +2143,7 @@
 			"length":10,
 			"jpn":"ザゼンソウ",
 			"eng":"Skunk Cabbage",
-			"zh":"",
-			"exten":"500c"
+			"zh":""
 		},
 		{
 			"id":268,
@@ -2419,8 +2151,7 @@
 			"length":6,
 			"jpn":"虫コブ",
 			"eng":"Cecidium",
-			"zh":"",
-			"exten":"570c"
+			"zh":""
 		},
 		{
 			"id":269,
@@ -2428,8 +2159,7 @@
 			"length":10,
 			"jpn":"アロマゴケ",
 			"eng":"Aromatic Moss",
-			"zh":"",
-			"exten":"620c"
+			"zh":""
 		},
 		{
 			"id":270,
@@ -2437,8 +2167,7 @@
 			"length":8,
 			"jpn":"虹色果実",
 			"eng":"Rainbow Fruit",
-			"zh":"",
-			"exten":"6b0c"
+			"zh":""
 		},
 		{
 			"id":271,
@@ -2446,8 +2175,7 @@
 			"length":10,
 			"jpn":"クチクソウ",
 			"eng":"Bane Weed",
-			"zh":"",
-			"exten":"760c"
+			"zh":""
 		},
 		{
 			"id":272,
@@ -2455,8 +2183,7 @@
 			"length":10,
 			"jpn":"ゾンビダケ",
 			"eng":"Zombie Shroom",
-			"zh":"",
-			"exten":"810c"
+			"zh":""
 		},
 		{
 			"id":273,
@@ -2464,8 +2191,7 @@
 			"length":4,
 			"jpn":"霧花",
 			"eng":"Mist Blossom",
-			"zh":"",
-			"exten":"860c"
+			"zh":""
 		},
 		{
 			"id":274,
@@ -2473,8 +2199,7 @@
 			"length":10,
 			"jpn":"ネバリゴケ",
 			"eng":"Ooze Mushroom",
-			"zh":"",
-			"exten":"910c"
+			"zh":""
 		},
 		{
 			"id":275,
@@ -2482,8 +2207,7 @@
 			"length":6,
 			"jpn":"珪酸華",
 			"eng":"Igneous Herb",
-			"zh":"",
-			"exten":"980c"
+			"zh":""
 		},
 		{
 			"id":276,
@@ -2491,8 +2215,7 @@
 			"length":6,
 			"jpn":"魔晶花",
 			"eng":"Crystal Flower",
-			"zh":"",
-			"exten":"9f0c"
+			"zh":""
 		},
 		{
 			"id":277,
@@ -2500,8 +2223,7 @@
 			"length":8,
 			"jpn":"肉厚な茎",
 			"eng":"Thick Stalk",
-			"zh":"",
-			"exten":"a80c"
+			"zh":""
 		},
 		{
 			"id":278,
@@ -2509,8 +2231,7 @@
 			"length":10,
 			"jpn":"コエンドロ",
 			"eng":"Coriander",
-			"zh":"",
-			"exten":"b30c"
+			"zh":""
 		},
 		{
 			"id":279,
@@ -2518,8 +2239,7 @@
 			"length":10,
 			"jpn":"トケイバナ",
 			"eng":"Clock Flower",
-			"zh":"",
-			"exten":"be0c"
+			"zh":""
 		},
 		{
 			"id":280,
@@ -2527,8 +2247,7 @@
 			"length":12,
 			"jpn":"アンブロシア",
 			"eng":"Ambrosia",
-			"zh":"",
-			"exten":"cb0c"
+			"zh":""
 		},
 		{
 			"id":281,
@@ -2536,8 +2255,7 @@
 			"length":4,
 			"jpn":"渦花",
 			"eng":"Vortex Flower",
-			"zh":"",
-			"exten":"d00c"
+			"zh":""
 		},
 		{
 			"id":282,
@@ -2545,8 +2263,7 @@
 			"length":10,
 			"jpn":"流星の果実",
 			"eng":"Starfall Fruit",
-			"zh":"",
-			"exten":"db0c"
+			"zh":""
 		},
 		{
 			"id":283,
@@ -2554,8 +2271,7 @@
 			"length":14,
 			"jpn":"纏わり付くツタ",
 			"eng":"Spiraling Vine",
-			"zh":"",
-			"exten":"ea0c"
+			"zh":""
 		},
 		{
 			"id":284,
@@ -2563,8 +2279,7 @@
 			"length":10,
 			"jpn":"蔦痕の樹皮",
 			"eng":"Ivied Bark",
-			"zh":"",
-			"exten":"f50c"
+			"zh":""
 		},
 		{
 			"id":285,
@@ -2572,8 +2287,7 @@
 			"length":12,
 			"jpn":"曲がった老木",
 			"eng":"Crooked Tree",
-			"zh":"",
-			"exten":"020d"
+			"zh":""
 		},
 		{
 			"id":286,
@@ -2581,8 +2295,7 @@
 			"length":12,
 			"jpn":"細い丈夫な枝",
 			"eng":"Sturdy Branch",
-			"zh":"",
-			"exten":"0f0d"
+			"zh":""
 		},
 		{
 			"id":287,
@@ -2590,8 +2303,7 @@
 			"length":14,
 			"jpn":"ドロドロの樹脂",
 			"eng":"Thick Sap",
-			"zh":"",
-			"exten":"1e0d"
+			"zh":""
 		},
 		{
 			"id":288,
@@ -2599,8 +2311,7 @@
 			"length":10,
 			"jpn":"うねった根",
 			"eng":"Writhing Root",
-			"zh":"",
-			"exten":"290d"
+			"zh":""
 		},
 		{
 			"id":289,
@@ -2608,8 +2319,7 @@
 			"length":10,
 			"jpn":"ドクロ木材",
 			"eng":"Skull Wood",
-			"zh":"",
-			"exten":"340d"
+			"zh":""
 		},
 		{
 			"id":290,
@@ -2617,8 +2327,7 @@
 			"length":12,
 			"jpn":"這い寄るツタ",
 			"eng":"Parasitic Vine",
-			"zh":"",
-			"exten":"410d"
+			"zh":""
 		},
 		{
 			"id":291,
@@ -2626,8 +2335,7 @@
 			"length":10,
 			"jpn":"上質な若木",
 			"eng":"Fine Sapling",
-			"zh":"",
-			"exten":"4c0d"
+			"zh":""
 		},
 		{
 			"id":292,
@@ -2635,8 +2343,7 @@
 			"length":8,
 			"jpn":"輝く木肌",
 			"eng":"Shining Bark",
-			"zh":"",
-			"exten":"550d"
+			"zh":""
 		},
 		{
 			"id":293,
@@ -2644,8 +2351,7 @@
 			"length":12,
 			"jpn":"クオーツの筍",
 			"eng":"Quartz Shoot",
-			"zh":"",
-			"exten":"620d"
+			"zh":""
 		},
 		{
 			"id":294,
@@ -2653,8 +2359,7 @@
 			"length":6,
 			"jpn":"水晶木",
 			"eng":"Crystal Tree",
-			"zh":"",
-			"exten":"690d"
+			"zh":""
 		},
 		{
 			"id":295,
@@ -2662,8 +2367,7 @@
 			"length":10,
 			"jpn":"柔軟な樹皮",
 			"eng":"Pliable Bark",
-			"zh":"",
-			"exten":"740d"
+			"zh":""
 		},
 		{
 			"id":296,
@@ -2671,8 +2375,7 @@
 			"length":8,
 			"jpn":"弛まぬ枝",
 			"eng":"Stiff Branch",
-			"zh":"",
-			"exten":"7d0d"
+			"zh":""
 		},
 		{
 			"id":297,
@@ -2680,8 +2383,7 @@
 			"length":10,
 			"jpn":"月白の木材",
 			"eng":"Lunar Wood",
-			"zh":"",
-			"exten":"880d"
+			"zh":""
 		},
 		{
 			"id":298,
@@ -2689,8 +2391,7 @@
 			"length":8,
 			"jpn":"笠花の枝",
 			"eng":"Flowering Branch",
-			"zh":"",
-			"exten":"910d"
+			"zh":""
 		},
 		{
 			"id":299,
@@ -2698,8 +2399,7 @@
 			"length":6,
 			"jpn":"三脚杉",
 			"eng":"Tripod Cedar",
-			"zh":"",
-			"exten":"980d"
+			"zh":""
 		},
 		{
 			"id":300,
@@ -2707,8 +2407,7 @@
 			"length":10,
 			"jpn":"逆しまの木",
 			"eng":"Reverse Tree",
-			"zh":"",
-			"exten":"a30d"
+			"zh":""
 		},
 		{
 			"id":301,
@@ -2716,8 +2415,7 @@
 			"length":14,
 			"jpn":"ペトラフリッサ",
 			"eng":"Petra Flyssa",
-			"zh":"",
-			"exten":"b20d"
+			"zh":""
 		},
 		{
 			"id":302,
@@ -2725,8 +2423,7 @@
 			"length":16,
 			"jpn":"ポイズンナックル",
 			"eng":"Toxic Knuckle",
-			"zh":"",
-			"exten":"c30d"
+			"zh":""
 		},
 		{
 			"id":303,
@@ -2734,8 +2431,7 @@
 			"length":8,
 			"jpn":"封頭の杖",
 			"eng":"Crownlock Staff",
-			"zh":"",
-			"exten":"cc0d"
+			"zh":""
 		},
 		{
 			"id":304,
@@ -2743,8 +2439,7 @@
 			"length":6,
 			"jpn":"小手切",
 			"eng":"Kotegiri",
-			"zh":"",
-			"exten":"d30d"
+			"zh":""
 		},
 		{
 			"id":305,
@@ -2752,8 +2447,7 @@
 			"length":8,
 			"jpn":"睡魔の弓",
 			"eng":"Slumber Bow",
-			"zh":"",
-			"exten":"dc0d"
+			"zh":""
 		},
 		{
 			"id":306,
@@ -2761,8 +2455,7 @@
 			"length":14,
 			"jpn":"パニックサイズ",
 			"eng":"Panic Scythe",
-			"zh":"",
-			"exten":"eb0d"
+			"zh":""
 		},
 		{
 			"id":307,
@@ -2770,8 +2463,7 @@
 			"length":14,
 			"jpn":"ペッパーカノン",
 			"eng":"Pepper Cannon",
-			"zh":"",
-			"exten":"fa0d"
+			"zh":""
 		},
 		{
 			"id":308,
@@ -2779,8 +2471,7 @@
 			"length":10,
 			"jpn":"呪われし棺",
 			"eng":"Cursed Coffin",
-			"zh":"",
-			"exten":"050e"
+			"zh":""
 		},
 		{
 			"id":309,
@@ -2788,8 +2479,7 @@
 			"length":12,
 			"jpn":"スタンナイフ",
 			"eng":"Stun Knife",
-			"zh":"",
-			"exten":"120e"
+			"zh":""
 		},
 		{
 			"id":310,
@@ -2797,8 +2487,7 @@
 			"length":10,
 			"jpn":"慈悲の短刀",
 			"eng":"Mercy Blade",
-			"zh":"",
-			"exten":"1d0e"
+			"zh":""
 		},
 		{
 			"id":311,
@@ -2806,8 +2495,7 @@
 			"length":10,
 			"jpn":"脚斬りの鎌",
 			"eng":"Legtaker’s Scythe",
-			"zh":"",
-			"exten":"280e"
+			"zh":""
 		},
 		{
 			"id":312,
@@ -2815,8 +2503,7 @@
 			"length":16,
 			"jpn":"パラライモルター",
 			"eng":"Paralysis Mortar",
-			"zh":"",
-			"exten":"390e"
+			"zh":""
 		},
 		{
 			"id":313,
@@ -2824,8 +2511,7 @@
 			"length":10,
 			"jpn":"治療ナイフ",
 			"eng":"Healing Knife",
-			"zh":"",
-			"exten":"440e"
+			"zh":""
 		},
 		{
 			"id":314,
@@ -2833,8 +2519,7 @@
 			"length":14,
 			"jpn":"アサルトワディ",
 			"eng":"Assault Wand",
-			"zh":"",
-			"exten":"530e"
+			"zh":""
 		},
 		{
 			"id":315,
@@ -2842,8 +2527,7 @@
 			"length":14,
 			"jpn":"シールブレイク",
 			"eng":"Seal Breaker",
-			"zh":"",
-			"exten":"620e"
+			"zh":""
 		},
 		{
 			"id":316,
@@ -2851,8 +2535,7 @@
 			"length":14,
 			"jpn":"ゴルゴンアロー",
 			"eng":"Gorgon Arrow",
-			"zh":"",
-			"exten":"710e"
+			"zh":""
 		},
 		{
 			"id":317,
@@ -2860,8 +2543,7 @@
 			"length":10,
 			"jpn":"奇跡の指輪",
 			"eng":"Miraculous Ring",
-			"zh":"",
-			"exten":"7c0e"
+			"zh":""
 		},
 		{
 			"id":318,
@@ -2869,8 +2551,7 @@
 			"length":16,
 			"jpn":"閃光のペンダント",
 			"eng":"Glint Pendant",
-			"zh":"",
-			"exten":"8d0e"
+			"zh":""
 		},
 		{
 			"id":319,
@@ -2878,8 +2559,7 @@
 			"length":8,
 			"jpn":"鍛錬の珠",
 			"eng":"Training Orb",
-			"zh":"",
-			"exten":"960e"
+			"zh":""
 		},
 		{
 			"id":320,
@@ -2887,8 +2567,7 @@
 			"length":12,
 			"jpn":"見晴らし水晶",
 			"eng":"Allsight Crystal",
-			"zh":"",
-			"exten":"a30e"
+			"zh":""
 		},
 		{
 			"id":321,
@@ -2896,8 +2575,7 @@
 			"length":10,
 			"jpn":"追憶の音貝",
 			"eng":"Memory Conch",
-			"zh":"",
-			"exten":"ae0e"
+			"zh":""
 		},
 		{
 			"id":322,
@@ -2905,8 +2583,7 @@
 			"length":14,
 			"jpn":"シールグリーブ",
 			"eng":"Seal Greaves",
-			"zh":"",
-			"exten":"bd0e"
+			"zh":""
 		},
 		{
 			"id":323,
@@ -2914,8 +2591,7 @@
 			"length":10,
 			"jpn":"深闇の大鎌",
 			"eng":"Darkness Scythe",
-			"zh":"",
-			"exten":"c80e"
+			"zh":""
 		},
 		{
 			"id":324,
@@ -2923,8 +2599,7 @@
 			"length":12,
 			"jpn":"魔光の首飾り",
 			"eng":"Mana Necklace",
-			"zh":"",
-			"exten":"d50e"
+			"zh":""
 		},
 		{
 			"id":325,
@@ -2932,8 +2607,7 @@
 			"length":18,
 			"jpn":"アルカディアの王冠",
 			"eng":"Crown of Arcania",
-			"zh":"",
-			"exten":"e80e"
+			"zh":""
 		},
 		{
 			"id":326,
@@ -2941,8 +2615,7 @@
 			"length":18,
 			"jpn":"アルカディアの佩玉",
 			"eng":"Arcania’s Orb",
-			"zh":"",
-			"exten":"fb0e"
+			"zh":""
 		},
 		{
 			"id":327,
@@ -2950,8 +2623,7 @@
 			"length":12,
 			"jpn":"世界樹の指輪",
 			"eng":"Yggdrasil Ring",
-			"zh":"",
-			"exten":"080f"
+			"zh":""
 		},
 		{
 			"id":328,
@@ -2959,8 +2631,7 @@
 			"length":12,
 			"jpn":"冒険の手引き",
 			"eng":"Adventure Guide",
-			"zh":"",
-			"exten":"150f"
+			"zh":""
 		},
 		{
 			"id":329,
@@ -2968,8 +2639,7 @@
 			"length":14,
 			"jpn":"グロースバッジ",
 			"eng":"Growth Badge",
-			"zh":"",
-			"exten":"240f"
+			"zh":""
 		},
 		{
 			"id":330,
@@ -2977,8 +2647,7 @@
 			"length":14,
 			"jpn":"ドロップカメオ",
 			"eng":"Drop Brooch",
-			"zh":"",
-			"exten":"330f"
+			"zh":""
 		},
 		{
 			"id":331,
@@ -2986,8 +2655,7 @@
 			"length":16,
 			"jpn":"駆け出しの金属鎧",
 			"eng":"Novice’s Armor",
-			"zh":"",
-			"exten":"440f"
+			"zh":""
 		},
 		{
 			"id":332,
@@ -2995,8 +2663,7 @@
 			"length":12,
 			"jpn":"初心者の皮鎧",
 			"eng":"Rookie’s Armor",
-			"zh":"",
-			"exten":"510f"
+			"zh":""
 		},
 		{
 			"id":333,
@@ -3004,8 +2671,7 @@
 			"length":16,
 			"jpn":"ビギナーのローブ",
 			"eng":"Beginner’s Robe",
-			"zh":"",
-			"exten":"620f"
+			"zh":""
 		},
 		{
 			"id":334,
@@ -3013,8 +2679,7 @@
 			"length":12,
 			"jpn":"見習いの帽子",
 			"eng":"Apprentice’s Hat",
-			"zh":"",
-			"exten":"6f0f"
+			"zh":""
 		},
 		{
 			"id":335,
@@ -3022,8 +2687,7 @@
 			"length":10,
 			"jpn":"初陣の小手",
 			"eng":"Start Gauntlet",
-			"zh":"",
-			"exten":"7a0f"
+			"zh":""
 		},
 		{
 			"id":336,
@@ -3031,8 +2695,7 @@
 			"length":10,
 			"jpn":"旅立ちの靴",
 			"eng":"Venture Boots",
-			"zh":"",
-			"exten":"850f"
+			"zh":""
 		},
 		{
 			"id":337,
@@ -3040,8 +2703,7 @@
 			"length":12,
 			"jpn":"ルーキーの盾",
 			"eng":"Rookie’s Shield",
-			"zh":"",
-			"exten":"920f"
+			"zh":""
 		},
 		{
 			"id":338,
@@ -3049,8 +2711,7 @@
 			"length":12,
 			"jpn":"ユニーク１８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9f0f"
+			"zh":""
 		},
 		{
 			"id":339,
@@ -3058,8 +2719,7 @@
 			"length":12,
 			"jpn":"ユニーク１９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ac0f"
+			"zh":""
 		},
 		{
 			"id":340,
@@ -3067,8 +2727,7 @@
 			"length":12,
 			"jpn":"ユニーク２０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b90f"
+			"zh":""
 		},
 		{
 			"id":341,
@@ -3076,8 +2735,7 @@
 			"length":12,
 			"jpn":"ユニーク２１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c60f"
+			"zh":""
 		},
 		{
 			"id":342,
@@ -3085,8 +2743,7 @@
 			"length":12,
 			"jpn":"ユニーク２２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d30f"
+			"zh":""
 		},
 		{
 			"id":343,
@@ -3094,8 +2751,7 @@
 			"length":12,
 			"jpn":"ユニーク２３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e00f"
+			"zh":""
 		},
 		{
 			"id":344,
@@ -3103,8 +2759,7 @@
 			"length":12,
 			"jpn":"ユニーク２４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ed0f"
+			"zh":""
 		},
 		{
 			"id":345,
@@ -3112,8 +2767,7 @@
 			"length":12,
 			"jpn":"ユニーク２５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fa0f"
+			"zh":""
 		},
 		{
 			"id":346,
@@ -3121,8 +2775,7 @@
 			"length":12,
 			"jpn":"ユニーク２６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0710"
+			"zh":""
 		},
 		{
 			"id":347,
@@ -3130,8 +2783,7 @@
 			"length":12,
 			"jpn":"ユニーク２７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1410"
+			"zh":""
 		},
 		{
 			"id":348,
@@ -3139,8 +2791,7 @@
 			"length":12,
 			"jpn":"ユニーク２８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2110"
+			"zh":""
 		},
 		{
 			"id":349,
@@ -3148,8 +2799,7 @@
 			"length":12,
 			"jpn":"ユニーク２９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2e10"
+			"zh":""
 		},
 		{
 			"id":350,
@@ -3157,8 +2807,7 @@
 			"length":12,
 			"jpn":"ユニーク３０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3b10"
+			"zh":""
 		},
 		{
 			"id":351,
@@ -3166,8 +2815,7 @@
 			"length":12,
 			"jpn":"ユニーク３１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4810"
+			"zh":""
 		},
 		{
 			"id":352,
@@ -3175,8 +2823,7 @@
 			"length":12,
 			"jpn":"ユニーク３２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5510"
+			"zh":""
 		},
 		{
 			"id":353,
@@ -3184,8 +2831,7 @@
 			"length":12,
 			"jpn":"ユニーク３３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6210"
+			"zh":""
 		},
 		{
 			"id":354,
@@ -3193,8 +2839,7 @@
 			"length":12,
 			"jpn":"ユニーク３４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6f10"
+			"zh":""
 		},
 		{
 			"id":355,
@@ -3202,8 +2847,7 @@
 			"length":12,
 			"jpn":"ユニーク３５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7c10"
+			"zh":""
 		},
 		{
 			"id":356,
@@ -3211,8 +2855,7 @@
 			"length":12,
 			"jpn":"ユニーク３６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8910"
+			"zh":""
 		},
 		{
 			"id":357,
@@ -3220,8 +2863,7 @@
 			"length":12,
 			"jpn":"ユニーク３７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9610"
+			"zh":""
 		},
 		{
 			"id":358,
@@ -3229,8 +2871,7 @@
 			"length":12,
 			"jpn":"ユニーク３８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a310"
+			"zh":""
 		},
 		{
 			"id":359,
@@ -3238,8 +2879,7 @@
 			"length":12,
 			"jpn":"ユニーク３９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b010"
+			"zh":""
 		},
 		{
 			"id":360,
@@ -3247,8 +2887,7 @@
 			"length":12,
 			"jpn":"ユニーク４０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"bd10"
+			"zh":""
 		},
 		{
 			"id":361,
@@ -3256,8 +2895,7 @@
 			"length":12,
 			"jpn":"ユニーク４１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ca10"
+			"zh":""
 		},
 		{
 			"id":362,
@@ -3265,8 +2903,7 @@
 			"length":12,
 			"jpn":"ユニーク４２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d710"
+			"zh":""
 		},
 		{
 			"id":363,
@@ -3274,8 +2911,7 @@
 			"length":12,
 			"jpn":"ユニーク４３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e410"
+			"zh":""
 		},
 		{
 			"id":364,
@@ -3283,8 +2919,7 @@
 			"length":12,
 			"jpn":"ユニーク４４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f110"
+			"zh":""
 		},
 		{
 			"id":365,
@@ -3292,8 +2927,7 @@
 			"length":12,
 			"jpn":"ユニーク４５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fe10"
+			"zh":""
 		},
 		{
 			"id":366,
@@ -3301,8 +2935,7 @@
 			"length":12,
 			"jpn":"ユニーク４６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0b11"
+			"zh":""
 		},
 		{
 			"id":367,
@@ -3310,8 +2943,7 @@
 			"length":12,
 			"jpn":"ユニーク４７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1811"
+			"zh":""
 		},
 		{
 			"id":368,
@@ -3319,8 +2951,7 @@
 			"length":12,
 			"jpn":"ユニーク４８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2511"
+			"zh":""
 		},
 		{
 			"id":369,
@@ -3328,8 +2959,7 @@
 			"length":12,
 			"jpn":"ユニーク４９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3211"
+			"zh":""
 		},
 		{
 			"id":370,
@@ -3337,8 +2967,7 @@
 			"length":12,
 			"jpn":"ユニーク５０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3f11"
+			"zh":""
 		},
 		{
 			"id":371,
@@ -3346,8 +2975,7 @@
 			"length":12,
 			"jpn":"ユニーク５１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4c11"
+			"zh":""
 		},
 		{
 			"id":372,
@@ -3355,8 +2983,7 @@
 			"length":12,
 			"jpn":"ユニーク５２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5911"
+			"zh":""
 		},
 		{
 			"id":373,
@@ -3364,8 +2991,7 @@
 			"length":12,
 			"jpn":"ユニーク５３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6611"
+			"zh":""
 		},
 		{
 			"id":374,
@@ -3373,8 +2999,7 @@
 			"length":12,
 			"jpn":"ユニーク５４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7311"
+			"zh":""
 		},
 		{
 			"id":375,
@@ -3382,8 +3007,7 @@
 			"length":12,
 			"jpn":"ユニーク５５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8011"
+			"zh":""
 		},
 		{
 			"id":376,
@@ -3391,8 +3015,7 @@
 			"length":12,
 			"jpn":"ルナリア銀貨",
 			"eng":"Celestial Silver",
-			"zh":"",
-			"exten":"8d11"
+			"zh":""
 		},
 		{
 			"id":377,
@@ -3400,8 +3023,7 @@
 			"length":8,
 			"jpn":"山都銅貨",
 			"eng":"Mountain Copper",
-			"zh":"",
-			"exten":"9611"
+			"zh":""
 		},
 		{
 			"id":378,
@@ -3409,8 +3031,7 @@
 			"length":16,
 			"jpn":"ゼファーリア銀貨",
 			"eng":"Zepheria Coin",
-			"zh":"",
-			"exten":"a711"
+			"zh":""
 		},
 		{
 			"id":379,
@@ -3418,8 +3039,7 @@
 			"length":12,
 			"jpn":"ユニーク５９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b411"
+			"zh":""
 		},
 		{
 			"id":380,
@@ -3427,8 +3047,7 @@
 			"length":6,
 			"jpn":"竜水晶",
 			"eng":"Dragon Crystal",
-			"zh":"",
-			"exten":"bb11"
+			"zh":""
 		},
 		{
 			"id":381,
@@ -3436,8 +3055,7 @@
 			"length":16,
 			"jpn":"ペツォッタ大鉱石",
 			"eng":"Raspberyl Gem",
-			"zh":"",
-			"exten":"cc11"
+			"zh":""
 		},
 		{
 			"id":382,
@@ -3445,8 +3063,7 @@
 			"length":12,
 			"jpn":"竜水晶の欠片",
 			"eng":"Draconic Shard",
-			"zh":"",
-			"exten":"d911"
+			"zh":""
 		},
 		{
 			"id":383,
@@ -3454,8 +3071,7 @@
 			"length":12,
 			"jpn":"世界樹の秘宝",
 			"eng":"Yggdrasil Mythril",
-			"zh":"",
-			"exten":"e611"
+			"zh":""
 		},
 		{
 			"id":384,
@@ -3463,8 +3079,7 @@
 			"length":12,
 			"jpn":"ユニーク６４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f311"
+			"zh":""
 		},
 		{
 			"id":385,
@@ -3472,8 +3087,7 @@
 			"length":12,
 			"jpn":"ユニーク６５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0012"
+			"zh":""
 		},
 		{
 			"id":386,
@@ -3481,8 +3095,7 @@
 			"length":12,
 			"jpn":"ユニーク６６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0d12"
+			"zh":""
 		},
 		{
 			"id":387,
@@ -3490,8 +3103,7 @@
 			"length":12,
 			"jpn":"ユニーク６７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1a12"
+			"zh":""
 		},
 		{
 			"id":388,
@@ -3499,8 +3111,7 @@
 			"length":12,
 			"jpn":"ユニーク６８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2712"
+			"zh":""
 		},
 		{
 			"id":389,
@@ -3508,8 +3119,7 @@
 			"length":12,
 			"jpn":"ユニーク６９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3412"
+			"zh":""
 		},
 		{
 			"id":390,
@@ -3517,8 +3127,7 @@
 			"length":12,
 			"jpn":"ユニーク７０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4112"
+			"zh":""
 		},
 		{
 			"id":391,
@@ -3526,8 +3135,7 @@
 			"length":12,
 			"jpn":"ユニーク７１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4e12"
+			"zh":""
 		},
 		{
 			"id":392,
@@ -3535,8 +3143,7 @@
 			"length":12,
 			"jpn":"ユニーク７２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5b12"
+			"zh":""
 		},
 		{
 			"id":393,
@@ -3544,8 +3151,7 @@
 			"length":12,
 			"jpn":"ユニーク７３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6812"
+			"zh":""
 		},
 		{
 			"id":394,
@@ -3553,8 +3159,7 @@
 			"length":12,
 			"jpn":"ユニーク７４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7512"
+			"zh":""
 		},
 		{
 			"id":395,
@@ -3562,8 +3167,7 @@
 			"length":12,
 			"jpn":"ユニーク７５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8212"
+			"zh":""
 		},
 		{
 			"id":396,
@@ -3571,8 +3175,7 @@
 			"length":12,
 			"jpn":"ユニーク７６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8f12"
+			"zh":""
 		},
 		{
 			"id":397,
@@ -3580,8 +3183,7 @@
 			"length":12,
 			"jpn":"ユニーク７７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9c12"
+			"zh":""
 		},
 		{
 			"id":398,
@@ -3589,8 +3191,7 @@
 			"length":12,
 			"jpn":"ユニーク７８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a912"
+			"zh":""
 		},
 		{
 			"id":399,
@@ -3598,8 +3199,7 @@
 			"length":12,
 			"jpn":"ユニーク７９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b612"
+			"zh":""
 		},
 		{
 			"id":400,
@@ -3607,8 +3207,7 @@
 			"length":12,
 			"jpn":"ユニーク８０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c312"
+			"zh":""
 		},
 		{
 			"id":401,
@@ -3616,8 +3215,7 @@
 			"length":8,
 			"jpn":"メディカ",
 			"eng":"Medica",
-			"zh":"",
-			"exten":"cc12"
+			"zh":""
 		},
 		{
 			"id":402,
@@ -3625,8 +3223,7 @@
 			"length":10,
 			"jpn":"メディカⅡ",
 			"eng":"Medica II",
-			"zh":"",
-			"exten":"d712"
+			"zh":""
 		},
 		{
 			"id":403,
@@ -3634,8 +3231,7 @@
 			"length":10,
 			"jpn":"メディカⅢ",
 			"eng":"Medica III",
-			"zh":"",
-			"exten":"e212"
+			"zh":""
 		},
 		{
 			"id":404,
@@ -3643,8 +3239,7 @@
 			"length":10,
 			"jpn":"メディカⅣ",
 			"eng":"Medica IV",
-			"zh":"",
-			"exten":"ed12"
+			"zh":""
 		},
 		{
 			"id":405,
@@ -3652,8 +3247,7 @@
 			"length":8,
 			"jpn":"アムリタ",
 			"eng":"Amrita",
-			"zh":"",
-			"exten":"f612"
+			"zh":""
 		},
 		{
 			"id":406,
@@ -3661,8 +3255,7 @@
 			"length":10,
 			"jpn":"アムリタⅡ",
 			"eng":"Amrita II",
-			"zh":"",
-			"exten":"0113"
+			"zh":""
 		},
 		{
 			"id":407,
@@ -3670,8 +3263,7 @@
 			"length":6,
 			"jpn":"ハマオ",
 			"eng":"Hamao",
-			"zh":"",
-			"exten":"0813"
+			"zh":""
 		},
 		{
 			"id":408,
@@ -3679,8 +3271,7 @@
 			"length":14,
 			"jpn":"ハマオプライム",
 			"eng":"Hamao Prime",
-			"zh":"",
-			"exten":"1713"
+			"zh":""
 		},
 		{
 			"id":409,
@@ -3688,8 +3279,7 @@
 			"length":6,
 			"jpn":"ソーマ",
 			"eng":"Soma",
-			"zh":"",
-			"exten":"1e13"
+			"zh":""
 		},
 		{
 			"id":410,
@@ -3697,8 +3287,7 @@
 			"length":14,
 			"jpn":"ソーマプライム",
 			"eng":"Soma Prime",
-			"zh":"",
-			"exten":"2d13"
+			"zh":""
 		},
 		{
 			"id":411,
@@ -3706,8 +3295,7 @@
 			"length":8,
 			"jpn":"ネクタル",
 			"eng":"Nectar",
-			"zh":"",
-			"exten":"3613"
+			"zh":""
 		},
 		{
 			"id":412,
@@ -3715,8 +3303,7 @@
 			"length":10,
 			"jpn":"ネクタルⅡ",
 			"eng":"Nectar II",
-			"zh":"",
-			"exten":"4113"
+			"zh":""
 		},
 		{
 			"id":413,
@@ -3724,8 +3311,7 @@
 			"length":10,
 			"jpn":"テリアカα",
 			"eng":"Therica A",
-			"zh":"",
-			"exten":"4c13"
+			"zh":""
 		},
 		{
 			"id":414,
@@ -3733,8 +3319,7 @@
 			"length":10,
 			"jpn":"テリアカβ",
 			"eng":"Therica B",
-			"zh":"",
-			"exten":"5713"
+			"zh":""
 		},
 		{
 			"id":415,
@@ -3742,8 +3327,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5e13"
+			"zh":""
 		},
 		{
 			"id":416,
@@ -3751,8 +3335,7 @@
 			"length":10,
 			"jpn":"耐熱ミスト",
 			"eng":"Fire Mist",
-			"zh":"",
-			"exten":"6913"
+			"zh":""
 		},
 		{
 			"id":417,
@@ -3760,8 +3343,7 @@
 			"length":10,
 			"jpn":"耐氷ミスト",
 			"eng":"Ice Mist",
-			"zh":"",
-			"exten":"7413"
+			"zh":""
 		},
 		{
 			"id":418,
@@ -3769,8 +3351,7 @@
 			"length":10,
 			"jpn":"耐雷ミスト",
 			"eng":"Volt Mist",
-			"zh":"",
-			"exten":"7f13"
+			"zh":""
 		},
 		{
 			"id":419,
@@ -3778,8 +3359,7 @@
 			"length":10,
 			"jpn":"絶耐ミスト",
 			"eng":"All Mist",
-			"zh":"",
-			"exten":"8a13"
+			"zh":""
 		},
 		{
 			"id":420,
@@ -3787,8 +3367,7 @@
 			"length":12,
 			"jpn":"ブレイバント",
 			"eng":"Bravant",
-			"zh":"",
-			"exten":"9713"
+			"zh":""
 		},
 		{
 			"id":421,
@@ -3796,8 +3375,7 @@
 			"length":10,
 			"jpn":"ストナード",
 			"eng":"Stonard",
-			"zh":"",
-			"exten":"a213"
+			"zh":""
 		},
 		{
 			"id":422,
@@ -3805,8 +3383,7 @@
 			"length":14,
 			"jpn":"ファイアオイル",
 			"eng":"Blaze Oil",
-			"zh":"",
-			"exten":"b113"
+			"zh":""
 		},
 		{
 			"id":423,
@@ -3814,8 +3391,7 @@
 			"length":14,
 			"jpn":"フリーズオイル",
 			"eng":"Freeze Oil",
-			"zh":"",
-			"exten":"c013"
+			"zh":""
 		},
 		{
 			"id":424,
@@ -3823,8 +3399,7 @@
 			"length":14,
 			"jpn":"ショックオイル",
 			"eng":"Shock Oil",
-			"zh":"",
-			"exten":"cf13"
+			"zh":""
 		},
 		{
 			"id":425,
@@ -3832,8 +3407,7 @@
 			"length":10,
 			"jpn":"ラウダナム",
 			"eng":"Laudanum",
-			"zh":"",
-			"exten":"da13"
+			"zh":""
 		},
 		{
 			"id":426,
@@ -3841,8 +3415,7 @@
 			"length":10,
 			"jpn":"ウニコウル",
 			"eng":"Unihorn",
-			"zh":"",
-			"exten":"e513"
+			"zh":""
 		},
 		{
 			"id":427,
@@ -3850,8 +3423,7 @@
 			"length":12,
 			"jpn":"聖なる贈り物",
 			"eng":"Heavenly Gift",
-			"zh":"",
-			"exten":"f213"
+			"zh":""
 		},
 		{
 			"id":428,
@@ -3859,8 +3431,7 @@
 			"length":10,
 			"jpn":"解析グラス",
 			"eng":"Analysis Scope",
-			"zh":"",
-			"exten":"fd13"
+			"zh":""
 		},
 		{
 			"id":429,
@@ -3868,8 +3439,7 @@
 			"length":10,
 			"jpn":"獣避けの鈴",
 			"eng":"Ward Chime",
-			"zh":"",
-			"exten":"0814"
+			"zh":""
 		},
 		{
 			"id":430,
@@ -3877,8 +3447,7 @@
 			"length":10,
 			"jpn":"獣寄せの鈴",
 			"eng":"Beast Bell",
-			"zh":"",
-			"exten":"1314"
+			"zh":""
 		},
 		{
 			"id":431,
@@ -3886,8 +3455,7 @@
 			"length":14,
 			"jpn":"アリアドネの糸",
 			"eng":"Ariadne Thread",
-			"zh":"",
-			"exten":"2214"
+			"zh":""
 		},
 		{
 			"id":432,
@@ -3895,8 +3463,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2914"
+			"zh":""
 		},
 		{
 			"id":433,
@@ -3904,8 +3471,7 @@
 			"length":10,
 			"jpn":"斥候の長靴",
 			"eng":"Guard Sole",
-			"zh":"",
-			"exten":"3414"
+			"zh":""
 		},
 		{
 			"id":434,
@@ -3913,8 +3479,7 @@
 			"length":12,
 			"jpn":"解剖用水溶液",
 			"eng":"Formaldehyde",
-			"zh":"",
-			"exten":"4114"
+			"zh":""
 		},
 		{
 			"id":435,
@@ -3922,8 +3487,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4814"
+			"zh":""
 		},
 		{
 			"id":436,
@@ -3931,8 +3495,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4f14"
+			"zh":""
 		},
 		{
 			"id":437,
@@ -3940,8 +3503,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5614"
+			"zh":""
 		},
 		{
 			"id":438,
@@ -3949,8 +3511,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5d14"
+			"zh":""
 		},
 		{
 			"id":439,
@@ -3958,8 +3519,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6414"
+			"zh":""
 		},
 		{
 			"id":440,
@@ -3967,8 +3527,7 @@
 			"length":12,
 			"jpn":"火術の起動符",
 			"eng":"Fire Jar",
-			"zh":"",
-			"exten":"7114"
+			"zh":""
 		},
 		{
 			"id":441,
@@ -3976,8 +3535,7 @@
 			"length":12,
 			"jpn":"氷術の起動符",
 			"eng":"Ice Jar",
-			"zh":"",
-			"exten":"7e14"
+			"zh":""
 		},
 		{
 			"id":442,
@@ -3985,8 +3543,7 @@
 			"length":12,
 			"jpn":"雷術の起動符",
 			"eng":"Volt Jar",
-			"zh":"",
-			"exten":"8b14"
+			"zh":""
 		},
 		{
 			"id":443,
@@ -3994,8 +3551,7 @@
 			"length":14,
 			"jpn":"火炎術の起動符",
 			"eng":"Flame Jar",
-			"zh":"",
-			"exten":"9a14"
+			"zh":""
 		},
 		{
 			"id":444,
@@ -4003,8 +3559,7 @@
 			"length":14,
 			"jpn":"氷結術の起動符",
 			"eng":"Frost Jar",
-			"zh":"",
-			"exten":"a914"
+			"zh":""
 		},
 		{
 			"id":445,
@@ -4012,8 +3567,7 @@
 			"length":14,
 			"jpn":"雷電術の起動符",
 			"eng":"Storm Jar",
-			"zh":"",
-			"exten":"b814"
+			"zh":""
 		},
 		{
 			"id":446,
@@ -4021,8 +3575,7 @@
 			"length":8,
 			"jpn":"盲目の香",
 			"eng":"Blind Gas",
-			"zh":"",
-			"exten":"c114"
+			"zh":""
 		},
 		{
 			"id":447,
@@ -4030,8 +3583,7 @@
 			"length":6,
 			"jpn":"毒の香",
 			"eng":"Poison Gas",
-			"zh":"",
-			"exten":"c814"
+			"zh":""
 		},
 		{
 			"id":448,
@@ -4039,8 +3591,7 @@
 			"length":8,
 			"jpn":"麻痺の香",
 			"eng":"Stun Gas",
-			"zh":"",
-			"exten":"d114"
+			"zh":""
 		},
 		{
 			"id":449,
@@ -4048,8 +3599,7 @@
 			"length":8,
 			"jpn":"混乱の香",
 			"eng":"Addle Gas",
-			"zh":"",
-			"exten":"da14"
+			"zh":""
 		},
 		{
 			"id":450,
@@ -4057,8 +3607,7 @@
 			"length":8,
 			"jpn":"呪いの香",
 			"eng":"Curse Gas",
-			"zh":"",
-			"exten":"e314"
+			"zh":""
 		},
 		{
 			"id":451,
@@ -4066,8 +3615,7 @@
 			"length":8,
 			"jpn":"睡眠の香",
 			"eng":"Sleep Gas",
-			"zh":"",
-			"exten":"ec14"
+			"zh":""
 		},
 		{
 			"id":452,
@@ -4075,8 +3623,7 @@
 			"length":10,
 			"jpn":"縺れ糸：頭",
 			"eng":"Head Binder",
-			"zh":"",
-			"exten":"f714"
+			"zh":""
 		},
 		{
 			"id":453,
@@ -4084,8 +3631,7 @@
 			"length":10,
 			"jpn":"縺れ糸：腕",
 			"eng":"Arm Binder",
-			"zh":"",
-			"exten":"0215"
+			"zh":""
 		},
 		{
 			"id":454,
@@ -4093,8 +3639,7 @@
 			"length":10,
 			"jpn":"縺れ糸：脚",
 			"eng":"Leg Binder",
-			"zh":"",
-			"exten":"0d15"
+			"zh":""
 		},
 		{
 			"id":455,
@@ -4102,8 +3647,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1415"
+			"zh":""
 		},
 		{
 			"id":456,
@@ -4111,8 +3655,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1b15"
+			"zh":""
 		},
 		{
 			"id":457,
@@ -4120,8 +3663,7 @@
 			"length":12,
 			"jpn":"斬術の起動符",
 			"eng":"Cut Jar",
-			"zh":"",
-			"exten":"2815"
+			"zh":""
 		},
 		{
 			"id":458,
@@ -4129,8 +3671,7 @@
 			"length":12,
 			"jpn":"壊術の起動符",
 			"eng":"Bash Jar",
-			"zh":"",
-			"exten":"3515"
+			"zh":""
 		},
 		{
 			"id":459,
@@ -4138,8 +3679,7 @@
 			"length":12,
 			"jpn":"突術の起動符",
 			"eng":"Stab Jar",
-			"zh":"",
-			"exten":"4215"
+			"zh":""
 		},
 		{
 			"id":460,
@@ -4147,8 +3687,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4915"
+			"zh":""
 		},
 		{
 			"id":461,
@@ -4156,8 +3695,7 @@
 			"length":8,
 			"jpn":"石化の香",
 			"eng":"Petrify Gas",
-			"zh":"",
-			"exten":"5215"
+			"zh":""
 		},
 		{
 			"id":462,
@@ -4165,8 +3703,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5915"
+			"zh":""
 		},
 		{
 			"id":463,
@@ -4174,8 +3711,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6015"
+			"zh":""
 		},
 		{
 			"id":464,
@@ -4183,8 +3719,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6715"
+			"zh":""
 		},
 		{
 			"id":465,
@@ -4192,8 +3727,7 @@
 			"length":10,
 			"jpn":"簡易遠眼鏡",
 			"eng":"Simple Scope",
-			"zh":"",
-			"exten":"7215"
+			"zh":""
 		},
 		{
 			"id":466,
@@ -4201,8 +3735,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7915"
+			"zh":""
 		},
 		{
 			"id":467,
@@ -4210,8 +3743,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8015"
+			"zh":""
 		},
 		{
 			"id":468,
@@ -4219,8 +3751,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8715"
+			"zh":""
 		},
 		{
 			"id":469,
@@ -4228,8 +3759,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"8e15"
+			"zh":""
 		},
 		{
 			"id":470,
@@ -4237,8 +3767,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9515"
+			"zh":""
 		},
 		{
 			"id":471,
@@ -4246,8 +3775,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9c15"
+			"zh":""
 		},
 		{
 			"id":472,
@@ -4255,8 +3783,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a315"
+			"zh":""
 		},
 		{
 			"id":473,
@@ -4264,8 +3791,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"aa15"
+			"zh":""
 		},
 		{
 			"id":474,
@@ -4273,8 +3799,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b115"
+			"zh":""
 		},
 		{
 			"id":475,
@@ -4282,8 +3807,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b815"
+			"zh":""
 		},
 		{
 			"id":476,
@@ -4291,8 +3815,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"bf15"
+			"zh":""
 		},
 		{
 			"id":477,
@@ -4300,8 +3823,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c615"
+			"zh":""
 		},
 		{
 			"id":478,
@@ -4309,8 +3831,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"cd15"
+			"zh":""
 		},
 		{
 			"id":479,
@@ -4318,8 +3839,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d415"
+			"zh":""
 		},
 		{
 			"id":480,
@@ -4327,8 +3847,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"db15"
+			"zh":""
 		},
 		{
 			"id":481,
@@ -4336,8 +3855,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e215"
+			"zh":""
 		},
 		{
 			"id":482,
@@ -4345,8 +3863,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e915"
+			"zh":""
 		},
 		{
 			"id":483,
@@ -4354,8 +3871,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f015"
+			"zh":""
 		},
 		{
 			"id":484,
@@ -4363,8 +3879,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f715"
+			"zh":""
 		},
 		{
 			"id":485,
@@ -4372,8 +3887,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"fe15"
+			"zh":""
 		},
 		{
 			"id":486,
@@ -4381,8 +3895,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0516"
+			"zh":""
 		},
 		{
 			"id":487,
@@ -4390,8 +3903,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0c16"
+			"zh":""
 		},
 		{
 			"id":488,
@@ -4399,8 +3911,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1316"
+			"zh":""
 		},
 		{
 			"id":489,
@@ -4408,8 +3919,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1a16"
+			"zh":""
 		},
 		{
 			"id":490,
@@ -4417,8 +3927,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2116"
+			"zh":""
 		},
 		{
 			"id":491,
@@ -4426,8 +3935,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2816"
+			"zh":""
 		},
 		{
 			"id":492,
@@ -4435,8 +3943,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2f16"
+			"zh":""
 		},
 		{
 			"id":493,
@@ -4444,8 +3951,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3616"
+			"zh":""
 		},
 		{
 			"id":494,
@@ -4453,8 +3959,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3d16"
+			"zh":""
 		},
 		{
 			"id":495,
@@ -4462,8 +3967,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4416"
+			"zh":""
 		},
 		{
 			"id":496,
@@ -4471,8 +3975,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4b16"
+			"zh":""
 		},
 		{
 			"id":497,
@@ -4480,8 +3983,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5216"
+			"zh":""
 		},
 		{
 			"id":498,
@@ -4489,8 +3991,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5916"
+			"zh":""
 		},
 		{
 			"id":499,
@@ -4498,8 +3999,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6016"
+			"zh":""
 		},
 		{
 			"id":500,
@@ -4507,8 +4007,7 @@
 			"length":6,
 			"jpn":"ダミー",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6716"
+			"zh":""
 		},
 		{
 			"id":501,
@@ -4516,8 +4015,7 @@
 			"length":10,
 			"jpn":"迷宮の地図",
 			"eng":"Map",
-			"zh":"",
-			"exten":"7216"
+			"zh":""
 		},
 		{
 			"id":502,
@@ -4525,8 +4023,7 @@
 			"length":12,
 			"jpn":"巨大な木の根",
 			"eng":"Great Tree Root",
-			"zh":"",
-			"exten":"7f16"
+			"zh":""
 		},
 		{
 			"id":503,
@@ -4534,8 +4031,7 @@
 			"length":10,
 			"jpn":"樹海の土壌",
 			"eng":"Forest Soil",
-			"zh":"",
-			"exten":"8a16"
+			"zh":""
 		},
 		{
 			"id":504,
@@ -4543,8 +4039,7 @@
 			"length":6,
 			"jpn":"樹海鵜",
 			"eng":"Forest Hen",
-			"zh":"",
-			"exten":"9116"
+			"zh":""
 		},
 		{
 			"id":505,
@@ -4552,8 +4047,7 @@
 			"length":12,
 			"jpn":"重いツルハシ",
 			"eng":"Heavy Pickaxe",
-			"zh":"",
-			"exten":"9e16"
+			"zh":""
 		},
 		{
 			"id":506,
@@ -4561,8 +4055,7 @@
 			"length":10,
 			"jpn":"封印扉の鍵",
 			"eng":"Master Key",
-			"zh":"",
-			"exten":"a916"
+			"zh":""
 		},
 		{
 			"id":507,
@@ -4570,8 +4063,7 @@
 			"length":12,
 			"jpn":"保存用の小瓶",
 			"eng":"Storage Jar",
-			"zh":"",
-			"exten":"b616"
+			"zh":""
 		},
 		{
 			"id":508,
@@ -4579,8 +4071,7 @@
 			"length":8,
 			"jpn":"何かの種",
 			"eng":"Strange Seed",
-			"zh":"",
-			"exten":"bf16"
+			"zh":""
 		},
 		{
 			"id":509,
@@ -4588,8 +4079,7 @@
 			"length":8,
 			"jpn":"支援物資",
 			"eng":"Relief Supplies",
-			"zh":"",
-			"exten":"c816"
+			"zh":""
 		},
 		{
 			"id":510,
@@ -4597,8 +4087,7 @@
 			"length":14,
 			"jpn":"落し物のお守り",
 			"eng":"Lost Charm",
-			"zh":"",
-			"exten":"d716"
+			"zh":""
 		},
 		{
 			"id":511,
@@ -4606,8 +4095,7 @@
 			"length":8,
 			"jpn":"古びた本",
 			"eng":"Old Book",
-			"zh":"",
-			"exten":"e016"
+			"zh":""
 		},
 		{
 			"id":512,
@@ -4615,8 +4103,7 @@
 			"length":8,
 			"jpn":"太陽の石",
 			"eng":"Sunstone",
-			"zh":"",
-			"exten":"e916"
+			"zh":""
 		},
 		{
 			"id":513,
@@ -4624,8 +4111,7 @@
 			"length":6,
 			"jpn":"月の石",
 			"eng":"Moonstone",
-			"zh":"",
-			"exten":"f016"
+			"zh":""
 		},
 		{
 			"id":514,
@@ -4633,8 +4119,7 @@
 			"length":16,
 			"jpn":"紋章が描かれた兜",
 			"eng":"Gryphon Helmet",
-			"zh":"",
-			"exten":"0117"
+			"zh":""
 		},
 		{
 			"id":515,
@@ -4642,8 +4127,7 @@
 			"length":6,
 			"jpn":"爆発玉",
 			"eng":"Explosive Ball",
-			"zh":"",
-			"exten":"0817"
+			"zh":""
 		},
 		{
 			"id":516,
@@ -4651,8 +4135,7 @@
 			"length":16,
 			"jpn":"エンペラーカブト",
 			"eng":"Emperor Beetle",
-			"zh":"",
-			"exten":"1917"
+			"zh":""
 		},
 		{
 			"id":517,
@@ -4660,8 +4143,7 @@
 			"length":14,
 			"jpn":"七本ツノカブト",
 			"eng":"Rhino Beetle",
-			"zh":"",
-			"exten":"2817"
+			"zh":""
 		},
 		{
 			"id":518,
@@ -4669,8 +4151,7 @@
 			"length":14,
 			"jpn":"ハサミクワガタ",
 			"eng":"Stag Beetle",
-			"zh":"",
-			"exten":"3717"
+			"zh":""
 		},
 		{
 			"id":519,
@@ -4678,8 +4159,7 @@
 			"length":10,
 			"jpn":"無痛注射器",
 			"eng":"Painless Syringe",
-			"zh":"",
-			"exten":"4217"
+			"zh":""
 		},
 		{
 			"id":520,
@@ -4687,8 +4167,7 @@
 			"length":14,
 			"jpn":"大サソリの毒素",
 			"eng":"Scorpion Venom",
-			"zh":"",
-			"exten":"5117"
+			"zh":""
 		},
 		{
 			"id":521,
@@ -4696,8 +4175,7 @@
 			"length":18,
 			"jpn":"ひどく甘そうなパン",
 			"eng":"Super Sweet Bread",
-			"zh":"",
-			"exten":"6417"
+			"zh":""
 		},
 		{
 			"id":522,
@@ -4705,8 +4183,7 @@
 			"length":18,
 			"jpn":"見るからに辛いパン",
 			"eng":"Extra Spicy Bread",
-			"zh":"",
-			"exten":"7717"
+			"zh":""
 		},
 		{
 			"id":523,
@@ -4714,8 +4191,7 @@
 			"length":14,
 			"jpn":"特製フライパン",
 			"eng":"Special Frying Pan",
-			"zh":"",
-			"exten":"8617"
+			"zh":""
 		},
 		{
 			"id":524,
@@ -4723,8 +4199,7 @@
 			"length":8,
 			"jpn":"特製皮袋",
 			"eng":"Special Pouch",
-			"zh":"",
-			"exten":"8f17"
+			"zh":""
 		},
 		{
 			"id":525,
@@ -4732,8 +4207,7 @@
 			"length":16,
 			"jpn":"ジェネッタメモ１",
 			"eng":"Jenetta’s Memo １",
-			"zh":"",
-			"exten":"a017"
+			"zh":""
 		},
 		{
 			"id":526,
@@ -4741,8 +4215,7 @@
 			"length":16,
 			"jpn":"ジェネッタメモ２",
 			"eng":"Jenetta’s Memo ２",
-			"zh":"",
-			"exten":"b117"
+			"zh":""
 		},
 		{
 			"id":527,
@@ -4750,8 +4223,7 @@
 			"length":16,
 			"jpn":"ジェネッタメモ３",
 			"eng":"Jenetta’s Memo ３",
-			"zh":"",
-			"exten":"c217"
+			"zh":""
 		},
 		{
 			"id":528,
@@ -4759,8 +4231,7 @@
 			"length":16,
 			"jpn":"ジェネッタメモ４",
 			"eng":"Jenetta’s Memo ４",
-			"zh":"",
-			"exten":"d317"
+			"zh":""
 		},
 		{
 			"id":529,
@@ -4768,8 +4239,7 @@
 			"length":16,
 			"jpn":"ジェネッタの弁当",
 			"eng":"Jenetta’s Lunch",
-			"zh":"",
-			"exten":"e417"
+			"zh":""
 		},
 		{
 			"id":530,
@@ -4777,8 +4247,7 @@
 			"length":14,
 			"jpn":"特注のツルハシ",
 			"eng":"Special Pickaxe",
-			"zh":"",
-			"exten":"f317"
+			"zh":""
 		},
 		{
 			"id":531,
@@ -4786,8 +4255,7 @@
 			"length":12,
 			"jpn":"洗浄した生皮",
 			"eng":"Raw Hide",
-			"zh":"",
-			"exten":"0018"
+			"zh":""
 		},
 		{
 			"id":532,
@@ -4795,8 +4263,7 @@
 			"length":6,
 			"jpn":"赤い花",
 			"eng":"Red Flower",
-			"zh":"",
-			"exten":"0718"
+			"zh":""
 		},
 		{
 			"id":533,
@@ -4804,8 +4271,7 @@
 			"length":6,
 			"jpn":"青い花",
 			"eng":"Blue Flower",
-			"zh":"",
-			"exten":"0e18"
+			"zh":""
 		},
 		{
 			"id":534,
@@ -4813,8 +4279,7 @@
 			"length":8,
 			"jpn":"水晶の花",
 			"eng":"Crystal Flower",
-			"zh":"",
-			"exten":"1718"
+			"zh":""
 		},
 		{
 			"id":535,
@@ -4822,8 +4287,7 @@
 			"length":16,
 			"jpn":"捕獲器ツカマエル",
 			"eng":"Monster Trap",
-			"zh":"",
-			"exten":"2818"
+			"zh":""
 		},
 		{
 			"id":536,
@@ -4831,8 +4295,7 @@
 			"length":14,
 			"jpn":"ドジな鳥の羽根",
 			"eng":"Clumsy Feather",
-			"zh":"",
-			"exten":"3718"
+			"zh":""
 		},
 		{
 			"id":537,
@@ -4840,8 +4303,7 @@
 			"length":14,
 			"jpn":"スノードロップ",
 			"eng":"Snow Drop",
-			"zh":"",
-			"exten":"4618"
+			"zh":""
 		},
 		{
 			"id":538,
@@ -4849,8 +4311,7 @@
 			"length":12,
 			"jpn":"メナシムカデ",
 			"eng":"Blind Centipede",
-			"zh":"",
-			"exten":"5318"
+			"zh":""
 		},
 		{
 			"id":539,
@@ -4858,8 +4319,7 @@
 			"length":12,
 			"jpn":"青く光る水晶",
 			"eng":"Ragnite",
-			"zh":"",
-			"exten":"6018"
+			"zh":""
 		},
 		{
 			"id":540,
@@ -4867,8 +4327,7 @@
 			"length":10,
 			"jpn":"樹海ウサギ",
 			"eng":"Forest Rabbit",
-			"zh":"",
-			"exten":"6b18"
+			"zh":""
 		},
 		{
 			"id":541,
@@ -4876,8 +4335,7 @@
 			"length":16,
 			"jpn":"人懐っこいオウム",
 			"eng":"Friendly Macaw",
-			"zh":"",
-			"exten":"7c18"
+			"zh":""
 		},
 		{
 			"id":542,
@@ -4885,8 +4343,7 @@
 			"length":14,
 			"jpn":"一角獣のナイフ",
 			"eng":"Unicorn Knife",
-			"zh":"",
-			"exten":"8b18"
+			"zh":""
 		},
 		{
 			"id":543,
@@ -4894,8 +4351,7 @@
 			"length":10,
 			"jpn":"小さな水晶",
 			"eng":"Small Crystal",
-			"zh":"",
-			"exten":"9618"
+			"zh":""
 		},
 		{
 			"id":544,
@@ -4903,8 +4359,7 @@
 			"length":16,
 			"jpn":"魔物のエサ用の肉",
 			"eng":"Monster Bait",
-			"zh":"",
-			"exten":"a718"
+			"zh":""
 		},
 		{
 			"id":545,
@@ -4912,8 +4367,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・赤",
 			"eng":"Red Plate",
-			"zh":"",
-			"exten":"b618"
+			"zh":""
 		},
 		{
 			"id":546,
@@ -4921,8 +4375,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・青",
 			"eng":"Blue Plate",
-			"zh":"",
-			"exten":"c518"
+			"zh":""
 		},
 		{
 			"id":547,
@@ -4930,8 +4383,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・黄",
 			"eng":"Yellow Plate",
-			"zh":"",
-			"exten":"d418"
+			"zh":""
 		},
 		{
 			"id":548,
@@ -4939,8 +4391,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・緑",
 			"eng":"Green Plate",
-			"zh":"",
-			"exten":"e318"
+			"zh":""
 		},
 		{
 			"id":549,
@@ -4948,8 +4399,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・白",
 			"eng":"White Plate",
-			"zh":"",
-			"exten":"f218"
+			"zh":""
 		},
 		{
 			"id":550,
@@ -4957,8 +4407,7 @@
 			"length":14,
 			"jpn":"小さな鉄板・黒",
 			"eng":"Black Plate",
-			"zh":"",
-			"exten":"0119"
+			"zh":""
 		},
 		{
 			"id":551,
@@ -4966,8 +4415,7 @@
 			"length":16,
 			"jpn":"酒場からの支給品",
 			"eng":"Tavern Supplies",
-			"zh":"",
-			"exten":"1219"
+			"zh":""
 		},
 		{
 			"id":552,
@@ -4975,8 +4423,7 @@
 			"length":10,
 			"jpn":"魔力検知機",
 			"eng":"Mana Detector",
-			"zh":"",
-			"exten":"1d19"
+			"zh":""
 		},
 		{
 			"id":553,
@@ -4984,8 +4431,7 @@
 			"length":14,
 			"jpn":"魔力吸収のお札",
 			"eng":"Mana Extractor",
-			"zh":"",
-			"exten":"2c19"
+			"zh":""
 		},
 		{
 			"id":554,
@@ -4993,8 +4439,7 @@
 			"length":6,
 			"jpn":"黒真珠",
 			"eng":"Black Pearl",
-			"zh":"",
-			"exten":"3319"
+			"zh":""
 		},
 		{
 			"id":555,
@@ -5002,8 +4447,7 @@
 			"length":12,
 			"jpn":"パンのレシピ",
 			"eng":"Bread Recipe",
-			"zh":"",
-			"exten":"4019"
+			"zh":""
 		},
 		{
 			"id":556,
@@ -5011,8 +4455,7 @@
 			"length":10,
 			"jpn":"白い花びら",
 			"eng":"White Petal",
-			"zh":"",
-			"exten":"4b19"
+			"zh":""
 		},
 		{
 			"id":557,
@@ -5020,8 +4463,7 @@
 			"length":6,
 			"jpn":"樹海鶏",
 			"eng":"Forest Hen",
-			"zh":"",
-			"exten":"5219"
+			"zh":""
 		},
 		{
 			"id":558,
@@ -5029,8 +4471,7 @@
 			"length":6,
 			"jpn":"樹海牛",
 			"eng":"Forest Cow",
-			"zh":"",
-			"exten":"5919"
+			"zh":""
 		},
 		{
 			"id":559,
@@ -5038,8 +4479,7 @@
 			"length":10,
 			"jpn":"山羊の角杯",
 			"eng":"Drinking Horn",
-			"zh":"",
-			"exten":"6419"
+			"zh":""
 		},
 		{
 			"id":560,
@@ -5047,8 +4487,7 @@
 			"length":20,
 			"jpn":"遺品の在りかの写し１",
 			"eng":"Relic Note １",
-			"zh":"",
-			"exten":"7919"
+			"zh":""
 		},
 		{
 			"id":561,
@@ -5056,8 +4495,7 @@
 			"length":20,
 			"jpn":"遺品の在りかの写し２",
 			"eng":"Relic Note ２",
-			"zh":"",
-			"exten":"8e19"
+			"zh":""
 		},
 		{
 			"id":562,
@@ -5065,8 +4503,7 @@
 			"length":20,
 			"jpn":"遺品の在りかの写し３",
 			"eng":"Relic Note ３",
-			"zh":"",
-			"exten":"a319"
+			"zh":""
 		},
 		{
 			"id":563,
@@ -5074,8 +4511,7 @@
 			"length":20,
 			"jpn":"遺品の在りかの写し４",
 			"eng":"Relic Note ４",
-			"zh":"",
-			"exten":"b819"
+			"zh":""
 		},
 		{
 			"id":564,
@@ -5083,8 +4519,7 @@
 			"length":14,
 			"jpn":"評議会印の小鍋",
 			"eng":"Council Pot",
-			"zh":"",
-			"exten":"c719"
+			"zh":""
 		},
 		{
 			"id":565,
@@ -5092,8 +4527,7 @@
 			"length":10,
 			"jpn":"山都の土鍋",
 			"eng":"Mountain Pot",
-			"zh":"",
-			"exten":"d219"
+			"zh":""
 		},
 		{
 			"id":566,
@@ -5101,8 +4535,7 @@
 			"length":8,
 			"jpn":"達人の書",
 			"eng":"Book of Mastery",
-			"zh":"",
-			"exten":"db19"
+			"zh":""
 		},
 		{
 			"id":567,
@@ -5110,8 +4543,7 @@
 			"length":6,
 			"jpn":"釣り竿",
 			"eng":"Fishing Rod",
-			"zh":"",
-			"exten":"e219"
+			"zh":""
 		},
 		{
 			"id":568,
@@ -5119,8 +4551,7 @@
 			"length":10,
 			"jpn":"貴重品６８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ed19"
+			"zh":""
 		},
 		{
 			"id":569,
@@ -5128,8 +4559,7 @@
 			"length":10,
 			"jpn":"貴重品６９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f819"
+			"zh":""
 		},
 		{
 			"id":570,
@@ -5137,8 +4567,7 @@
 			"length":10,
 			"jpn":"貴重品７０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"031a"
+			"zh":""
 		},
 		{
 			"id":571,
@@ -5146,8 +4575,7 @@
 			"length":10,
 			"jpn":"貴重品７１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0e1a"
+			"zh":""
 		},
 		{
 			"id":572,
@@ -5155,8 +4583,7 @@
 			"length":10,
 			"jpn":"貴重品７２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"191a"
+			"zh":""
 		},
 		{
 			"id":573,
@@ -5164,8 +4591,7 @@
 			"length":10,
 			"jpn":"貴重品７３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"241a"
+			"zh":""
 		},
 		{
 			"id":574,
@@ -5173,8 +4599,7 @@
 			"length":10,
 			"jpn":"貴重品７４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2f1a"
+			"zh":""
 		},
 		{
 			"id":575,
@@ -5182,8 +4607,7 @@
 			"length":10,
 			"jpn":"貴重品７５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3a1a"
+			"zh":""
 		},
 		{
 			"id":576,
@@ -5191,8 +4615,7 @@
 			"length":8,
 			"jpn":"錆びた剣",
 			"eng":"Rusted Sword",
-			"zh":"",
-			"exten":"431a"
+			"zh":""
 		},
 		{
 			"id":577,
@@ -5200,8 +4623,7 @@
 			"length":10,
 			"jpn":"錆びた拳鍔",
 			"eng":"Rusted Handguard",
-			"zh":"",
-			"exten":"4e1a"
+			"zh":""
 		},
 		{
 			"id":578,
@@ -5209,8 +4631,7 @@
 			"length":8,
 			"jpn":"錆びた杖",
 			"eng":"Rusted Staff",
-			"zh":"",
-			"exten":"571a"
+			"zh":""
 		},
 		{
 			"id":579,
@@ -5218,8 +4639,7 @@
 			"length":8,
 			"jpn":"錆びた刀",
 			"eng":"Rusted Katana",
-			"zh":"",
-			"exten":"601a"
+			"zh":""
 		},
 		{
 			"id":580,
@@ -5227,8 +4647,7 @@
 			"length":8,
 			"jpn":"錆びた弓",
 			"eng":"Rusted Bow",
-			"zh":"",
-			"exten":"691a"
+			"zh":""
 		},
 		{
 			"id":581,
@@ -5236,8 +4655,7 @@
 			"length":8,
 			"jpn":"錆びた鎌",
 			"eng":"Rusted Scythe",
-			"zh":"",
-			"exten":"721a"
+			"zh":""
 		},
 		{
 			"id":582,
@@ -5245,8 +4663,7 @@
 			"length":8,
 			"jpn":"錆びた銃",
 			"eng":"Rusted Gun",
-			"zh":"",
-			"exten":"7b1a"
+			"zh":""
 		},
 		{
 			"id":583,
@@ -5254,8 +4671,7 @@
 			"length":10,
 			"jpn":"錆びた籠手",
 			"eng":"Rusted Gauntlet",
-			"zh":"",
-			"exten":"861a"
+			"zh":""
 		},
 		{
 			"id":584,
@@ -5263,8 +4679,7 @@
 			"length":8,
 			"jpn":"浄化の歌",
 			"eng":"Song of Healing",
-			"zh":"",
-			"exten":"8f1a"
+			"zh":""
 		},
 		{
 			"id":585,
@@ -5272,8 +4687,7 @@
 			"length":14,
 			"jpn":"オスカーの盗品",
 			"eng":"Oscar’s Stolen Goods",
-			"zh":"",
-			"exten":"9e1a"
+			"zh":""
 		},
 		{
 			"id":586,
@@ -5281,8 +4695,7 @@
 			"length":10,
 			"jpn":"母への手紙",
 			"eng":"Letter to Mother",
-			"zh":"",
-			"exten":"a91a"
+			"zh":""
 		},
 		{
 			"id":587,
@@ -5290,8 +4703,7 @@
 			"length":12,
 			"jpn":"イチシノハナ",
 			"eng":"Lycoris",
-			"zh":"",
-			"exten":"b61a"
+			"zh":""
 		},
 		{
 			"id":588,
@@ -5299,8 +4711,7 @@
 			"length":4,
 			"jpn":"絹糸",
 			"eng":"Silk String",
-			"zh":"",
-			"exten":"bb1a"
+			"zh":""
 		},
 		{
 			"id":589,
@@ -5308,8 +4719,7 @@
 			"length":14,
 			"jpn":"古びた手紙・壱",
 			"eng":"Old Letter １",
-			"zh":"",
-			"exten":"ca1a"
+			"zh":""
 		},
 		{
 			"id":590,
@@ -5317,8 +4727,7 @@
 			"length":14,
 			"jpn":"古びた手紙・弐",
 			"eng":"Old Letter ２",
-			"zh":"",
-			"exten":"d91a"
+			"zh":""
 		},
 		{
 			"id":591,
@@ -5326,8 +4735,7 @@
 			"length":14,
 			"jpn":"古びた手紙・参",
 			"eng":"Old Letter ３",
-			"zh":"",
-			"exten":"e81a"
+			"zh":""
 		},
 		{
 			"id":592,
@@ -5335,8 +4743,7 @@
 			"length":14,
 			"jpn":"古びた手紙・四",
 			"eng":"Old Letter ４",
-			"zh":"",
-			"exten":"f71a"
+			"zh":""
 		},
 		{
 			"id":593,
@@ -5344,8 +4751,7 @@
 			"length":14,
 			"jpn":"古びた手紙・伍",
 			"eng":"Old Letter ５",
-			"zh":"",
-			"exten":"061b"
+			"zh":""
 		},
 		{
 			"id":594,
@@ -5353,8 +4759,7 @@
 			"length":12,
 			"jpn":"冒険者の手紙",
 			"eng":"Adventurer’s Letter",
-			"zh":"",
-			"exten":"131b"
+			"zh":""
 		},
 		{
 			"id":595,
@@ -5362,8 +4767,7 @@
 			"length":10,
 			"jpn":"古寂びた銃",
 			"eng":"Ancient Gun",
-			"zh":"",
-			"exten":"1e1b"
+			"zh":""
 		},
 		{
 			"id":596,
@@ -5371,8 +4775,7 @@
 			"length":12,
 			"jpn":"古寂びた大盾",
 			"eng":"Ancient Shield",
-			"zh":"",
-			"exten":"2b1b"
+			"zh":""
 		},
 		{
 			"id":597,
@@ -5380,8 +4783,7 @@
 			"length":10,
 			"jpn":"古寂びた鎧",
 			"eng":"Ancient Armor",
-			"zh":"",
-			"exten":"361b"
+			"zh":""
 		},
 		{
 			"id":598,
@@ -5389,8 +4791,7 @@
 			"length":10,
 			"jpn":"古寂びた兜",
 			"eng":"Ancient Helmet",
-			"zh":"",
-			"exten":"411b"
+			"zh":""
 		},
 		{
 			"id":599,
@@ -5398,8 +4799,7 @@
 			"length":6,
 			"jpn":"水晶石",
 			"eng":"Crystal",
-			"zh":"",
-			"exten":"481b"
+			"zh":""
 		},
 		{
 			"id":600,
@@ -5407,8 +4807,7 @@
 			"length":12,
 			"jpn":"貴重品１００",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"551b"
+			"zh":""
 		},
 		{
 			"id":601,
@@ -5416,8 +4815,7 @@
 			"length":12,
 			"jpn":"銅インゴット",
 			"eng":"Copper Ingot",
-			"zh":"",
-			"exten":"621b"
+			"zh":""
 		},
 		{
 			"id":602,
@@ -5425,8 +4823,7 @@
 			"length":12,
 			"jpn":"銀インゴット",
 			"eng":"Silver Ingot",
-			"zh":"",
-			"exten":"6f1b"
+			"zh":""
 		},
 		{
 			"id":603,
@@ -5434,8 +4831,7 @@
 			"length":12,
 			"jpn":"金インゴット",
 			"eng":"Gold Ingot",
-			"zh":"",
-			"exten":"7c1b"
+			"zh":""
 		},
 		{
 			"id":604,
@@ -5443,8 +4839,7 @@
 			"length":6,
 			"jpn":"銅断片",
 			"eng":"Copper Shard",
-			"zh":"",
-			"exten":"831b"
+			"zh":""
 		},
 		{
 			"id":605,
@@ -5452,8 +4847,7 @@
 			"length":6,
 			"jpn":"銀断片",
 			"eng":"Silver Shard",
-			"zh":"",
-			"exten":"8a1b"
+			"zh":""
 		},
 		{
 			"id":606,
@@ -5461,8 +4855,7 @@
 			"length":6,
 			"jpn":"金断片",
 			"eng":"Gold Shard",
-			"zh":"",
-			"exten":"911b"
+			"zh":""
 		},
 		{
 			"id":607,
@@ -5470,8 +4863,7 @@
 			"length":8,
 			"jpn":"アザー７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9a1b"
+			"zh":""
 		},
 		{
 			"id":608,
@@ -5479,8 +4871,7 @@
 			"length":8,
 			"jpn":"アザー８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a31b"
+			"zh":""
 		},
 		{
 			"id":609,
@@ -5488,8 +4879,7 @@
 			"length":8,
 			"jpn":"アザー９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ac1b"
+			"zh":""
 		},
 		{
 			"id":610,
@@ -5497,8 +4887,7 @@
 			"length":10,
 			"jpn":"アザー１０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b71b"
+			"zh":""
 		},
 		{
 			"id":611,
@@ -5506,8 +4895,7 @@
 			"length":10,
 			"jpn":"アザー１１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"c21b"
+			"zh":""
 		},
 		{
 			"id":612,
@@ -5515,8 +4903,7 @@
 			"length":10,
 			"jpn":"アザー１２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"cd1b"
+			"zh":""
 		},
 		{
 			"id":613,
@@ -5524,8 +4911,7 @@
 			"length":10,
 			"jpn":"アザー１３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d81b"
+			"zh":""
 		},
 		{
 			"id":614,
@@ -5533,8 +4919,7 @@
 			"length":10,
 			"jpn":"アザー１４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e31b"
+			"zh":""
 		},
 		{
 			"id":615,
@@ -5542,8 +4927,7 @@
 			"length":10,
 			"jpn":"アザー１５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ee1b"
+			"zh":""
 		},
 		{
 			"id":616,
@@ -5551,8 +4935,7 @@
 			"length":10,
 			"jpn":"アザー１６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f91b"
+			"zh":""
 		},
 		{
 			"id":617,
@@ -5560,8 +4943,7 @@
 			"length":10,
 			"jpn":"アザー１７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"041c"
+			"zh":""
 		},
 		{
 			"id":618,
@@ -5569,8 +4951,7 @@
 			"length":10,
 			"jpn":"アザー１８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0f1c"
+			"zh":""
 		},
 		{
 			"id":619,
@@ -5578,8 +4959,7 @@
 			"length":10,
 			"jpn":"アザー１９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"1a1c"
+			"zh":""
 		},
 		{
 			"id":620,
@@ -5587,8 +4967,7 @@
 			"length":10,
 			"jpn":"アザー２０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"251c"
+			"zh":""
 		},
 		{
 			"id":621,
@@ -5596,8 +4975,7 @@
 			"length":10,
 			"jpn":"アザー２１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"301c"
+			"zh":""
 		},
 		{
 			"id":622,
@@ -5605,8 +4983,7 @@
 			"length":10,
 			"jpn":"アザー２２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"3b1c"
+			"zh":""
 		},
 		{
 			"id":623,
@@ -5614,8 +4991,7 @@
 			"length":10,
 			"jpn":"アザー２３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"461c"
+			"zh":""
 		},
 		{
 			"id":624,
@@ -5623,8 +4999,7 @@
 			"length":10,
 			"jpn":"アザー２４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"511c"
+			"zh":""
 		},
 		{
 			"id":625,
@@ -5632,8 +5007,7 @@
 			"length":10,
 			"jpn":"アザー２５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"5c1c"
+			"zh":""
 		},
 		{
 			"id":626,
@@ -5641,8 +5015,7 @@
 			"length":10,
 			"jpn":"アザー２６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"671c"
+			"zh":""
 		},
 		{
 			"id":627,
@@ -5650,8 +5023,7 @@
 			"length":10,
 			"jpn":"アザー２７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"721c"
+			"zh":""
 		},
 		{
 			"id":628,
@@ -5659,8 +5031,7 @@
 			"length":10,
 			"jpn":"アザー２８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"7d1c"
+			"zh":""
 		},
 		{
 			"id":629,
@@ -5668,8 +5039,7 @@
 			"length":10,
 			"jpn":"アザー２９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"881c"
+			"zh":""
 		},
 		{
 			"id":630,
@@ -5677,8 +5047,7 @@
 			"length":10,
 			"jpn":"アザー３０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"931c"
+			"zh":""
 		},
 		{
 			"id":631,
@@ -5686,8 +5055,7 @@
 			"length":10,
 			"jpn":"アザー３１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"9e1c"
+			"zh":""
 		},
 		{
 			"id":632,
@@ -5695,8 +5063,7 @@
 			"length":10,
 			"jpn":"アザー３２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"a91c"
+			"zh":""
 		},
 		{
 			"id":633,
@@ -5704,8 +5071,7 @@
 			"length":10,
 			"jpn":"アザー３３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"b41c"
+			"zh":""
 		},
 		{
 			"id":634,
@@ -5713,8 +5079,7 @@
 			"length":10,
 			"jpn":"アザー３４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"bf1c"
+			"zh":""
 		},
 		{
 			"id":635,
@@ -5722,8 +5087,7 @@
 			"length":10,
 			"jpn":"アザー３５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"ca1c"
+			"zh":""
 		},
 		{
 			"id":636,
@@ -5731,8 +5095,7 @@
 			"length":10,
 			"jpn":"アザー３６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"d51c"
+			"zh":""
 		},
 		{
 			"id":637,
@@ -5740,8 +5103,7 @@
 			"length":10,
 			"jpn":"アザー３７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"e01c"
+			"zh":""
 		},
 		{
 			"id":638,
@@ -5749,8 +5111,7 @@
 			"length":10,
 			"jpn":"アザー３８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"eb1c"
+			"zh":""
 		},
 		{
 			"id":639,
@@ -5758,8 +5119,7 @@
 			"length":10,
 			"jpn":"アザー３９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"f61c"
+			"zh":""
 		},
 		{
 			"id":640,
@@ -5767,8 +5127,7 @@
 			"length":10,
 			"jpn":"アザー４０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"011d"
+			"zh":""
 		},
 		{
 			"id":641,
@@ -5776,8 +5135,7 @@
 			"length":10,
 			"jpn":"アザー４１",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"0c1d"
+			"zh":""
 		},
 		{
 			"id":642,
@@ -5785,8 +5143,7 @@
 			"length":10,
 			"jpn":"アザー４２",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"171d"
+			"zh":""
 		},
 		{
 			"id":643,
@@ -5794,8 +5151,7 @@
 			"length":10,
 			"jpn":"アザー４３",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"221d"
+			"zh":""
 		},
 		{
 			"id":644,
@@ -5803,8 +5159,7 @@
 			"length":10,
 			"jpn":"アザー４４",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"2d1d"
+			"zh":""
 		},
 		{
 			"id":645,
@@ -5812,8 +5167,7 @@
 			"length":10,
 			"jpn":"アザー４５",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"381d"
+			"zh":""
 		},
 		{
 			"id":646,
@@ -5821,8 +5175,7 @@
 			"length":10,
 			"jpn":"アザー４６",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"431d"
+			"zh":""
 		},
 		{
 			"id":647,
@@ -5830,8 +5183,7 @@
 			"length":10,
 			"jpn":"アザー４７",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"4e1d"
+			"zh":""
 		},
 		{
 			"id":648,
@@ -5839,8 +5191,7 @@
 			"length":10,
 			"jpn":"アザー４８",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"591d"
+			"zh":""
 		},
 		{
 			"id":649,
@@ -5848,8 +5199,7 @@
 			"length":10,
 			"jpn":"アザー４９",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"641d"
+			"zh":""
 		},
 		{
 			"id":650,
@@ -5857,8 +5207,7 @@
 			"length":10,
 			"jpn":"アザー５０",
 			"eng":"Dummy",
-			"zh":"",
-			"exten":"6f1d"
+			"zh":""
 		}
 	]
 }

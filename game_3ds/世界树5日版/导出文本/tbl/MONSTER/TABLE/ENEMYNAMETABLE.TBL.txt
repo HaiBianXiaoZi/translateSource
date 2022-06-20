@@ -7,8 +7,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0900"
+			"zh":""
 		},
 		{
 			"id":1,
@@ -16,8 +15,7 @@
 			"length":14,
 			"jpn":"お化けドングリ",
 			"eng":"Rabid Acorn",
-			"zh":"",
-			"exten":"1800"
+			"zh":""
 		},
 		{
 			"id":2,
@@ -25,8 +23,7 @@
 			"length":10,
 			"jpn":"森アイアイ",
 			"eng":"Forest Aye-Aye",
-			"zh":"",
-			"exten":"2300"
+			"zh":""
 		},
 		{
 			"id":3,
@@ -34,8 +31,7 @@
 			"length":12,
 			"jpn":"風船モモンガ",
 			"eng":"Air Squirrel",
-			"zh":"",
-			"exten":"3000"
+			"zh":""
 		},
 		{
 			"id":4,
@@ -43,8 +39,7 @@
 			"length":8,
 			"jpn":"ローパー",
 			"eng":"Roper",
-			"zh":"",
-			"exten":"3900"
+			"zh":""
 		},
 		{
 			"id":5,
@@ -52,8 +47,7 @@
 			"length":12,
 			"jpn":"突撃イノシシ",
 			"eng":"Charging Boar",
-			"zh":"",
-			"exten":"4600"
+			"zh":""
 		},
 		{
 			"id":6,
@@ -61,8 +55,7 @@
 			"length":12,
 			"jpn":"人喰いウサギ",
 			"eng":"Man-eating Hare",
-			"zh":"",
-			"exten":"5300"
+			"zh":""
 		},
 		{
 			"id":7,
@@ -70,8 +63,7 @@
 			"length":12,
 			"jpn":"這い回る毒蟲",
 			"eng":"Toxipede",
-			"zh":"",
-			"exten":"6000"
+			"zh":""
 		},
 		{
 			"id":8,
@@ -79,8 +71,7 @@
 			"length":10,
 			"jpn":"マイコニド",
 			"eng":"Myconid",
-			"zh":"",
-			"exten":"6b00"
+			"zh":""
 		},
 		{
 			"id":9,
@@ -88,8 +79,7 @@
 			"length":8,
 			"jpn":"猛る梟獣",
 			"eng":"Owl Beast",
-			"zh":"",
-			"exten":"7400"
+			"zh":""
 		},
 		{
 			"id":10,
@@ -97,8 +87,7 @@
 			"length":12,
 			"jpn":"驀進の大麒麟",
 			"eng":"Bucking Giraffe",
-			"zh":"",
-			"exten":"8100"
+			"zh":""
 		},
 		{
 			"id":11,
@@ -106,8 +95,7 @@
 			"length":8,
 			"jpn":"痺れゼミ",
 			"eng":"Stun Cicada",
-			"zh":"",
-			"exten":"8a00"
+			"zh":""
 		},
 		{
 			"id":12,
@@ -115,8 +103,7 @@
 			"length":16,
 			"jpn":"とびつきカラカル",
 			"eng":"Jumping Caracal",
-			"zh":"",
-			"exten":"9b00"
+			"zh":""
 		},
 		{
 			"id":13,
@@ -124,8 +111,7 @@
 			"length":14,
 			"jpn":"オオマダライヌ",
 			"eng":"Spotted Hound",
-			"zh":"",
-			"exten":"aa00"
+			"zh":""
 		},
 		{
 			"id":14,
@@ -133,8 +119,7 @@
 			"length":14,
 			"jpn":"切り裂きモグラ",
 			"eng":"Rending Mole",
-			"zh":"",
-			"exten":"b900"
+			"zh":""
 		},
 		{
 			"id":15,
@@ -142,8 +127,7 @@
 			"length":14,
 			"jpn":"バウンスオウム",
 			"eng":"Prancing Parrot",
-			"zh":"",
-			"exten":"c800"
+			"zh":""
 		},
 		{
 			"id":16,
@@ -151,8 +135,7 @@
 			"length":12,
 			"jpn":"傲慢の通仙坊",
 			"eng":"Impeding Tengu",
-			"zh":"",
-			"exten":"d500"
+			"zh":""
 		},
 		{
 			"id":17,
@@ -160,8 +143,7 @@
 			"length":14,
 			"jpn":"見据える捕食者",
 			"eng":"Glaring Stinger",
-			"zh":"",
-			"exten":"e400"
+			"zh":""
 		},
 		{
 			"id":18,
@@ -169,8 +151,7 @@
 			"length":10,
 			"jpn":"紅鉄の蜊蛄",
 			"eng":"Iron Crustacean",
-			"zh":"",
-			"exten":"ef00"
+			"zh":""
 		},
 		{
 			"id":19,
@@ -178,8 +159,7 @@
 			"length":12,
 			"jpn":"ゾンビドッグ",
 			"eng":"Zombie Mutt",
-			"zh":"",
-			"exten":"fc00"
+			"zh":""
 		},
 		{
 			"id":20,
@@ -187,8 +167,7 @@
 			"length":8,
 			"jpn":"ゴースト",
 			"eng":"Ghost",
-			"zh":"",
-			"exten":"0501"
+			"zh":""
 		},
 		{
 			"id":21,
@@ -196,8 +175,7 @@
 			"length":12,
 			"jpn":"角つきこうべ",
 			"eng":"Horned Skull",
-			"zh":"",
-			"exten":"1201"
+			"zh":""
 		},
 		{
 			"id":22,
@@ -205,8 +183,7 @@
 			"length":12,
 			"jpn":"プチノワール",
 			"eng":"Petite Spriggan",
-			"zh":"",
-			"exten":"1f01"
+			"zh":""
 		},
 		{
 			"id":23,
@@ -214,8 +191,7 @@
 			"length":10,
 			"jpn":"外道の剣屍",
 			"eng":"Skelesword",
-			"zh":"",
-			"exten":"2a01"
+			"zh":""
 		},
 		{
 			"id":24,
@@ -223,8 +199,7 @@
 			"length":16,
 			"jpn":"ボーンアーチャー",
 			"eng":"Bone Archer",
-			"zh":"",
-			"exten":"3b01"
+			"zh":""
 		},
 		{
 			"id":25,
@@ -232,8 +207,7 @@
 			"length":10,
 			"jpn":"流離う幻炎",
 			"eng":"Roaming Wraith",
-			"zh":"",
-			"exten":"4601"
+			"zh":""
 		},
 		{
 			"id":26,
@@ -241,8 +215,7 @@
 			"length":14,
 			"jpn":"首刈りの断罪者",
 			"eng":"Headless Hunter",
-			"zh":"",
-			"exten":"5501"
+			"zh":""
 		},
 		{
 			"id":27,
@@ -250,8 +223,7 @@
 			"length":12,
 			"jpn":"フレアレディ",
 			"eng":"Flame Temptress",
-			"zh":"",
-			"exten":"6201"
+			"zh":""
 		},
 		{
 			"id":28,
@@ -259,8 +231,7 @@
 			"length":14,
 			"jpn":"グランノワール",
 			"eng":"Grand Spriggan",
-			"zh":"",
-			"exten":"7101"
+			"zh":""
 		},
 		{
 			"id":29,
@@ -268,8 +239,7 @@
 			"length":14,
 			"jpn":"ドラゴンゾンビ",
 			"eng":"Zombie Dragon",
-			"zh":"",
-			"exten":"8001"
+			"zh":""
 		},
 		{
 			"id":30,
@@ -277,8 +247,7 @@
 			"length":14,
 			"jpn":"デッドホイール",
 			"eng":"Soultaker",
-			"zh":"",
-			"exten":"8f01"
+			"zh":""
 		},
 		{
 			"id":31,
@@ -286,8 +255,7 @@
 			"length":16,
 			"jpn":"サイミンコウモリ",
 			"eng":"Hypno Bat",
-			"zh":"",
-			"exten":"a001"
+			"zh":""
 		},
 		{
 			"id":32,
@@ -295,8 +263,7 @@
 			"length":14,
 			"jpn":"グリーンリーチ",
 			"eng":"Cave Leech",
-			"zh":"",
-			"exten":"af01"
+			"zh":""
 		},
 		{
 			"id":33,
@@ -304,8 +271,7 @@
 			"length":16,
 			"jpn":"ブレイズクリープ",
 			"eng":"Fire Cryst",
-			"zh":"",
-			"exten":"c001"
+			"zh":""
 		},
 		{
 			"id":34,
@@ -313,8 +279,7 @@
 			"length":14,
 			"jpn":"アイスクリープ",
 			"eng":"Ice Cryst",
-			"zh":"",
-			"exten":"cf01"
+			"zh":""
 		},
 		{
 			"id":35,
@@ -322,8 +287,7 @@
 			"length":14,
 			"jpn":"ボルトクリープ",
 			"eng":"Volt Cryst",
-			"zh":"",
-			"exten":"de01"
+			"zh":""
 		},
 		{
 			"id":36,
@@ -331,8 +295,7 @@
 			"length":10,
 			"jpn":"激昂の要塞",
 			"eng":"Raging Tortoise",
-			"zh":"",
-			"exten":"e901"
+			"zh":""
 		},
 		{
 			"id":37,
@@ -340,8 +303,7 @@
 			"length":14,
 			"jpn":"リザードソード",
 			"eng":"Sword Saurian",
-			"zh":"",
-			"exten":"f801"
+			"zh":""
 		},
 		{
 			"id":38,
@@ -349,8 +311,7 @@
 			"length":14,
 			"jpn":"リザードランス",
 			"eng":"Lance Saurian",
-			"zh":"",
-			"exten":"0702"
+			"zh":""
 		},
 		{
 			"id":39,
@@ -358,8 +319,7 @@
 			"length":16,
 			"jpn":"リザードハンマー",
 			"eng":"Hammer Saurian",
-			"zh":"",
-			"exten":"1802"
+			"zh":""
 		},
 		{
 			"id":40,
@@ -367,8 +327,7 @@
 			"length":14,
 			"jpn":"マイティゴリラ",
 			"eng":"Chiroptilla",
-			"zh":"",
-			"exten":"2702"
+			"zh":""
 		},
 		{
 			"id":41,
@@ -376,8 +335,7 @@
 			"length":12,
 			"jpn":"残響に集う蟲",
 			"eng":"Sonar Worm",
-			"zh":"",
-			"exten":"3402"
+			"zh":""
 		},
 		{
 			"id":42,
@@ -385,8 +343,7 @@
 			"length":12,
 			"jpn":"双頭の追撃者",
 			"eng":"Hellhound",
-			"zh":"",
-			"exten":"4102"
+			"zh":""
 		},
 		{
 			"id":43,
@@ -394,8 +351,7 @@
 			"length":14,
 			"jpn":"無邪気な小悪魔",
 			"eng":"Alluring Imp",
-			"zh":"",
-			"exten":"5002"
+			"zh":""
 		},
 		{
 			"id":44,
@@ -403,8 +359,7 @@
 			"length":16,
 			"jpn":"コウテイハヤブサ",
 			"eng":"Emperor Falcon",
-			"zh":"",
-			"exten":"6102"
+			"zh":""
 		},
 		{
 			"id":45,
@@ -412,8 +367,7 @@
 			"length":16,
 			"jpn":"シールオクトパス",
 			"eng":"Xenopod",
-			"zh":"",
-			"exten":"7202"
+			"zh":""
 		},
 		{
 			"id":46,
@@ -421,8 +375,7 @@
 			"length":12,
 			"jpn":"ソラトビエイ",
 			"eng":"Dreamray",
-			"zh":"",
-			"exten":"7f02"
+			"zh":""
 		},
 		{
 			"id":47,
@@ -430,8 +383,7 @@
 			"length":16,
 			"jpn":"スレンダーデビル",
 			"eng":"Slender Demon",
-			"zh":"",
-			"exten":"9002"
+			"zh":""
 		},
 		{
 			"id":48,
@@ -439,8 +391,7 @@
 			"length":12,
 			"jpn":"圧迫の牛魔人",
 			"eng":"Taurus Demon",
-			"zh":"",
-			"exten":"9d02"
+			"zh":""
 		},
 		{
 			"id":49,
@@ -448,8 +399,7 @@
 			"length":12,
 			"jpn":"災厄へ至る病",
 			"eng":"Plague Demon",
-			"zh":"",
-			"exten":"aa02"
+			"zh":""
 		},
 		{
 			"id":50,
@@ -457,8 +407,7 @@
 			"length":16,
 			"jpn":"デモンズコフィン",
 			"eng":"Coffin Demon",
-			"zh":"",
-			"exten":"bb02"
+			"zh":""
 		},
 		{
 			"id":51,
@@ -466,8 +415,7 @@
 			"length":12,
 			"jpn":"増殖する悪夢",
 			"eng":"Mounting Horror",
-			"zh":"",
-			"exten":"c802"
+			"zh":""
 		},
 		{
 			"id":52,
@@ -475,8 +423,7 @@
 			"length":16,
 			"jpn":"万物を刈りしもの",
 			"eng":"Harvester",
-			"zh":"",
-			"exten":"d902"
+			"zh":""
 		},
 		{
 			"id":53,
@@ -484,8 +431,7 @@
 			"length":12,
 			"jpn":"マッドドッグ",
 			"eng":"Wild Dog",
-			"zh":"",
-			"exten":"e602"
+			"zh":""
 		},
 		{
 			"id":54,
@@ -493,8 +439,7 @@
 			"length":12,
 			"jpn":"アイスバット",
 			"eng":"Ice Bat",
-			"zh":"",
-			"exten":"f302"
+			"zh":""
 		},
 		{
 			"id":55,
@@ -502,8 +447,7 @@
 			"length":12,
 			"jpn":"アカモリガメ",
 			"eng":"Forest Turtle",
-			"zh":"",
-			"exten":"0003"
+			"zh":""
 		},
 		{
 			"id":56,
@@ -511,8 +455,7 @@
 			"length":14,
 			"jpn":"ポイズンリーチ",
 			"eng":"Venomous Leech",
-			"zh":"",
-			"exten":"0f03"
+			"zh":""
 		},
 		{
 			"id":57,
@@ -520,8 +463,7 @@
 			"length":16,
 			"jpn":"ギガントローパー",
 			"eng":"Colossal Roper",
-			"zh":"",
-			"exten":"2003"
+			"zh":""
 		},
 		{
 			"id":58,
@@ -529,8 +471,7 @@
 			"length":12,
 			"jpn":"ロストゴート",
 			"eng":"Cursed Capra",
-			"zh":"",
-			"exten":"2d03"
+			"zh":""
 		},
 		{
 			"id":59,
@@ -538,8 +479,7 @@
 			"length":16,
 			"jpn":"ロックフィッシュ",
 			"eng":"Stoneray",
-			"zh":"",
-			"exten":"3e03"
+			"zh":""
 		},
 		{
 			"id":60,
@@ -547,8 +487,7 @@
 			"length":14,
 			"jpn":"ハンマーコング",
 			"eng":"Chiroptekong",
-			"zh":"",
-			"exten":"4d03"
+			"zh":""
 		},
 		{
 			"id":61,
@@ -556,8 +495,7 @@
 			"length":8,
 			"jpn":"稲妻リス",
 			"eng":"Volt Squirrel",
-			"zh":"",
-			"exten":"5603"
+			"zh":""
 		},
 		{
 			"id":62,
@@ -565,8 +503,7 @@
 			"length":16,
 			"jpn":"まんまるターキー",
 			"eng":"Gobbler",
-			"zh":"",
-			"exten":"6703"
+			"zh":""
 		},
 		{
 			"id":63,
@@ -574,8 +511,7 @@
 			"length":16,
 			"jpn":"ポッププディング",
 			"eng":"Popping Gel",
-			"zh":"",
-			"exten":"7803"
+			"zh":""
 		},
 		{
 			"id":64,
@@ -583,8 +519,7 @@
 			"length":14,
 			"jpn":"ゾンビモモンガ",
 			"eng":"Zombie Squirrel",
-			"zh":"",
-			"exten":"8703"
+			"zh":""
 		},
 		{
 			"id":65,
@@ -592,8 +527,7 @@
 			"length":14,
 			"jpn":"ひび割れこうべ",
 			"eng":"Cracked Skull",
-			"zh":"",
-			"exten":"9603"
+			"zh":""
 		},
 		{
 			"id":66,
@@ -601,8 +535,7 @@
 			"length":12,
 			"jpn":"ブキミカズラ",
 			"eng":"Eerie Choker",
-			"zh":"",
-			"exten":"a303"
+			"zh":""
 		},
 		{
 			"id":67,
@@ -610,8 +543,7 @@
 			"length":8,
 			"jpn":"警報ゼミ",
 			"eng":"Klaxon Cicada",
-			"zh":"",
-			"exten":"ac03"
+			"zh":""
 		},
 		{
 			"id":68,
@@ -619,8 +551,7 @@
 			"length":14,
 			"jpn":"アンガーバード",
 			"eng":"Tantrum Turkey",
-			"zh":"",
-			"exten":"bb03"
+			"zh":""
 		},
 		{
 			"id":69,
@@ -628,8 +559,7 @@
 			"length":12,
 			"jpn":"モールキング",
 			"eng":"Mole King",
-			"zh":"",
-			"exten":"c803"
+			"zh":""
 		},
 		{
 			"id":70,
@@ -637,8 +567,7 @@
 			"length":12,
 			"jpn":"パンダアント",
 			"eng":"Panda Ant",
-			"zh":"",
-			"exten":"d503"
+			"zh":""
 		},
 		{
 			"id":71,
@@ -646,8 +575,7 @@
 			"length":14,
 			"jpn":"ファイアアント",
 			"eng":"Fire Ant",
-			"zh":"",
-			"exten":"e403"
+			"zh":""
 		},
 		{
 			"id":72,
@@ -655,8 +583,7 @@
 			"length":10,
 			"jpn":"反骨の針雀",
 			"eng":"Puffer Sparrow",
-			"zh":"",
-			"exten":"ef03"
+			"zh":""
 		},
 		{
 			"id":73,
@@ -664,8 +591,7 @@
 			"length":16,
 			"jpn":"ベニイロカラカル",
 			"eng":"Crimson Caracal",
-			"zh":"",
-			"exten":"0004"
+			"zh":""
 		},
 		{
 			"id":74,
@@ -673,8 +599,7 @@
 			"length":16,
 			"jpn":"アイアンドングリ",
 			"eng":"Steel Acorn",
-			"zh":"",
-			"exten":"1104"
+			"zh":""
 		},
 		{
 			"id":75,
@@ -682,8 +607,7 @@
 			"length":8,
 			"jpn":"氷雪リス",
 			"eng":"Ice Squirrel",
-			"zh":"",
-			"exten":"1a04"
+			"zh":""
 		},
 		{
 			"id":76,
@@ -691,8 +615,7 @@
 			"length":16,
 			"jpn":"バッドプディング",
 			"eng":"Horned Gel",
-			"zh":"",
-			"exten":"2b04"
+			"zh":""
 		},
 		{
 			"id":77,
@@ -700,8 +623,7 @@
 			"length":12,
 			"jpn":"クリフゴート",
 			"eng":"Cliff Goat",
-			"zh":"",
-			"exten":"3804"
+			"zh":""
 		},
 		{
 			"id":78,
@@ -709,8 +631,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4104"
+			"zh":""
 		},
 		{
 			"id":79,
@@ -718,8 +639,7 @@
 			"length":12,
 			"jpn":"オオナナフシ",
 			"eng":"Bladed Phasmid",
-			"zh":"",
-			"exten":"4e04"
+			"zh":""
 		},
 		{
 			"id":80,
@@ -727,8 +647,7 @@
 			"length":10,
 			"jpn":"暴れる石馬",
 			"eng":"Stone Steed",
-			"zh":"",
-			"exten":"5904"
+			"zh":""
 		},
 		{
 			"id":81,
@@ -736,8 +655,7 @@
 			"length":12,
 			"jpn":"ワイルドボア",
 			"eng":"Battering Boar",
-			"zh":"",
-			"exten":"6604"
+			"zh":""
 		},
 		{
 			"id":82,
@@ -745,8 +663,7 @@
 			"length":12,
 			"jpn":"打擲の剛撃手",
 			"eng":"Clawed Fiend",
-			"zh":"",
-			"exten":"7304"
+			"zh":""
 		},
 		{
 			"id":83,
@@ -754,8 +671,7 @@
 			"length":14,
 			"jpn":"ミラーアイアイ",
 			"eng":"Mimic Aye-Aye",
-			"zh":"",
-			"exten":"8204"
+			"zh":""
 		},
 		{
 			"id":84,
@@ -763,8 +679,7 @@
 			"length":12,
 			"jpn":"スターダスト",
 			"eng":"Stardust",
-			"zh":"",
-			"exten":"8f04"
+			"zh":""
 		},
 		{
 			"id":85,
@@ -772,8 +687,7 @@
 			"length":12,
 			"jpn":"アシュラゼミ",
 			"eng":"Asura Cicada",
-			"zh":"",
-			"exten":"9c04"
+			"zh":""
 		},
 		{
 			"id":86,
@@ -781,8 +695,7 @@
 			"length":12,
 			"jpn":"栄耀の潜航者",
 			"eng":"Prosperous Gel",
-			"zh":"",
-			"exten":"a904"
+			"zh":""
 		},
 		{
 			"id":87,
@@ -790,8 +703,7 @@
 			"length":12,
 			"jpn":"ナイトレディ",
 			"eng":"Night Witch",
-			"zh":"",
-			"exten":"b604"
+			"zh":""
 		},
 		{
 			"id":88,
@@ -799,8 +711,7 @@
 			"length":14,
 			"jpn":"トリックオウム",
 			"eng":"Wily Parrot",
-			"zh":"",
-			"exten":"c504"
+			"zh":""
 		},
 		{
 			"id":89,
@@ -808,8 +719,7 @@
 			"length":12,
 			"jpn":"グリムドッグ",
 			"eng":"Cerberus",
-			"zh":"",
-			"exten":"d204"
+			"zh":""
 		},
 		{
 			"id":90,
@@ -817,8 +727,7 @@
 			"length":12,
 			"jpn":"ゼノライオン",
 			"eng":"Xenolion",
-			"zh":"",
-			"exten":"df04"
+			"zh":""
 		},
 		{
 			"id":91,
@@ -826,8 +735,7 @@
 			"length":8,
 			"jpn":"火炎リス",
 			"eng":"Fire Squirrel",
-			"zh":"",
-			"exten":"e804"
+			"zh":""
 		},
 		{
 			"id":92,
@@ -835,8 +743,7 @@
 			"length":16,
 			"jpn":"ビクトリードッグ",
 			"eng":"Camo Dog",
-			"zh":"",
-			"exten":"f904"
+			"zh":""
 		},
 		{
 			"id":93,
@@ -844,8 +751,7 @@
 			"length":16,
 			"jpn":"ドゥームホイール",
 			"eng":"Doom Wheel",
-			"zh":"",
-			"exten":"0a05"
+			"zh":""
 		},
 		{
 			"id":94,
@@ -853,8 +759,7 @@
 			"length":12,
 			"jpn":"イビルワーム",
 			"eng":"Dread Worm",
-			"zh":"",
-			"exten":"1705"
+			"zh":""
 		},
 		{
 			"id":95,
@@ -862,8 +767,7 @@
 			"length":10,
 			"jpn":"災いの石馬",
 			"eng":"Hex Steed",
-			"zh":"",
-			"exten":"2205"
+			"zh":""
 		},
 		{
 			"id":96,
@@ -871,8 +775,7 @@
 			"length":16,
 			"jpn":"オオタテナナフシ",
 			"eng":"Shielded Phasmid",
-			"zh":"",
-			"exten":"3305"
+			"zh":""
 		},
 		{
 			"id":97,
@@ -880,8 +783,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3c05"
+			"zh":""
 		},
 		{
 			"id":98,
@@ -889,8 +791,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4505"
+			"zh":""
 		},
 		{
 			"id":99,
@@ -898,8 +799,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4e05"
+			"zh":""
 		},
 		{
 			"id":100,
@@ -907,8 +807,7 @@
 			"length":16,
 			"jpn":"手負いのイノシシ",
 			"eng":"Wounded Boar",
-			"zh":"",
-			"exten":"5f05"
+			"zh":""
 		},
 		{
 			"id":101,
@@ -916,8 +815,7 @@
 			"length":12,
 			"jpn":"傷ついた鋏蛇",
 			"eng":"Hurt Crustacean",
-			"zh":"",
-			"exten":"6c05"
+			"zh":""
 		},
 		{
 			"id":102,
@@ -925,8 +823,7 @@
 			"length":10,
 			"jpn":"虐殺の兇徒",
 			"eng":"Crazed Stinger",
-			"zh":"",
-			"exten":"7705"
+			"zh":""
 		},
 		{
 			"id":103,
@@ -934,8 +831,7 @@
 			"length":14,
 			"jpn":"猛り狂う長鼻猿",
 			"eng":"Enraged Tengu",
-			"zh":"",
-			"exten":"8605"
+			"zh":""
 		},
 		{
 			"id":104,
@@ -943,8 +839,7 @@
 			"length":14,
 			"jpn":"怒りの大モグラ",
 			"eng":"Angry Mole Lord",
-			"zh":"",
-			"exten":"9505"
+			"zh":""
 		},
 		{
 			"id":105,
@@ -952,8 +847,7 @@
 			"length":12,
 			"jpn":"オクタロード",
 			"eng":"Xenolord",
-			"zh":"",
-			"exten":"a205"
+			"zh":""
 		},
 		{
 			"id":106,
@@ -961,8 +855,7 @@
 			"length":12,
 			"jpn":"暴走する巨木",
 			"eng":"Rampaging Roper",
-			"zh":"",
-			"exten":"af05"
+			"zh":""
 		},
 		{
 			"id":107,
@@ -970,8 +863,7 @@
 			"length":16,
 			"jpn":"害意に満ちた亡霊",
 			"eng":"Luring Phantom",
-			"zh":"",
-			"exten":"c005"
+			"zh":""
 		},
 		{
 			"id":108,
@@ -979,8 +871,7 @@
 			"length":14,
 			"jpn":"略奪する槍使い",
 			"eng":"Saurian Looter",
-			"zh":"",
-			"exten":"cf05"
+			"zh":""
 		},
 		{
 			"id":109,
@@ -988,8 +879,7 @@
 			"length":12,
 			"jpn":"強奪する剣士",
 			"eng":"Saurian Bandit",
-			"zh":"",
-			"exten":"dc05"
+			"zh":""
 		},
 		{
 			"id":110,
@@ -997,8 +887,7 @@
 			"length":10,
 			"jpn":"超稲妻リス",
 			"eng":"Megavolt Marmot",
-			"zh":"",
-			"exten":"e705"
+			"zh":""
 		},
 		{
 			"id":111,
@@ -1006,8 +895,7 @@
 			"length":12,
 			"jpn":"貪欲なる首領",
 			"eng":"Saurian Leader",
-			"zh":"",
-			"exten":"f405"
+			"zh":""
 		},
 		{
 			"id":112,
@@ -1015,8 +903,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fd05"
+			"zh":""
 		},
 		{
 			"id":113,
@@ -1024,8 +911,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0606"
+			"zh":""
 		},
 		{
 			"id":114,
@@ -1033,8 +919,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0f06"
+			"zh":""
 		},
 		{
 			"id":115,
@@ -1042,8 +927,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1806"
+			"zh":""
 		},
 		{
 			"id":116,
@@ -1051,8 +935,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2106"
+			"zh":""
 		},
 		{
 			"id":117,
@@ -1060,8 +943,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2a06"
+			"zh":""
 		},
 		{
 			"id":118,
@@ -1069,8 +951,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3306"
+			"zh":""
 		},
 		{
 			"id":119,
@@ -1078,8 +959,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3c06"
+			"zh":""
 		},
 		{
 			"id":120,
@@ -1087,8 +967,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4506"
+			"zh":""
 		},
 		{
 			"id":121,
@@ -1096,8 +975,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4e06"
+			"zh":""
 		},
 		{
 			"id":122,
@@ -1105,8 +983,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5706"
+			"zh":""
 		},
 		{
 			"id":123,
@@ -1114,8 +991,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6006"
+			"zh":""
 		},
 		{
 			"id":124,
@@ -1123,8 +999,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6906"
+			"zh":""
 		},
 		{
 			"id":125,
@@ -1132,8 +1007,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7206"
+			"zh":""
 		},
 		{
 			"id":126,
@@ -1141,8 +1015,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7b06"
+			"zh":""
 		},
 		{
 			"id":127,
@@ -1150,8 +1023,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8406"
+			"zh":""
 		},
 		{
 			"id":128,
@@ -1159,8 +1031,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8d06"
+			"zh":""
 		},
 		{
 			"id":129,
@@ -1168,8 +1039,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9606"
+			"zh":""
 		},
 		{
 			"id":130,
@@ -1177,8 +1047,7 @@
 			"length":14,
 			"jpn":"邪竜（制御用）",
 			"eng":"Evil Dragon",
-			"zh":"",
-			"exten":"a506"
+			"zh":""
 		},
 		{
 			"id":131,
@@ -1186,8 +1055,7 @@
 			"length":4,
 			"jpn":"星喰",
 			"eng":"Star Devourer",
-			"zh":"",
-			"exten":"aa06"
+			"zh":""
 		},
 		{
 			"id":132,
@@ -1195,8 +1063,7 @@
 			"length":14,
 			"jpn":"星喰（制御用）",
 			"eng":"Star Devourer",
-			"zh":"",
-			"exten":"b906"
+			"zh":""
 		},
 		{
 			"id":133,
@@ -1204,8 +1071,7 @@
 			"length":16,
 			"jpn":"ロケットエンジン",
 			"eng":"Rocket Engine",
-			"zh":"",
-			"exten":"ca06"
+			"zh":""
 		},
 		{
 			"id":134,
@@ -1213,8 +1079,7 @@
 			"length":10,
 			"jpn":"機敏の光剣",
 			"eng":"Agile Sword",
-			"zh":"",
-			"exten":"d506"
+			"zh":""
 		},
 		{
 			"id":135,
@@ -1222,8 +1087,7 @@
 			"length":12,
 			"jpn":"大振りの光剣",
 			"eng":"Towering Sword",
-			"zh":"",
-			"exten":"e206"
+			"zh":""
 		},
 		{
 			"id":136,
@@ -1231,8 +1095,7 @@
 			"length":14,
 			"jpn":"サウンドカノン",
 			"eng":"Sound Cannon",
-			"zh":"",
-			"exten":"f106"
+			"zh":""
 		},
 		{
 			"id":137,
@@ -1240,8 +1103,7 @@
 			"length":16,
 			"jpn":"エナジーチューブ",
 			"eng":"Energy Tube",
-			"zh":"",
-			"exten":"0207"
+			"zh":""
 		},
 		{
 			"id":138,
@@ -1249,8 +1111,7 @@
 			"length":16,
 			"jpn":"ボムズチャンバー",
 			"eng":"Bomb Chamber",
-			"zh":"",
-			"exten":"1307"
+			"zh":""
 		},
 		{
 			"id":139,
@@ -1258,8 +1119,7 @@
 			"length":16,
 			"jpn":"バインドスネーク",
 			"eng":"Bind Snake",
-			"zh":"",
-			"exten":"2407"
+			"zh":""
 		},
 		{
 			"id":140,
@@ -1267,8 +1127,7 @@
 			"length":16,
 			"jpn":"デッドソードマン",
 			"eng":"Undead Fencer",
-			"zh":"",
-			"exten":"3507"
+			"zh":""
 		},
 		{
 			"id":141,
@@ -1276,8 +1135,7 @@
 			"length":14,
 			"jpn":"デッドボウマン",
 			"eng":"Undead Archer",
-			"zh":"",
-			"exten":"4407"
+			"zh":""
 		},
 		{
 			"id":142,
@@ -1285,8 +1143,7 @@
 			"length":14,
 			"jpn":"ゴーレムボディ",
 			"eng":"Golem Body",
-			"zh":"",
-			"exten":"5307"
+			"zh":""
 		},
 		{
 			"id":143,
@@ -1294,8 +1151,7 @@
 			"length":14,
 			"jpn":"ゴーレムヘッド",
 			"eng":"Golem Head",
-			"zh":"",
-			"exten":"6207"
+			"zh":""
 		},
 		{
 			"id":144,
@@ -1303,8 +1159,7 @@
 			"length":14,
 			"jpn":"ゴーレムアーム",
 			"eng":"Golem Arm",
-			"zh":"",
-			"exten":"7107"
+			"zh":""
 		},
 		{
 			"id":145,
@@ -1312,8 +1167,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7a07"
+			"zh":""
 		},
 		{
 			"id":146,
@@ -1321,8 +1175,7 @@
 			"length":14,
 			"jpn":"ゴーレムレッグ",
 			"eng":"Golem Leg",
-			"zh":"",
-			"exten":"8907"
+			"zh":""
 		},
 		{
 			"id":147,
@@ -1330,8 +1183,7 @@
 			"length":16,
 			"jpn":"シロチビゴーレム",
 			"eng":"White Golem",
-			"zh":"",
-			"exten":"9a07"
+			"zh":""
 		},
 		{
 			"id":148,
@@ -1339,8 +1191,7 @@
 			"length":16,
 			"jpn":"アカチビゴーレム",
 			"eng":"Red Golem",
-			"zh":"",
-			"exten":"ab07"
+			"zh":""
 		},
 		{
 			"id":149,
@@ -1348,8 +1199,7 @@
 			"length":16,
 			"jpn":"クロチビゴーレム",
 			"eng":"Black Golem",
-			"zh":"",
-			"exten":"bc07"
+			"zh":""
 		},
 		{
 			"id":150,
@@ -1357,8 +1207,7 @@
 			"length":14,
 			"jpn":"キチビゴーレム",
 			"eng":"Yellow Golem",
-			"zh":"",
-			"exten":"cb07"
+			"zh":""
 		},
 		{
 			"id":151,
@@ -1366,8 +1215,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d407"
+			"zh":""
 		},
 		{
 			"id":152,
@@ -1375,8 +1223,7 @@
 			"length":8,
 			"jpn":"ゴーレム",
 			"eng":"Amalgolem",
-			"zh":"",
-			"exten":"dd07"
+			"zh":""
 		},
 		{
 			"id":153,
@@ -1384,8 +1231,7 @@
 			"length":10,
 			"jpn":"ヒポグリフ",
 			"eng":"Hippogryph",
-			"zh":"",
-			"exten":"e807"
+			"zh":""
 		},
 		{
 			"id":154,
@@ -1393,8 +1239,7 @@
 			"length":16,
 			"jpn":"アンデッドキング",
 			"eng":"Undead King",
-			"zh":"",
-			"exten":"f907"
+			"zh":""
 		},
 		{
 			"id":155,
@@ -1402,8 +1247,7 @@
 			"length":6,
 			"jpn":"水晶竜",
 			"eng":"Crystal Dragon",
-			"zh":"",
-			"exten":"0008"
+			"zh":""
 		},
 		{
 			"id":156,
@@ -1411,8 +1255,7 @@
 			"length":16,
 			"jpn":"幽冥なる原初の主",
 			"eng":"Eternal Tyrant",
-			"zh":"",
-			"exten":"1108"
+			"zh":""
 		},
 		{
 			"id":157,
@@ -1420,8 +1263,7 @@
 			"length":4,
 			"jpn":"星喰",
 			"eng":"Star Devourer",
-			"zh":"",
-			"exten":"1608"
+			"zh":""
 		},
 		{
 			"id":158,
@@ -1429,8 +1271,7 @@
 			"length":12,
 			"jpn":"オリファント",
 			"eng":"Primordiphant",
-			"zh":"",
-			"exten":"2308"
+			"zh":""
 		},
 		{
 			"id":159,
@@ -1438,8 +1279,7 @@
 			"length":6,
 			"jpn":"ラミア",
 			"eng":"Lamia",
-			"zh":"",
-			"exten":"2a08"
+			"zh":""
 		},
 		{
 			"id":160,
@@ -1447,8 +1287,7 @@
 			"length":10,
 			"jpn":"ドリアード",
 			"eng":"Dryad",
-			"zh":"",
-			"exten":"3508"
+			"zh":""
 		},
 		{
 			"id":161,
@@ -1456,8 +1295,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3e08"
+			"zh":""
 		},
 		{
 			"id":162,
@@ -1465,8 +1303,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4708"
+			"zh":""
 		},
 		{
 			"id":163,
@@ -1474,8 +1311,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5008"
+			"zh":""
 		},
 		{
 			"id":164,
@@ -1483,8 +1319,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5908"
+			"zh":""
 		},
 		{
 			"id":165,
@@ -1492,8 +1327,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6208"
+			"zh":""
 		},
 		{
 			"id":166,
@@ -1501,8 +1335,7 @@
 			"length":6,
 			"jpn":"水晶竜",
 			"eng":"Crystal Dragon",
-			"zh":"",
-			"exten":"6908"
+			"zh":""
 		},
 		{
 			"id":167,
@@ -1510,8 +1343,7 @@
 			"length":16,
 			"jpn":"アンデッドキング",
 			"eng":"Undead King",
-			"zh":"",
-			"exten":"7a08"
+			"zh":""
 		},
 		{
 			"id":168,
@@ -1519,8 +1351,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8308"
+			"zh":""
 		},
 		{
 			"id":169,
@@ -1528,8 +1359,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8c08"
+			"zh":""
 		},
 		{
 			"id":170,
@@ -1537,8 +1367,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9508"
+			"zh":""
 		},
 		{
 			"id":171,
@@ -1546,8 +1375,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9e08"
+			"zh":""
 		},
 		{
 			"id":172,
@@ -1555,8 +1383,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a708"
+			"zh":""
 		},
 		{
 			"id":173,
@@ -1564,8 +1391,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b008"
+			"zh":""
 		},
 		{
 			"id":174,
@@ -1573,8 +1399,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b908"
+			"zh":""
 		},
 		{
 			"id":175,
@@ -1582,8 +1407,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c208"
+			"zh":""
 		},
 		{
 			"id":176,
@@ -1591,8 +1415,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cb08"
+			"zh":""
 		},
 		{
 			"id":177,
@@ -1600,8 +1423,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d408"
+			"zh":""
 		},
 		{
 			"id":178,
@@ -1609,8 +1431,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"dd08"
+			"zh":""
 		},
 		{
 			"id":179,
@@ -1618,8 +1439,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e608"
+			"zh":""
 		},
 		{
 			"id":180,
@@ -1627,8 +1447,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ef08"
+			"zh":""
 		},
 		{
 			"id":181,
@@ -1636,8 +1455,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f808"
+			"zh":""
 		},
 		{
 			"id":182,
@@ -1645,8 +1463,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0109"
+			"zh":""
 		},
 		{
 			"id":183,
@@ -1654,8 +1471,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0a09"
+			"zh":""
 		},
 		{
 			"id":184,
@@ -1663,8 +1479,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1309"
+			"zh":""
 		},
 		{
 			"id":185,
@@ -1672,8 +1487,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1c09"
+			"zh":""
 		},
 		{
 			"id":186,
@@ -1681,8 +1495,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2509"
+			"zh":""
 		},
 		{
 			"id":187,
@@ -1690,8 +1503,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2e09"
+			"zh":""
 		},
 		{
 			"id":188,
@@ -1699,8 +1511,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3709"
+			"zh":""
 		},
 		{
 			"id":189,
@@ -1708,8 +1519,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4009"
+			"zh":""
 		},
 		{
 			"id":190,
@@ -1717,8 +1527,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4909"
+			"zh":""
 		},
 		{
 			"id":191,
@@ -1726,8 +1535,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5209"
+			"zh":""
 		},
 		{
 			"id":192,
@@ -1735,8 +1543,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5b09"
+			"zh":""
 		},
 		{
 			"id":193,
@@ -1744,8 +1551,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6409"
+			"zh":""
 		},
 		{
 			"id":194,
@@ -1753,8 +1559,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6d09"
+			"zh":""
 		},
 		{
 			"id":195,
@@ -1762,8 +1567,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7609"
+			"zh":""
 		},
 		{
 			"id":196,
@@ -1771,8 +1575,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7f09"
+			"zh":""
 		},
 		{
 			"id":197,
@@ -1780,8 +1583,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8809"
+			"zh":""
 		},
 		{
 			"id":198,
@@ -1789,8 +1591,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9109"
+			"zh":""
 		},
 		{
 			"id":199,
@@ -1798,8 +1599,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9a09"
+			"zh":""
 		},
 		{
 			"id":200,
@@ -1807,8 +1607,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a309"
+			"zh":""
 		},
 		{
 			"id":201,
@@ -1816,8 +1615,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ac09"
+			"zh":""
 		},
 		{
 			"id":202,
@@ -1825,8 +1623,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b509"
+			"zh":""
 		},
 		{
 			"id":203,
@@ -1834,8 +1631,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"be09"
+			"zh":""
 		},
 		{
 			"id":204,
@@ -1843,8 +1639,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c709"
+			"zh":""
 		},
 		{
 			"id":205,
@@ -1852,8 +1647,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d009"
+			"zh":""
 		},
 		{
 			"id":206,
@@ -1861,8 +1655,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d909"
+			"zh":""
 		},
 		{
 			"id":207,
@@ -1870,8 +1663,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e209"
+			"zh":""
 		},
 		{
 			"id":208,
@@ -1879,8 +1671,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"eb09"
+			"zh":""
 		},
 		{
 			"id":209,
@@ -1888,8 +1679,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f409"
+			"zh":""
 		},
 		{
 			"id":210,
@@ -1897,8 +1687,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fd09"
+			"zh":""
 		},
 		{
 			"id":211,
@@ -1906,8 +1695,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"060a"
+			"zh":""
 		},
 		{
 			"id":212,
@@ -1915,8 +1703,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0f0a"
+			"zh":""
 		},
 		{
 			"id":213,
@@ -1924,8 +1711,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"180a"
+			"zh":""
 		},
 		{
 			"id":214,
@@ -1933,8 +1719,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"210a"
+			"zh":""
 		},
 		{
 			"id":215,
@@ -1942,8 +1727,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2a0a"
+			"zh":""
 		},
 		{
 			"id":216,
@@ -1951,8 +1735,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"330a"
+			"zh":""
 		},
 		{
 			"id":217,
@@ -1960,8 +1743,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"3c0a"
+			"zh":""
 		},
 		{
 			"id":218,
@@ -1969,8 +1751,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"450a"
+			"zh":""
 		},
 		{
 			"id":219,
@@ -1978,8 +1759,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4e0a"
+			"zh":""
 		},
 		{
 			"id":220,
@@ -1987,8 +1767,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"570a"
+			"zh":""
 		},
 		{
 			"id":221,
@@ -1996,8 +1775,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"600a"
+			"zh":""
 		},
 		{
 			"id":222,
@@ -2005,8 +1783,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"690a"
+			"zh":""
 		},
 		{
 			"id":223,
@@ -2014,8 +1791,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"720a"
+			"zh":""
 		},
 		{
 			"id":224,
@@ -2023,8 +1799,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"7b0a"
+			"zh":""
 		},
 		{
 			"id":225,
@@ -2032,8 +1807,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"840a"
+			"zh":""
 		},
 		{
 			"id":226,
@@ -2041,8 +1815,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"8d0a"
+			"zh":""
 		},
 		{
 			"id":227,
@@ -2050,8 +1823,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"960a"
+			"zh":""
 		},
 		{
 			"id":228,
@@ -2059,8 +1831,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9f0a"
+			"zh":""
 		},
 		{
 			"id":229,
@@ -2068,8 +1839,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a80a"
+			"zh":""
 		},
 		{
 			"id":230,
@@ -2077,8 +1847,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b10a"
+			"zh":""
 		},
 		{
 			"id":231,
@@ -2086,8 +1855,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ba0a"
+			"zh":""
 		},
 		{
 			"id":232,
@@ -2095,8 +1863,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c30a"
+			"zh":""
 		},
 		{
 			"id":233,
@@ -2104,8 +1871,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"cc0a"
+			"zh":""
 		},
 		{
 			"id":234,
@@ -2113,8 +1879,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d50a"
+			"zh":""
 		},
 		{
 			"id":235,
@@ -2122,8 +1887,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"de0a"
+			"zh":""
 		},
 		{
 			"id":236,
@@ -2131,8 +1895,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e70a"
+			"zh":""
 		},
 		{
 			"id":237,
@@ -2140,8 +1903,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f00a"
+			"zh":""
 		},
 		{
 			"id":238,
@@ -2149,8 +1911,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f90a"
+			"zh":""
 		},
 		{
 			"id":239,
@@ -2158,8 +1919,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"020b"
+			"zh":""
 		},
 		{
 			"id":240,
@@ -2167,8 +1927,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"0b0b"
+			"zh":""
 		},
 		{
 			"id":241,
@@ -2176,8 +1935,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"140b"
+			"zh":""
 		},
 		{
 			"id":242,
@@ -2185,8 +1943,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"1d0b"
+			"zh":""
 		},
 		{
 			"id":243,
@@ -2194,8 +1951,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"260b"
+			"zh":""
 		},
 		{
 			"id":244,
@@ -2203,8 +1959,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"2f0b"
+			"zh":""
 		},
 		{
 			"id":245,
@@ -2212,8 +1967,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"380b"
+			"zh":""
 		},
 		{
 			"id":246,
@@ -2221,8 +1975,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"410b"
+			"zh":""
 		},
 		{
 			"id":247,
@@ -2230,8 +1983,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"4a0b"
+			"zh":""
 		},
 		{
 			"id":248,
@@ -2239,8 +1991,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"530b"
+			"zh":""
 		},
 		{
 			"id":249,
@@ -2248,8 +1999,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"5c0b"
+			"zh":""
 		},
 		{
 			"id":250,
@@ -2257,8 +2007,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"650b"
+			"zh":""
 		},
 		{
 			"id":251,
@@ -2266,8 +2015,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"6e0b"
+			"zh":""
 		},
 		{
 			"id":252,
@@ -2275,8 +2023,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"770b"
+			"zh":""
 		},
 		{
 			"id":253,
@@ -2284,8 +2031,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"800b"
+			"zh":""
 		},
 		{
 			"id":254,
@@ -2293,8 +2039,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"890b"
+			"zh":""
 		},
 		{
 			"id":255,
@@ -2302,8 +2047,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"920b"
+			"zh":""
 		},
 		{
 			"id":256,
@@ -2311,8 +2055,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"9b0b"
+			"zh":""
 		},
 		{
 			"id":257,
@@ -2320,8 +2063,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"a40b"
+			"zh":""
 		},
 		{
 			"id":258,
@@ -2329,8 +2071,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ad0b"
+			"zh":""
 		},
 		{
 			"id":259,
@@ -2338,8 +2079,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"b60b"
+			"zh":""
 		},
 		{
 			"id":260,
@@ -2347,8 +2087,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"bf0b"
+			"zh":""
 		},
 		{
 			"id":261,
@@ -2356,8 +2095,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"c80b"
+			"zh":""
 		},
 		{
 			"id":262,
@@ -2365,8 +2103,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"d10b"
+			"zh":""
 		},
 		{
 			"id":263,
@@ -2374,8 +2111,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"da0b"
+			"zh":""
 		},
 		{
 			"id":264,
@@ -2383,8 +2119,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"e30b"
+			"zh":""
 		},
 		{
 			"id":265,
@@ -2392,8 +2127,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"ec0b"
+			"zh":""
 		},
 		{
 			"id":266,
@@ -2401,8 +2135,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"f50b"
+			"zh":""
 		},
 		{
 			"id":267,
@@ -2410,8 +2143,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"fe0b"
+			"zh":""
 		},
 		{
 			"id":268,
@@ -2419,8 +2151,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"070c"
+			"zh":""
 		},
 		{
 			"id":269,
@@ -2428,8 +2159,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"100c"
+			"zh":""
 		},
 		{
 			"id":270,
@@ -2437,8 +2167,7 @@
 			"length":8,
 			"jpn":"ＮＯＮＥ",
 			"eng":"NONE",
-			"zh":"",
-			"exten":"190c"
+			"zh":""
 		}
 	]
 }

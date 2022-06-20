@@ -7,8 +7,7 @@
 			"length":8,
 			"jpn":"ブランク",
 			"eng":"Blank",
-			"zh":"",
-			"exten":"0900"
+			"zh":""
 		},
 		{
 			"id":1,
@@ -16,8 +15,7 @@
 			"length":10,
 			"jpn":"大地の恩寵",
 			"eng":"Gaia’s Grace",
-			"zh":"",
-			"exten":"1400"
+			"zh":""
 		},
 		{
 			"id":2,
@@ -25,8 +23,7 @@
 			"length":14,
 			"jpn":"重装マスタリー",
 			"eng":"Bulwark",
-			"zh":"",
-			"exten":"2300"
+			"zh":""
 		},
 		{
 			"id":3,
@@ -34,8 +31,7 @@
 			"length":10,
 			"jpn":"樹海探索術",
 			"eng":"Forage Skill",
-			"zh":"",
-			"exten":"2e00"
+			"zh":""
 		},
 		{
 			"id":4,
@@ -43,8 +39,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":"",
-			"exten":"3500"
+			"zh":""
 		},
 		{
 			"id":5,
@@ -52,8 +47,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":"",
-			"exten":"4200"
+			"zh":""
 		},
 		{
 			"id":6,
@@ -61,8 +55,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":"",
-			"exten":"4900"
+			"zh":""
 		},
 		{
 			"id":7,
@@ -70,8 +63,7 @@
 			"length":4,
 			"jpn":"体術",
 			"eng":"Nimble Arts",
-			"zh":"",
-			"exten":"4e00"
+			"zh":""
 		},
 		{
 			"id":8,
@@ -79,8 +71,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":"",
-			"exten":"5f00"
+			"zh":""
 		},
 		{
 			"id":9,
@@ -88,8 +79,7 @@
 			"length":10,
 			"jpn":"樹海採集術",
 			"eng":"Gathering Skill",
-			"zh":"",
-			"exten":"6a00"
+			"zh":""
 		},
 		{
 			"id":10,
@@ -97,8 +87,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":"",
-			"exten":"7300"
+			"zh":""
 		},
 		{
 			"id":11,
@@ -106,8 +95,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":"",
-			"exten":"7c00"
+			"zh":""
 		},
 		{
 			"id":12,
@@ -115,8 +103,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":"",
-			"exten":"8500"
+			"zh":""
 		},
 		{
 			"id":13,
@@ -124,8 +111,7 @@
 			"length":10,
 			"jpn":"大地の寵愛",
 			"eng":"Gaia’s Gift",
-			"zh":"",
-			"exten":"9000"
+			"zh":""
 		},
 		{
 			"id":14,
@@ -133,8 +119,7 @@
 			"length":6,
 			"jpn":"解剖学",
 			"eng":"Anatomy",
-			"zh":"",
-			"exten":"9700"
+			"zh":""
 		},
 		{
 			"id":15,
@@ -142,8 +127,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":"",
-			"exten":"9e00"
+			"zh":""
 		},
 		{
 			"id":16,
@@ -151,8 +135,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":"",
-			"exten":"a900"
+			"zh":""
 		},
 		{
 			"id":17,
@@ -160,8 +143,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":"",
-			"exten":"b800"
+			"zh":""
 		},
 		{
 			"id":18,
@@ -169,8 +151,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":"",
-			"exten":"c100"
+			"zh":""
 		},
 		{
 			"id":19,
@@ -178,8 +159,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":"",
-			"exten":"d000"
+			"zh":""
 		},
 		{
 			"id":20,
@@ -187,8 +167,7 @@
 			"length":8,
 			"jpn":"祝福の光",
 			"eng":"Blessing",
-			"zh":"",
-			"exten":"d900"
+			"zh":""
 		},
 		{
 			"id":21,
@@ -196,8 +175,7 @@
 			"length":8,
 			"jpn":"簡易蘇生",
 			"eng":"Resuscitate",
-			"zh":"",
-			"exten":"e200"
+			"zh":""
 		},
 		{
 			"id":22,
@@ -205,8 +183,7 @@
 			"length":14,
 			"jpn":"トライシールド",
 			"eng":"Tri-Shield",
-			"zh":"",
-			"exten":"f100"
+			"zh":""
 		},
 		{
 			"id":23,
@@ -214,8 +191,7 @@
 			"length":4,
 			"jpn":"黒霧",
 			"eng":"Black Mist",
-			"zh":"",
-			"exten":"f600"
+			"zh":""
 		},
 		{
 			"id":24,
@@ -223,8 +199,7 @@
 			"length":10,
 			"jpn":"不屈の闘志",
 			"eng":"Determination",
-			"zh":"",
-			"exten":"0101"
+			"zh":""
 		},
 		{
 			"id":25,
@@ -232,8 +207,7 @@
 			"length":8,
 			"jpn":"月の恩寵",
 			"eng":"Lunar Grace",
-			"zh":"",
-			"exten":"0a01"
+			"zh":""
 		},
 		{
 			"id":26,
@@ -241,8 +215,7 @@
 			"length":4,
 			"jpn":"伐採",
 			"eng":"Chop",
-			"zh":"",
-			"exten":"0f01"
+			"zh":""
 		},
 		{
 			"id":27,
@@ -250,8 +223,7 @@
 			"length":8,
 			"jpn":"魔力感知",
 			"eng":"Detect Mana",
-			"zh":"",
-			"exten":"1801"
+			"zh":""
 		},
 		{
 			"id":28,
@@ -259,8 +231,7 @@
 			"length":6,
 			"jpn":"解剖学",
 			"eng":"Anatomy",
-			"zh":"",
-			"exten":"1f01"
+			"zh":""
 		},
 		{
 			"id":29,
@@ -268,8 +239,7 @@
 			"length":14,
 			"jpn":"ナイトビジョン",
 			"eng":"Night Vision",
-			"zh":"",
-			"exten":"2e01"
+			"zh":""
 		},
 		{
 			"id":30,
@@ -277,8 +247,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":"",
-			"exten":"3501"
+			"zh":""
 		},
 		{
 			"id":31,
@@ -286,8 +255,7 @@
 			"length":8,
 			"jpn":"魔力付与",
 			"eng":"Imbue",
-			"zh":"",
-			"exten":"3e01"
+			"zh":""
 		},
 		{
 			"id":32,
@@ -295,8 +263,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":"",
-			"exten":"4f01"
+			"zh":""
 		},
 		{
 			"id":33,
@@ -304,8 +271,7 @@
 			"length":10,
 			"jpn":"無我の結界",
 			"eng":"Anatta Barrier",
-			"zh":"",
-			"exten":"5a01"
+			"zh":""
 		},
 		{
 			"id":34,
@@ -313,8 +279,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":"",
-			"exten":"6301"
+			"zh":""
 		},
 		{
 			"id":35,
@@ -322,8 +287,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":"",
-			"exten":"6c01"
+			"zh":""
 		},
 		{
 			"id":36,
@@ -331,8 +295,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":"",
-			"exten":"7501"
+			"zh":""
 		},
 		{
 			"id":37,
@@ -340,8 +303,7 @@
 			"length":8,
 			"jpn":"月の寵愛",
 			"eng":"Lunar Gift",
-			"zh":"",
-			"exten":"7e01"
+			"zh":""
 		},
 		{
 			"id":38,
@@ -349,8 +311,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":"",
-			"exten":"8501"
+			"zh":""
 		},
 		{
 			"id":39,
@@ -358,8 +319,7 @@
 			"length":4,
 			"jpn":"集中",
 			"eng":"Focus",
-			"zh":"",
-			"exten":"8a01"
+			"zh":""
 		},
 		{
 			"id":40,
@@ -367,8 +327,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":"",
-			"exten":"9501"
+			"zh":""
 		},
 		{
 			"id":41,
@@ -376,8 +335,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":"",
-			"exten":"a401"
+			"zh":""
 		},
 		{
 			"id":42,
@@ -385,8 +343,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":"",
-			"exten":"ad01"
+			"zh":""
 		},
 		{
 			"id":43,
@@ -394,8 +351,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":"",
-			"exten":"bc01"
+			"zh":""
 		},
 		{
 			"id":44,
@@ -403,8 +359,7 @@
 			"length":12,
 			"jpn":"エンチャント",
 			"eng":"Enchant",
-			"zh":"",
-			"exten":"c901"
+			"zh":""
 		},
 		{
 			"id":45,
@@ -412,8 +367,7 @@
 			"length":16,
 			"jpn":"パラダイムシフト",
 			"eng":"Game Changer",
-			"zh":"",
-			"exten":"da01"
+			"zh":""
 		},
 		{
 			"id":46,
@@ -421,8 +375,7 @@
 			"length":14,
 			"jpn":"カースマジック",
 			"eng":"Hex",
-			"zh":"",
-			"exten":"e901"
+			"zh":""
 		},
 		{
 			"id":47,
@@ -430,8 +383,7 @@
 			"length":16,
 			"jpn":"トリプルマジック",
 			"eng":"Tri-Magic",
-			"zh":"",
-			"exten":"fa01"
+			"zh":""
 		},
 		{
 			"id":48,
@@ -439,8 +391,7 @@
 			"length":16,
 			"jpn":"チェーンブラスト",
 			"eng":"Chain Blast",
-			"zh":"",
-			"exten":"0b02"
+			"zh":""
 		},
 		{
 			"id":49,
@@ -448,8 +399,7 @@
 			"length":10,
 			"jpn":"戦塵の恩寵",
 			"eng":"Ares’ Grace",
-			"zh":"",
-			"exten":"1602"
+			"zh":""
 		},
 		{
 			"id":50,
@@ -457,8 +407,7 @@
 			"length":6,
 			"jpn":"狩猟術",
 			"eng":"Hunting Skill",
-			"zh":"",
-			"exten":"1d02"
+			"zh":""
 		},
 		{
 			"id":51,
@@ -466,8 +415,7 @@
 			"length":4,
 			"jpn":"採掘",
 			"eng":"Mine",
-			"zh":"",
-			"exten":"2202"
+			"zh":""
 		},
 		{
 			"id":52,
@@ -475,8 +423,7 @@
 			"length":4,
 			"jpn":"軽業",
 			"eng":"Reflexes",
-			"zh":"",
-			"exten":"2702"
+			"zh":""
 		},
 		{
 			"id":53,
@@ -484,8 +431,7 @@
 			"length":4,
 			"jpn":"警戒",
 			"eng":"Precaution",
-			"zh":"",
-			"exten":"2c02"
+			"zh":""
 		},
 		{
 			"id":54,
@@ -493,8 +439,7 @@
 			"length":4,
 			"jpn":"力技",
 			"eng":"Brute Strength",
-			"zh":"",
-			"exten":"3102"
+			"zh":""
 		},
 		{
 			"id":55,
@@ -502,8 +447,7 @@
 			"length":10,
 			"jpn":"樹海探索術",
 			"eng":"Forage Skill",
-			"zh":"",
-			"exten":"3c02"
+			"zh":""
 		},
 		{
 			"id":56,
@@ -511,8 +455,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":"",
-			"exten":"4902"
+			"zh":""
 		},
 		{
 			"id":57,
@@ -520,8 +463,7 @@
 			"length":4,
 			"jpn":"心眼",
 			"eng":"Third Eye",
-			"zh":"",
-			"exten":"4e02"
+			"zh":""
 		},
 		{
 			"id":58,
@@ -529,8 +471,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":"",
-			"exten":"5702"
+			"zh":""
 		},
 		{
 			"id":59,
@@ -538,8 +479,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":"",
-			"exten":"6002"
+			"zh":""
 		},
 		{
 			"id":60,
@@ -547,8 +487,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":"",
-			"exten":"6902"
+			"zh":""
 		},
 		{
 			"id":61,
@@ -556,8 +495,7 @@
 			"length":10,
 			"jpn":"戦塵の寵愛",
 			"eng":"Ares’ Gift",
-			"zh":"",
-			"exten":"7402"
+			"zh":""
 		},
 		{
 			"id":62,
@@ -565,8 +503,7 @@
 			"length":14,
 			"jpn":"重装マスタリー",
 			"eng":"Bulwark",
-			"zh":"",
-			"exten":"8302"
+			"zh":""
 		},
 		{
 			"id":63,
@@ -574,8 +511,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":"",
-			"exten":"8a02"
+			"zh":""
 		},
 		{
 			"id":64,
@@ -583,8 +519,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":"",
-			"exten":"9502"
+			"zh":""
 		},
 		{
 			"id":65,
@@ -592,8 +527,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":"",
-			"exten":"a402"
+			"zh":""
 		},
 		{
 			"id":66,
@@ -601,8 +535,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":"",
-			"exten":"ad02"
+			"zh":""
 		},
 		{
 			"id":67,
@@ -610,8 +543,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":"",
-			"exten":"bc02"
+			"zh":""
 		},
 		{
 			"id":68,
@@ -619,8 +551,7 @@
 			"length":6,
 			"jpn":"大振り",
 			"eng":"Wide Swing",
-			"zh":"",
-			"exten":"c302"
+			"zh":""
 		},
 		{
 			"id":69,
@@ -628,8 +559,7 @@
 			"length":8,
 			"jpn":"気魄の楔",
 			"eng":"Binding Force",
-			"zh":"",
-			"exten":"cc02"
+			"zh":""
 		},
 		{
 			"id":70,
@@ -637,8 +567,7 @@
 			"length":14,
 			"jpn":"アタックヒール",
 			"eng":"Life Drain",
-			"zh":"",
-			"exten":"db02"
+			"zh":""
 		},
 		{
 			"id":71,
@@ -646,8 +575,7 @@
 			"length":16,
 			"jpn":"トリプルアタック",
 			"eng":"Tri-Attack",
-			"zh":"",
-			"exten":"ec02"
+			"zh":""
 		},
 		{
 			"id":72,
@@ -655,8 +583,7 @@
 			"length":8,
 			"jpn":"一斉攻撃",
 			"eng":"All-out Attack",
-			"zh":"",
-			"exten":"f502"
+			"zh":""
 		},
 		{
 			"id":73,
@@ -664,8 +591,7 @@
 			"length":8,
 			"jpn":"風の恩寵",
 			"eng":"Zephyr’s Grace",
-			"zh":"",
-			"exten":"fe02"
+			"zh":""
 		},
 		{
 			"id":74,
@@ -673,8 +599,7 @@
 			"length":4,
 			"jpn":"採取",
 			"eng":"Take",
-			"zh":"",
-			"exten":"0303"
+			"zh":""
 		},
 		{
 			"id":75,
@@ -682,8 +607,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":"",
-			"exten":"1403"
+			"zh":""
 		},
 		{
 			"id":76,
@@ -691,8 +615,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":"",
-			"exten":"1b03"
+			"zh":""
 		},
 		{
 			"id":77,
@@ -700,8 +623,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":"",
-			"exten":"2803"
+			"zh":""
 		},
 		{
 			"id":78,
@@ -709,8 +631,7 @@
 			"length":6,
 			"jpn":"薬草学",
 			"eng":"Herbology",
-			"zh":"",
-			"exten":"2f03"
+			"zh":""
 		},
 		{
 			"id":79,
@@ -718,8 +639,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":"",
-			"exten":"3603"
+			"zh":""
 		},
 		{
 			"id":80,
@@ -727,8 +647,7 @@
 			"length":10,
 			"jpn":"無我の結界",
 			"eng":"Anatta Barrier",
-			"zh":"",
-			"exten":"4103"
+			"zh":""
 		},
 		{
 			"id":81,
@@ -736,8 +655,7 @@
 			"length":4,
 			"jpn":"軽業",
 			"eng":"Reflexes",
-			"zh":"",
-			"exten":"4603"
+			"zh":""
 		},
 		{
 			"id":82,
@@ -745,8 +663,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":"",
-			"exten":"4f03"
+			"zh":""
 		},
 		{
 			"id":83,
@@ -754,8 +671,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":"",
-			"exten":"5803"
+			"zh":""
 		},
 		{
 			"id":84,
@@ -763,8 +679,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":"",
-			"exten":"6103"
+			"zh":""
 		},
 		{
 			"id":85,
@@ -772,8 +687,7 @@
 			"length":8,
 			"jpn":"風の寵愛",
 			"eng":"Zephyr’s Gift",
-			"zh":"",
-			"exten":"6a03"
+			"zh":""
 		},
 		{
 			"id":86,
@@ -781,8 +695,7 @@
 			"length":6,
 			"jpn":"値切り",
 			"eng":"Haggle",
-			"zh":"",
-			"exten":"7103"
+			"zh":""
 		},
 		{
 			"id":87,
@@ -790,8 +703,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":"",
-			"exten":"7803"
+			"zh":""
 		},
 		{
 			"id":88,
@@ -799,8 +711,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":"",
-			"exten":"8303"
+			"zh":""
 		},
 		{
 			"id":89,
@@ -808,8 +719,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":"",
-			"exten":"9203"
+			"zh":""
 		},
 		{
 			"id":90,
@@ -817,8 +727,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":"",
-			"exten":"9b03"
+			"zh":""
 		},
 		{
 			"id":91,
@@ -826,8 +735,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":"",
-			"exten":"aa03"
+			"zh":""
 		},
 		{
 			"id":92,
@@ -835,8 +743,7 @@
 			"length":10,
 			"jpn":"守備の号令",
 			"eng":"Guard Order",
-			"zh":"",
-			"exten":"b503"
+			"zh":""
 		},
 		{
 			"id":93,
@@ -844,8 +751,7 @@
 			"length":8,
 			"jpn":"電光石火",
 			"eng":"Superspeed",
-			"zh":"",
-			"exten":"be03"
+			"zh":""
 		},
 		{
 			"id":94,
@@ -853,8 +759,7 @@
 			"length":8,
 			"jpn":"禁忌の法",
 			"eng":"Forbidden Rite",
-			"zh":"",
-			"exten":"c703"
+			"zh":""
 		},
 		{
 			"id":95,
@@ -862,8 +767,7 @@
 			"length":14,
 			"jpn":"ヒギエイアの杯",
 			"eng":"Hygieia’s Bowl",
-			"zh":"",
-			"exten":"d603"
+			"zh":""
 		},
 		{
 			"id":96,
@@ -871,8 +775,7 @@
 			"length":12,
 			"jpn":"イージスの盾",
 			"eng":"Aegis Shield",
-			"zh":"",
-			"exten":"e303"
+			"zh":""
 		}
 	]
 }
