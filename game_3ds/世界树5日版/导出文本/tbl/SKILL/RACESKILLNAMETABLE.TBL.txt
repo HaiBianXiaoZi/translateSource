@@ -7,7 +7,7 @@
 			"length":8,
 			"jpn":"ブランク",
 			"eng":"Blank",
-			"zh":""
+			"zh":"空白"
 		},
 		{
 			"id":1,
@@ -15,7 +15,7 @@
 			"length":10,
 			"jpn":"大地の恩寵",
 			"eng":"Gaia’s Grace",
-			"zh":""
+			"zh":"大地的恩宠"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":14,
 			"jpn":"重装マスタリー",
 			"eng":"Bulwark",
-			"zh":""
+			"zh":"重装精通"
 		},
 		{
 			"id":3,
@@ -31,7 +31,7 @@
 			"length":10,
 			"jpn":"樹海探索術",
 			"eng":"Forage Skill",
-			"zh":""
+			"zh":"树海探索术"
 		},
 		{
 			"id":4,
@@ -39,7 +39,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":""
+			"zh":"整顿术"
 		},
 		{
 			"id":5,
@@ -47,7 +47,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":""
+			"zh":"钓鱼"
 		},
 		{
 			"id":6,
@@ -55,7 +55,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":""
+			"zh":"饲养术"
 		},
 		{
 			"id":7,
@@ -63,7 +63,7 @@
 			"length":4,
 			"jpn":"体術",
 			"eng":"Nimble Arts",
-			"zh":""
+			"zh":"体术"
 		},
 		{
 			"id":8,
@@ -71,7 +71,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":""
+			"zh":"节省能量"
 		},
 		{
 			"id":9,
@@ -79,7 +79,7 @@
 			"length":10,
 			"jpn":"樹海採集術",
 			"eng":"Gathering Skill",
-			"zh":""
+			"zh":"树海采集术"
 		},
 		{
 			"id":10,
@@ -87,7 +87,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":""
+			"zh":"肉体强化"
 		},
 		{
 			"id":11,
@@ -95,7 +95,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":""
+			"zh":"走力锻炼"
 		},
 		{
 			"id":12,
@@ -103,7 +103,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":""
+			"zh":"自学自习"
 		},
 		{
 			"id":13,
@@ -111,7 +111,7 @@
 			"length":10,
 			"jpn":"大地の寵愛",
 			"eng":"Gaia’s Gift",
-			"zh":""
+			"zh":"大地的宠爱"
 		},
 		{
 			"id":14,
@@ -119,7 +119,7 @@
 			"length":6,
 			"jpn":"解剖学",
 			"eng":"Anatomy",
-			"zh":""
+			"zh":"解剖学"
 		},
 		{
 			"id":15,
@@ -127,7 +127,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":""
+			"zh":"美食家"
 		},
 		{
 			"id":16,
@@ -135,7 +135,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":""
+			"zh":"分析"
 		},
 		{
 			"id":17,
@@ -143,7 +143,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":""
+			"zh":"双重攻击"
 		},
 		{
 			"id":18,
@@ -151,7 +151,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":""
+			"zh":"全力逃走"
 		},
 		{
 			"id":19,
@@ -159,7 +159,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":""
+			"zh":"法力治疗"
 		},
 		{
 			"id":20,
@@ -167,7 +167,7 @@
 			"length":8,
 			"jpn":"祝福の光",
 			"eng":"Blessing",
-			"zh":""
+			"zh":"祝福之光"
 		},
 		{
 			"id":21,
@@ -175,7 +175,7 @@
 			"length":8,
 			"jpn":"簡易蘇生",
 			"eng":"Resuscitate",
-			"zh":""
+			"zh":"简易复苏"
 		},
 		{
 			"id":22,
@@ -183,7 +183,7 @@
 			"length":14,
 			"jpn":"トライシールド",
 			"eng":"Tri-Shield",
-			"zh":""
+			"zh":"三重屏蔽"
 		},
 		{
 			"id":23,
@@ -191,7 +191,7 @@
 			"length":4,
 			"jpn":"黒霧",
 			"eng":"Black Mist",
-			"zh":""
+			"zh":"黑雾"
 		},
 		{
 			"id":24,
@@ -199,7 +199,7 @@
 			"length":10,
 			"jpn":"不屈の闘志",
 			"eng":"Determination",
-			"zh":""
+			"zh":"不屈的斗志"
 		},
 		{
 			"id":25,
@@ -207,7 +207,7 @@
 			"length":8,
 			"jpn":"月の恩寵",
 			"eng":"Lunar Grace",
-			"zh":""
+			"zh":"月之恩宠"
 		},
 		{
 			"id":26,
@@ -215,7 +215,7 @@
 			"length":4,
 			"jpn":"伐採",
 			"eng":"Chop",
-			"zh":""
+			"zh":"采伐"
 		},
 		{
 			"id":27,
@@ -223,7 +223,7 @@
 			"length":8,
 			"jpn":"魔力感知",
 			"eng":"Detect Mana",
-			"zh":""
+			"zh":"魔力感知"
 		},
 		{
 			"id":28,
@@ -231,7 +231,7 @@
 			"length":6,
 			"jpn":"解剖学",
 			"eng":"Anatomy",
-			"zh":""
+			"zh":"解剖学"
 		},
 		{
 			"id":29,
@@ -239,7 +239,7 @@
 			"length":14,
 			"jpn":"ナイトビジョン",
 			"eng":"Night Vision",
-			"zh":""
+			"zh":"夜视"
 		},
 		{
 			"id":30,
@@ -247,7 +247,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":""
+			"zh":"美食家"
 		},
 		{
 			"id":31,
@@ -255,7 +255,7 @@
 			"length":8,
 			"jpn":"魔力付与",
 			"eng":"Imbue",
-			"zh":""
+			"zh":"赋予魔力"
 		},
 		{
 			"id":32,
@@ -263,7 +263,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":""
+			"zh":"节省能量"
 		},
 		{
 			"id":33,
@@ -271,7 +271,7 @@
 			"length":10,
 			"jpn":"無我の結界",
 			"eng":"Anatta Barrier",
-			"zh":""
+			"zh":"无我的结界"
 		},
 		{
 			"id":34,
@@ -279,7 +279,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":""
+			"zh":"肉体强化"
 		},
 		{
 			"id":35,
@@ -287,7 +287,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":""
+			"zh":"走力锻炼"
 		},
 		{
 			"id":36,
@@ -295,7 +295,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":""
+			"zh":"自学自习"
 		},
 		{
 			"id":37,
@@ -303,7 +303,7 @@
 			"length":8,
 			"jpn":"月の寵愛",
 			"eng":"Lunar Gift",
-			"zh":""
+			"zh":"月之宠爱"
 		},
 		{
 			"id":38,
@@ -311,7 +311,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":""
+			"zh":"饲养术"
 		},
 		{
 			"id":39,
@@ -319,7 +319,7 @@
 			"length":4,
 			"jpn":"集中",
 			"eng":"Focus",
-			"zh":""
+			"zh":"集中"
 		},
 		{
 			"id":40,
@@ -327,7 +327,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":""
+			"zh":"分析"
 		},
 		{
 			"id":41,
@@ -335,7 +335,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":""
+			"zh":"双重攻击"
 		},
 		{
 			"id":42,
@@ -343,7 +343,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":""
+			"zh":"全力逃走"
 		},
 		{
 			"id":43,
@@ -351,7 +351,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":""
+			"zh":"法力治疗"
 		},
 		{
 			"id":44,
@@ -359,7 +359,7 @@
 			"length":12,
 			"jpn":"エンチャント",
 			"eng":"Enchant",
-			"zh":""
+			"zh":"附魔"
 		},
 		{
 			"id":45,
@@ -367,7 +367,7 @@
 			"length":16,
 			"jpn":"パラダイムシフト",
 			"eng":"Game Changer",
-			"zh":""
+			"zh":"模式变更"
 		},
 		{
 			"id":46,
@@ -375,7 +375,7 @@
 			"length":14,
 			"jpn":"カースマジック",
 			"eng":"Hex",
-			"zh":""
+			"zh":"诅咒魔法"
 		},
 		{
 			"id":47,
@@ -383,7 +383,7 @@
 			"length":16,
 			"jpn":"トリプルマジック",
 			"eng":"Tri-Magic",
-			"zh":""
+			"zh":"三重魔法"
 		},
 		{
 			"id":48,
@@ -391,7 +391,7 @@
 			"length":16,
 			"jpn":"チェーンブラスト",
 			"eng":"Chain Blast",
-			"zh":""
+			"zh":"连锁爆破"
 		},
 		{
 			"id":49,
@@ -399,7 +399,7 @@
 			"length":10,
 			"jpn":"戦塵の恩寵",
 			"eng":"Ares’ Grace",
-			"zh":""
+			"zh":"战争的恩宠"
 		},
 		{
 			"id":50,
@@ -407,7 +407,7 @@
 			"length":6,
 			"jpn":"狩猟術",
 			"eng":"Hunting Skill",
-			"zh":""
+			"zh":"狩猎术"
 		},
 		{
 			"id":51,
@@ -415,7 +415,7 @@
 			"length":4,
 			"jpn":"採掘",
 			"eng":"Mine",
-			"zh":""
+			"zh":"采掘"
 		},
 		{
 			"id":52,
@@ -423,7 +423,7 @@
 			"length":4,
 			"jpn":"軽業",
 			"eng":"Reflexes",
-			"zh":""
+			"zh":"轻功"
 		},
 		{
 			"id":53,
@@ -431,7 +431,7 @@
 			"length":4,
 			"jpn":"警戒",
 			"eng":"Precaution",
-			"zh":""
+			"zh":"警戒"
 		},
 		{
 			"id":54,
@@ -439,7 +439,7 @@
 			"length":4,
 			"jpn":"力技",
 			"eng":"Brute Strength",
-			"zh":""
+			"zh":"力技"
 		},
 		{
 			"id":55,
@@ -447,7 +447,7 @@
 			"length":10,
 			"jpn":"樹海探索術",
 			"eng":"Forage Skill",
-			"zh":""
+			"zh":"树海探索术"
 		},
 		{
 			"id":56,
@@ -455,7 +455,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":""
+			"zh":"钓鱼"
 		},
 		{
 			"id":57,
@@ -463,7 +463,7 @@
 			"length":4,
 			"jpn":"心眼",
 			"eng":"Third Eye",
-			"zh":""
+			"zh":"心眼"
 		},
 		{
 			"id":58,
@@ -471,7 +471,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":""
+			"zh":"肉体强化"
 		},
 		{
 			"id":59,
@@ -479,7 +479,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":""
+			"zh":"走力锻炼"
 		},
 		{
 			"id":60,
@@ -487,7 +487,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":""
+			"zh":"自学自习"
 		},
 		{
 			"id":61,
@@ -495,7 +495,7 @@
 			"length":10,
 			"jpn":"戦塵の寵愛",
 			"eng":"Ares’ Gift",
-			"zh":""
+			"zh":"战场上的宠爱"
 		},
 		{
 			"id":62,
@@ -503,7 +503,7 @@
 			"length":14,
 			"jpn":"重装マスタリー",
 			"eng":"Bulwark",
-			"zh":""
+			"zh":"重装精通"
 		},
 		{
 			"id":63,
@@ -511,7 +511,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":""
+			"zh":"整顿术"
 		},
 		{
 			"id":64,
@@ -519,7 +519,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":""
+			"zh":"分析"
 		},
 		{
 			"id":65,
@@ -527,7 +527,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":""
+			"zh":"双重攻击"
 		},
 		{
 			"id":66,
@@ -535,7 +535,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":""
+			"zh":"全力逃走"
 		},
 		{
 			"id":67,
@@ -543,7 +543,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":""
+			"zh":"法力治疗"
 		},
 		{
 			"id":68,
@@ -551,7 +551,7 @@
 			"length":6,
 			"jpn":"大振り",
 			"eng":"Wide Swing",
-			"zh":""
+			"zh":"大振"
 		},
 		{
 			"id":69,
@@ -559,7 +559,7 @@
 			"length":8,
 			"jpn":"気魄の楔",
 			"eng":"Binding Force",
-			"zh":""
+			"zh":"气魄之楔"
 		},
 		{
 			"id":70,
@@ -567,7 +567,7 @@
 			"length":14,
 			"jpn":"アタックヒール",
 			"eng":"Life Drain",
-			"zh":""
+			"zh":"攻击治疗"
 		},
 		{
 			"id":71,
@@ -575,7 +575,7 @@
 			"length":16,
 			"jpn":"トリプルアタック",
 			"eng":"Tri-Attack",
-			"zh":""
+			"zh":"三重攻击"
 		},
 		{
 			"id":72,
@@ -583,7 +583,7 @@
 			"length":8,
 			"jpn":"一斉攻撃",
 			"eng":"All-out Attack",
-			"zh":""
+			"zh":"一齐攻击"
 		},
 		{
 			"id":73,
@@ -591,7 +591,7 @@
 			"length":8,
 			"jpn":"風の恩寵",
 			"eng":"Zephyr’s Grace",
-			"zh":""
+			"zh":"风的恩宠"
 		},
 		{
 			"id":74,
@@ -599,7 +599,7 @@
 			"length":4,
 			"jpn":"採取",
 			"eng":"Take",
-			"zh":""
+			"zh":"采取"
 		},
 		{
 			"id":75,
@@ -607,7 +607,7 @@
 			"length":16,
 			"jpn":"セービングパワー",
 			"eng":"Resilience",
-			"zh":""
+			"zh":"节省能量"
 		},
 		{
 			"id":76,
@@ -615,7 +615,7 @@
 			"length":6,
 			"jpn":"飼育術",
 			"eng":"Animal Care",
-			"zh":""
+			"zh":"饲养术"
 		},
 		{
 			"id":77,
@@ -623,7 +623,7 @@
 			"length":12,
 			"jpn":"フィッシング",
 			"eng":"Fishing",
-			"zh":""
+			"zh":"钓鱼"
 		},
 		{
 			"id":78,
@@ -631,7 +631,7 @@
 			"length":6,
 			"jpn":"薬草学",
 			"eng":"Herbology",
-			"zh":""
+			"zh":"药草学"
 		},
 		{
 			"id":79,
@@ -639,7 +639,7 @@
 			"length":6,
 			"jpn":"整頓術",
 			"eng":"Sorting Skill",
-			"zh":""
+			"zh":"整顿术"
 		},
 		{
 			"id":80,
@@ -647,7 +647,7 @@
 			"length":10,
 			"jpn":"無我の結界",
 			"eng":"Anatta Barrier",
-			"zh":""
+			"zh":"无我的结界"
 		},
 		{
 			"id":81,
@@ -655,7 +655,7 @@
 			"length":4,
 			"jpn":"軽業",
 			"eng":"Reflexes",
-			"zh":""
+			"zh":"轻功"
 		},
 		{
 			"id":82,
@@ -663,7 +663,7 @@
 			"length":8,
 			"jpn":"肉体強化",
 			"eng":"Bodybuilding",
-			"zh":""
+			"zh":"肉体强化"
 		},
 		{
 			"id":83,
@@ -671,7 +671,7 @@
 			"length":8,
 			"jpn":"走力鍛錬",
 			"eng":"Cardio",
-			"zh":""
+			"zh":"走力锻炼"
 		},
 		{
 			"id":84,
@@ -679,7 +679,7 @@
 			"length":8,
 			"jpn":"自学自習",
 			"eng":"Talent",
-			"zh":""
+			"zh":"自学自习"
 		},
 		{
 			"id":85,
@@ -687,7 +687,7 @@
 			"length":8,
 			"jpn":"風の寵愛",
 			"eng":"Zephyr’s Gift",
-			"zh":""
+			"zh":"风之宠爱"
 		},
 		{
 			"id":86,
@@ -695,7 +695,7 @@
 			"length":6,
 			"jpn":"値切り",
 			"eng":"Haggle",
-			"zh":""
+			"zh":"砍价"
 		},
 		{
 			"id":87,
@@ -703,7 +703,7 @@
 			"length":6,
 			"jpn":"グルメ",
 			"eng":"Gourmet",
-			"zh":""
+			"zh":"美食家"
 		},
 		{
 			"id":88,
@@ -711,7 +711,7 @@
 			"length":10,
 			"jpn":"アナライズ",
 			"eng":"Analyze",
-			"zh":""
+			"zh":"分析"
 		},
 		{
 			"id":89,
@@ -719,7 +719,7 @@
 			"length":14,
 			"jpn":"ダブルアタック",
 			"eng":"Double Attack",
-			"zh":""
+			"zh":"双重攻击"
 		},
 		{
 			"id":90,
@@ -727,7 +727,7 @@
 			"length":8,
 			"jpn":"全力逃走",
 			"eng":"Full Retreat",
-			"zh":""
+			"zh":"全力逃走"
 		},
 		{
 			"id":91,
@@ -735,7 +735,7 @@
 			"length":14,
 			"jpn":"マジックヒール",
 			"eng":"Mana Heal",
-			"zh":""
+			"zh":"法力治疗"
 		},
 		{
 			"id":92,
@@ -743,7 +743,7 @@
 			"length":10,
 			"jpn":"守備の号令",
 			"eng":"Guard Order",
-			"zh":""
+			"zh":"守备的号令"
 		},
 		{
 			"id":93,
@@ -751,7 +751,7 @@
 			"length":8,
 			"jpn":"電光石火",
 			"eng":"Superspeed",
-			"zh":""
+			"zh":"电光石火"
 		},
 		{
 			"id":94,
@@ -759,7 +759,7 @@
 			"length":8,
 			"jpn":"禁忌の法",
 			"eng":"Forbidden Rite",
-			"zh":""
+			"zh":"禁忌之法"
 		},
 		{
 			"id":95,
@@ -767,7 +767,7 @@
 			"length":14,
 			"jpn":"ヒギエイアの杯",
 			"eng":"Hygieia’s Bowl",
-			"zh":""
+			"zh":"健康女神之杯"
 		},
 		{
 			"id":96,
@@ -775,7 +775,7 @@
 			"length":12,
 			"jpn":"イージスの盾",
 			"eng":"Aegis Shield",
-			"zh":""
+			"zh":"宙斯盾"
 		}
 	]
 }
