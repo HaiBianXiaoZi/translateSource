@@ -15,7 +15,7 @@
 			"length":36,
 			"jpn":"この樹海の美しい木々の向こうには{换行}{END}",
 			"eng":"Hidden by the trees of these old woods,{换行}{END}",
-			"zh":""
+			"zh":"在这些树海的美丽树木之外，{换行}{END}"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":26,
 			"jpn":"魔法の石像があると言う{换行}{END}",
 			"eng":"ancient stone guardians stand watch．{换行}{END}",
-			"zh":""
+			"zh":"据说有一座魔法的石像。{换行}{END}"
 		},
 		{
 			"id":3,
@@ -31,7 +31,7 @@
 			"length":26,
 			"jpn":"その石像は人々を惑わせ{换行}{END}",
 			"eng":"They are deemed enemies by adventurers,{换行}{END}",
-			"zh":""
+			"zh":"据说石像会迷惑行人{换行}{END}"
 		},
 		{
 			"id":4,
@@ -39,7 +39,7 @@
 			"length":30,
 			"jpn":"行く手を遮ると言われている{换行}{END}",
 			"eng":"for they block the roads less traveled．{换行}{END}",
-			"zh":""
+			"zh":"并挡住他们的去路。{换行}{END}"
 		},
 		{
 			"id":5,
@@ -47,7 +47,7 @@
 			"length":40,
 			"jpn":"今日もまた樹海へ挑む冒険者たちの前に{换行}{END}",
 			"eng":"Today, new explorers brave this maze,{换行}{END}",
-			"zh":""
+			"zh":"在今天再次挑战树海的冒险者面前{换行}{END}"
 		},
 		{
 			"id":6,
@@ -55,7 +55,7 @@
 			"length":40,
 			"jpn":"物言わぬ小さな石像たちが　立ち塞がる{换行}{END}",
 			"eng":"but the statues will stand in their way．{换行}{END}",
-			"zh":""
+			"zh":"沉默的小石像再次挡住了去路{换行}{END}"
 		},
 		{
 			"id":7,
@@ -63,7 +63,7 @@
 			"length":22,
 			"jpn":"でも　私は思うのだ{换行}{END}",
 			"eng":"Yet I see it all in a different light．．．{换行}{END}",
-			"zh":""
+			"zh":"但是，我认为{换行}{END}"
 		},
 		{
 			"id":8,
@@ -71,15 +71,15 @@
 			"length":44,
 			"jpn":"石像はいつもジッとその場に立っているだけ{换行}{END}",
 			"eng":"A lifeless statue knows no malice．{换行}{END}",
-			"zh":""
+			"zh":"石像总是站在那里{换行}{END}"
 		},
 		{
 			"id":9,
 			"offset":"1c8",
 			"length":40,
-			"jpn":"惑いは人にあり　石像にはないのではと{换行}{END}",
+			"jpn":"惑いは人にあり　石像にはないのではと",
 			"eng":"The adventurers merely shift the blame．{换行}{END}",
-			"zh":""
+			"zh":"，迷惑只是因为自己,而不是因为石像{换行}{END}"
 		}
 	]
 }

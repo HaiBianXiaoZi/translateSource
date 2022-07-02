@@ -15,7 +15,7 @@
 			"length":40,
 			"jpn":"古き伝承を知る　語り部の老婆が告げる{换行}{END}",
 			"eng":"The elders still whisper a half-remembered history：{换行}{END}",
-			"zh":""
+			"zh":"讲故事的老婆婆给你讲古老的民间传说{换行}{END}"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":44,
 			"jpn":"遥か昔　ここでは恐ろしい戦争があったのだ{换行}{END}",
 			"eng":"Of a terrible war waged across the land．{换行}{END}",
-			"zh":""
+			"zh":"很久以前，这里发生了一场可怕的战争。{换行}{END}"
 		},
 		{
 			"id":3,
@@ -31,7 +31,7 @@
 			"length":42,
 			"jpn":"以来そこは　昼でも暗い死者たちの森へと{换行}{END}",
 			"eng":"Of the land itself, corrupted over time,{换行}{END}",
-			"zh":""
+			"zh":"那时起，白天也出现了黑暗的死亡森林。{换行}{END}"
 		},
 		{
 			"id":4,
@@ -39,7 +39,7 @@
 			"length":26,
 			"jpn":"姿を変えてしまった　と{换行}{END}",
 			"eng":"twisted by darkness and death．{换行}{END}",
-			"zh":""
+			"zh":"我改变了我的外表{换行}{END}"
 		},
 		{
 			"id":5,
@@ -47,7 +47,7 @@
 			"length":40,
 			"jpn":"古き伝承を知る　語り部の老婆は告げる{换行}{END}",
 			"eng":"The children still whisper a half-forgotten ghost story：{换行}{END}",
-			"zh":""
+			"zh":"知道旧传统，叙事部的老妇人讲述到{换行}{END}"
 		},
 		{
 			"id":6,
@@ -55,7 +55,7 @@
 			"length":26,
 			"jpn":"もしあの森に行くのなら{换行}{END}",
 			"eng":"If you ever get lost in the graveyard．．．{换行}{END}",
-			"zh":""
+			"zh":"如果你去那片森林{换行}{END}"
 		},
 		{
 			"id":7,
@@ -63,7 +63,7 @@
 			"length":38,
 			"jpn":"空を見上げて太陽の日差しを探すのだ{换行}{END}",
 			"eng":"look to the sky, and seek the sunlight．{换行}{END}",
-			"zh":""
+			"zh":"仰望天空，寻找阳光。{换行}{END}"
 		},
 		{
 			"id":8,
@@ -71,7 +71,7 @@
 			"length":28,
 			"jpn":"でないと君たちの背後には{换行}{END}",
 			"eng":"But keep moving, and don’t look back．．．{换行}{END}",
-			"zh":""
+			"zh":"但是不要停下脚步，而且不要回头……"
 		},
 		{
 			"id":9,
@@ -79,7 +79,7 @@
 			"length":40,
 			"jpn":"気付けば死霊が忍びよっているだろうと{换行}{END}",
 			"eng":"because the dead are right behind you．{换行}{END}",
-			"zh":""
+			"zh":"因为回过神来就会有死灵潜入了{换行}{END}"
 		}
 	]
 }
