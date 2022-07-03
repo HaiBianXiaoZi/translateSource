@@ -15,7 +15,7 @@
 			"length":188,
 			"jpn":"{NPC:0100}世界樹が光ってる！{换行}な、な、なんかあったの！？{换行}{换页}お、おねいちゃーん！{换行}世界樹がなんだかピカピカーってなってる！{换行}{换页}寝ぼけてるからだろう？{换行}んもー、寝てるのはおねいちゃんでしょー！{换行}{END}",
 			"eng":"{NPC:0100}Whoa, Yggdrasil’s all shiny！{换行}D-Did something happen！？{换行}{换页}S-Siiis！ The world tree’s shining{换行}out there for some weird reason！{换行}{换页}Wh-What do you MEAN, I must be dreaming！？{换行}Gosh, YOU’RE the one who’s still half asleep！{换行}{END}",
-			"zh":""
+			"zh":"{NPC:0100}世界树在发光！{换行}发生什么事了！？{换行}{换页}哦，好吧！{换行}世界树总觉得在闪闪发光！{换行}{换页}不是因为睡糊涂了吗？{换行}嗯,你还在睡觉，对吧？{换行}{END}"
 		},
 		{
 			"id":2,
@@ -23,7 +23,7 @@
 			"length":202,
 			"jpn":"{NPC:0100}お客さんが遂に世界樹を踏破したって！{换行}ウチもお出迎えにいかないと！{换行}{换页}{数字:0000}と呼ばれし{换行}{角色:0000}サイコー！ってのぼり、{换行}持って行こうか、おねいちゃん？{换行}{换页}…って、あああ{换行}ネコさんが大事なのぼりを～！！{换行}{END}",
 			"eng":"{NPC:0100}Our guests have finally conquered Yggdrasil！{换行}I better go greet them when they get back！{换行}{换页}Hey Sis, should we make a sign that says：{换行}”The {数字:0000}{换行}{角色:0000} rocks！”{换行}{换页}*gasp* NOOO！ The kitty’s destroying my sign！{换行}{END}",
-			"zh":""
+			"zh":"{NPC:0100}客人终于踏上了世界树！{换行}我们也得去接您了！{换行}{换页}姐姐，我们是不是要拿这个标语？{换行}被称为{数字:0000}的{换行}{角色:0000}太棒了！{换行}{换页}…啊，啊啊{换行}小猫正在破坏我的标语！{换行}{END}"
 		},
 		{
 			"id":0,
@@ -167,7 +167,7 @@
 			"length":170,
 			"jpn":"{NPC:0200}なんだって！？{换行}世界樹が不思議な光に包まれてるだって！！{换行}{换页}そりゃ大変だ！{换行}{主角姓名}に調査に{换行}行ってもらわないと…。{换行}{换页}…えっ！{换行}その{主角姓名}がいま世界樹を{换行}探索中なのかい？{换行}{END}",
 			"eng":"{NPC:0200}What’d you just say！？ Yggdrasil’s{换行}enveloped in a mysterious light！？{换行}{换页}*gulp* That sounds like serious business！{换行}We gotta tell the {主角姓名} Guild--{换行}{换页}．．．Huh！？ They’re already up there！？{换行}{END}",
-			"zh":""
+			"zh":"{NPC:0200}你说什么？{换行}世界树被不可思议的光芒包围着！！{换行}{换页}那可糟了！{换行}{主角姓名}必须进行调查{换行}…。{换行}{换页}诶{换行}{主角姓名}，你们现在正在探索世界树吗？{换行}{END}"
 		},
 		{
 			"id":21,
@@ -175,7 +175,7 @@
 			"length":204,
 			"jpn":"{NPC:0200}ああ、ごめんね。{换行}今日はもう店じまいなんだ。{换行}{换页}なんたってついにあの世界樹の頂きに{换行}到達した冒険者が現れたんだからね！{换行}{换页}あの{主角姓名}がやったんだよ！{换行}オイラもこの後、街外れまで{换行}出迎えにいくつもりさ！{换行}{END}",
 			"eng":"{NPC:0200}Oh, sorry． I’m closing shop for today．{换行}{换页}I mean, there’s not much need left{换行}for adventuring gear, now that the{换行}apex of Yggdrasil’s been reached！{换行}{换页}The {主角姓名} Guild did it！{换行}So I’ve gotta get going if I’m{换行}gonna be there to greet them！{换行}{END}",
-			"zh":""
+			"zh":"{NPC:0200}啊，对不起。{换行}今天本店已经不营业了。{换行}{换页}终于出现了到达那个世界树顶端{换行}的冒险者了！{换行}{换页}是那个{主角姓名}完成的！{换行}所以我要去那里迎接他们，{换行}我就得走了！{换行}{END}"
 		},
 		{
 			"id":0,
